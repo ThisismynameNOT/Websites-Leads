@@ -48,6 +48,13 @@ jobs:
           assert 'id="source-status-list"' in h
           assert 'id="top-three"' in h
           assert 'intelligence-ribbon' in h and '.intelligence-ribbon' in c
-          assert '80+' in h
-          print("Dashboard markup and styles verified")
+          assert 'id="stat-total"' in h and 'Top 10 prospects' in h
+          assert 'opportunity.js' in h
+          assert 'id="source-filter"' not in h and 'id="website-filter"' not in h
+          assert 'id="age-filter"' not in h and 'id="search"' not in h
+          print("Top-ten dashboard, evidence ribbon, and removed filters verified")
           PY
+      - name: Install Chromium for dashboard smoke
+        run: python -m playwright install --with-deps chromium
+      - name: Browser-test the top-ten dashboard
+        run: python scripts/smoke_dashboard.py
