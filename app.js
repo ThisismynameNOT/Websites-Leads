@@ -183,6 +183,7 @@ async function load(){
    lead.website=rep.discovery.website;lead.website_status='listed';
   }
   if(rep.registry&&rep.registry.state==='inactive')lead.verification='inactive_registry';
+  if(rep.registry&&rep.registry.state==='registry_found'&&/^\d{4}-\d{2}-\d{2}$/.test(rep.registry.registered_at||'')&&!lead.registered_at)lead.registered_at=rep.registry.registered_at;
   var signals=(rep.buying_signals||[]).filter(function(x){return x.evidence_type==='verified_registry';});
   if(signals.length)lead.buying_signals=(lead.buying_signals||[]).concat(signals.map(function(x){return x.claim+' ('+x.date+')';}));
  });
