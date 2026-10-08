@@ -39,12 +39,11 @@ test("manual fully evidenced verification can be qualified for outreach",()=>{
  assert.equal(policy.isQualified(l,today),true);
  assert.equal(policy.choose([l],today)[0].status,"qualified");
 });
-test("old firms without a documented audit exception cannot be qualified",()=>{
- const l=lead({registered_at:"1993-01-07",verification:"qualified",
-  qualification:{city_verified:true,active_verified:true,contact_verified:true,
-  website_need_verified:true,commercial_fit_verified:true,independent_owner_check:true,
-  not_franchise_verified:true,last_checked:today}});
- assert.equal(policy.isQualified(l,today),false);
+test("established companies can qualify after commercial review regardless of age",()=>{
+ const l=lead({registered_at:"1993-01-07",score:91,
+  qualification_status:"qualified_for_personalized_outreach_review"});
+ assert.equal(policy.isQualified(l,today),true);
+ assert.equal(policy.choose([l],today)[0].status,"qualified");
 });
 test("verified new Prague premises qualify for age even when incorporation is older",()=>{
  const l=lead({registered_at:"2024-08-12",opened_at:"2026-03-02"});
