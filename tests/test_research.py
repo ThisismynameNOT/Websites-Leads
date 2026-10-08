@@ -41,9 +41,22 @@ class ResearchTests(unittest.TestCase):
         lead=self.example(website="")
         with patch.object(research,"search_results",return_value={"status":"search_unavailable","queries":[],"candidates":[],"errors":["Timeout"]}):
             found=research.discover_website(lead)
-        self.assertEqual(found["state"],"search_unavailable")
+        self.assertEqual(found["state"],"SEARCH_UNAVAILABLE")
         self.assertFalse(found["no_website_proven"])
         self.assertEqual(found["website"],"")
+
+    def test_doubtful_web_results_cannot_be_marked_missing(self):
+        x=self.example()
+        with patch.object(research,"search_results",return_value={"status":"searched","queries":["a","b"],"candidates":[{"url":"https://example.org/"}],"errors":[]}):
+            with patch.object(research,"retrieve",return_value=({"url":"https://example.org/","html":"<html><body>Unrelated business</body></html>"},None)):
+                value=research.discover_website(x)
+        self.assertEqual(value["state"],"AMBIGUOUS")
+        self.assertFalse(value["no_website_proven"])
+
+    def test_registry_check_precedes_search_for_unverified_company(self):
+        script=pathlib.Path(ROOT/"scripts"/"research.py").read_text(encoding="utf8")
+        body=script.split("def run():",1)[1]
+        self.assertLess(body.index("reg=registry(lead)"),body.index("discovery=discover_website(lead)"))
 
     def test_registry_directors_parsed_only_current_statutory_members(self):
         vr={"zaznamy":[{"statutarniOrgany":[{"clenoveOrganu":[
