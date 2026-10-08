@@ -192,3 +192,13 @@ body{background:radial-gradient(circle at 85% -14%,#e6efda 0,transparent 37%),#f
 @media(max-width:1000px){.heading-block h1{letter-spacing:-3px}.table-wrap table{min-width:930px}}
 @media(max-width:700px){.sidebar{display:none!important}.main{padding-bottom:0}.main-content{padding:23px 16px}.heading-block h1{font-size:44px;letter-spacing:-2.8px}.heading-block p{font-size:12px}.stat-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.stat-card{min-height:141px;padding:15px}.stat-value{font-size:29px}.stat-foot{line-height:1.5}.radar-explainer{margin:0 13px 15px;padding:13px;align-items:flex-start}.topbar{padding:0 16px}.radar-pick{min-height:230px}.table-wrap{overscroll-behavior-x:contain}.table-wrap table{min-width:900px}.main-content>.featured-picks{margin-top:10px}}
 @media(prefers-reduced-motion:reduce){.stat-card:hover{transform:none}}
+
+/* Sales-fit opportunities: distinct from observed technical failures. */
+.radar-type.fit{background:#e7f4ed;color:#246047;border:1px solid #cce7d5}
+.radar-pick:has(.pick-state){transition:transform .18s ease,box-shadow .18s ease}
+.radar-pick .pick-state.pending{background:#edf6e9;color:#477049}
+.radar-live-row:has(.radar-type.fit) .rank-number{background:#305a48;color:#e7ffe9}
+.radar-live-row .radar-why{overflow-wrap:anywhere}
+.radar-live-row .score-group .score-number{min-width:28px}
+.research-small{display:block;color:#708176;margin-top:7px;line-height:1.6}
+@media(max-width:700px){.heading-block h1{font-size:clamp(38px,11vw,50px)}.radar-live-row td{padding-top:15px;padding-bottom:15px}}
