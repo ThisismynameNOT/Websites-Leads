@@ -132,8 +132,13 @@ async function load(){
  var res=await fetch('./data/leads.json?t='+Date.now(),{cache:'no-store'});if(!res.ok)throw Error('HTTP '+res.status);
  var data=await res.json();var raw=Array.isArray(data)?data:data.leads;if(!Array.isArray(raw))throw Error('Invalid leads.json format');
  var manual=[];try{var mr=await fetch('./data/manual-leads.json?t='+Date.now(),{cache:'no-store'});if(mr.ok){var md=await mr.json();if(Array.isArray(md.leads))manual=md.leads;}}catch(e){console.warn('Manual lead research temporarily unavailable',e);}
- var merged=new Map();raw.concat(manual).filter(function(x){return x&&x.id&&x.name;}).map(normalize).forEach(function(l){merged.set(l.id,l);});
- state.leads=Array.from(merged.values());state.generatedAt=data.generated_at||null;
+ var byId=new Map();raw.concat(manual).filter(function(x){return x&&x.id&&x.name;}).map(normalize).forEach(function(l){byId.set(l.id,l);});
+ var byBusiness=new Map();byId.forEach(function(l){
+  var key=l.ico&&/^\d{8}$/.test(String(l.ico))?'ico:'+l.ico:'company:'+String(l.name).toLowerCase().replace(/\W/g,'')+'|'+String(l.address).toLowerCase().replace(/\W/g,'');
+  var old=byBusiness.get(key);
+  if(!old||l.manual===true&&old.manual!==true)byBusiness.set(key,l);
+ });
+ state.leads=Array.from(byBusiness.values());state.generatedAt=data.generated_at||null;
  $('data-banner').classList.remove('is-error');$('data-status').textContent=state.leads.length?'Snapshot loaded · '+fmt(state.leads.length)+' leads · source data is not automatically verified':'Collector ready · no leads imported yet · run GitHub Action to populate';
  $('last-updated').textContent='LAST SYNC — '+(state.generatedAt?formatDate(state.generatedAt)+' '+new Date(state.generatedAt).toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'}):'NOT YET RUN');
  countStats();industryChart();threePicks();focus();list();researchDesk();
