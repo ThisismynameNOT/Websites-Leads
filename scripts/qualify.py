@@ -130,8 +130,8 @@ def result(lead,research=None,finance=None,today=TODAY):
         status="do_not_contact"
     elif invalid:
         status="rejected"
-    elif total>=80 and verified_reg and site_need and fin["facts"] and
-         matches and reg.get("decision_maker") and research.get("buyer_interest_verified") is True:
+    elif (total>=80 and verified_reg and site_need and fin["facts"] and
+          matches and reg.get("decision_maker") and research.get("buyer_interest_verified") is True):
         status="qualified_for_personalized_outreach_review"
     else:
         status="research_required"
