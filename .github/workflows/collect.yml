@@ -10,8 +10,6 @@ on:
     branches: [main]
     paths:
       - ".github/workflows/collect.yml"
-      - "scripts/**"
-      - "tests/**"
       - "data/manual-leads.json"
       - "requirements-research.txt"
 
@@ -26,7 +24,7 @@ jobs:
   collect:
     name: Discover, verify and research leads
     runs-on: ubuntu-latest
-    timeout-minutes: 50
+    timeout-minutes: 75
     steps:
       - name: Checkout latest repository
         uses: actions/checkout@v4
@@ -42,6 +40,16 @@ jobs:
         run: |
           python -m compileall -q scripts tests
           python -m unittest discover -s tests -v
+      - name: Download or reuse official Czech RES snapshot
+        id: res
+        continue-on-error: true
+        timeout-minutes: 30
+        run: python scripts/res_ingest.py
+      - name: Report registry source outcome
+        if: steps.res.outcome == 'failure'
+        run: |
+          echo "::warning::ČSÚ RES unavailable; keeping last valid official candidate snapshot."
+          echo "ČSÚ RES refresh unavailable; check registry download step." >> "$GITHUB_STEP_SUMMARY"
       - name: Discover Prague businesses
         run: python scripts/refresh.py
       - name: Install headless Chromium for responsive audit
@@ -59,13 +67,7 @@ jobs:
           path: research-screenshots/
           if-no-files-found: ignore
           retention-days: 14
-      - name: Commit refreshed lead snapshot
-        run: |
-          git config user.name "fieldnotes-collector[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/leads.json data/research.json
-          if ! git diff --cached --quiet; then
-            git commit -m "data: refresh Prague prospect snapshot [skip ci]"
-            git pull --rebase origin main
-            git push origin HEAD:main
-          fi
+      - name: Calculate unified commercial qualification
+        run: python scripts/qualify.py
+      - name: Reconcile and publish generated data safely
+        run: python scripts/safe_publish.py
