@@ -103,7 +103,7 @@
       "website": "",
       "website_status": "not_listed",
       "registered_at": "2024-08-12",
-      "opened_at": "2026-03-02",
+      "opened_at": null,
       "website_score": null,
       "score": 65,
       "verification": "researching",
@@ -112,7 +112,7 @@
       "reason": "A small independent beauty operator with a registered Kobylisy service location from March 2026 and public business listings directing visitors to Instagram. A premium service, portfolio and booking website is a plausible growth opportunity.",
       "score_reason": "Prague operating address, salon phone/email and March 2026 premises registration are public. Opening of the registered premises does not prove the first customer opening day. Independently searching for a website and checking the booking flow remain outstanding.",
       "buying_signals": [
-        "Kobylisy registered service premises effective 2 Mar 2026",
+        "Premises register lists Kobylisy location effective 2 Mar 2026 (not confirmed first opening)",
         "Cosmetic and brow services",
         "Public phone and email listed"
       ],
@@ -133,7 +133,8 @@
       ],
       "first_seen": "2026-10-08",
       "data_origin": "Manual web research",
-      "manual": true
+      "manual": true,
+      "premises_registered_at": "2026-03-02"
     }
   ]
 }
