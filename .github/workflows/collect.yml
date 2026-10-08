@@ -69,5 +69,7 @@ jobs:
           retention-days: 14
       - name: Calculate unified commercial qualification
         run: python scripts/qualify.py
+      - name: Browser smoke existing CRM and new qualification dashboard
+        run: python scripts/smoke_dashboard.py
       - name: Reconcile and publish generated data safely
         run: python scripts/safe_publish.py
