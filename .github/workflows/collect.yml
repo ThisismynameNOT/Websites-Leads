@@ -13,6 +13,7 @@ on:
       - "scripts/**"
       - "tests/**"
       - "data/manual-leads.json"
+      - "requirements-research.txt"
 
 permissions:
   contents: write
@@ -23,9 +24,9 @@ concurrency:
 
 jobs:
   collect:
-    name: Verify and refresh leads
+    name: Discover, verify and research leads
     runs-on: ubuntu-latest
-    timeout-minutes: 18
+    timeout-minutes: 50
     steps:
       - name: Checkout latest repository
         uses: actions/checkout@v4
@@ -41,11 +42,28 @@ jobs:
           python -m unittest discover -s tests -v
       - name: Discover Prague businesses
         run: python scripts/refresh.py
+      - name: Install public-search and browser research dependencies
+        run: |
+          python -m pip install -r requirements-research.txt
+          python -m playwright install --with-deps chromium
+      - name: Research websites, registry signals and contact evidence
+        env:
+          BRAVE_SEARCH_API_KEY: ${{ secrets.BRAVE_SEARCH_API_KEY }}
+          RESEARCH_DAILY_LIMIT: 12
+        run: python scripts/research.py
+      - name: Preserve screenshot audit evidence as workflow artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-website-audit-screenshots
+          path: research-screenshots/
+          if-no-files-found: ignore
+          retention-days: 14
       - name: Commit refreshed lead snapshot
         run: |
           git config user.name "fieldnotes-collector[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/leads.json
+          git add data/leads.json data/research.json
           if ! git diff --cached --quiet; then
             git commit -m "data: refresh Prague prospect snapshot [skip ci]"
             git pull --rebase origin main
