@@ -2,7 +2,7 @@
 'use strict';
 var REPO = 'https://github.com/ThisismynameNOT/Websites-Leads';
 var STORE_KEY = 'fieldnotes-crm-v1';
-var state = { leads: [], threePicks: [], tab: 'all', search: '', industry: 'all', sort: 'score', selected: null, generatedAt: null, loading: false };
+var state = { leads: [], threePicks: [], researchReports: {}, researchGeneratedAt: null, tab: 'all', search: '', industry: 'all', sort: 'score', selected: null, generatedAt: null, loading: false };
 var $ = function(id) { return document.getElementById(id); };
 var safe = function(s) { return String(s == null ? '' : s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];}); };
 var text = function(v, empty) { return v == null || v === '' ? (empty || 'Not verified') : String(v); };
@@ -98,6 +98,30 @@ function list(){
 function setTab(tab){state.tab=tab;document.querySelectorAll('[data-tab]').forEach(function(el){el.classList.toggle('active',el.dataset.tab===tab);});list();}
 function link(label, href){var href2=url(href);return href2?'<a href="'+safe(href2)+'" rel="noopener noreferrer" target="_blank">'+safe(label)+' ↗</a>':'<span>'+safe(text(href))+'</span>';}
 function opening(l){return l.opened_at?'Opened '+formatDate(l.opened_at):l.premises_registered_at?'Premises registered '+formatDate(l.premises_registered_at):l.registered_at?'Registered '+formatDate(l.registered_at):'Date not verified';}
+function researchDetails(l){
+ var r=l.research;
+ if(!r)return '<div class="dossier-section"><h3>Automated independent research</h3><p>Not researched yet. The daily evidence pass processes a limited set of leads and will not claim unverified facts.</p></div>';
+ var d=r.discovery||{},audit=r.audit||{},reg=r.registry||{},report=r.dossier||{},proof=d.identity||[];
+ var searchLine=d.state==='verified_website'?'Verified website identity match':d.state==='search_unavailable'?'Web search unavailable (NOT proof no site exists)':'No business site independently verified (NOT proof none exists)';
+ var evidence=proof.length?proof.map(safe).join(' · '):'No identity-matched website evidence';
+ var measurements=(audit.objective_issues||[]);
+ var renderedIssues=measurements.length?measurements.map(function(x){return '<p class="research-issue"><strong>'+safe(x.issue)+'</strong> — '+safe(x.detail)+' <a href="'+safe(url(x.url)||'#')+'" target="_blank" rel="noopener noreferrer">Source ↗</a></p>';}).join(''):'<p>No browser-measured website problem confirmed.</p>';
+ var signals=(r.buying_signals||[]);
+ var signalsText=signals.length?signals.map(function(x){return '<p><strong>'+safe(x.claim)+'</strong> — '+safe(x.date)+' · '+(url(x.url)?link('Registry evidence',x.url):'Source unavailable')+'</p>';}).join(''):'No new business-growth signals independently verified.';
+ var person=reg.decision_maker;
+ var personText=person?'<strong>'+safe(person.name)+'</strong> — '+safe(person.role)+'. '+safe(person.verified_scope||'Published register record')+' · '+(url(person.source)?link('ARES record',person.source):''):'No currently verifiable statutory representative. Never guess who makes purchasing decisions.';
+ var factual=(report.facts||[]).map(function(x){return '<p>• '+safe(x)+'</p>';}).join('');
+ var sources=(report.sources||[]).filter(url).slice(0,9).map(function(u,i){return link('Evidence '+(i+1),u);}).join(' ');
+ return '<div class="dossier-section research-dossier"><div class="research-heading"><h3>Independent research & evidence</h3><span class="research-tag">'+safe(r.state||'research')+' · '+safe(r.checked_at||'date unknown')+'</span></div>'+
+  '<div class="research-field"><span class="fact-label">WEBSITE IDENTIFICATION</span><p>'+safe(searchLine)+'</p><p class="research-small">'+safe(evidence)+'</p></div>'+
+  '<div class="research-field"><span class="fact-label">DESKTOP & MOBILE AUDIT</span><p>'+safe(audit.state==='observed'?'Browser checks executed, desktop 1365px and mobile 390px.':'Not run: '+(audit.reason||'Site identity not confirmed.'))+'</p>'+renderedIssues+'<p class="research-small">Aesthetic design quality requires reviewing the saved screenshots; DOM metrics are not a complete visual design audit.</p></div>'+
+  '<div class="research-field"><span class="fact-label">REGISTERED DIRECTOR / OWNER</span><p>'+personText+'</p></div>'+
+  '<div class="research-field"><span class="fact-label">VERIFIED BUYING SIGNALS</span>'+signalsText+'</div>'+
+  '<div class="research-field"><span class="fact-label">PERSONALIZED SALES DOSSIER</span>'+factual+'<p><strong>Offer:</strong> '+safe(report.offer||l.offer)+'</p><p><strong>Approach:</strong> '+safe(report.outreach_angle||l.outreach_angle||'Confirm needs directly.')+'</p></div>'+
+  '<div class="research-field"><span class="fact-label">SOURCE DOCUMENTS</span><div class="source-list">'+(sources||'No approved sources recorded')+'</div></div>'+
+  '<div class="research-field"><span class="fact-label">OUTSTANDING CHECKS</span><p>'+safe((report.limitations||[]).join(' · ')||'Business interest and project budget must be confirmed.')+'</p></div>'+
+  '<p class="local-warning">Website search and technical checks are automatic. Buyer willingness, absent websites and subjective aesthetic quality cannot be guaranteed; no outreach is sent automatically.</p></div>';
+}
 function openLead(id){
  var l=state.leads.find(function(x){return x.id===id;});if(!l)return;state.selected=id;var crm=local(id);
  $('drawer-id').textContent=id.slice(0,20);
@@ -117,6 +141,7 @@ function openLead(id){
  '<div class="dossier-section"><h3>Buying signals</h3><p>'+signals+'</p></div>'+
  '<div class="dossier-section"><h3>Suggested approach</h3><p>'+safe(l.offer||'Professional business website')+'. '+safe(l.outreach_angle||'Confirm the business has no independent website before pitching a conversion-focused web presence.')+'</p></div>'+
  '<div class="dossier-section"><h3>Research notes</h3><p>'+safe(l.score_reason||'Scores are preliminary; not a verified UX audit.')+'</p></div>'+
+ researchDetails(l)+
  '<div class="dossier-section"><h3>Evidence and source links</h3><div class="source-list">'+(sources||'No source links available')+'</div></div>'+
  '<div class="dossier-section"><h3>Your pipeline</h3><div class="crm-row"><label><span class="crm-label">Sales stage</span><select id="crm-stage"><option value="new">New</option><option value="researching">Researching</option><option value="contacted">Contacted</option><option value="meeting">Meeting booked</option><option value="proposal">Proposal sent</option><option value="won">Won</option><option value="lost">Lost</option></select></label><button class="bookmark '+(crm.saved?'saved':'')+'" id="bookmark">'+(crm.saved?'★ Saved':'☆ Save')+'</button></div><div style="margin-top:15px"><label class="crm-label" for="crm-notes">Private notes</label><textarea id="crm-notes" class="notes-textarea" placeholder="Outreach notes, conversation details, next steps..."></textarea></div><p class="local-warning">Sales stages and notes are stored only in this browser. Export a backup before clearing browser data.</p></div>';
  $('crm-stage').value=crm.stage||'new';$('crm-notes').value=crm.notes||'';
@@ -139,6 +164,23 @@ async function load(){
   if(!old||l.manual===true&&old.manual!==true)byBusiness.set(key,l);
  });
  state.leads=Array.from(byBusiness.values());state.generatedAt=data.generated_at||null;
+ try{
+  var rr=await fetch('./data/research.json?t='+Date.now(),{cache:'no-store'});
+  if(rr.ok){
+   var research=await rr.json();state.researchReports=research.reports||{};state.researchGeneratedAt=research.generated_at||null;
+  }
+ }catch(researchError){console.warn('Research reports temporarily unavailable',researchError);}
+ state.leads.forEach(function(lead){
+  var rep=state.researchReports[lead.id];
+  if(!rep)return;
+  lead.research=rep;
+  if(rep.discovery&&rep.discovery.state==='verified_website'&&url(rep.discovery.website)){
+   lead.website=rep.discovery.website;lead.website_status='listed';
+  }
+  if(rep.registry&&rep.registry.state==='inactive')lead.verification='inactive_registry';
+  var signals=(rep.buying_signals||[]).filter(function(x){return x.evidence_type==='verified_registry';});
+  if(signals.length)lead.buying_signals=(lead.buying_signals||[]).concat(signals.map(function(x){return x.claim+' ('+x.date+')';}));
+ });
  $('data-banner').classList.remove('is-error');$('data-status').textContent=state.leads.length?'Snapshot loaded · '+fmt(state.leads.length)+' leads · source data is not automatically verified':'Collector ready · no leads imported yet · run GitHub Action to populate';
  $('last-updated').textContent='LAST SYNC — '+(state.generatedAt?formatDate(state.generatedAt)+' '+new Date(state.generatedAt).toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'}):'NOT YET RUN');
  countStats();industryChart();threePicks();focus();list();researchDesk();
