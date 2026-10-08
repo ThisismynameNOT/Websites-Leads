@@ -2,8 +2,9 @@ name: Refresh Prague leads
 
 on:
   schedule:
-    # Every four hours in UTC; avoid minute 00 when GitHub Actions is busiest.
-    - cron: "17 */4 * * *"
+    # Every day at 09:00 local Prague time (CET/CEST, DST-aware).
+    - cron: "0 9 * * *"
+      timezone: "Europe/Prague"
   workflow_dispatch:
   push:
     branches: [main]
