@@ -1,3 +1,139 @@
 {
-  "leads": []
+  "leads": [
+    {
+      "id": "research-an-beauty-studio-haje",
+      "name": "An Beauty Studio",
+      "industry": "Beauty & wellness",
+      "district": "Praha 11 · Háje",
+      "address": "Anežky Malé 768/5, 149 00 Praha 11",
+      "ico": "22578480",
+      "email": "toanbd2951996@gmail.com",
+      "phone": "+420 607 686 071",
+      "instagram": "https://www.instagram.com/anbeautystudio_haje/",
+      "website": "",
+      "website_status": "not_listed",
+      "registered_at": "2025-02-10",
+      "opened_at": null,
+      "website_score": null,
+      "score": 67,
+      "verification": "researching",
+      "research_reviewed_at": "2026-10-08",
+      "business_activity": "active_directory_and_business_listings",
+      "reason": "The Prague salon offers manicures, pedicures, haircuts and eyebrow styling, while its public directory profile directs visitors to Instagram rather than a dedicated site. A service and booking website could help visitors compare treatments and enquire.",
+      "score_reason": "Documented 2025 business registration, Prague salon address, public phone/email and active salon listings. Independent domain search, booking UX audit, budget and decision-maker permission are not yet verified.",
+      "buying_signals": [
+        "Registered 10 Feb 2025 (public registry)",
+        "Publicly advertised salon vacancies in 2026",
+        "Instagram shown as website in business directory"
+      ],
+      "verification_gaps": [
+        "Confirm no separate independent website or booking destination exists",
+        "Confirm salon is actively taking new clients and contact reaches decision-maker",
+        "Verify demo imagery and rights"
+      ],
+      "demo_potential": "High",
+      "offer": "Booking-first beauty website with clear service menu, prices, gallery and mobile enquiry",
+      "outreach_angle": "Show a compact mobile service-and-booking demo based on public business facts; verify the current booking process first.",
+      "deal_min_czk": 25000,
+      "deal_max_czk": 45000,
+      "source_urls": [
+        "https://www.firmy.cz/detail/13876102-an-beauty-studio-praha-haje.html",
+        "https://www.podnikatel.cz/rejstrik/minh-phuong-pham-22578480/",
+        "https://www.zivefirmy.cz/an-beauty-studio_f1906307"
+      ],
+      "first_seen": "2026-10-08",
+      "data_origin": "Manual web research",
+      "manual": true
+    },
+    {
+      "id": "research-cafe-marathon",
+      "name": "Café Marathon",
+      "industry": "Food & hospitality",
+      "district": "Praha 2 · Nové Město",
+      "address": "Černá 646/9, 110 00 Praha 2",
+      "ico": "23668008",
+      "email": "",
+      "phone": "",
+      "instagram": "https://www.instagram.com/cafe.marathon/",
+      "website": "",
+      "website_status": "not_listed",
+      "registered_at": "2025-09-02",
+      "opened_at": null,
+      "website_score": null,
+      "score": 57,
+      "verification": "researching",
+      "research_reviewed_at": "2026-10-08",
+      "business_activity": "active_directory_and_registry",
+      "reason": "A café with a business registered in September 2025, listed operating hours and reviews from 2026. Its current directory listing points to Instagram instead of a standalone website; a menu/location and events page is a testable sales angle.",
+      "score_reason": "2025 registration, Prague trading address, current listing and social contact are publicly documented. No independent domain search or full audit; buyer and budget are unconfirmed.",
+      "buying_signals": [
+        "Business registration 2 Sep 2025",
+        "March 2026 customer reviews",
+        "Instagram supplied as public web destination"
+      ],
+      "verification_gaps": [
+        "Find verified direct business email or phone, or confirm Instagram accepts enquiries",
+        "Check independent website and any existing menu/booking tools",
+        "Validate opening date and decision-maker interest"
+      ],
+      "demo_potential": "High",
+      "offer": "Editorial café website with menu, hours, maps, events and mobile-first directions",
+      "outreach_angle": "Offer a visual mobile prototype for menus, opening hours and visits; avoid claiming no website without checking.",
+      "deal_min_czk": 18000,
+      "deal_max_czk": 38000,
+      "source_urls": [
+        "https://www.firmy.cz/detail/13953624-cafe-marathon-praha-nove-mesto.html",
+        "https://www.podnikatel.cz/rejstrik/druzstvo-cafe-marathon-23668008/",
+        "https://www.idatabaze.cz/firma/747182-cafe-marathon/"
+      ],
+      "first_seen": "2026-10-08",
+      "data_origin": "Manual web research",
+      "manual": true
+    },
+    {
+      "id": "research-polibek-kafe-art-bar",
+      "name": "Polibek kafe art bar",
+      "industry": "Food & hospitality",
+      "district": "Praha 6 · Dejvice",
+      "address": "Kafkova 580/26, 160 00 Praha 6",
+      "ico": "",
+      "email": "polibekcafe@gmail.com",
+      "phone": "+420 778 615 492",
+      "instagram": "https://www.instagram.com/polibek_cafe/",
+      "website": "",
+      "website_status": "not_listed",
+      "registered_at": null,
+      "opened_at": null,
+      "website_score": null,
+      "score": 53,
+      "verification": "researching",
+      "research_reviewed_at": "2026-10-08",
+      "business_activity": "active_social_and_directory",
+      "reason": "A Prague specialty-coffee and art venue publishes regular social posts and has a public business email and phone. Its directory lists Facebook instead of a standalone business website, suggesting a potential event calendar and discoverability pitch.",
+      "score_reason": "Public Prague operating listing, email, phone and 2026 social updates support a real business. Opening/registration date and absence of a standalone website remain unverified, so this is a provisional choice.",
+      "buying_signals": [
+        "Active 2026 social posts",
+        "Specialty coffee, local beer and emerging-art concept",
+        "Public business email and phone"
+      ],
+      "verification_gaps": [
+        "Confirm opening/registration date is within 24 months or document an exception",
+        "Confirm whether any independent site already exists",
+        "Verify whether events/portfolio and booking features would add value"
+      ],
+      "demo_potential": "High",
+      "offer": "Art-forward café microsite with rotating exhibition calendar, menu and booking/contact CTAs",
+      "outreach_angle": "Pitch an exhibition/event calendar and location-first mobile experience, after confirming no existing site covers that need.",
+      "deal_min_czk": 18000,
+      "deal_max_czk": 35000,
+      "source_urls": [
+        "https://www.firmy.cz/detail/13491842-polibek-praha-dejvice.html",
+        "https://www.restiq.cz/restaurace/polibek",
+        "https://www.restaurants10.com/CZ/Praha/120876067668504/Polibek-kafe-art-bar"
+      ],
+      "first_seen": "2026-10-08",
+      "data_origin": "Manual web research",
+      "manual": true
+    }
+  ]
 }
