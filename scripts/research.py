@@ -29,6 +29,7 @@ MANUAL = ROOT / "data/manual-leads.json"
 OUTPUT = ROOT / "data/research.json"
 SCREENSHOTS = ROOT / "research-screenshots"
 PER_DAY = min(18, max(1, int(os.environ.get("RESEARCH_DAILY_LIMIT", "12"))))
+ENGINE_VERSION = 3
 QUERY_WAIT = 1.1
 TODAY = dt.datetime.now(dt.timezone.utc).date().isoformat()
 USER_AGENT = "Mozilla/5.0 (compatible; FieldnotesResearch/2.0; +https://github.com/ThisismynameNOT/Websites-Leads)"
@@ -514,7 +515,7 @@ def pick_queue(leads, old_reports):
         if key in seen:continue
         seen.add(key)
         previous = old_reports.get(l["id"],{})
-        if previous.get("checked_at")==TODAY:continue
+        if previous.get("checked_at")==TODAY and previous.get("engine_version")==ENGINE_VERSION:continue
         unique.append(l)
         if len(unique)>=PER_DAY:break
     return unique
@@ -554,7 +555,7 @@ def run():
             # Search results are research leads; only article-and-date-verified signals are facts.
 
             candidate_sources=[x["url"] for x in discovery.get("candidates",[])[:7]]
-            report={"lead_id":ident,"name":lead["name"],"checked_at":TODAY,
+            report={"lead_id":ident,"name":lead["name"],"checked_at":TODAY,"engine_version":ENGINE_VERSION,
                     "state":"audited" if audit.get("state")=="observed" else "researched",
                     "discovery":discovery,"registry":reg,"audit":audit,"buying_signals":signals,
                     "dossier":dossier(lead,discovery,audit,reg,signals),
@@ -573,7 +574,7 @@ def run():
     cutoff=(dt.date.fromisoformat(TODAY)-dt.timedelta(days=45)).isoformat()
     old_reports={x["lead_id"]:x for x in ranked if x.get("checked_at","")>=cutoff and x.get("lead_id") in all_leads}
     old_reports=dict(list(old_reports.items())[:180])
-    output={"schema_version":2,"generated_at":dt.datetime.now(dt.timezone.utc).isoformat(),
+    output={"schema_version":3,"generated_at":dt.datetime.now(dt.timezone.utc).isoformat(),
             "mode":"evidence_based_no_ai","status":"completed" if not errors else "partial",
             "searched_today":len(queue),"completed_today":completed,
             "limits":{"web_discovery":"No negative proof from search","browser":"Objective DOM and geometry only",
