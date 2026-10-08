@@ -32,7 +32,7 @@ function industryChart(){
  var sel=$('industry-filter'),prior=sel.value;sel.innerHTML='<option value="all">All industries</option>'+Object.keys(c).sort().map(function(x){return '<option value="'+safe(x)+'">'+safe(x)+'</option>';}).join('');sel.value=c[prior]?prior:'all';state.industry=sel.value;
 }
 function focus(){
- var selected=window.FieldnotesPicks?window.FieldnotesPicks.choose(state.leads,todayPrague()):[];
+ var selected=window.FieldnotesPicks&&Object.keys(state.qualification||{}).length?window.FieldnotesPicks.choose(state.leads,todayPrague()):[];
  var l=selected.length?selected[0].lead:null;
  if(!l){$('focus-content').innerHTML='<div class="focus-placeholder">The highest-ranked candidate will appear here after lead discovery begins.</div>';return;}
  $('focus-content').innerHTML='<h4 class="focus-company">'+safe(l.name)+'</h4><p class="focus-summary">'+safe(l.reason||'A candidate for further research. Review source evidence before reaching out.')+'</p><div class="focus-footer"><span class="focus-score">'+Number(l.score||0)+'/100 · '+priorityName(Number(l.score||0))+'</span><button type="button" id="focus-open" class="focus-button">Open dossier ↗</button></div>';
@@ -42,7 +42,7 @@ function todayPrague(){try{return new Intl.DateTimeFormat('sv-SE',{timeZone:'Eur
 function threePicks(){
  var policy=window.FieldnotesPicks;
  if(!policy){$('top-three').innerHTML='<div class="muted-empty">Selection policy failed to load. Check picks.js.</div>';return;}
- var result=policy.choose(state.leads,todayPrague());
+ var result=Object.keys(state.qualification||{}).length?policy.choose(state.leads,todayPrague()):[];
  state.threePicks=result;
  $('top-three').innerHTML=[0,1,2].map(function(i){
   var choice=result[i];
@@ -72,7 +72,8 @@ function threePicks(){
 }
 function researchDesk(){
  var policy=window.FieldnotesPicks;var ranked=state.leads.slice().filter(function(l){return policy?!policy.banned(l):l.verification!=='rejected';}).sort(function(a,b){return Number(b.score)-Number(a.score);});
- var five=ranked.slice(0,5),gems=ranked.filter(function(l){return l.website_status==='not_listed' && (l.email || l.phone);}).slice(0,5);
+ var scored=Object.keys(state.qualification||{}).length>0;
+ var five=scored?ranked.slice(0,5):[],gems=scored?ranked.filter(function(l){return l.website_status==='not_listed' && (l.email || l.phone);}).slice(0,5):[];
  $('next-actions').innerHTML=five.length?five.map(function(l,i){
  var approach=l.email?'Public email listed':l.phone?'Public phone listed':'Contact not confirmed';
  return '<button class="next-row" data-next-id="'+safe(l.id)+'" type="button"><span class="next-index">'+String(i+1).padStart(2,'0')+'</span><span class="next-info"><strong>'+safe(l.name)+'</strong><small>'+safe(l.industry)+' · '+safe(approach)+'</small></span><span class="next-score">'+Number(l.score||0)+'<small>/100</small></span><span class="next-arrow">↗</span></button>';
