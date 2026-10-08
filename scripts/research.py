@@ -17,6 +17,7 @@ import time
 import unicodedata
 import urllib.parse
 from pathlib import Path
+from bs4 import BeautifulSoup
 
 try:
     import requests
@@ -138,7 +139,6 @@ def retrieve(u, *, timeout=11, max_bytes=650000):
 
 
 def identity_evidence(lead, html):
-    from bs4 import BeautifulSoup
     soup = BeautifulSoup(html[:650000], "html.parser")
     for s in soup(["script", "style", "noscript"]):
         s.decompose()
