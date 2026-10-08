@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "generated_at": null,
+  "collector": {
+    "name": "OSM + optional ARES lookup",
+    "segment": null,
+    "discovered_this_run": 0,
+    "listings_examined": 0,
+    "notes": "No data has been collected yet. Use Actions > Refresh Prague leads > Run workflow."
+  },
+  "leads": []
+}
