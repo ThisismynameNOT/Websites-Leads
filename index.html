@@ -11,6 +11,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="./styles.css">
+  <script defer src="./picks.js"></script>
   <script defer src="./app.js"></script>
 </head>
 <body>
@@ -42,6 +43,15 @@
         <article class="stat-card"><div class="stat-top"><span>Website unlisted</span><span class="stat-icon">⌁</span></div><div class="stat-value" id="stat-unlisted">—</div><div class="stat-foot"><span class="stat-accent">GAP</span> research needed to confirm</div></article>
         <article class="stat-card stat-card-dark"><div class="stat-top"><span>Potential deal value</span><span class="stat-icon">↗</span></div><div class="stat-value" id="stat-value">—</div><div class="stat-foot">Indicative upper-bound pipeline <span>↗</span></div></article>
       </section>
+      <section class="featured-picks" aria-labelledby="picks-title">
+        <div class="picks-heading">
+          <div><div class="kicker">00 / DAILY SALES SHORTLIST</div><div class="picks-title-row"><h2 id="picks-title">Your three website picks<span class="green-period">.</span></h2><span class="picks-refresh-label">REVIEWED DAILY · 09:00 PRAGUE</span></div>
+          <p>Three independent Prague businesses to investigate for a website project, ranked by current evidence. Qualification status is shown on every card.</p></div>
+          <span class="picks-count">3 SLOTS</span>
+        </div>
+        <div class="top-three-grid" id="top-three" aria-live="polite"><div class="muted-empty">Loading three picks…</div></div>
+        <details class="criteria-details"><summary><span><span class="criteria-symbol">◎</span> See all 16 selection restrictions and verification rules</span><span class="criteria-hint">EXPAND ↘</span></summary><div class="criteria-grid" id="criteria-list"></div></details>
+      </section>
       <div class="insight-row">
         <section class="insight-card industry-card"><div class="card-heading"><div><span class="kicker">01 / MARKET MIX</span><h3>Where opportunity lives</h3></div><span class="header-supplement">BY INDUSTRY</span></div><div id="industry-chart" class="industry-chart"><div class="muted-empty">Waiting for live data…</div></div></section>
         <section class="insight-card focus-card"><div class="card-heading"><div><span class="kicker">02 / RECOMMENDED FOCUS</span><h3>The next move</h3></div><span class="header-supplement">RESEARCH PICK</span></div><div id="focus-content"><div class="focus-placeholder">Your strongest researched candidate will appear here after the first collector run.</div></div></section>
@@ -54,7 +64,7 @@
       <section class="action-section">
         <div class="section-header action-header"><div><div class="kicker">04 / SALES RESEARCH DESK</div><div class="section-title-row"><h2>What to investigate next</h2><span class="result-count">ACTIONABLE SHORTLIST</span></div></div><div class="small-caption">RESEARCH FIRST · THEN OUTREACH</div></div>
         <div class="action-columns">
-          <div class="next-card"><div class="mini-card-heading"><span>TOP FIVE CANDIDATES</span><span>↗</span></div><div id="next-actions" class="next-actions"><p class="muted-empty">Waiting for candidate data…</p></div></div>
+          <div class="next-card"><div class="mini-card-heading"><span>ADDITIONAL RESEARCH CANDIDATES</span><span>↗</span></div><div id="next-actions" class="next-actions"><p class="muted-empty">Waiting for candidate data…</p></div></div>
           <div class="hidden-card"><div class="mini-card-heading"><span>HIDDEN GEMS / WEBSITE GAPS</span><span>✳</span></div><div id="hidden-gems" class="hidden-gems"><p class="muted-empty">Potential opportunities will appear after discovery.</p></div><div class="hidden-card-footer">Unlisted website URLs require independent validation before pitching.</div></div>
         </div>
       </section>
