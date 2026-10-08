@@ -16,6 +16,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "data" / "leads.json"
@@ -141,6 +142,11 @@ def address_of(tags):
     address = " ".join(part for part in [street, number] if part)
     return (", ".join(part for part in [address, district, postcode, "Praha"] if part),
             district if district else "Prague · district unverified")
+
+
+def segment_for_day(day: dt.date):
+    """Select a different business category each Prague calendar day."""
+    return list(SEGMENTS)[day.toordinal() % len(SEGMENTS)]
 
 
 def get_sector_tags(tags):
@@ -277,10 +283,11 @@ def run():
     if not isinstance(old_leads, list) or not isinstance(manual_data.get("leads"), list):
         raise ValueError("Invalid lead schema")
     by_id = {l["id"]: l for l in old_leads if isinstance(l, dict) and l.get("id")}
-    # Rotate across all six categories: one category per four-hour window.
-    window = NOW.hour // 4
-    segment = list(SEGMENTS)[window % len(SEGMENTS)]
-    print("Collector window:", NOW.isoformat(), "segment:", segment, "previous:", len(by_id), flush=True)
+    # On the 09:00 daily schedule, rotate industry categories by Prague date.
+    # This ensures every sector gets investigated across six successive days.
+    prague_date = NOW.astimezone(ZoneInfo("Europe/Prague")).date()
+    segment = segment_for_day(prague_date)
+    print("Collector run:", NOW.isoformat(), "Prague day:", prague_date.isoformat(), "segment:", segment, "previous:", len(by_id), flush=True)
     elements = discover(segment)
     incoming = []
     for element in elements:
