@@ -57,7 +57,7 @@ jobs:
       - name: Research websites, registry signals and contact evidence
         env:
           BRAVE_SEARCH_API_KEY: ${{ secrets.BRAVE_SEARCH_API_KEY }}
-          RESEARCH_DAILY_LIMIT: 12
+          RESEARCH_DAILY_LIMIT: 16
         run: python scripts/research.py
       - name: Preserve screenshot audit evidence as workflow artifact
         if: always()

@@ -94,6 +94,39 @@ class ResearchTests(unittest.TestCase):
         self.assertEqual(result["confidence"],"preliminary")
         self.assertIn("NOT proof",result["facts"][1])
 
+    def test_daily_research_balances_new_and_established_service_companies(self):
+        leads=[
+            self.example(id="new-a",name="New Prague Plumbers",registered_at="2026-09-01",
+                         industry="Construction & property",ico="12345678",tier=1),
+            self.example(id="old-a",name="Old Prague Roofing",registered_at="2005-09-01",
+                         industry="Construction & property",ico="12345679",tier=1),
+            self.example(id="new-b",name="New Prague Renovations",registered_at="2026-09-02",
+                         industry="Construction & property",ico="12345670",tier=1),
+            self.example(id="old-b",name="Old Prague Electrician",registered_at="2012-04-03",
+                         industry="Construction & property",ico="12345671",tier=1),
+        ]
+        with patch.object(research,"TODAY","2026-10-09"), patch.object(research,"PER_DAY",4):
+            queue=research.pick_queue(leads,{})
+        self.assertEqual(len(queue),4)
+        self.assertTrue(queue[0]["id"].startswith("new"))
+        self.assertTrue(queue[1]["id"].startswith("old"))
+        self.assertTrue(queue[2]["id"].startswith("new"))
+        self.assertTrue(queue[3]["id"].startswith("old"))
+
+    def test_recent_complete_research_is_cached(self):
+        lead=self.example(registered_at="2026-08-10",industry="Construction & property",tier=1)
+        old={lead["id"]:{"checked_at":"2026-10-08","engine_version":research.ENGINE_VERSION,
+                        "discovery":{"state":"VERIFIED_WEBSITE"}}}
+        with patch.object(research,"TODAY","2026-10-09"):
+            self.assertEqual(research.pick_queue([lead],old),[])
+
+    def test_search_query_uses_ico_location_and_company_service(self):
+        queries=research.search_queries(self.example(name="Prague Plumbing s.r.o.",ico="12345678"))
+        self.assertGreaterEqual(len(queries),3)
+        self.assertTrue(any("12345678" in q for q in queries))
+        self.assertTrue(any("Vinohradská" in q for q in queries))
+        self.assertTrue(any("Praha" in q for q in queries))
+
     def test_preferred_daily_queue_no_major_franchise(self):
         batch=[
             self.example(id="a",name="Local Prague Salon",ico=""),

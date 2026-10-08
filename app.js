@@ -19,9 +19,9 @@ function normalize(l){return Object.assign({id:'',name:'Unknown company',industr
 function priority(n){return n>=80?'hot':n>=60?'possible':'low';}
 function priorityName(n){return n>=80?'HIGH PRIORITY':n>=60?'FURTHER RESEARCH':'LOW PRIORITY';}
 function countStats(){
- var t=state.topTen||[],n=t.filter(x=>x.type==='new').length;
+ var t=state.topTen||[],n=t.filter(x=>x.type==='new').length,old=t.filter(x=>x.type==='established').length,fit=t.filter(x=>x.type==='fit').length;
  $('stat-total').textContent=t.length+' / 10';$('stat-hot').textContent=n;
- $('stat-unlisted').textContent=t.length-n;$('stat-value').textContent=String(10-t.length).padStart(2,'0');
+ $('stat-unlisted').textContent=old;$('stat-value').textContent=String(fit).padStart(2,'0');
  $('nav-count').textContent=t.length;
 }
 function industryChart(){
@@ -39,9 +39,9 @@ function todayPrague(){try{return new Intl.DateTimeFormat('sv-SE',{timeZone:'Eur
 function threePicks(){
  var first=(state.topTen||[]).slice(0,3);state.threePicks=first;
  $('top-three').innerHTML=[0,1,2].map(i=>{
-  var x=first[i];if(!x)return '<article class="pick-card pick-empty"><div class="pick-rank">0'+(i+1)+' / OPEN SLOT</div><h3>Evidence pending</h3><p>No additional company has passed the independent website checks. We do not invent missing websites or technical problems.</p></article>';
+  var x=first[i];if(!x)return '<article class="pick-card pick-empty"><div class="pick-rank">0'+(i+1)+' / OPEN SLOT</div><h3>Evidence pending</h3><p>No additional credible business has passed the search or sales-fit checks. Unverified problems are never invented.</p></article>';
   var l=x.lead,e=x.evidence&&url(x.evidence)?'<a href="'+safe(url(x.evidence))+'" target="_blank" rel="noopener noreferrer">Source ↗</a>':'';
-  return '<article class="pick-card radar-pick"><div class="pick-card-top"><span class="pick-rank">0'+(i+1)+' / WEBSITE OPPORTUNITY</span><span class="pick-state pending">◌ REVIEW FIRST</span></div>'+
+  return '<article class="pick-card radar-pick"><div class="pick-card-top"><span class="pick-rank">0'+(i+1)+' / SALES PROSPECT</span><span class="pick-state pending">◌ '+(x.category==='research_candidate'?'RESEARCH IDEA':'VERIFY EVIDENCE')+'</span></div>'+
    '<h3 class="radar-pick-name">'+safe(l.name)+'</h3><div class="pick-detail"><div class="pick-label">'+safe(x.label)+'</div><p>'+safe(x.reason)+'</p></div><div class="pick-contact">'+safe(l.industry||'')+' · '+safe(l.registered_at||'Date pending')+'</div><div class="pick-actions"><button type="button" class="pick-dossier" data-radar-pick="'+safe(l.id)+'">View dossier ↗</button><div class="pick-sources">'+e+'</div></div></article>';
  }).join('');
  document.querySelectorAll('[data-radar-pick]').forEach(b=>b.addEventListener('click',()=>openLead(b.dataset.radarPick)));
@@ -54,16 +54,16 @@ function websiteLabel(l){
  return !x?'<span class="website-pill unknown">Not checked</span>':x.type==='new'?'<span class="website-pill no">● No verified site</span>':'<span class="website-pill yes">● Audited</span>';
 }
 function list(){
- var arr=state.topTen||[];
- $('result-count').textContent=arr.length+' / 10 opportunities';
- $('table-summary').textContent=arr.length+' evidence-backed leads · '+(10-arr.length)+' open slots';
+ var arr=state.topTen||[],gaps=arr.filter(x=>x.category==='verified_gap').length,ideas=arr.filter(x=>x.category==='research_candidate').length;
+ $('result-count').textContent=arr.length+' / 10 prospects';
+ $('table-summary').textContent=gaps+' observed/search-backed gaps · '+ideas+' commercially promising research prospects · '+(10-arr.length)+' open slots';
  $('leads-body').innerHTML=[0,1,2,3,4,5,6,7,8,9].map(i=>{
-  var x=arr[i];if(!x)return '<tr class="radar-pending-row"><td><span class="rank-number">'+String(i+1).padStart(2,'0')+'</span><span class="company-name">Awaiting research</span></td><td colspan="4"><span class="pending-copy">No additional company has verified website opportunity evidence yet.</span></td><td>—</td></tr>';
-  var l=x.lead,score=Number(l.score||0);
-  var site=x.verifiedSite&&url(x.verifiedSite)?'<a class="radar-site" href="'+safe(url(x.verifiedSite))+'" target="_blank" rel="noopener noreferrer">View site ↗</a>':'<span class="website-pill no">No company website verified</span>';
+  var x=arr[i];if(!x)return '<tr class="radar-pending-row"><td><span class="rank-number">'+String(i+1).padStart(2,'0')+'</span><span class="company-name">Awaiting research</span></td><td colspan="4"><span class="pending-copy">Awaiting a source-backed website opportunity or a credible commercial-fit company.</span></td><td>—</td></tr>';
+  var l=x.lead,score=Number(l.score||0),hasScoring=!!(state.qualification||{})[l.id];
+  var site=x.verifiedSite&&url(x.verifiedSite)?'<a class="radar-site" href="'+safe(url(x.verifiedSite))+'" target="_blank" rel="noopener noreferrer">Verified site ↗</a>':(x.category==='research_candidate'&&url(l.website)&&window.FieldnotesRadar&&window.FieldnotesRadar.isIndependent(l.website)?'<a class="radar-site" href="'+safe(url(l.website))+'" target="_blank" rel="noopener noreferrer">Candidate site ↗</a>':(x.type==='new'?'<span class="website-pill no">Not found in checks</span>':'<span class="website-pill unknown">Website check pending</span>'));
   return '<tr class="radar-live-row" role="button" tabindex="0" data-id="'+safe(l.id)+'" aria-label="Open dossier for '+safe(l.name)+'"><td><span class="rank-number">'+String(i+1).padStart(2,'0')+'</span><span class="company-name">'+safe(l.name)+'</span><span class="company-meta">'+safe(l.industry||'')+' · '+safe(l.ico?'IČO '+l.ico:'Identity pending')+'</span></td>'+
    '<td><span class="radar-type '+safe(x.type)+'">'+safe(x.label)+'</span></td><td><span class="radar-why">'+safe(x.reason)+'</span><span class="radar-meta">Checked '+safe(x.checked_at||'date unknown')+'</span></td><td>'+site+'</td>'+
-   '<td><div class="score-group"><span class="score-number">'+score+'</span><div class="score-track"><div class="score-progress" style="width:'+Math.max(0,Math.min(100,score))+'%"></div></div><span class="radar-meta">/ 100 · budget unknown</span></div></td><td class="row-arrow">↗</td></tr>';
+   '<td><div class="score-group"><span class="score-number">'+(hasScoring?score:'Review')+'</span><div class="score-track"><div class="score-progress" style="width:'+Math.max(0,Math.min(100,score))+'%"></div></div><span class="radar-meta">/ 100 · finance not verified</span></div></td><td class="row-arrow">↗</td></tr>';
  }).join('');
  $('empty-state').hidden=true;
  document.querySelectorAll('tr[data-id]').forEach(row=>{row.addEventListener('click',e=>{if(!e.target.closest('a'))openLead(row.dataset.id);});row.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();openLead(row.dataset.id);}});});
@@ -111,7 +111,7 @@ function researchDetails(l){
   '<p class="local-warning">Website search and technical checks are automatic. Buyer willingness, absent websites and subjective aesthetic quality cannot be guaranteed; no outreach is sent automatically.</p></div>';
 }
 function openLead(id){
- var l=state.leads.find(function(x){return x.id===id;});if(!l)return;state.selected=id;var crm=local(id);
+ var l=state.leads.find(function(x){return x.id===id;});if(!l)return;state.selected=id;var crm=local(id),radarEntry=(state.topTen||[]).find(function(x){return x.lead.id===id;});
  $('drawer-id').textContent=id.slice(0,20);
  var facts=[
  ['INDUSTRY',l.industry],['LOCATION',l.district||'Prague'],['ADDRESS',l.address||'Not verified'],['FIRST SEEN',formatDate(l.first_seen)],
@@ -125,7 +125,7 @@ function openLead(id){
  var sources=(l.source_urls||[]).filter(url).slice(0,8).map(function(s,i){return link('Source '+(i+1),s);}).join(' ');
  $('drawer-body').innerHTML='<div class="dossier-top"><div><span class="kicker">PROSPECT PROFILE / '+safe(priorityName(l.score))+'</span><h2 class="dossier-name">'+safe(l.name)+'</h2><p class="dossier-description">'+safe(l.industry)+' · '+safe(l.district)+'</p></div><span class="dossier-score">'+Number(l.score||0)+'<small>/100</small></span></div>'+
  '<div class="fact-grid">'+items+'</div>'+
- '<div class="dossier-section"><h3>Why this opportunity?</h3><p>'+safe(l.reason||'Potential fit to verify before outreach. Source listing may be incomplete.')+'</p></div>'+
+ '<div class="dossier-section"><h3>Why this business may be a website client</h3><p>'+safe(radarEntry?radarEntry.reason:l.reason||'Potential fit to verify before outreach.')+'</p>'+(radarEntry?'<p class="research-small"><strong>Status:</strong> '+safe(radarEntry.category==='research_candidate'?'Commercial hypothesis — further research required':'Observed evidence — reconfirm before outreach')+'</p><p><strong>Next step:</strong> '+safe(radarEntry.next_action)+'</p>':'')+'</div>'+
  '<div class="dossier-section"><h3>Buying signals</h3><p>'+signals+'</p></div>'+
  '<div class="dossier-section"><h3>Suggested approach</h3><p>'+safe(l.offer||'Professional business website')+'. '+safe(l.outreach_angle||'Confirm the business has no independent website before pitching a conversion-focused web presence.')+'</p></div>'+
  '<div class="dossier-section"><h3>Research notes</h3><p>'+safe(l.score_reason||'Scores are preliminary; not a verified UX audit.')+'</p></div>'+
@@ -196,7 +196,7 @@ async function load(){
    }
  });
  state.topTen=window.FieldnotesRadar?window.FieldnotesRadar.select(state.leads,todayPrague(),10):[];
- $('data-banner').classList.remove('is-error');$('data-status').textContent='Ten-place evidence radar · '+state.topTen.length+' candidates · website absence is not presumed';
+ $('data-banner').classList.remove('is-error');$('data-status').textContent='Ten-place evidence radar · '+state.topTen.length+' prospects · verified gaps and commercial hypotheses kept separate';
  $('last-updated').textContent='LAST SYNC — '+(state.generatedAt?formatDate(state.generatedAt)+' '+new Date(state.generatedAt).toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'}):'NOT YET RUN');
  countStats();industryChart();threePicks();focus();list();
  }catch(e){$('data-banner').classList.add('is-error');$('data-status').textContent='Failed to load leads: '+e.message;$('last-updated').textContent='CHECK WORKFLOW / DATA FILE';if(!state.leads.length){countStats();industryChart();threePicks();focus();list();}}
@@ -204,7 +204,7 @@ async function load(){
 }
 function exportCsv(){
  var rows=[['Company','Industry','Prague location','IČO','Website status','Website','Email','Phone','Opportunity score','Deal min CZK','Deal max CZK','Research reason','Source','Sales stage','Saved','Private notes']];
- filtered().forEach(function(l){var c=local(l.id);rows.push([l.name,l.industry,l.address||l.district,l.ico,l.website_status,l.website,l.email,l.phone,l.score,l.deal_min_czk,l.deal_max_czk,l.reason,(l.source_urls||[]).join(' '),c.stage||'new',c.saved?'Yes':'No',c.notes||'']);});
+ (state.topTen||[]).forEach(function(x){var l=x.lead,c=local(l.id);rows.push([l.name,l.industry,l.address||l.district,l.ico,x.label,x.verifiedSite||l.website||'',l.email,l.phone,l.score,l.deal_min_czk,l.deal_max_czk,x.reason,x.evidence||'',c.stage||'new',c.saved?'Yes':'No',c.notes||'']);});
  var csv=rows.map(function(r){return r.map(function(v){var s=String(v==null?'':v);if(/^[\s]*[=+\-@]/.test(s))s="'"+s;return '"'+s.replace(/"/g,'""')+'"';}).join(',');}).join('\r\n');
  var blob=new Blob(['\ufeff'+csv],{type:'text/csv;charset=utf-8'}),a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='prague-top-ten-'+new Date().toISOString().slice(0,10)+'.csv';document.body.appendChild(a);a.click();setTimeout(function(){URL.revokeObjectURL(a.href);a.remove();},1000);toast('Exported '+(rows.length-1)+' leads');
 }

@@ -4,6 +4,18 @@ Automated, GitHub-native sales prospecting dashboard for web design opportunitie
 
 **Source repo:** https://github.com/ThisismynameNOT/Websites-Leads
 
+## Commercial website-fit search improvements
+
+The ten-place radar now separates **source-backed website gaps** from **commercially promising clients to investigate**. The latter are *research hypotheses*, not verified redesign defects, confirmed budgets or proof of customer interest.
+
+- Higher-value Prague builders, roofing firms, electricians, HVAC, architectural/professional and specialist B2B operators receive research priority over generic directory listings. The daily researcher balances recent formations and established companies, caching completed research for 14 days (3 days after search unavailability) before repeating it.
+- Independent website searches use legal/trading name, exact IČO, Prague activity, street and service keywords, with bounded queries and a recorded successful-query count. Partial searches cannot be promoted to no-website findings.
+- The dashboard reserves up to **three of ten places** for promising companies whose identity, industry/contact or sourced human review supports potential portfolio, CMS, or quote-request work. These rows are labeled **Good website client · needs review**. Confirm the real business, the site, the buyer's need and affordability before outreach.
+- A manual case can be seeded only with its IČO, two independent source URLs, dated research notes and an explicit business case. The first curated candidate is ELEFANT - PRAHA, s.r.o., based on company website reference pages and public company-register evidence. Its current site's technical quality and budget are **not** verified.
+- Raw registry-only companies without evidence of operations, business contacts or an independently matched site are still excluded from the visible ten, even if they exist in the background feed.
+
+The daily research cap is **16 businesses**, subject to existing network and GitHub Actions time limits. No third-party directory scraping or paid API was added.
+
 ## Top-ten opportunity radar (October 2026)
 
 The public GitHub Pages dashboard displays **up to ten evidence-backed sales opportunities**, not the complete 1,800-record discovery database. Raw leads remain available in `data/leads.json` for automated research, but are not shown as prospects until a specific website-opportunity condition has supporting evidence. Search/filter controls were removed from the dashboard intentionally.

@@ -29,8 +29,8 @@ LEADS = ROOT / "data/leads.json"
 MANUAL = ROOT / "data/manual-leads.json"
 OUTPUT = ROOT / "data/research.json"
 SCREENSHOTS = ROOT / "research-screenshots"
-PER_DAY = min(18, max(1, int(os.environ.get("RESEARCH_DAILY_LIMIT", "12"))))
-ENGINE_VERSION = 7
+PER_DAY = min(24, max(1, int(os.environ.get("RESEARCH_DAILY_LIMIT", "16"))))
+ENGINE_VERSION = 8
 QUERY_WAIT = 1.1
 TODAY = dt.datetime.now(dt.timezone.utc).date().isoformat()
 USER_AGENT = "Mozilla/5.0 (compatible; FieldnotesResearch/2.0; +https://github.com/ThisismynameNOT/Websites-Leads)"
@@ -177,27 +177,31 @@ def identity_confirmed(lead, proof):
 
 
 def search_queries(lead):
-    """Bounded independent multi-strategy search, regardless of listing website field."""
-    name=str(lead["name"]).replace('"',"").strip()
-    legal=str(lead.get("legal_name") or name).replace('"',"").strip()
+    """Search independently by business identity, legal ID and business location.
+    A company-directory URL is a discovery clue, never proof of a first-party site.
+    """
+    legal=str(lead.get("legal_name") or lead["name"]).replace('"',"").strip()
+    trade=str(lead.get("trading_name") or lead.get("name") or "").replace('"',"").strip()
     ico=re.sub(r"\D","",str(lead.get("ico") or ""))
-    road=str(lead.get("address") or "").split(",")[0].strip()
+    road=str(lead.get("operating_address") or lead.get("address") or "").split(",")[0].strip()
     industry=str(lead.get("industry") or "").strip()
-    queries=['"'+legal+'" Praha web kontakt služby']
-    if len(ico)==8:queries.append('"'+legal+'" IČO '+ico+' web')
-    else:queries.append('"'+name+'" Praha "'+road[:44]+'"')
-    if len(queries)<3:queries.append('"'+name+'" '+industry+' Praha reference')
-    if legal!=name:queries.append('"'+name+'" Praha web rezervace')
-    if len(queries)<4:queries.append('"'+name+'" web služby reference kontakt')
-    return list(dict.fromkeys(queries))[:4]
-
+    first='"'+legal+'" IČO '+ico+' web' if len(ico)==8 else '"'+legal+'" Praha oficiální web'
+    queries=[
+        first,
+        '"'+trade+'" Praha '+industry+' kontakt',
+        '"'+legal+'" "'+road[:48]+'" web',
+        '"'+trade+'" Praha služby reference poptávka',
+    ]
+    if trade!=legal:
+        queries[-1]='"'+trade+'" IČO '+ico+' firemní web' if len(ico)==8 else '"'+trade+'" Praha provozovna web'
+    return list(dict.fromkeys(q for q in queries if len(q)>8))[:4]
 
 def search_results(lead):
     """Uses unauthenticated metasearch; a failure is not a negative result.
     Prefer BRAVE_SEARCH_API_KEY for a supported, authenticated search service.
     """
     queries = search_queries(lead)
-    results, errors = [], []
+    results, errors, successful_queries = [], [], 0
     key = os.getenv("BRAVE_SEARCH_API_KEY")
     for query in queries:
         try:
@@ -214,6 +218,7 @@ def search_results(lead):
                 with DDGS(timeout=15) as client:
                     items = list(client.text(query, max_results=8, region="cz-cs"))
             results.extend(items)
+            successful_queries += 1
         except Exception as exc:
             errors.append(type(exc).__name__ + ": " + str(exc)[:100])
         time.sleep(QUERY_WAIT)
@@ -225,9 +230,10 @@ def search_results(lead):
         seen.add(u)
         deduped.append({"url": u, "title": str(item.get("title") or "")[:180],
                         "snippet": str(item.get("body") or "")[:320]})
-    status = "searched" if results else ("search_unavailable" if errors else "no_results")
-    return {"status": status, "queries": queries, "candidates": deduped[:14],
-            "errors": errors[:3]}
+    status = ("searched" if successful_queries >= 2 else
+              "partial_search" if successful_queries >= 1 else "search_unavailable")
+    return {"status": status, "queries": queries, "successful_queries": successful_queries,
+            "candidates": deduped[:14], "errors": errors[:3]}
 
 
 def discover_website(lead):
@@ -297,9 +303,9 @@ def discover_website(lead):
         saw_possible=any(x.get("result") in ("unreachable","ambiguous") for x in sources)
         social_only=(any(is_directory(c.get("url","")) for c in discovery.get("candidates",[]))
                      or any(x.get("result")=="third_party_directory" for x in sources))
-        sufficient=(len(discovery.get("queries",[]))>=2 and discovery["status"]=="searched"
-                    and not discovery.get("errors"))
-        if discovery["status"]=="search_unavailable":
+        completed=discovery.get("successful_queries",len(discovery.get("queries",[])))
+        sufficient=(completed>=2 and discovery["status"]=="searched" and not discovery.get("errors"))
+        if discovery["status"] in ("search_unavailable","partial_search") and not saw_possible:
             discovery["state"]="SEARCH_UNAVAILABLE"
         elif saw_possible:
             discovery["state"]="AMBIGUOUS"
@@ -589,38 +595,52 @@ def dossier(lead, discovery, audit, reg, signals):
 
 
 def pick_queue(leads, old_reports):
-    unique, seen = [], set()
-    manual = [l for l in leads if l.get("manual")]
-    rest = [l for l in leads if not l.get("manual")]
-    def weight(l):
-        listed = bool(l.get("website"))
-        contact = bool(l.get("email") or l.get("phone") or l.get("instagram"))
-        prior = old_reports.get(l["id"], {})
-        stamp = prior.get("checked_at", "")
-        age = 0 if not stamp else (dt.date.fromisoformat(TODAY) - dt.date.fromisoformat(stamp)).days
-        official=bool(l.get("ico") and (l.get("source_type")=="csu_res" or str(l.get("source_type") or "").startswith("csu_res")))
-        tier=int(l.get("tier") or 3)
-        try:recent_company=0<=((dt.date.fromisoformat(TODAY)-dt.date.fromisoformat(str(l.get("registered_at")))).days)<=730
-        except ValueError:recent_company=False
-        return (l.get("verification") not in ("inactive_registry","rejected","closed"),
-                official, tier==1, bool(l.get("address") and l["address"] != "Praha"),
-                age >= 7, recent_company, contact, bool(l.get("ico")), not listed,
-                int(l.get("score") or 0))
-    rest.sort(key=weight, reverse=True)
-    for l in manual + rest:
-        if l.get("verification") in ("closed","rejected","inactive_registry"):
+    """Fair, finite queue: new registrations AND established high-value operators.
+    A recent completed audit is cached, so the same businesses do not consume each day.
+    """
+    eligible=[]
+    seen=set()
+    today=dt.date.fromisoformat(TODAY)
+    for l in leads:
+        if l.get("verification") in ("closed","rejected","inactive_registry","do_not_contact"):continue
+        if l.get("do_not_contact") or CHAIN_RE.search(l.get("name","")):continue
+        official=bool(l.get("ico") and l.get("source_type")=="csu_res")
+        if not any(l.get(k) for k in ("phone","email","instagram")) and not official and not l.get("manual"):
             continue
-        if CHAIN_RE.search(l.get("name","")): continue
-        if not any(l.get(k) for k in ("phone","email","instagram")) and not (l.get("ico") and l.get("source_type")=="csu_res"): continue
-        key = l.get("ico") or (normalized(l.get("name"))+"|"+normalized(l.get("address")))
+        key=l.get("ico") or normalized(l.get("name"))+"|"+normalized(l.get("address"))
         if key in seen:continue
         seen.add(key)
-        previous = old_reports.get(l["id"],{})
-        if previous.get("checked_at")==TODAY and previous.get("engine_version")==ENGINE_VERSION:continue
-        unique.append(l)
-        if len(unique)>=PER_DAY:break
-    return unique
-
+        previous=old_reports.get(l["id"],{})
+        last=previous.get("checked_at")
+        try:elapsed=(today-dt.date.fromisoformat(last)).days if last else 999
+        except (ValueError,TypeError):elapsed=999
+        if previous.get("engine_version",0)>=ENGINE_VERSION:
+            state=(previous.get("discovery") or {}).get("state","")
+            if elapsed < (3 if state=="SEARCH_UNAVAILABLE" else 14):
+                continue
+        try:days=(today-dt.date.fromisoformat(str(l.get("registered_at")))).days
+        except (ValueError,TypeError):days=None
+        cohort="new" if days is not None and 0<=days<=730 else "established"
+        tier=int(l.get("tier") or
+                 (1 if l.get("industry") in ("Construction & property","Specialized B2B") else
+                  2 if l.get("industry") in ("Automotive","Professional services","Creative services") else 3))
+        # Prioritize real trading signals and specialist project-based sectors before bare RES HQs.
+        contact=bool(l.get("phone") or l.get("email"))
+        activity=bool(l.get("manual") or l.get("data_origin") in ("OpenStreetMap","Manual web research"))
+        scored=(4 if tier==1 else 2 if tier==2 else 0)*100 + (85 if activity else 0) + (55 if contact else 0) + (25 if official else 0)
+        scored+=min(45,max(0,elapsed))+(15 if l.get("website") else 0)+(30 if l.get("manual") else 0)
+        eligible.append((cohort,scored,str(l.get("id")),l))
+    newer=sorted((x for x in eligible if x[0]=="new"),key=lambda x:(-x[1],x[2]))
+    established=sorted((x for x in eligible if x[0]=="established"),key=lambda x:(-x[1],x[2]))
+    out=[]
+    # Mix age groups regardless of how many registry records exist in each cohort.
+    while len(out)<PER_DAY and (newer or established):
+        preferred=(newer,established) if len(out)%2==0 else (established,newer)
+        for group in preferred:
+            if group:
+                out.append(group.pop(0)[3])
+                break
+    return out
 
 def run():
     leads_doc = json.loads(LEADS.read_text(encoding="utf-8"))
