@@ -19,7 +19,7 @@ test("new business only qualifies after a completed independent website search",
 });
 test("directory-only URL is never a verified independent company website",()=>{
  for(const u of ["https://www.firmy.cz/detail/1","https://rejstriky.finance.cz/company","https://www.ladypraha.cz/katalog/x",
- "http://www.place123.net/cafe","https://local.infobel.cz/firm","https://rejstrik-firem.kurzy.cz/x","https://www.restauracevpraze.net/a"]){
+ "http://www.place123.net/cafe","https://local.infobel.cz/firm","https://rejstrik-firem.kurzy.cz/x","https://www.restauracevpraze.net/a","https://www.reservio.com/booking/123","https://www.treatwell.cz/market"]){
   assert.equal(radar.isIndependent(u),false,u);
  }
  assert.equal(radar.isIndependent("https://www.real-roofers.cz/"),true);
