@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#181e1d">
+  <meta name="description" content="Prague B2B website sales intelligence dashboard">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Fieldnotes — Prague Lead Intelligence</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+  <script defer src="./app.js"></script>
+</head>
+<body>
+<div class="app-shell">
+  <aside class="sidebar">
+    <div class="identity"><div class="brandmark" aria-hidden="true"><span></span><span></span><span></span><span></span></div><div class="brand-name">fieldnotes<span class="period">.</span><small>SALES INTELLIGENCE / PRG</small></div></div>
+    <div class="workspace"><span class="workspace-icon">W</span><div><strong>Website Studio</strong><small>Prague, Czech Republic</small></div><span class="chevron">⌄</span></div>
+    <div class="nav-group"><div class="nav-label">WORKSPACE</div>
+      <button class="nav-link active" data-tab="all"><span class="nav-glyph">◈</span><span>Lead overview</span><span class="nav-count" id="nav-count">0</span></button>
+      <button class="nav-link" data-tab="hot"><span class="nav-glyph">◉</span><span>Priority queue</span></button>
+      <button class="nav-link" data-tab="unlisted"><span class="nav-glyph">⌁</span><span>Website gaps</span></button>
+      <button class="nav-link" data-tab="saved"><span class="nav-glyph">◇</span><span>Saved leads</span></button>
+    </div>
+    <div class="nav-group"><div class="nav-label">WORKFLOW</div>
+      <a class="nav-link" href="https://github.com/ThisismynameNOT/Websites-Leads/actions" target="_blank" rel="noopener noreferrer"><span class="nav-glyph">↻</span><span>Automation runs</span><span class="external">↗</span></a>
+      <a class="nav-link" href="https://github.com/ThisismynameNOT/Websites-Leads/edit/main/data/manual-leads.json" target="_blank" rel="noopener noreferrer"><span class="nav-glyph">⊕</span><span>Add manual lead</span><span class="external">↗</span></a>
+      <a class="nav-link" href="https://github.com/ThisismynameNOT/Websites-Leads" target="_blank" rel="noopener noreferrer"><span class="nav-glyph">⌘</span><span>GitHub repository</span><span class="external">↗</span></a>
+    </div>
+    <div class="sidebar-bottom"><div class="sync-tile"><div class="sync-header"><span class="pulse-dot"></span><strong>Collector scheduled</strong></div><p>Six refresh windows every day, powered by GitHub Actions.</p><div class="sync-meta"><span>4-HOUR CYCLE</span><span>UTC</span></div></div><div class="user-badge"><span class="avatar">WS</span><div><strong>Workspace</strong><small>Local CRM annotations</small></div><span>•••</span></div></div>
+  </aside>
+  <main class="main">
+    <header class="topbar"><div class="topbar-path">WORKSPACE <span>/</span> LEAD INTELLIGENCE <span>/</span> <strong>PRAGUE</strong></div><div class="topbar-right"><span class="live-indicator"><span></span> SYSTEM ACTIVE</span><a href="https://github.com/ThisismynameNOT/Websites-Leads" target="_blank" rel="noopener noreferrer" class="github-link">GitHub ↗</a></div></header>
+    <div class="main-content">
+      <div class="heading-block"><div><div class="eyebrow"><span class="eyebrow-line"></span> PRAGUE / OPPORTUNITY RADAR <span class="issue">ISSUE 001</span></div><h1>Find the next <em>yes.</em></h1><p>Live prospect intelligence for high-potential Prague businesses. Research smarter, pitch sharper.</p></div><div class="heading-actions"><button type="button" class="btn-secondary" id="export-btn">↓ Export CSV</button><button type="button" class="btn-primary" id="refresh-btn"><span>↻</span> Refresh leads</button></div></div>
+      <section class="data-banner" id="data-banner" aria-live="polite"><div><span class="banner-pin">●</span><span id="data-status">Connecting to GitHub lead data…</span></div><span id="last-updated">LAST SYNC — CHECKING</span></section>
+      <section class="stat-grid" aria-label="Pipeline overview">
+        <article class="stat-card"><div class="stat-top"><span>Total prospects</span><span class="stat-icon">◎</span></div><div class="stat-value" id="stat-total">—</div><div class="stat-foot"><span class="stat-accent">ALL</span> businesses in the queue</div></article>
+        <article class="stat-card"><div class="stat-top"><span>High priority</span><span class="stat-icon">↗</span></div><div class="stat-value" id="stat-hot">—</div><div class="stat-foot"><span class="stat-accent">65+</span> opportunity score</div></article>
+        <article class="stat-card"><div class="stat-top"><span>Website unlisted</span><span class="stat-icon">⌁</span></div><div class="stat-value" id="stat-unlisted">—</div><div class="stat-foot"><span class="stat-accent">GAP</span> research needed to confirm</div></article>
+        <article class="stat-card stat-card-dark"><div class="stat-top"><span>Potential deal value</span><span class="stat-icon">↗</span></div><div class="stat-value" id="stat-value">—</div><div class="stat-foot">Indicative upper-bound pipeline <span>↗</span></div></article>
+      </section>
+      <div class="insight-row">
+        <section class="insight-card industry-card"><div class="card-heading"><div><span class="kicker">01 / MARKET MIX</span><h3>Where opportunity lives</h3></div><span class="header-supplement">BY INDUSTRY</span></div><div id="industry-chart" class="industry-chart"><div class="muted-empty">Waiting for live data…</div></div></section>
+        <section class="insight-card focus-card"><div class="card-heading"><div><span class="kicker">02 / RECOMMENDED FOCUS</span><h3>The next move</h3></div><span class="header-supplement">EDITOR'S PICK</span></div><div id="focus-content"><div class="focus-placeholder">Your strongest researched candidate will appear here after the first collector run.</div></div></section>
+      </div>
+      <section class="leads-section"><div class="section-header"><div><div class="kicker">03 / ACTIVE PIPELINE</div><div class="section-title-row"><h2>Lead directory</h2><span class="result-count" id="result-count">0 companies</span></div></div><div class="small-caption">CLICK A COMPANY TO VIEW DOSSIER <span>↗</span></div></div>
+        <div class="table-toolbar"><div class="seg-tabs" role="group" aria-label="Lead filters"><button class="seg active" data-tab="all">All leads</button><button class="seg" data-tab="hot">High priority</button><button class="seg" data-tab="unlisted">Website gap</button><button class="seg" data-tab="saved">Saved</button></div><div class="filter-tools"><label class="searchbox"><span>⌕</span><input id="search" type="search" placeholder="Search companies..." aria-label="Search companies"></label><select id="industry-filter" aria-label="Filter by industry"><option value="all">All industries</option></select><select id="sort-filter" aria-label="Sort leads"><option value="score">Highest score</option><option value="recent">Newest found</option><option value="name">Company A–Z</option></select></div></div>
+        <div class="table-wrap"><table><thead><tr><th>COMPANY <span>↕</span></th><th>INDUSTRY</th><th>LOCATION</th><th>WEBSITE STATUS</th><th>OPPORTUNITY</th><th>EST. DEAL</th><th></th></tr></thead><tbody id="leads-body"></tbody></table><div id="empty-state" class="empty-state" hidden><div class="empty-icon">⌕</div><h3 id="empty-title">No leads found yet</h3><p id="empty-copy">The collector will populate this directory during its first successful run. You can also add verified leads manually.</p><a href="https://github.com/ThisismynameNOT/Websites-Leads/actions" target="_blank" rel="noopener noreferrer">View collector →</a></div></div>
+        <div class="table-footer"><span id="table-summary">Showing 0 leads</span><span>DATA SOURCES: OPENSTREETMAP · ARES · MANUAL REVIEW</span></div>
+      </section>
+      <footer class="page-footer"><span>FIELDNOTES / PRAGUE LEAD INTELLIGENCE</span><span>Public facts, transparent estimates. © 2026</span></footer>
+    </div>
+  </main>
+</div>
+<div class="drawer-backdrop" id="drawer-backdrop" hidden></div>
+<aside class="drawer" id="lead-drawer" aria-label="Lead dossier" aria-hidden="true"><div class="drawer-header"><span>LEAD DOSSIER / <span id="drawer-id">—</span></span><button class="drawer-close" id="drawer-close" aria-label="Close lead dossier">×</button></div><div id="drawer-body" class="drawer-body"></div></aside>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+</body></html>
