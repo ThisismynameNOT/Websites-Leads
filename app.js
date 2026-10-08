@@ -2,7 +2,7 @@
 'use strict';
 var REPO = 'https://github.com/ThisismynameNOT/Websites-Leads';
 var STORE_KEY = 'fieldnotes-crm-v1';
-var state = { leads: [], tab: 'all', search: '', industry: 'all', sort: 'score', selected: null, generatedAt: null, loading: false };
+var state = { leads: [], threePicks: [], tab: 'all', search: '', industry: 'all', sort: 'score', selected: null, generatedAt: null, loading: false };
 var $ = function(id) { return document.getElementById(id); };
 var safe = function(s) { return String(s == null ? '' : s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];}); };
 var text = function(v, empty) { return v == null || v === '' ? (empty || 'Not verified') : String(v); };
@@ -32,14 +32,41 @@ function industryChart(){
  var sel=$('industry-filter'),prior=sel.value;sel.innerHTML='<option value="all">All industries</option>'+Object.keys(c).sort().map(function(x){return '<option value="'+safe(x)+'">'+safe(x)+'</option>';}).join('');sel.value=c[prior]?prior:'all';state.industry=sel.value;
 }
 function focus(){
- var candidates=state.leads.filter(function(l){return l.verification!=='rejected';}).sort(function(a,b){return Number(b.score)-Number(a.score);});
- var l=candidates[0];
+ var selected=window.FieldnotesPicks?window.FieldnotesPicks.choose(state.leads,todayPrague()):[];
+ var l=selected.length?selected[0].lead:null;
  if(!l){$('focus-content').innerHTML='<div class="focus-placeholder">The highest-ranked candidate will appear here after lead discovery begins.</div>';return;}
  $('focus-content').innerHTML='<h4 class="focus-company">'+safe(l.name)+'</h4><p class="focus-summary">'+safe(l.reason||'A candidate for further research. Review source evidence before reaching out.')+'</p><div class="focus-footer"><span class="focus-score">'+Number(l.score||0)+'/100 · '+priorityName(Number(l.score||0))+'</span><button type="button" id="focus-open" class="focus-button">Open dossier ↗</button></div>';
  $('focus-open').addEventListener('click',function(){openLead(l.id);});
 }
+function todayPrague(){try{return new Intl.DateTimeFormat('sv-SE',{timeZone:'Europe/Prague',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());}catch(e){return new Date().toISOString().slice(0,10);}}
+function threePicks(){
+ var policy=window.FieldnotesPicks;
+ if(!policy){$('top-three').innerHTML='<div class="muted-empty">Selection policy failed to load. Check picks.js.</div>';return;}
+ var result=policy.choose(state.leads,todayPrague());
+ state.threePicks=result;
+ $('top-three').innerHTML=[0,1,2].map(function(i){
+  var choice=result[i];
+  if(!choice)return '<article class="pick-card pick-empty"><div class="pick-rank">0'+(i+1)+' / NOT FILLED</div><h3>Qualification pending</h3><p>There are not enough acceptable leads. We will not invent a company to fill this slot.</p></article>';
+  var l=choice.lead,qual=choice.status==='qualified';
+  var contact=l.email?'Public email listed':l.phone?'Public phone listed':l.instagram?'Instagram listed':'Contact needs validation';
+  var sources=(l.source_urls||[]).filter(url).slice(0,2).map(function(u,k){return '<a href="'+safe(url(u))+'" target="_blank" rel="noopener noreferrer">Evidence '+(k+1)+' ↗</a>';}).join('');
+  return '<article class="pick-card'+(qual?' qualified':'')+'">'+
+    '<div class="pick-card-top"><span class="pick-rank">0'+(i+1)+' / SELECTED PROSPECT</span><span class="pick-state '+(qual?'verified':'pending')+'">'+(qual?'✓ Qualified':'◌ Research required')+'</span></div>'+
+    '<div class="pick-company">'+safe(l.name)+'</div><div class="pick-location">'+safe(l.district)+' · '+safe(l.industry)+'</div>'+
+    '<div class="pick-detail"><div class="pick-label">WHY CONSIDER IT</div><p>'+safe(l.reason||'Requires further research.')+'</p></div>'+
+    '<div class="pick-detail"><div class="pick-label">WEBSITE TO PROPOSE</div><p>'+safe(l.offer||'Mobile-first professional website')+'</p></div>'+
+    '<div class="pick-keyline"><span class="pick-score">'+Number(l.score||0)+'<small>/100</small></span><div><strong>'+Math.round(Number(l.deal_min_czk||15000)/1000)+'–'+Math.round(Number(l.deal_max_czk||35000)/1000)+'K Kč</strong><small>INDICATIVE WEBSITE PITCH</small></div></div>'+
+    '<div class="pick-contact">'+safe(contact)+'</div>'+
+    '<div class="pick-checks"><div class="pick-label">'+(qual?'VERIFICATION':'MUST CHECK BEFORE PITCH')+'</div><p>'+safe(qual?'Multi-source reviewed; confirm current scope before outreach.':choice.blockers.slice(0,2).join(' · ')||'Website need is unverified.')+'</p></div>'+
+    '<div class="pick-actions"><button type="button" class="pick-dossier" data-pick-id="'+safe(l.id)+'">Open dossier ↗</button><div class="pick-sources">'+sources+'</div></div>'+
+  '</article>';
+ }).join('');
+ document.querySelectorAll('[data-pick-id]').forEach(function(btn){btn.addEventListener('click',function(){openLead(btn.dataset.pickId);});});
+ var rules=policy.constraints;
+ $('criteria-list').innerHTML=rules.map(function(c){return '<div class="criterion"><strong>'+safe(c[0])+'</strong><p>'+safe(c[1])+'</p></div>';}).join('');
+}
 function researchDesk(){
- var ranked=state.leads.slice().filter(function(l){return l.verification!=='rejected';}).sort(function(a,b){return Number(b.score)-Number(a.score);});
+ var policy=window.FieldnotesPicks;var ranked=state.leads.slice().filter(function(l){return policy?!policy.banned(l):l.verification!=='rejected';}).sort(function(a,b){return Number(b.score)-Number(a.score);});
  var five=ranked.slice(0,5),gems=ranked.filter(function(l){return l.website_status==='not_listed' && (l.email || l.phone);}).slice(0,5);
  $('next-actions').innerHTML=five.length?five.map(function(l,i){
  var approach=l.email?'Public email listed':l.phone?'Public phone listed':'Contact not confirmed';
@@ -104,11 +131,13 @@ async function load(){
  try{
  var res=await fetch('./data/leads.json?t='+Date.now(),{cache:'no-store'});if(!res.ok)throw Error('HTTP '+res.status);
  var data=await res.json();var raw=Array.isArray(data)?data:data.leads;if(!Array.isArray(raw))throw Error('Invalid leads.json format');
- state.leads=raw.filter(function(x){return x&&x.id&&x.name;}).map(normalize);state.generatedAt=data.generated_at||null;
+ var manual=[];try{var mr=await fetch('./data/manual-leads.json?t='+Date.now(),{cache:'no-store'});if(mr.ok){var md=await mr.json();if(Array.isArray(md.leads))manual=md.leads;}}catch(e){console.warn('Manual lead research temporarily unavailable',e);}
+ var merged=new Map();raw.concat(manual).filter(function(x){return x&&x.id&&x.name;}).map(normalize).forEach(function(l){merged.set(l.id,l);});
+ state.leads=Array.from(merged.values());state.generatedAt=data.generated_at||null;
  $('data-banner').classList.remove('is-error');$('data-status').textContent=state.leads.length?'Snapshot loaded · '+fmt(state.leads.length)+' leads · source data is not automatically verified':'Collector ready · no leads imported yet · run GitHub Action to populate';
  $('last-updated').textContent='LAST SYNC — '+(state.generatedAt?formatDate(state.generatedAt)+' '+new Date(state.generatedAt).toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'}):'NOT YET RUN');
- countStats();industryChart();focus();list();researchDesk();
- }catch(e){$('data-banner').classList.add('is-error');$('data-status').textContent='Failed to load leads: '+e.message;$('last-updated').textContent='CHECK WORKFLOW / DATA FILE';if(!state.leads.length){countStats();industryChart();focus();list();}}
+ countStats();industryChart();threePicks();focus();list();researchDesk();
+ }catch(e){$('data-banner').classList.add('is-error');$('data-status').textContent='Failed to load leads: '+e.message;$('last-updated').textContent='CHECK WORKFLOW / DATA FILE';if(!state.leads.length){countStats();industryChart();threePicks();focus();list();researchDesk();}}
  finally{state.loading=false;btn.disabled=false;}
 }
 function exportCsv(){
