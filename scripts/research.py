@@ -241,6 +241,18 @@ def discover_website(lead):
         sources.append({"url": page["url"], "result": "identity_match" if good else "ambiguous",
                         "evidence": proof})
         if good:
+            # A listed email/phone is cross-checked against the identity-matched site.
+            body_text = page["html"].casefold()
+            contact_checks = []
+            email = str(lead.get("email") or "").strip().casefold()
+            digits = re.sub(r"\D","",str(lead.get("phone") or ""))
+            if email and email in body_text:
+                contact_checks.append({"method":"email_matches_business_website",
+                                       "value":email,"source":page["url"]})
+            if digits and len(digits)>=9 and digits in re.sub(r"\D","",page["html"]):
+                contact_checks.append({"method":"phone_matches_business_website",
+                                       "value":str(lead.get("phone")),"source":page["url"]})
+            discovery["contact_matches"] = contact_checks
             discovery["website"] = page["url"]
             discovery["state"] = "verified_website"
             discovery["identity"] = proof
@@ -548,7 +560,8 @@ def run():
                     "dossier":dossier(lead,discovery,audit,reg,signals),
                     "candidate_search_sources":candidate_sources,
                     "website_need_verified":bool(audit.get("objective_issues")),
-                    "contact_method":"public_listing_not_owner_verified",
+                    "contact_method":("matched_business_website" if discovery.get("contact_matches") else "public_listing_not_owner_verified"),
+                    "contact_evidence":discovery.get("contact_matches",[]),
                     "owner_verified":False, "buyer_interest_verified":False}
             old_reports[ident]=report
             completed+=1
