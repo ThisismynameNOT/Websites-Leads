@@ -30,7 +30,7 @@ MANUAL = ROOT / "data/manual-leads.json"
 OUTPUT = ROOT / "data/research.json"
 SCREENSHOTS = ROOT / "research-screenshots"
 PER_DAY = min(18, max(1, int(os.environ.get("RESEARCH_DAILY_LIMIT", "12"))))
-ENGINE_VERSION = 3
+ENGINE_VERSION = 4
 QUERY_WAIT = 1.1
 TODAY = dt.datetime.now(dt.timezone.utc).date().isoformat()
 USER_AGENT = "Mozilla/5.0 (compatible; FieldnotesResearch/2.0; +https://github.com/ThisismynameNOT/Websites-Leads)"
@@ -174,10 +174,19 @@ def identity_confirmed(lead, proof):
 
 
 def search_queries(lead):
-    name = str(lead["name"]).replace('"', "").strip()
-    address = str(lead.get("address") or "").split(",")[0]
-    search = ['"' + name + '" Praha webové stránky', '"' + name + '" "' + address[:50] + '" website']
-    return search if address and address.lower() not in ("praha", "prague") else search[:1]
+    """Bounded independent multi-strategy search, regardless of listing website field."""
+    name=str(lead["name"]).replace('"',"").strip()
+    legal=str(lead.get("legal_name") or name).replace('"',"").strip()
+    ico=re.sub(r"\D","",str(lead.get("ico") or ""))
+    road=str(lead.get("address") or "").split(",")[0].strip()
+    industry=str(lead.get("industry") or "").strip()
+    queries=['"'+legal+'" Praha web kontakt služby']
+    if len(ico)==8:queries.append('"'+legal+'" IČO '+ico+' web')
+    else:queries.append('"'+name+'" Praha "'+road[:44]+'"')
+    if len(queries)<3:queries.append('"'+name+'" '+industry+' Praha reference')
+    if legal!=name:queries.append('"'+name+'" Praha web rezervace')
+    if len(queries)<4:queries.append('"'+name+'" web služby reference kontakt')
+    return list(dict.fromkeys(queries))[:4]
 
 
 def search_results(lead):
