@@ -146,7 +146,7 @@ def identity_evidence(lead, html):
         return []
     proof = []
     ico = re.sub(r"\D", "", str(lead.get("ico") or ""))
-    if len(ico) == 8 and ico in re.sub(r"\D", "", body):
+    if len(ico) == 8 and re.search(r"(?<!\\d)"+re.escape(ico)+r"(?!\\d)", soup.get_text(" ", strip=True)):
         proof.append("Matching IČO on website")
     full_name = normalized(lead.get("name"))
     if len(full_name) >= 7 and full_name in body:
@@ -249,7 +249,7 @@ def discover_website(lead):
             if email and email in body_text:
                 contact_checks.append({"method":"email_matches_business_website",
                                        "value":email,"source":page["url"]})
-            if digits and len(digits)>=9 and digits in re.sub(r"\D","",page["html"]):
+            if digits and len(digits)>=9 and any(re.sub(r"\D","",a.get("href","")).endswith(digits[-9:]) for a in BeautifulSoup(page["html"],"html.parser").select("a[href^=tel]")):
                 contact_checks.append({"method":"phone_matches_business_website",
                                        "value":str(lead.get("phone")),"source":page["url"]})
             discovery["contact_matches"] = contact_checks
