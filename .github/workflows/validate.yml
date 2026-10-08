@@ -7,6 +7,7 @@ on:
       - "styles.css"
       - "app.js"
       - "picks.js"
+      - "opportunity.js"
       - "scripts/**"
       - "tests/**"
       - ".github/workflows/validate.yml"
@@ -33,10 +34,11 @@ jobs:
           python -m compileall -q scripts tests
           node --check app.js
           node --check picks.js
+          node --check opportunity.js
       - name: Test company ingestion and qualification
         run: python -m unittest discover -s tests -v
       - name: Test featured shortlist
-        run: node --test tests/picks.test.cjs
+        run: node --test tests/*.test.cjs
       - name: Verify dashboard hooks
         run: |
           python - <<'PY'
@@ -46,6 +48,13 @@ jobs:
           assert 'id="source-status-list"' in h
           assert 'id="top-three"' in h
           assert 'intelligence-ribbon' in h and '.intelligence-ribbon' in c
-          assert '80+' in h
-          print("Dashboard markup and styles verified")
+          assert 'id="stat-total"' in h and 'Top 10 prospects' in h
+          assert 'opportunity.js' in h
+          assert 'id="source-filter"' not in h and 'id="website-filter"' not in h
+          assert 'id="age-filter"' not in h and 'id="search"' not in h
+          print("Top-ten dashboard, evidence ribbon, and removed filters verified")
           PY
+      - name: Install Chromium for dashboard smoke
+        run: python -m playwright install --with-deps chromium
+      - name: Browser-test the top-ten dashboard
+        run: python scripts/smoke_dashboard.py

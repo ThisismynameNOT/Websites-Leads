@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Browser smoke of EXISTING Pages dashboard against repository fixtures.
-Keeps CRM, filtering, shortlist, CSV download and responsive rendering honest.
+Keeps top-ten ranking, CRM, CSV export and responsive rendering honest.
 """
 from __future__ import annotations
 import contextlib
@@ -33,9 +33,12 @@ def main():
                 }""",timeout=30000)
                 assert not errors,"Page JS errors: "+str(errors)
                 assert page.locator("#top-three .pick-card").count()==3,"Missing top 3 display slots"
-                assert page.locator("#source-filter").count()==1
-                assert page.locator("#website-filter").count()==1
-                assert page.locator("#age-filter").count()==1
+                assert page.locator("#leads-body tr").count()==10,"Exactly 10 visible shortlist rows required"
+                assert page.locator("#source-filter").count()==0
+                assert page.locator("#website-filter").count()==0
+                assert page.locator("#age-filter").count()==0
+                assert page.locator("#search").count()==0
+                assert "/ 10" in page.locator("#stat-total").inner_text()
                 assert page.locator("#criteria-list .criterion").count()==16
                 rows=page.locator("tr[data-id]")
                 if rows.count():
@@ -47,17 +50,12 @@ def main():
                     with page.expect_download(timeout=10000) as dl:
                         page.locator("#export-btn").click()
                     assert dl.value.suggested_filename.endswith(".csv")
-                page.locator("#source-filter").select_option("csu_res")
-                page.locator("#source-filter").select_option("all")
-                page.locator("#website-filter").select_option("VERIFIED_WEBSITE")
-                page.locator("#website-filter").select_option("all")
-                page.locator("#age-filter").select_option("730")
-                page.locator("#age-filter").select_option("all")
                 page.set_viewport_size({"width":390,"height":844})
                 page.wait_for_timeout(350)
                 assert page.locator("#top-three").count()==1
+                assert page.locator("#leads-body tr").count()==10
                 assert not errors,"Browser errors: "+str(errors)
-                print("PASS: 3 picks, evidence, 16 rules, CRM drawer, CSV, filters, mobile viewport")
+                print("PASS: 10-slot radar, 3 spotlights, evidence, 16 rules, CRM drawer, CSV, no filters, mobile viewport")
             finally:browser.close()
     finally:server.shutdown();server.server_close()
 if __name__=="__main__":main()

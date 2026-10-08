@@ -30,7 +30,7 @@ MANUAL = ROOT / "data/manual-leads.json"
 OUTPUT = ROOT / "data/research.json"
 SCREENSHOTS = ROOT / "research-screenshots"
 PER_DAY = min(18, max(1, int(os.environ.get("RESEARCH_DAILY_LIMIT", "12"))))
-ENGINE_VERSION = 6
+ENGINE_VERSION = 7
 QUERY_WAIT = 1.1
 TODAY = dt.datetime.now(dt.timezone.utc).date().isoformat()
 USER_AGENT = "Mozilla/5.0 (compatible; FieldnotesResearch/2.0; +https://github.com/ThisismynameNOT/Websites-Leads)"
@@ -42,6 +42,9 @@ DIRECTORIES = {
     "foodora.cz", "restaurantguru.com", "restaurace.cz", "mapquest.com",
     "wikipedia.org", "maps.apple.com", "foursquare.com", "zomato.com",
     "reservio.com", "bookio.com", "notino.cz", "treatwell.cz",
+    "infobel.cz", "place123.net", "ladypraha.cz", "restauracevpraze.net",
+    "ifirmy.cz", "finance.cz", "kurzy.cz", "finmag.cz", "penize.cz",
+    "dostartu.cz", "firmy.eu", "czfirmy.cz",
 }
 CHAIN_RE = re.compile(r"\b(mcdonald'?s|starbucks|kfc|burger king|subway|lidl|tesco|billa|albert|ikea|dhaba beas)\b", re.I)
 SIGNALS = {"new_registration": "Registered in the previous 24 months (ARES)"}
@@ -246,6 +249,10 @@ def discover_website(lead):
         if not page:
             sources.append({"url": u, "result": "unreachable", "reason": err})
             continue
+        # Search URLs can redirect to a business directory. Never audit it as the company website.
+        if is_directory(page["url"]):
+            sources.append({"url": page["url"], "result": "third_party_directory"})
+            continue
         proof = identity_evidence(lead, page["html"])
         good = identity_confirmed(lead, proof)
         sources.append({"url": page["url"], "result": "identity_match" if good else "ambiguous",
@@ -288,7 +295,8 @@ def discover_website(lead):
             break
     if "state" not in discovery:
         saw_possible=any(x.get("result") in ("unreachable","ambiguous") for x in sources)
-        social_only=any(is_directory(c.get("url","")) for c in discovery.get("candidates",[]))
+        social_only=(any(is_directory(c.get("url","")) for c in discovery.get("candidates",[]))
+                     or any(x.get("result")=="third_party_directory" for x in sources))
         sufficient=(len(discovery.get("queries",[]))>=2 and discovery["status"]=="searched"
                     and not discovery.get("errors"))
         if discovery["status"]=="search_unavailable":
@@ -381,6 +389,7 @@ def browser_audit(website, ident):
         from playwright.sync_api import sync_playwright
         SCREENSHOTS.mkdir(exist_ok=True)
         findings = {}
+        transport = {"state": "not_tested"}
         with sync_playwright() as playwright:
             browser = playwright.chromium.launch(headless=True, args=["--no-sandbox"])
             try:
@@ -420,6 +429,29 @@ def browser_audit(website, ident):
                         metrics["http_status"] = response.status if response else None
                         findings[name] = metrics
                         if name == "desktop":
+                            # HTTPS status must be observed, not inferred from a URL or redirect alone.
+                            final_url = page.url
+                            transport = {"state": "https_available" if final_url.startswith("https://") else "not_tested",
+                                         "http_url": final_url if final_url.startswith("http://") else None,
+                                         "observed_url": final_url}
+                            if final_url.startswith("http://"):
+                                parts = urllib.parse.urlsplit(final_url)
+                                host = parts.hostname or ""
+                                if parts.port and parts.port not in (80, 443):
+                                    host += ":" + str(parts.port)
+                                secure = urllib.parse.urlunsplit(("https", host, parts.path, parts.query, ""))
+                                secure_page, secure_error = retrieve(secure, timeout=10, max_bytes=18000)
+                                if secure_page and secure_page["url"].startswith("https://"):
+                                    transport["state"] = "https_available"
+                                    transport["https_url"] = secure_page["url"]
+                                elif secure_page:
+                                    transport["state"] = "https_redirects_to_http"
+                                    transport["https_url"] = secure
+                                else:
+                                    transport["state"] = "http_only_confirmed"
+                                    transport["https_url"] = secure
+                                    transport["https_check_error"] = secure_error
+                                transport["checked_at"] = TODAY
                             path_issues=[]
                             # Same-origin internal site paths only, no redirects or external URLs.
                             base=urllib.parse.urlsplit(website)
@@ -459,7 +491,7 @@ def browser_audit(website, ident):
         if not findings["mobile"]["contact_action"] and findings["mobile"]["form_count"] == 0 and findings["mobile"]["booking_links"] == 0:
             observed.append({"issue": "No machine-detected direct contact, form or booking action on homepage",
                              "detail": "Could be available on subpages or via JavaScript", "method": "Playwright homepage DOM", "url": website})
-        return {"state": "observed", "checked_at": TODAY, "website": website, "devices": findings,
+        return {"state": "observed", "checked_at": TODAY, "website": website, "devices": findings, "transport": transport,
                 "objective_issues": observed, "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
                 "visual_design_review": "human_review_required", "website_score": None}
     except Exception as exc:

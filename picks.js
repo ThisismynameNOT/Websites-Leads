@@ -22,7 +22,7 @@ var CONSTRAINTS=[
 ["12 · Unified commercial ranking","Exactly 25 website need + 25 financial capacity + 20 activity + 15 lead-generation value + 10 contact + 5 CMS. 80+ high, 60–79 further research, below 60 low."],
 ["13 · Deduplicate and verify","Cross-reference business name, IČO, location and websites across sources, avoiding duplicate branches and false links to unrelated firms."],
 ["14 · Evidence and recency","Use multiple attributable links for reviewed findings. Dates must be labelled as registration, premises or actual opening; unknown is unknown."],
-["15 · Three actionable slots","Show exactly three highest-quality nonexcluded prospects when available. If none passes complete verification, show three clearly marked research candidates—not invented approved opportunities."],
+["15 · Ten evidence-gated opportunities","Display at most ten documented website opportunities from new or established businesses, with three spotlight recommendations. Keep remaining slots visibly pending rather than promote unverified candidates."],
 ["16 · Privacy and outreach","Public business contacts only. No guessed data, deceptive demos or mass unsolicited messaging. Follow Czech/EU marketing and data-protection requirements."]
 ];
 function validDate(s){if(!/^\d{4}-\d{2}-\d{2}$/.test(String(s||"")))return null;var d=new Date(s+"T00:00:00Z");return !isNaN(d.getTime())&&d.toISOString().slice(0,10)===s?d:null;}

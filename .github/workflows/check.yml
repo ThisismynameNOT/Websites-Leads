@@ -8,6 +8,7 @@ on:
       - "scripts/**"
       - "tests/**"
       - "picks.js"
+      - "opportunity.js"
       - "app.js"
       - "data/manual-leads.json"
   workflow_dispatch:
@@ -39,5 +40,6 @@ jobs:
         run: |
           node --check app.js
           node --check picks.js
+          node --check opportunity.js
       - name: Run shortlist regression tests
-        run: node --test tests/picks.test.cjs
+        run: node --test tests/*.test.cjs
