@@ -90,7 +90,7 @@ function filtered(){
  var group=l.discovery_pipeline||'unknown';
  var inTab=state.tab==='all'||(state.tab==='new'&&group==='new')||(state.tab==='established'&&group==='established')||
  (state.tab==='hot'&&Number(l.score)>=80)||(state.tab==='unlisted'&&['NO_VERIFIED_WEBSITE_FOUND','THIRD_PARTY_PRESENCE_ONLY'].includes(cls))||(state.tab==='saved'&&local(l.id).saved);
- var inSource=state.source==='all'||(state.source==='csu_res'&&String(l.source_type||'').includes('csu_res'))||(state.source!=='csu_res'&&String(l.source_type||l.data_origin||'').includes(state.source));
+ var inSource=state.source==='all'||(state.source==='csu_res'&&String(l.source_type||'').includes('csu_res'))||(state.source==='Manual curation'&&l.manual===true)||(state.source==='OpenStreetMap'&&(l.data_origin==='OpenStreetMap'||String(l.source_type||'').includes('osm')));
  var inWebsite=state.website==='all'||cls===state.website;
  var start=l.registered_at?Date.parse(l.registered_at+'T00:00:00Z'):NaN;
  var age=state.age==='all'||(!isNaN(start)&&(Date.now()-start>=0)&&(Date.now()-start<=Number(state.age)*86400000));
@@ -103,7 +103,7 @@ function websiteLabel(l){
  var mapping={
  "VERIFIED_WEBSITE":['yes','Verified website'],
  "THIRD_PARTY_PRESENCE_ONLY":['no','Social / directory'],
- "NO_VERIFIED_WEBSITE_FOUND":['no','Not verified found'],
+ "NO_VERIFIED_WEBSITE_FOUND":['no','No verified site found'],
  "AMBIGUOUS":['unknown','Ambiguous'],
  "SEARCH_UNAVAILABLE":['unknown',l.website_status==="not_listed"?"Directory URL missing":"Unverified"]
  };
