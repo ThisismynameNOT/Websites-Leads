@@ -390,6 +390,58 @@ def browser_audit(website, ident):
                 "visual_design_review": "not_completed", "website_score": None}
 
 
+def dated_announcement_signals(lead, discovery):
+    """Extract dated announcements only when title, body and date support claim.
+    Fuzzy snippets and undated search hits are NOT verified buying signals.
+    """
+    if requests is None: return []
+    from bs4 import BeautifulSoup
+    full_name = normalized(lead.get("name"))
+    if len(full_name) < 8: return []
+    candidates = (discovery.get("candidates") or [])[:8]
+    opening = ("nove otevreno", "otevreni", "otevreli", "grand opening", "novy salon", "new location", "newly opened")
+    hiring = ("hledame", "nabor", "hiring", "join our team", "prijmeme", "volna pozice")
+    expansion = ("rozsirujeme", "expanze", "new branch", "nova pobocka", "rozsireni")
+    claims = [("opening_announcement","Dated opening announcement",opening),
+              ("hiring_announcement","Dated hiring announcement",hiring),
+              ("expansion_announcement","Dated expansion announcement",expansion)]
+    found = []
+    checked = 0
+    for result in candidates:
+        title = normalized(result.get("title"))
+        # Evidence must mention the full distinct business name in title.
+        if full_name not in title or not any(k in title for _,_,words in claims for k in words):
+            continue
+        link = result["url"]
+        if is_directory(link) or not valid_business_url(link):
+            continue
+        checked += 1
+        if checked > 3: break
+        page, err = retrieve(link, timeout=10)
+        if not page: continue
+        soup = BeautifulSoup(page["html"],"html.parser")
+        dates = []
+        for key in ("article:published_time","datePublished","pubdate","date","og:updated_time"):
+            for meta in soup.find_all("meta",attrs={"property":key})+soup.find_all("meta",attrs={"name":key}):
+                value=str(meta.get("content") or "")[:10]
+                if re.fullmatch(r"\d{4}-\d{2}-\d{2}",value):
+                    dates.append(value)
+        if not dates:continue
+        date=dates[0]
+        try: age=(dt.date.fromisoformat(TODAY)-dt.date.fromisoformat(date)).days
+        except ValueError:continue
+        if age<0 or age>730:continue
+        body = normalized(soup.get_text(" ",strip=True)[:45000])
+        if full_name not in body or not ("praha" in body or "prague" in body):continue
+        for kind,claim,words in claims:
+            if any(word in title for word in words) and any(word in body for word in words):
+                found.append({"claim":claim,"category":kind,"date":date,
+                              "url":page["url"],"evidence_type":"dated_source_article",
+                              "verification_rule":"Business name in article title and text; keyword and dated publication"})
+                break
+    return found[:3]
+
+
 def dossier(lead, discovery, audit, reg, signals):
     industry = lead.get("industry", "local services")
     found = discovery.get("state") == "verified_website"
@@ -486,7 +538,9 @@ def run():
                         signals.append({"claim":SIGNALS["new_registration"],"url":reg["source"],
                                         "date":reg["registered_at"],"evidence_type":"verified_registry"})
                 except ValueError:pass
-            # Report search results for humans, not as verified new-opening or expansion signals.
+            signals.extend(dated_announcement_signals(lead,discovery))
+            # Search results are research leads; only article-and-date-verified signals are facts.
+
             candidate_sources=[x["url"] for x in discovery.get("candidates",[])[:7]]
             report={"lead_id":ident,"name":lead["name"],"checked_at":TODAY,
                     "state":"audited" if audit.get("state")=="observed" else "researched",
