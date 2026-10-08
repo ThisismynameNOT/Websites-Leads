@@ -8,9 +8,11 @@
       "name": "ČSÚ RES",
       "url": "https://opendata.csu.gov.cz/soubory/od/od_org03/res_data.csv",
       "role": "primary_new_and_established",
-      "status": "automated_official_open_csv",
+      "status": "implemented_awaiting_first_verified_live_snapshot",
       "frequency": "published twice monthly; HEAD checked on workflow",
-      "terms": "Official open data, source attribution required"
+      "terms": "Official open data, source attribution required",
+      "last_success_at": null,
+      "integrity_notes": "Scheduled ingestion parses official CSV but has not yet committed any real candidate output. Verify successful workflow run and generated_at."
     },
     {
       "id": "ares",
