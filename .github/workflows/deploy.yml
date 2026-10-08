@@ -7,6 +7,8 @@ on:
       - "index.html"
       - "styles.css"
       - "app.js"
+      - "picks.js"
+      - "data/manual-leads.json"
       - "data/leads.json"
       - ".github/workflows/deploy.yml"
   workflow_run:
@@ -38,16 +40,22 @@ jobs:
       - name: Prepare public site (exclude scripts / manual pipeline)
         run: |
           mkdir -p public/data
-          cp index.html styles.css app.js public/
+          cp index.html styles.css app.js picks.js public/
+          cp data/manual-leads.json public/data/manual-leads.json
           cp data/leads.json public/data/leads.json
           touch public/.nojekyll
       - name: Validate dashboard bundle
         run: |
           test -s public/index.html
           test -s public/app.js
+          test -s public/picks.js
+          test -s public/data/manual-leads.json
           test -s public/styles.css
           python -m json.tool public/data/leads.json >/dev/null
+          python -m json.tool public/data/manual-leads.json >/dev/null
           node --check public/app.js
+          node --check public/picks.js
+          node --test tests/picks.test.cjs
           echo 'Validated dashboard files and lead JSON.'
       - name: Verify Pages is activated
         env:
@@ -89,6 +97,9 @@ jobs:
               try:
                   with urllib.request.urlopen(url, timeout=18) as response:
                       page = response.read().decode('utf-8')
+                  with urllib.request.urlopen(url + 'picks.js', timeout=18) as response:
+                      pick_code = response.read().decode('utf-8')
+                  assert 'FieldnotesPicks' in pick_code, 'Top-three policy script missing'
                   with urllib.request.urlopen(url + 'data/leads.json', timeout=18) as response:
                       data = json.load(response)
                   assert 'fieldnotes' in page.lower(), 'Dashboard HTML signature missing'
