@@ -4,6 +4,18 @@ Automated, GitHub-native sales prospecting dashboard for web design opportunitie
 
 **Source repo:** https://github.com/ThisismynameNOT/Websites-Leads
 
+## Top-ten opportunity radar (October 2026)
+
+The public GitHub Pages dashboard displays **up to ten evidence-backed sales opportunities**, not the complete 1,800-record discovery database. Raw leads remain available in `data/leads.json` for automated research, but are not shown as prospects until a specific website-opportunity condition has supporting evidence. Search/filter controls were removed from the dashboard intentionally.
+
+- **New businesses (up to 24 months):** Completed independent website research found no confirmed first-party company website or only third-party presence. This is **not proof that no website exists**.
+- **Established businesses:** A first-party company website was identity-matched and a Playwright audit recorded material objective issues (e.g. mobile overflow, broken pages) or an observed HTTP page with an unsuccessful same-host HTTPS probe.
+- **Directory exclusion:** Search hits from company-listing sites, finance registries and social profiles are never audited or scored as the company's own website. HTTP observations do not establish permanent security exposure and should be rechecked before outreach.
+- Unfilled slots remain clearly pending rather than automatically promoting low-confidence businesses. Three spotlight cards use the highest three of the ten; source evidence and qualification remain in each company dossier. Private CRM notes, saved status and exported shortlist data are retained.
+- Technical defects can be measured automatically. Subjective judgements like “horrible design”, buyer budget or readiness to purchase **require separate evidence or human evaluation**.
+
+Top-ten selector: `opportunity.js`. Offline tests: `tests/opportunity.test.cjs`. Browser regression: `scripts/smoke_dashboard.py`. Daily collector remains at 09:00 Prague time; additional AI-assisted review task runs separately.
+
 ## Official Czech registry discovery and qualification
 
 Registry-first path: official ČSÚ RES open CSV → ARES identity verification → independent website searches → measured browser/financial/commerce evidence → one 100-point qualification model → top three.
