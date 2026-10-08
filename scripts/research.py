@@ -526,15 +526,20 @@ def pick_queue(leads, old_reports):
         prior = old_reports.get(l["id"], {})
         stamp = prior.get("checked_at", "")
         age = 0 if not stamp else (dt.date.fromisoformat(TODAY) - dt.date.fromisoformat(stamp)).days
+        official=bool(l.get("ico") and (l.get("source_type")=="csu_res" or str(l.get("source_type") or "").startswith("csu_res")))
+        tier=int(l.get("tier") or 3)
+        try:recent_company=0<=((dt.date.fromisoformat(TODAY)-dt.date.fromisoformat(str(l.get("registered_at")))).days)<=730
+        except ValueError:recent_company=False
         return (l.get("verification") not in ("inactive_registry","rejected","closed"),
-                bool(l.get("address") and l["address"] != "Praha"), contact, age >= 7, bool(l.get("ico")),
-                not listed, int(l.get("score") or 0))
+                official, tier==1, bool(l.get("address") and l["address"] != "Praha"),
+                age >= 7, recent_company, contact, bool(l.get("ico")), not listed,
+                int(l.get("score") or 0))
     rest.sort(key=weight, reverse=True)
     for l in manual + rest:
         if l.get("verification") in ("closed","rejected","inactive_registry"):
             continue
         if CHAIN_RE.search(l.get("name","")): continue
-        if not any(l.get(k) for k in ("phone","email","instagram")): continue
+        if not any(l.get(k) for k in ("phone","email","instagram")) and not (l.get("ico") and l.get("source_type")=="csu_res"): continue
         key = l.get("ico") or (normalized(l.get("name"))+"|"+normalized(l.get("address")))
         if key in seen:continue
         seen.add(key)
