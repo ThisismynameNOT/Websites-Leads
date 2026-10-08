@@ -21,6 +21,7 @@ from zoneinfo import ZoneInfo
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "data" / "leads.json"
 MANUAL = ROOT / "data" / "manual-leads.json"
+RES = ROOT / "data" / "res-candidates.json"
 OVERPASS_ENDPOINTS = (
     "https://overpass.kumi.systems/api/interpreter",
     "https://overpass-api.de/api/interpreter",
@@ -283,12 +284,20 @@ def run():
     if not isinstance(old_leads, list) or not isinstance(manual_data.get("leads"), list):
         raise ValueError("Invalid lead schema")
     by_id = {l["id"]: l for l in old_leads if isinstance(l, dict) and l.get("id")}
+    res_data = read_json(RES, {"leads": []})
+    official_candidates = res_data.get("leads", [])
+    if not isinstance(official_candidates, list): raise ValueError("Invalid ČSÚ candidate schema")
     # On the 09:00 daily schedule, rotate industry categories by Prague date.
     # This ensures every sector gets investigated across six successive days.
     prague_date = NOW.astimezone(ZoneInfo("Europe/Prague")).date()
     segment = segment_for_day(prague_date)
     print("Collector run:", NOW.isoformat(), "Prague day:", prague_date.isoformat(), "segment:", segment, "previous:", len(by_id), flush=True)
-    elements = discover(segment)
+    try:
+        elements = discover(segment)
+    except RuntimeError as error:
+        if not official_candidates and not by_id: raise
+        print("Supplemental OSM temporarily unavailable; preserving official/previous data:", str(error)[:250], file=sys.stderr)
+        elements = []
     incoming = []
     for element in elements:
         item = normalize_osm(element)
@@ -311,6 +320,37 @@ def run():
             by_id[lead["id"]] = lead
             known_keys.add(key_for(lead))
             added += 1
+    # Primary Czech ČSÚ feed merges by exact IČO; it never replaces richer
+    # trading-location evidence or changes stable IDs (protects browser CRM).
+    ico_index = {str(l.get("ico")): l["id"] for l in by_id.values()
+                 if l.get("ico") and l.get("id") and re.fullmatch(r"\d{8}",str(l["ico"]))}
+    res_new = 0
+    for official in official_candidates:
+        if not isinstance(official, dict) or not official.get("id") or not official.get("ico"):
+            continue
+        ico=str(official["ico"])
+        if not re.fullmatch(r"\d{8}",ico):continue
+        current_id=ico_index.get(ico)
+        if current_id:
+            prior=by_id[current_id]
+            # Keep OSM trading names and contacts, set legal identity separately.
+            newer={**prior}
+            for field in ("registered_at","nace2025","tier","legal_form","employee_category",
+                          "registration_status","last_registry_change","res_record_flag",
+                          "source_snapshot","discovery_pipeline","source_type","snapshot_event"):
+                if official.get(field) not in (None,""):newer[field]=official[field]
+            newer["legal_name"]=official["name"]
+            newer["registered_office_address"]=official["address"]
+            newer["source_urls"]=list(dict.fromkeys((prior.get("source_urls") or [])+(official.get("source_urls") or [])))
+            newer["source_registry_urls"]=list(dict.fromkeys((prior.get("source_registry_urls") or [])+(official.get("source_registry_urls") or [])))
+            newer["registered_office_only"]=False if str(prior.get("data_origin","")).startswith("OpenStreetMap") else prior.get("registered_office_only",True)
+            by_id[current_id]=newer
+        else:
+            # Registered company; not yet proof of an active Prague storefront.
+            official={**official,"data_origin":"ČSÚ RES","manual":False,"score":0}
+            by_id[official["id"]]=official
+            ico_index[ico]=official["id"]
+            res_new+=1
     # Manually-curated records always win and are never silently removed.
     for item in manual_data["leads"]:
         if not isinstance(item, dict) or not item.get("id") or not item.get("name"):
@@ -326,12 +366,14 @@ def run():
         if k not in deduped:
             deduped[k] = lead
     leads = list(deduped.values())
-    leads.sort(key=lambda l: (bool(l.get("manual")), int(l.get("score", 0)), l.get("first_seen", "")), reverse=True)
+    leads.sort(key=lambda l: (bool(l.get("manual")), l.get("source_type")=="csu_res", int(l.get("score", 0)), l.get("first_seen", "")), reverse=True)
     leads = leads[:MAX_TOTAL]
     result = {
         "schema_version": 1, "generated_at": ISO,
         "collector": {
-            "name": "OSM + optional ARES lookup", "segment": segment,
+            "name": "ČSÚ RES primary + OSM supplemental + ARES verification", "segment": segment,
+            "res_candidates_loaded": len(official_candidates), "res_added_this_run": res_new,
+            "res_snapshot_at": res_data.get("generated_at"),
             "discovered_this_run": added, "listings_examined": len(elements),
             "notes": "No-website tag denotes a missing directory URL, not independently verified absence of a website. Scores are preliminary."
         },
