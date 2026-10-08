@@ -223,6 +223,11 @@ async function load(){
   if(!rep)return;
   lead.research=rep;
   lead.website_classification=rep.discovery&&rep.discovery.state||'SEARCH_UNAVAILABLE';
+  var officialContacts=rep.verified_site_public_contacts||{};
+  if(rep.discovery&&rep.discovery.state==='VERIFIED_WEBSITE'){
+   if(!lead.email&&Array.isArray(officialContacts.emails)&&officialContacts.emails.length)lead.email=officialContacts.emails[0];
+   if(!lead.phone&&Array.isArray(officialContacts.phones)&&officialContacts.phones.length)lead.phone=officialContacts.phones[0];
+  }
   if(rep.discovery&&rep.discovery.state==='verified_website'&&url(rep.discovery.website)){
    lead.website=rep.discovery.website;lead.website_status='listed';
   }
