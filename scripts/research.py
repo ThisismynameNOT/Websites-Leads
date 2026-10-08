@@ -30,7 +30,7 @@ MANUAL = ROOT / "data/manual-leads.json"
 OUTPUT = ROOT / "data/research.json"
 SCREENSHOTS = ROOT / "research-screenshots"
 PER_DAY = min(18, max(1, int(os.environ.get("RESEARCH_DAILY_LIMIT", "12"))))
-ENGINE_VERSION = 5
+ENGINE_VERSION = 6
 QUERY_WAIT = 1.1
 TODAY = dt.datetime.now(dt.timezone.utc).date().isoformat()
 USER_AGENT = "Mozilla/5.0 (compatible; FieldnotesResearch/2.0; +https://github.com/ThisismynameNOT/Websites-Leads)"
@@ -251,6 +251,25 @@ def discover_website(lead):
         sources.append({"url": page["url"], "result": "identity_match" if good else "ambiguous",
                         "evidence": proof})
         if good:
+            # Extract explicit PUBLIC BUSINESS contact actions on the company website;
+            # never guess emails from a domain or mine arbitrary text/person data.
+            contact_soup=BeautifulSoup(page["html"],"html.parser")
+            site_emails=[]
+            site_phones=[]
+            for action in contact_soup.select("a[href]")[:500]:
+                href=str(action.get("href") or "").strip()
+                if href.lower().startswith("mailto:"):
+                    addr=urllib.parse.unquote(href[7:].split("?",1)[0]).strip().lower()
+                    if re.fullmatch(r"[A-Za-z0-9_.+\-]{1,64}@[A-Za-z0-9.\-]{3,210}\.[A-Za-z]{2,20}",addr):
+                        site_emails.append(addr)
+                elif href.lower().startswith("tel:"):
+                    phone=re.sub(r"[^+\d]","",urllib.parse.unquote(href[4:]))
+                    if 9<=len(re.sub(r"\D","",phone))<=15:site_phones.append(phone)
+            discovery["public_site_contacts"]={
+                "emails":list(dict.fromkeys(site_emails))[:3],
+                "phones":list(dict.fromkeys(site_phones))[:3],
+                "source":page["url"],
+                "evidence":"Explicit mailto/tel links on identity-matched business website"}
             # A listed email/phone is cross-checked against the identity-matched site.
             body_text = page["html"].casefold()
             contact_checks = []
@@ -619,6 +638,7 @@ def run():
                     "website_need_verified":bool(audit.get("objective_issues")),
                     "contact_method":("matched_business_website" if discovery.get("contact_matches") else "public_listing_not_owner_verified"),
                     "contact_evidence":discovery.get("contact_matches",[]),
+                    "verified_site_public_contacts":discovery.get("public_site_contacts",{}),
                     "owner_verified":False, "buyer_interest_verified":False}
             old_reports[ident]=report
             completed+=1
