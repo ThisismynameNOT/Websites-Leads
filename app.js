@@ -38,6 +38,18 @@ function focus(){
  $('focus-content').innerHTML='<h4 class="focus-company">'+safe(l.name)+'</h4><p class="focus-summary">'+safe(l.reason||'A candidate for further research. Review source evidence before reaching out.')+'</p><div class="focus-footer"><span class="focus-score">'+Number(l.score||0)+'/100 · '+priorityName(Number(l.score||0))+'</span><button type="button" id="focus-open" class="focus-button">Open dossier ↗</button></div>';
  $('focus-open').addEventListener('click',function(){openLead(l.id);});
 }
+function researchDesk(){
+ var ranked=state.leads.slice().filter(function(l){return l.verification!=='rejected';}).sort(function(a,b){return Number(b.score)-Number(a.score);});
+ var five=ranked.slice(0,5),gems=ranked.filter(function(l){return l.website_status==='not_listed' && (l.email || l.phone);}).slice(0,5);
+ $('next-actions').innerHTML=five.length?five.map(function(l,i){
+ var approach=l.email?'Public email listed':l.phone?'Public phone listed':'Contact not confirmed';
+ return '<button class="next-row" data-next-id="'+safe(l.id)+'" type="button"><span class="next-index">'+String(i+1).padStart(2,'0')+'</span><span class="next-info"><strong>'+safe(l.name)+'</strong><small>'+safe(l.industry)+' · '+safe(approach)+'</small></span><span class="next-score">'+Number(l.score||0)+'<small>/100</small></span><span class="next-arrow">↗</span></button>';
+ }).join(''):'<p class="muted-empty">No candidate shortlist yet. Start the collector in GitHub Actions.</p>';
+ $('hidden-gems').innerHTML=gems.length?gems.map(function(l){
+ return '<button class="gem-row" data-next-id="'+safe(l.id)+'" type="button"><span class="gem-dot"></span><span><strong>'+safe(l.name)+'</strong><small>'+safe(l.district)+'</small></span><span class="gem-arrow">↗</span></button>';
+ }).join(''):'<p class="muted-empty">No contactable, website-unlisted candidates yet.</p>';
+ document.querySelectorAll('[data-next-id]').forEach(function(btn){btn.addEventListener('click',function(){openLead(btn.dataset.nextId);});});
+}
 function filtered(){
  var s=state.search.toLowerCase().trim(),a=state.leads.filter(function(l){
  var hit=!s||[l.name,l.industry,l.address,l.district,l.ico,l.reason].join(' ').toLowerCase().includes(s);
@@ -95,7 +107,7 @@ async function load(){
  state.leads=raw.filter(function(x){return x&&x.id&&x.name;}).map(normalize);state.generatedAt=data.generated_at||null;
  $('data-banner').classList.remove('is-error');$('data-status').textContent=state.leads.length?'Snapshot loaded · '+fmt(state.leads.length)+' leads · source data is not automatically verified':'Collector ready · no leads imported yet · run GitHub Action to populate';
  $('last-updated').textContent='LAST SYNC — '+(state.generatedAt?formatDate(state.generatedAt)+' '+new Date(state.generatedAt).toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'}):'NOT YET RUN');
- countStats();industryChart();focus();list();
+ countStats();industryChart();focus();list();researchDesk();
  }catch(e){$('data-banner').classList.add('is-error');$('data-status').textContent='Failed to load leads: '+e.message;$('last-updated').textContent='CHECK WORKFLOW / DATA FILE';if(!state.leads.length){countStats();industryChart();focus();list();}}
  finally{state.loading=false;btn.disabled=false;}
 }
