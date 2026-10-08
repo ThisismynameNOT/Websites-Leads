@@ -51,6 +51,13 @@ class CollectorTests(unittest.TestCase):
         self.assertEqual(combined["first_seen"], "2026-01-01")
         self.assertEqual(combined["registered_at"], "2025-01-03")
 
+    def test_daily_sector_rotation_covers_all_six_categories(self):
+        import datetime as dt
+        first = dt.date(2026, 10, 9)
+        choices = [collector.segment_for_day(first + dt.timedelta(days=day)) for day in range(6)]
+        self.assertEqual(set(choices), set(collector.SEGMENTS))
+        self.assertEqual(collector.segment_for_day(first), collector.segment_for_day(first))
+
     def test_query_is_prague_polygon_restricted(self):
         for name in collector.SEGMENTS:
             q = collector.osm_query(name)
