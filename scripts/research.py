@@ -255,11 +255,26 @@ def discover_website(lead):
                                        "value":str(lead.get("phone")),"source":page["url"]})
             discovery["contact_matches"] = contact_checks
             discovery["website"] = page["url"]
-            discovery["state"] = "verified_website"
+            discovery["state"] = "VERIFIED_WEBSITE"
             discovery["identity"] = proof
             break
     if "state" not in discovery:
-        discovery["state"] = "not_found_in_checked_sources" if discovery["status"] in ("searched", "no_results") else "search_unavailable"
+        saw_possible=any(x.get("result") in ("unreachable","ambiguous") for x in sources)
+        social_only=any(is_directory(c.get("url","")) for c in discovery.get("candidates",[]))
+        sufficient=(len(discovery.get("queries",[]))>=2 and discovery["status"]=="searched"
+                    and not discovery.get("errors"))
+        if discovery["status"]=="search_unavailable":
+            discovery["state"]="SEARCH_UNAVAILABLE"
+        elif saw_possible:
+            discovery["state"]="AMBIGUOUS"
+        elif social_only and not sufficient:
+            discovery["state"]="THIRD_PARTY_PRESENCE_ONLY"
+        elif sufficient:
+            discovery["state"]="NO_VERIFIED_WEBSITE_FOUND"
+        elif social_only:
+            discovery["state"]="THIRD_PARTY_PRESENCE_ONLY"
+        else:
+            discovery["state"]="SEARCH_UNAVAILABLE" if discovery.get("errors") else "AMBIGUOUS"
         discovery["website"] = ""
     discovery["examined"] = sources[:9]
     discovery["no_website_proven"] = False
@@ -457,7 +472,7 @@ def dated_announcement_signals(lead, discovery):
 
 def dossier(lead, discovery, audit, reg, signals):
     industry = lead.get("industry", "local services")
-    found = discovery.get("state") == "verified_website"
+    found = discovery.get("state") == "VERIFIED_WEBSITE"
     issues = audit.get("objective_issues", [])
     lead_name = lead.get("name", "Business")
     factual = [
@@ -538,10 +553,16 @@ def run():
         ident=lead["id"]
         print("Researching",ident,lead["name"],flush=True)
         try:
-            discovery=discover_website(lead)
             reg=registry(lead)
+            if reg.get("state")=="registry_found":
+                discovery=discover_website(lead)
+            else:
+                discovery={"state":"SEARCH_UNAVAILABLE","status":"not_executed",
+                           "reason":"Official company identity not confirmed with ARES; website research postponed",
+                           "website":"","queries":[],"candidates":[],"examined":[],
+                           "no_website_proven":False}
             audit=(browser_audit(discovery["website"],ident)
-                   if discovery.get("state")=="verified_website"
+                   if discovery.get("state")=="VERIFIED_WEBSITE"
                    else {"state":"not_run","reason":"No independently verified company website"})
             signals=[]
             if reg.get("state")=="registry_found" and reg.get("registered_at"):
