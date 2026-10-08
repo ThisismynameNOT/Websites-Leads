@@ -1,0 +1,43 @@
+name: Audit pipeline and dashboard
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/check.yml"
+      - "scripts/**"
+      - "tests/**"
+      - "picks.js"
+      - "app.js"
+      - "data/manual-leads.json"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: code-audit
+  cancel-in-progress: true
+
+jobs:
+  regression:
+    name: Python and JavaScript regression
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install deterministic test dependencies
+        run: python -m pip install -r requirements-research.txt
+      - name: Validate all Python source syntax
+        run: python -m compileall -q scripts tests
+      - name: Run unit tests (offline fixtures)
+        run: python -m unittest discover -s tests -v
+      - name: Parse JavaScript
+        run: |
+          node --check app.js
+          node --check picks.js
+      - name: Run shortlist regression tests
+        run: node --test tests/picks.test.cjs
