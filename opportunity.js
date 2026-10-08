@@ -5,7 +5,7 @@
   if(root)root.FieldnotesRadar=api;
 })(typeof window!=="undefined"?window:null,function(){
 "use strict";
-var THIRD_PARTY=/(^|\.)(firmy\.cz|en\.firmy\.cz|zivefirmy\.cz|finmag\.cz|penize\.cz|podnikatel\.cz|kurzy\.cz|finance\.cz|infobel\.cz|place123\.net|ladypraha\.cz|restauracevpraze\.net|ifirmy\.cz|facebook\.com|instagram\.com|linkedin\.com|mapy\.com|google\.com|yelp\.com|tripadvisor\.com|firmy\.eu|dostartu\.cz|rejstriky\.finance\.cz)$/i;
+var THIRD_PARTY=/(^|\.)(firmy\.cz|en\.firmy\.cz|zivefirmy\.cz|finmag\.cz|penize\.cz|podnikatel\.cz|kurzy\.cz|finance\.cz|infobel\.cz|place123\.net|ladypraha\.cz|restauracevpraze\.net|ifirmy\.cz|facebook\.com|instagram\.com|linkedin\.com|mapy\.com|google\.com|yelp\.com|tripadvisor\.com|firmy\.eu|dostartu\.cz|rejstriky\.finance\.cz|booking\.com|slevomat\.cz|wolt\.com|foodora\.cz|restu\.cz|restaurantguru\.com|restaurace\.cz|treatwell\.cz|reservio\.com|bookio\.com|google\.cz|tripadvisor\.cz|seznam\.cz|zomato\.com|opencorporates\.com|idatabaze\.cz)$/i;
 function websiteHost(u){try{var parsed=new URL(u);return /^https?:$/.test(parsed.protocol)?parsed.hostname.toLowerCase().replace(/^www\./,""):"";}catch(e){return "";}}
 function isIndependent(u){var h=websiteHost(u);return !!h&&!THIRD_PARTY.test(h);}
 function siteState(l){var r=l.research||{},d=r.discovery||{},s=d.state||l.website_classification||"SEARCH_UNAVAILABLE";
@@ -53,7 +53,7 @@ function assess(l,today){
    var impact=issues.reduce(function(sum,x){return sum+severity(x);},0);
    var transport=a.transport||{},insecure=transport.state==="http_only_confirmed"&&websiteHost(transport.http_url||site)===websiteHost(site);
    if(!insecure&&impact<3)return null;
-   type="established";label=insecure?"Established · HTTP only":"Established · verified site issues";
+   type="established";label=insecure?"Established · HTTP / HTTPS failed check":"Established · verified site issues";
    reason=insecure?"HTTP site loads and a same-host HTTPS attempt did not succeed during the recorded test; recheck before outreach.":issues.slice(0,2).map(function(x){return x.issue;}).join(" · ");
    if(insecure)issues.unshift({issue:"HTTPS upgrade unsuccessful in observed test",url:transport.http_url||site});
    evidence=site;
