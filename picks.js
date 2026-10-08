@@ -73,7 +73,15 @@ function rank(l,today){
  var reviewed=!!(l.research_reviewed_at&&(l.source_urls||[]).length>=2);
  var within=recent(l,today);
  var score=Number(l.score)||0;
- return score+ (manual&&reviewed?35:0)+(within===true?15:0)+(l.email?7:0)+(l.phone?5:0)+(l.website_status==="not_listed"?5:0)+(l.demo_potential==="High"?4:0);
+ var research=l.research||{},site=research.discovery||{},audit=research.audit||{},reg=research.registry||{};
+ var observed=Array.isArray(audit.objective_issues)?audit.objective_issues.length:0;
+ var auditable=site.state==="verified_website" && audit.state==="observed";
+ var recentEvidence=research.checked_at && Math.abs((new Date(today+"T00:00:00Z")-new Date(research.checked_at+"T00:00:00Z"))/86400000)<=14;
+ return score+ (manual&&reviewed?15:0)+(within===true?12:0)+(l.email?7:0)+(l.phone?5:0)+
+   (l.website_status==="not_listed"?3:0)+(l.demo_potential==="High"?4:0)+
+   (auditable&&recentEvidence?22:0)+(auditable&&recentEvidence&&observed?45:0)+
+   (reg.state==="registry_found"&&recentEvidence?10:0)+
+   (reg.decision_maker&&recentEvidence?8:0);
 }
 function choose(leads,today){
  today=today||new Date().toISOString().slice(0,10);
