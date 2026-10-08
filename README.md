@@ -17,11 +17,11 @@ Automated, GitHub-native sales prospecting dashboard for web design opportunitie
 
 ## First-time activation
 
-1. In the [GitHub Actions tab](https://github.com/ThisismynameNOT/Websites-Leads/actions), choose **Refresh Prague leads** then **Run workflow** to collect the initial candidates. The scheduled workflow also runs automatically once Actions is active.
+1. The repository is **public**, and the first Prague candidate collection has already succeeded. Further collector runs are scheduled automatically every four hours.
 2. Open [Settings → Pages](https://github.com/ThisismynameNOT/Websites-Leads/settings/pages) and set **Build and deployment → Source → GitHub Actions**.
 3. Choose **Publish lead dashboard → Run workflow** in Actions. When it succeeds, GitHub Settings → Pages will show your actual live URL.
 4. If the collector cannot commit data, review **Settings → Actions → General → Workflow permissions** and ensure the workflow token has repository write permission.
-5. The repository is **private**. GitHub Pages from a private repo requires an eligible GitHub Pro/Team/Enterprise plan; GitHub Free generally cannot host Pages from a private repo. Even when source remains private, the *published site* may be public to anyone with the link. Do not publish private sales notes or nonpublic contact data.
+5. This repository is **public**, so GitHub Pages is available on GitHub Free. **Everything committed to this repo and the Pages lead JSON can be read by anyone**. Keep personal sales notes inside the dashboard's browser-only storage. Do not commit nonpublic contact information, secrets, or client data.
 
 Do not assume the site is published until the Pages workflow succeeds.
 
