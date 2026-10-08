@@ -253,6 +253,26 @@ def discover_website(lead):
     return discovery
 
 
+def directors_from_vr(record, source_url):
+    """Extract CURRENT statutory members from official ARES VR fields only."""
+    out = []
+    for entry in record.get("zaznamy", []):
+        if not isinstance(entry,dict): continue
+        for org in entry.get("statutarniOrgany", []):
+            if not isinstance(org,dict) or org.get("datumVymazu"): continue
+            for member in org.get("clenoveOrganu", []):
+                if not isinstance(member,dict) or member.get("datumVymazu"): continue
+                person=member.get("fyzickaOsoba",{})
+                if not isinstance(person,dict): continue
+                given=str(person.get("jmeno") or "").strip()
+                surname=str(person.get("prijmeni") or "").strip()
+                if not given or not surname: continue
+                role=str(((member.get("clenstvi") or {}).get("funkce") or {}).get("nazev") or member.get("nazevAngazma") or "Statutory member")
+                out.append({"name":(given+" "+surname)[:110],"role":role[:110],
+                            "source":source_url,"verified_scope":"Public statutory member; marketing purchasing authority unverified"})
+    return list({x["name"]+x["role"]:x for x in out}.values())[:8]
+
+
 def registry(lead):
     ico = re.sub(r"\D", "", str(lead.get("ico") or ""))
     if len(ico) != 8:
@@ -272,8 +292,24 @@ def registry(lead):
         result = {"state": state, "ico": ico, "legal_name": legal_name[:160],
                   "registered_at": j.get("datumVzniku"), "source": source,
                   "decision_maker": None, "contact_verified": False}
-        # Never mine a person's name from arbitrary JSON fields or a fuzzy search result.
-        # ARES's main economical subject endpoint does not reliably expose directors.
+        vr_url="https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty-vr/"+ico
+        if network_safe(vr_url):
+            try:
+                vr_response=requests.get(vr_url,headers={"Accept":"application/json","User-Agent":USER_AGENT},timeout=14)
+                vr_response.raise_for_status()
+                vr=vr_response.json()
+                if isinstance(vr,dict) and str(vr.get("icoId") or "")==ico:
+                    members=directors_from_vr(vr,source)
+                    result["statutory_members"]=members
+                    if members:result["decision_maker"]=members[0]
+                else:result["statutory_members"]=[]
+            except (requests.RequestException,ValueError,TypeError) as exc:
+                result["statutory_members"]=[]
+                result["director_lookup_status"]=type(exc).__name__
+        if result.get("decision_maker") is None and str(j.get("pravniForma") or "") in ("101","102","103"):
+            if len(normalized(legal_name).split())>=2:
+                result["decision_maker"]={"name":legal_name[:110],"role":"Registered sole trader",
+                    "source":source,"verified_scope":"Registered operator; purchasing authority unverified"}
         return result
     except Exception as e:
         return {"state": "unavailable", "reason": type(e).__name__, "decision_maker": None}
