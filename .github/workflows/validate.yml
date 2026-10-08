@@ -1,0 +1,51 @@
+name: Validate lead dashboard changes
+
+on:
+  pull_request:
+    paths:
+      - "index.html"
+      - "styles.css"
+      - "app.js"
+      - "picks.js"
+      - "scripts/**"
+      - "tests/**"
+      - ".github/workflows/validate.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Install research test dependencies
+        run: python -m pip install -r requirements-research.txt
+      - name: Static syntax checks
+        run: |
+          python -m compileall -q scripts tests
+          node --check app.js
+          node --check picks.js
+      - name: Test company ingestion and qualification
+        run: python -m unittest discover -s tests -v
+      - name: Test featured shortlist
+        run: node --test tests/picks.test.cjs
+      - name: Verify dashboard hooks
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          h=Path("index.html").read_text(encoding="utf-8")
+          c=Path("styles.css").read_text(encoding="utf-8")
+          assert 'id="source-status-list"' in h
+          assert 'id="top-three"' in h
+          assert 'intelligence-ribbon' in h and '.intelligence-ribbon' in c
+          assert '80+' in h
+          print("Dashboard markup and styles verified")
+          PY

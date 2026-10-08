@@ -39,12 +39,11 @@ test("manual fully evidenced verification can be qualified for outreach",()=>{
  assert.equal(policy.isQualified(l,today),true);
  assert.equal(policy.choose([l],today)[0].status,"qualified");
 });
-test("old firms without a documented audit exception cannot be qualified",()=>{
- const l=lead({registered_at:"1993-01-07",verification:"qualified",
-  qualification:{city_verified:true,active_verified:true,contact_verified:true,
-  website_need_verified:true,commercial_fit_verified:true,independent_owner_check:true,
-  not_franchise_verified:true,last_checked:today}});
- assert.equal(policy.isQualified(l,today),false);
+test("established companies can qualify after commercial review regardless of age",()=>{
+ const l=lead({registered_at:"1993-01-07",score:91,
+  qualification_status:"qualified_for_personalized_outreach_review"});
+ assert.equal(policy.isQualified(l,today),true);
+ assert.equal(policy.choose([l],today)[0].status,"qualified");
 });
 test("verified new Prague premises qualify for age even when incorporation is older",()=>{
  const l=lead({registered_at:"2024-08-12",opened_at:"2026-03-02"});
@@ -52,7 +51,7 @@ test("verified new Prague premises qualify for age even when incorporation is ol
 });
 test("stale reviews, invalid contact, outside Prague and no sources are excluded",()=>{
  assert.equal(policy.banned(lead({address:"Kladno, Středočeský kraj",district:"Kladno"})),true);
- assert.equal(policy.banned(lead({email:"",phone:"",instagram:""})),true);
+ assert.equal(policy.banned(lead({email:"",phone:"",instagram:""})),false);
  assert.equal(policy.banned(lead({verification:"closed"})),true);
  assert.equal(policy.isQualified(lead({source_urls:[],verification:"qualified"}),today),false);
 });
@@ -78,6 +77,13 @@ test("registered premises date is distinct from opening date",()=>{
  assert.equal(lead.opened_at,null);
  assert.equal(lead.premises_registered_at,"2026-03-02");
  assert.equal(policy.recent(lead,today),true);
+});
+
+test("registry-only lead remains a research candidate until public contact verified",()=>{
+ const l=lead({id:"registry",ico:"11002233",email:"",phone:"",instagram:"",score:77});
+ assert.equal(policy.banned(l),false);
+ assert.equal(policy.isQualified(l,today),false);
+ assert.equal(policy.choose([l],today)[0].status,"research");
 });
 
 test("established companies are eligible for score-based redesign ranking",()=>{

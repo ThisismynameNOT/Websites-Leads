@@ -38,13 +38,13 @@ function banned(l){
  if(EXCLUDED.test(l.verification||"")||l.do_not_contact===true||l.is_franchise===true||l.is_closed===true)return true;
  if(CHAIN.test(l.name))return true;
  if(!/praha|prague/i.test(l.address+" "+l.district))return true;
- if(!contactable(l))return true;
+ // Missing public contact is a research blocker, not a ban: registry leads need contact discovery.
  // Known older firms cannot be selected just because a directory omitted their web URL.
  // Only a reviewed, evidenced <=4/10 redesign exception may override >24 months.
  return false;
 }
 function isQualified(l){
- return !banned(l)&&l.qualification_status==="qualified_for_personalized_outreach_review";
+ return !banned(l)&&contactable(l)&&l.qualification_status==="qualified_for_personalized_outreach_review";
 }
 function blockers(l){
  var fromEngine=l.outstanding_checks;
