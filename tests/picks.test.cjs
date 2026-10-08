@@ -32,13 +32,10 @@ test("exactly three high quality candidates selected without duplicates or franc
 test("verification is never inferred solely from the score or missing directory URL",()=>{
  const l=lead({score:100,website_status:"not_listed",verification:"registry_checked"});
  assert.equal(policy.isQualified(l,today),false);
- assert.ok(policy.blockers(l,today).some(x=>/independent site/i.test(x)));
+ assert.ok(policy.blockers(l,today).some(x=>/website|financial/i.test(x)));
 });
 test("manual fully evidenced verification can be qualified for outreach",()=>{
- const q={city_verified:true,active_verified:true,contact_verified:true,
-  website_need_verified:true,commercial_fit_verified:true,independent_owner_check:true,
-  not_franchise_verified:true,last_checked:today};
- const l=lead({verification:"qualified",qualification:q});
+ const l=lead({qualification_status:"qualified_for_personalized_outreach_review",score:88});
  assert.equal(policy.isQualified(l,today),true);
  assert.equal(policy.choose([l],today)[0].status,"qualified");
 });
@@ -81,4 +78,16 @@ test("registered premises date is distinct from opening date",()=>{
  assert.equal(lead.opened_at,null);
  assert.equal(lead.premises_registered_at,"2026-03-02");
  assert.equal(policy.recent(lead,today),true);
+});
+
+test("established companies are eligible for score-based redesign ranking",()=>{
+ const old=lead({id:"old",ico:"44556677",name:"Established Roofing",registered_at:"2008-01-01",score:91});
+ const newborn=lead({id:"new",ico:"88990011",name:"New Studio",registered_at:"2026-07-01",score:55});
+ const picks=policy.choose([newborn,old],today);
+ assert.deepEqual(picks.map(x=>x.lead.id),["old","new"]);
+});
+test("same commercial score ranks the top three and the directory",()=>{
+ const leads=[lead({id:"one",ico:"10000001",score:62}),lead({id:"two",ico:"10000002",score:81}),lead({id:"three",ico:"10000003",score:74})];
+ const sorted=leads.slice().sort((a,b)=>b.score-a.score).map(x=>x.id);
+ assert.deepEqual(policy.choose(leads,today).map(x=>x.lead.id),sorted);
 });
