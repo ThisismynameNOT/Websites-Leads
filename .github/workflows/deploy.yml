@@ -11,6 +11,9 @@ on:
       - "data/manual-leads.json"
       - "data/leads.json"
       - "data/research.json"
+      - "data/qualification.json"
+      - "data/sources.json"
+      - "data/res-candidates.json"
       - ".github/workflows/deploy.yml"
   workflow_run:
     workflows: ["Refresh Prague leads"]
@@ -45,6 +48,7 @@ jobs:
           cp data/manual-leads.json public/data/manual-leads.json
           cp data/leads.json public/data/leads.json
           cp data/research.json public/data/research.json
+          cp data/qualification.json data/sources.json public/data/
           touch public/.nojekyll
       - name: Validate dashboard bundle
         run: |
@@ -55,6 +59,8 @@ jobs:
           test -s public/styles.css
           python -m json.tool public/data/leads.json >/dev/null
           python -m json.tool public/data/research.json >/dev/null
+          python -m json.tool public/data/qualification.json >/dev/null
+          python -m json.tool public/data/sources.json >/dev/null
           python -m json.tool public/data/manual-leads.json >/dev/null
           node --check public/app.js
           node --check public/picks.js
@@ -106,6 +112,10 @@ jobs:
                   with urllib.request.urlopen(url + 'data/research.json', timeout=18) as response:
                       research = json.load(response)
                   assert 'reports' in research, 'Research reports missing'
+                  with urllib.request.urlopen(url + 'data/qualification.json', timeout=18) as response:
+                      qualifications = json.load(response)
+                  assert 'scoring_model' in qualifications, 'Qualification data missing'
+
                   with urllib.request.urlopen(url + 'data/leads.json', timeout=18) as response:
                       data = json.load(response)
                   assert 'fieldnotes' in page.lower(), 'Dashboard HTML signature missing'
