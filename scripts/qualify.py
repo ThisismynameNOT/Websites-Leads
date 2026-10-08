@@ -101,7 +101,9 @@ def result(lead,research=None,finance=None,today=TODAY):
     if website>=16:potential+=3
     contact=0
     matches=research.get("contact_evidence") or []
-    if matches:contact+=7
+    public_site=research.get("verified_site_public_contacts") or {}
+    direct_official=bool(public_site.get("emails") or public_site.get("phones")) and website_state=="VERIFIED_WEBSITE"
+    if matches or direct_official:contact+=7
     elif lead.get("email") or lead.get("phone") or lead.get("instagram"):contact+=3
     if reg.get("decision_maker"):contact=min(10,contact+3)
     cms=({1:5,2:4,3:3}.get(tier,2) if website>0 else {1:3,2:2,3:1}.get(tier,1))
@@ -123,7 +125,7 @@ def result(lead,research=None,finance=None,today=TODAY):
     if website_state=="NO_VERIFIED_WEBSITE_FOUND":blockers.append("No site found is not proof of absence; confirm with company")
     if not site_need:blockers.append("Concrete website development need not independently verified")
     if not fin["facts"]:blockers.append("Financial capacity not verified")
-    if not matches:blockers.append("Public contact not independently cross-verified")
+    if not matches and not direct_official:blockers.append("Public contact not independently cross-verified")
     if not reg.get("decision_maker"):blockers.append("Purchasing decision-maker not verified")
     if not research.get("buyer_interest_verified"):blockers.append("Buyer interest and budget not confirmed")
     if lead.get("verification")=="do_not_contact" or lead.get("do_not_contact"):
@@ -131,7 +133,7 @@ def result(lead,research=None,finance=None,today=TODAY):
     elif invalid:
         status="rejected"
     elif (total>=80 and verified_reg and site_need and fin["facts"] and
-          matches and reg.get("decision_maker") and research.get("buyer_interest_verified") is True):
+          (matches or direct_official) and reg.get("decision_maker") and research.get("buyer_interest_verified") is True):
         status="qualified_for_personalized_outreach_review"
     else:
         status="research_required"
