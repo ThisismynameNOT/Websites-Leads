@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-09",
+  "discovery_policy": "Only official public datasets and documented APIs are automated by default. Third-party web pages require permission or a licensed feed.",
+  "sources": [
+    {
+      "id": "csu_res",
+      "name": "ČSÚ RES",
+      "url": "https://opendata.csu.gov.cz/soubory/od/od_org03/res_data.csv",
+      "role": "primary_new_and_established",
+      "status": "automated_official_open_csv",
+      "frequency": "published twice monthly; HEAD checked on workflow",
+      "terms": "Official open data, source attribution required"
+    },
+    {
+      "id": "ares",
+      "name": "ARES",
+      "url": "https://ares.gov.cz/",
+      "role": "identity_verification",
+      "status": "automated_official_rest",
+      "terms": "Official REST API, bounded requests"
+    },
+    {
+      "id": "justice",
+      "name": "Justice.cz",
+      "url": "https://or.justice.cz/ias/ui/rejstrik",
+      "role": "published_statements_and_statutory_documents",
+      "status": "manual_review_only",
+      "reason": "No public bulk statements API or licensed extraction verified; never infer revenue"
+    },
+    {
+      "id": "chytry",
+      "name": "Chytrý Rejstřík",
+      "url": "https://www.chytryrejstrik.cz/api",
+      "role": "optional_company_feed",
+      "status": "requires_paid_api_user_approval",
+      "reason": "Documented authenticated API, access tier and rate limits; no token supplied"
+    },
+    {
+      "id": "fakturuj",
+      "name": "FakturujZdarma — Nové firmy",
+      "url": "https://fakturujzdarma.cz/firmy/nove?page=1",
+      "role": "new_firms",
+      "status": "manual_only_permission_not_confirmed",
+      "reason": "Automated rights and API/export not independently established"
+    },
+    {
+      "id": "penize",
+      "name": "Peníze.cz — Nejnovější subjekty",
+      "url": "https://rejstrik.penize.cz/nejnovejsi-subjekty",
+      "role": "new_firms",
+      "status": "manual_only_permission_not_confirmed",
+      "reason": "No licensed feed confirmed"
+    },
+    {
+      "id": "dostartu",
+      "name": "DoStartu",
+      "url": "https://dostartu.cz/rejstrik/firmy/",
+      "role": "new_firms",
+      "status": "manual_only_permission_not_confirmed",
+      "reason": "No documented permitted automated export established"
+    },
+    {
+      "id": "firmy",
+      "name": "Firmy.cz",
+      "url": "https://www.firmy.cz/",
+      "role": "cross_check_profiles",
+      "status": "manual_review_only",
+      "reason": "No automated directory scraping; robots rules differ by path and bot"
+    },
+    {
+      "id": "finmag",
+      "name": "Finmag",
+      "url": "https://www.finmag.cz/obchodni-rejstrik",
+      "role": "cross_check_company_financials",
+      "status": "manual_review_only",
+      "reason": "No bulk API/feed licence established"
+    },
+    {
+      "id": "osm",
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/copyright",
+      "role": "supplemental_trading_location",
+      "status": "automated_secondary",
+      "frequency": "daily rotating category",
+      "terms": "OSM attribution and ODbL rules apply"
+    }
+  ]
+}
