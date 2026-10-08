@@ -97,7 +97,7 @@ function list(){
 }
 function setTab(tab){state.tab=tab;document.querySelectorAll('[data-tab]').forEach(function(el){el.classList.toggle('active',el.dataset.tab===tab);});list();}
 function link(label, href){var href2=url(href);return href2?'<a href="'+safe(href2)+'" rel="noopener noreferrer" target="_blank">'+safe(label)+' ↗</a>':'<span>'+safe(text(href))+'</span>';}
-function opening(l){return l.opened_at?'Opened '+formatDate(l.opened_at):l.registered_at?'Registered '+formatDate(l.registered_at):'Date not verified';}
+function opening(l){return l.opened_at?'Opened '+formatDate(l.opened_at):l.premises_registered_at?'Premises registered '+formatDate(l.premises_registered_at):l.registered_at?'Registered '+formatDate(l.registered_at):'Date not verified';}
 function openLead(id){
  var l=state.leads.find(function(x){return x.id===id;});if(!l)return;state.selected=id;var crm=local(id);
  $('drawer-id').textContent=id.slice(0,20);
