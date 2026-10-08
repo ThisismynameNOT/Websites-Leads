@@ -78,5 +78,28 @@ jobs:
       - name: Publish
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Smoke-test the published dashboard
+        env:
+          SITE_URL: ${{ steps.deployment.outputs.page_url }}
+        run: |
+          python - <<'PY'
+          import json, os, time, urllib.error, urllib.request
+          url = os.environ['SITE_URL'].rstrip('/') + '/'
+          for attempt in range(12):
+              try:
+                  with urllib.request.urlopen(url, timeout=18) as response:
+                      page = response.read().decode('utf-8')
+                  with urllib.request.urlopen(url + 'data/leads.json', timeout=18) as response:
+                      data = json.load(response)
+                  assert 'fieldnotes' in page.lower(), 'Dashboard HTML signature missing'
+                  assert isinstance(data['leads'], list), 'Lead JSON lacks leads array'
+                  print('LIVE SITE VERIFIED:', url, 'LEADS:', len(data['leads']))
+                  break
+              except (urllib.error.URLError, AssertionError, KeyError, ValueError) as exc:
+                  if attempt == 11:
+                      raise SystemExit('Live URL could not be verified: ' + str(exc))
+                  print('Waiting for Pages CDN:', attempt+1, str(exc))
+                  time.sleep(10)
+          PY
       - name: Show deployed dashboard URL
         run: echo 'Dashboard deployed to ${{ steps.deployment.outputs.page_url }}' >> "$GITHUB_STEP_SUMMARY"
