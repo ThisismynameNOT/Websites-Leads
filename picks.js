@@ -9,17 +9,17 @@ var CHAIN=/\b(mcdonald.?s|starbucks|kfc|burger king|subway|domino.?s|pizza hut|t
 var EXCLUDED=/^(rejected|excluded|closed|inactive_registry|do_not_contact)$/i;
 var CONSTRAINTS=[
 ["01 · Geography","Operating business inside the administrative boundary of Prague. Exclude suburban Central Bohemia, virtual-only or 'serves Prague' listings with no Prague operation."],
-["02 · New or exceptional","Prefer opening, premises launch or incorporation in the last 24 months. Older firms need independently documented serious website deficiencies and a defensible redesign case."],
+["02 · New OR established","New within 7/30/90/365/730 days OR active established company with a verified redesign opportunity. Age alone must not disqualify."],
 ["03 · Real and active","Public evidence that the business exists, is active and has the correct location. No defunct companies, shells or placeholder map entries."],
 ["04 · Suitable industry","Prioritize construction and renovation, architecture and interiors, beauty/wellness, independent hospitality, professional services and automotive."],
 ["05 · Independent buyer","Avoid large corporations, national chains, franchises, banks, public agencies and already professionally represented brands."],
 ["06 · Genuine website gap","Independent website/online-journey investigation. 'No website link in OSM or a directory' is not proof of no site. Check parent brands and existing booking sites."],
 ["07 · Verified problems only","Do not invent low website scores, performance defects, mobile issues, missing CTAs, SEO penalties or broken pages. Attach real evidence before asserting them."],
 ["08 · Accessible contact","At least one real public business contact channel. Prefer a verified direct owner/manager or official business email/phone; never guess addresses."],
-["09 · Commercial potential","Favor a company with plausible willingness and ability to pay 15k–90k+ CZK for an appropriately scoped website. Price is a proposal estimate, not revenue fact."],
+["09 · Financial evidence","Financial capacity is a distinct 25-point criterion. Prefer sourced annual accounts, employee categories, business activity and contracts; unknown finances remain unknown."],
 ["10 · Buying signals","Look for opening, expansion, hiring, rebranding, active marketing and strong customer demand, but count only sourced signals."],
 ["11 · Demonstrable demo","Prefer a strong visual before/after or conversion improvement: mobile navigation, services, galleries, appointments, reservations and quotes. Do not reuse copyrighted photos without permission."],
-["12 · Ranking and verification","Use 0–100 scores for ordering, not as proof of qualification; HOT 80+, STRONG 65–79, POSSIBLE 50–64. Mark incomplete research clearly."],
+["12 · Unified commercial ranking","Exactly 25 website need + 25 financial capacity + 20 activity + 15 lead-generation value + 10 contact + 5 CMS. 80+ high, 60–79 further research, below 60 low."],
 ["13 · Deduplicate and verify","Cross-reference business name, IČO, location and websites across sources, avoiding duplicate branches and false links to unrelated firms."],
 ["14 · Evidence and recency","Use multiple attributable links for reviewed findings. Dates must be labelled as registration, premises or actual opening; unknown is unknown."],
 ["15 · Three actionable slots","Show exactly three highest-quality nonexcluded prospects when available. If none passes complete verification, show three clearly marked research candidates—not invented approved opportunities."],
@@ -43,57 +43,43 @@ function banned(l){
  // Only a reviewed, evidenced <=4/10 redesign exception may override >24 months.
  return false;
 }
-function isQualified(l,today){
- if(banned(l))return false;
- var q=l.qualification||{},old=recent(l,today),src=(l.source_urls||[]).filter(x=>/^https:\/\//i.test(x));
- var evidence=src.length>=2&&new Set(src).size>=2;
- var exception=!!(q.exception_site_audit_verified&&l.website_score!==null&&Number(l.website_score)<=4);
- var fresh=old===true||(exception&&q.recent_or_exception_verified===true);
- return evidence&&fresh&&l.verification==="qualified"&&q.city_verified===true&&q.active_verified===true&&q.contact_verified===true&&q.website_need_verified===true&&q.commercial_fit_verified===true&&q.independent_owner_check===true&&q.not_franchise_verified===true&&!!validDate(q.last_checked)&&((new Date(today+"T00:00:00Z")-validDate(q.last_checked))/86400000<=90)&&((new Date(today+"T00:00:00Z")-validDate(q.last_checked))/86400000>=0);
+function isQualified(l){
+ return !banned(l)&&l.qualification_status==="qualified_for_personalized_outreach_review";
 }
-function blockers(l,today){
- var out=[],date=recent(l,today),q=l.qualification||{};
- if(date===null)out.push("Opening or registration date needs independent confirmation");
- else if(date===false&&!q.exception_site_audit_verified)out.push("Outside 24-month window; documented exceptional site need required");
- if(!q.website_need_verified)out.push("Independent site/booking search and evidence still required");
- if(!q.active_verified)out.push("Confirm current trading activity and exact Prague operation");
- if(!q.contact_verified)out.push("Confirm public contact reaches the business");
- if(!q.commercial_fit_verified)out.push("Confirm need and commercial fit with the buyer");
- if(!q.independent_owner_check)out.push("Confirm buyer or responsible decision-maker");
- if(Array.isArray(l.verification_gaps))out=out.concat(l.verification_gaps);
- return [...new Set(out)].slice(0,8);
+function blockers(l){
+ var fromEngine=l.outstanding_checks;
+ if(Array.isArray(fromEngine)&&fromEngine.length)return fromEngine.slice(0,12);
+ var x=[];
+ if(!l.ico)x.push("Official IČO / ARES identity verification missing");
+ if(!l.research)x.push("Independent website and business research has not completed");
+ if(!l.email&&!l.phone&&!l.instagram)x.push("No public business contact verified");
+ x.push("Financial capacity, website need or buyer authority still require evidence");
+ return x;
 }
 function signature(l){
  if(l.ico&&/^\d{8}$/.test(String(l.ico)))return "ico:"+l.ico;
  var cleaned=s=>String(s||"").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/[^a-z0-9]/g,"");
  return cleaned(l.name)+"|"+cleaned(l.address);
 }
-function rank(l,today){
- var manual=l.manual===true||l.data_origin==="Manual web research";
- var reviewed=!!(l.research_reviewed_at&&(l.source_urls||[]).length>=2);
- var within=recent(l,today);
- var score=Number(l.score)||0;
- var research=l.research||{},site=research.discovery||{},audit=research.audit||{},reg=research.registry||{};
- var observed=Array.isArray(audit.objective_issues)?audit.objective_issues.length:0;
- var auditable=site.state==="verified_website" && audit.state==="observed";
- var recentEvidence=research.checked_at && Math.abs((new Date(today+"T00:00:00Z")-new Date(research.checked_at+"T00:00:00Z"))/86400000)<=14;
- return score+ (manual&&reviewed?15:0)+(within===true?12:0)+(l.email?7:0)+(l.phone?5:0)+
-   (l.website_status==="not_listed"?3:0)+(l.demo_potential==="High"?4:0)+
-   (auditable&&recentEvidence?22:0)+(auditable&&recentEvidence&&observed?45:0)+
-   (reg.state==="registry_found"&&recentEvidence?10:0)+
-   (reg.decision_maker&&recentEvidence?8:0);
-}
+function rank(l){return Number.isFinite(Number(l.score))?Number(l.score):0;}
 function choose(leads,today){
- today=today||new Date().toISOString().slice(0,10);
- var seen=new Set(), candidates=[];
- (leads||[]).filter(l=>{if(banned(l))return false;var newBusiness=recent(l,today)===true;var q=l.qualification||{};var provenException=q.exception_site_audit_verified===true && l.website_score!==null && Number(l.website_score)<=4 && q.recent_or_exception_verified===true;return newBusiness||provenException;}).sort((a,b)=>rank(b,today)-rank(a,today)).forEach(l=>{var k=signature(l);if(!seen.has(k)){seen.add(k);candidates.push(l);}});
- var reviewed=candidates.filter(l=>isQualified(l,today)),other=candidates.filter(l=>!isQualified(l,today));
- return reviewed.concat(other).slice(0,3).map((l,index)=>({
-   rank:index+1,lead:l,
-   status:isQualified(l,today)?"qualified":"research",
-   qualification:isQualified(l,today)?"Approved for a personalized outreach review":"Research required before pitching",
-   blockers:isQualified(l,today)?[]:blockers(l,today)
- }));
+ var seen=new Set(),candidates=[];
+ (leads||[]).filter(l=>!banned(l)).sort(function(a,b){
+  var diff=rank(b)-rank(a);
+  if(diff)return diff;
+  var tierA=Number(a.tier)||3,tierB=Number(b.tier)||3;
+  return tierA-tierB||String(a.name).localeCompare(String(b.name));
+ }).forEach(function(l){
+  var key=signature(l);
+  if(!seen.has(key)){seen.add(key);candidates.push(l);}
+ });
+ var approved=candidates.filter(isQualified),needsResearch=candidates.filter(l=>!isQualified(l));
+ return approved.concat(needsResearch).slice(0,3).map(function(l,i){
+  var qualified=isQualified(l);
+  return {rank:i+1,lead:l,status:qualified?"qualified":"research",
+   qualification:qualified?"Approved for personalized outreach review":"Research required before pitching",
+   blockers:qualified?[]:blockers(l)};
+ });
 }
 return {choose:choose,banned:banned,isQualified:isQualified,blockers:blockers,recent:recent,constraints:CONSTRAINTS,signature:signature};
 });
