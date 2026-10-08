@@ -10,6 +10,7 @@ on:
       - "picks.js"
       - "data/manual-leads.json"
       - "data/leads.json"
+      - "data/research.json"
       - ".github/workflows/deploy.yml"
   workflow_run:
     workflows: ["Refresh Prague leads"]
@@ -43,6 +44,7 @@ jobs:
           cp index.html styles.css app.js picks.js public/
           cp data/manual-leads.json public/data/manual-leads.json
           cp data/leads.json public/data/leads.json
+          cp data/research.json public/data/research.json
           touch public/.nojekyll
       - name: Validate dashboard bundle
         run: |
@@ -52,6 +54,7 @@ jobs:
           test -s public/data/manual-leads.json
           test -s public/styles.css
           python -m json.tool public/data/leads.json >/dev/null
+          python -m json.tool public/data/research.json >/dev/null
           python -m json.tool public/data/manual-leads.json >/dev/null
           node --check public/app.js
           node --check public/picks.js
@@ -100,6 +103,9 @@ jobs:
                   with urllib.request.urlopen(url + 'picks.js', timeout=18) as response:
                       pick_code = response.read().decode('utf-8')
                   assert 'FieldnotesPicks' in pick_code, 'Top-three policy script missing'
+                  with urllib.request.urlopen(url + 'data/research.json', timeout=18) as response:
+                      research = json.load(response)
+                  assert 'reports' in research, 'Research reports missing'
                   with urllib.request.urlopen(url + 'data/leads.json', timeout=18) as response:
                       data = json.load(response)
                   assert 'fieldnotes' in page.lower(), 'Dashboard HTML signature missing'
