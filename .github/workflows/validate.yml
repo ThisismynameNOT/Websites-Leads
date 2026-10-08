@@ -26,6 +26,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
+      - name: Install research test dependencies
+        run: python -m pip install -r requirements-research.txt
       - name: Static syntax checks
         run: |
           python -m compileall -q scripts tests
