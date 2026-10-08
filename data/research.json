@@ -1,0 +1,15 @@
+{
+  "schema_version": 2,
+  "generated_at": null,
+  "mode": "evidence_based_no_ai",
+  "status": "not_run",
+  "searched_today": 0,
+  "completed_today": 0,
+  "limits": {
+    "web_discovery": "Search omissions never prove a business has no website",
+    "browser": "Objective DOM and responsive geometry, not aesthetic judgement",
+    "buyer": "Buying intent and director authority require direct verification"
+  },
+  "errors": [],
+  "reports": {}
+}
