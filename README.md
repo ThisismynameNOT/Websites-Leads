@@ -4,6 +4,22 @@ Automated, GitHub-native sales prospecting dashboard for web design opportunitie
 
 **Source repo:** https://github.com/ThisismynameNOT/Websites-Leads
 
+## Official Czech registry discovery and qualification
+
+Registry-first path: official ČSÚ RES open CSV → ARES identity verification → independent website searches → measured browser/financial/commerce evidence → one 100-point qualification model → top three.
+
+- New companies (last 7, 30, 90, 365 or 730 days) and established companies are supported. Older companies are NOT disqualified just because of age.
+- The official ČSÚ RES CSV is published twice monthly. Its P record-change flag is not synonymous with new incorporation. The automated importer processes a bounded Prague-sector sample, not all registered Czech businesses.
+- RES ingestion is in scripts/res_ingest.py, supplemental OSM reconciliation in scripts/refresh.py, evidence research in scripts/research.py, finance-aware scoring in scripts/qualify.py, and safe Git publication in scripts/safe_publish.py.
+- Qualified scores are published in data/qualification.json and shared by directory and top-three lists. Weights: website 25, finance 25, activity 20, lead value 15, contact 10, CMS 5.
+- Financial claims require dated public documents in data/financial-evidence.json. Without real evidence financial capacity is explicitly not verified and receives zero financial points.
+- data/sources.json clearly identifies official automation, manual-only sources and paid API options requiring approval.
+- Public Pages, local notes/CRM, CSV export, manual leads and responsive visual design are preserved.
+
+CAUTION: The ČSÚ CSV is a large download. Do not claim it successfully imported until data/res-candidates.json has a non-null generated_at and counts from a live workflow. The search fallback may be rate-limited. Existing snapshots are retained when upstream sources fail.
+
+Read [Source Integrations](./SOURCE_INTEGRATIONS.md) and [Research Pipeline](./RESEARCH_PIPELINE.md) for limits and configuration.
+
 ## Evidence-first research upgrade (October 2026)
 
 **Daily automatic research now includes** independent website search, official ARES verification, current registry-member lookup when available, browser measurements of desktop/mobile layouts, screenshots in workflow artifacts, cross-checks of listed business contacts, dated opening/hiring/expansion signals, and source-grounded personalized sales dossiers.
@@ -19,7 +35,7 @@ For the exact research methodology, limitations, optional authenticated search c
 - Mobile-responsive sales dashboard, search, industry filters, opportunity rankings and lead dossiers.
 - CSV export; saved prospects, notes and outreach stages stored locally in your browser.
 - Daily collection scheduled at **09:00 every morning in Europe/Prague**, automatically following CET/CEST daylight-saving time.
-- OpenStreetMap listing research limited to the administrative city of Prague.
+- Registry-first ČSÚ RES discovery of Prague companies, with OpenStreetMap as supplementary location evidence.
 - Six rotating industry groups: beauty, food, professional services, trades, retail and wellness.
 - Optional ARES business-registration checks when the directory lists an IČO.
 - Dedupe, JSON persistence, source links, manual lead merges and offline unit tests.
@@ -44,7 +60,7 @@ The initial researched picks (checked 8 October 2026) are **An Beauty Studio**, 
 ### The 16 enforced restrictions
 
 1. **Prague only:** real operation inside Prague administrative limits, not Central Bohemia or a remote-only business.
-2. **Newness:** prefer last 24 months since registration, confirmed opening or premises activation. Older exceptional redesigns need documented evidence.
+2. **Age cohorts:** both newly registered and established companies are eligible; older companies need real redesign evidence, not an age exception.
 3. **Existence and activity:** verify a legitimate currently operating business with its correct address.
 4. **Sector focus:** construction/property, beauty/wellness, independent hospitality, professional services, automotive, related sectors.
 5. **Independent buyer:** exclude corporate brands, huge chains, franchises, banks, government entities and complex mature digital brands.
@@ -54,7 +70,7 @@ The initial researched picks (checked 8 October 2026) are **An Beauty Studio**, 
 9. **Ability to buy:** credible commercial potential and realistically priced scope for a 15,000–90,000+ CZK project.
 10. **Buying signals:** document sourced opening, hiring, expansion, marketing, rebrand or customer momentum.
 11. **Demo value:** a concrete visual/conversion improvement; obtain permission before using images, logos or personal photos.
-12. **Transparent priority:** scored out of 100; HOT 80+, STRONG 65–79, POSSIBLE 50–64. Score alone never qualifies a lead.
+12. **Unified priority:** 25 website + 25 finance + 20 activity + 15 lead generation + 10 contact + 5 CMS. 80+ high, 60–79 further research, below 60 low.
 13. **No duplicates:** deduplicate by IČO, name, location, domain and connected branches.
 14. **Sources/date fidelity:** keep multiple public evidence links, distinguish incorporation/premises dates from actual launch dates.
 15. **Exactly three presentation slots:** three picks or clearly unfilled slots; not padded with fabricated verified leads.
