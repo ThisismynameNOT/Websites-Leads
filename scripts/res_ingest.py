@@ -97,7 +97,7 @@ def candidates(reader,previous=None,today=TODAY):
     prev=(previous or {}).get("tracked",{})
     counts={"rows":0,"prague_relevant":0,"new":0,"established":0,"previously_tracked":len(prev),
             "first_seen_in_snapshot":0,"changed_in_snapshot":0}
-    new=[],est=[],seen={}
+    new=[],est=[]
     for row in reader:
         counts["rows"]+=1
         lead=interpret(row,today)
@@ -116,31 +116,34 @@ def candidates(reader,previous=None,today=TODAY):
         # Predictable global cap; prefer newer registrants and verified employment metadata.
         score=(1 if lead["employee_category"] else 0)
         if lead["discovery_pipeline"]=="new":
-            new.append(((lead["registered_at"] or ""),-lead["tier"],score,ico,lead))
+            new.append(((lead["registered_at"] or ""),-lead["tier"],score,ico,lead,fp))
             counts["new"]+=1
         else:
             # Stable deterministic sample across the entire dataset (not first N CSV rows).
             key=int(hashlib.sha256(ico.encode()).hexdigest()[:10],16)
-            est.append((lead["tier"],key,ico,lead))
+            est.append((lead["tier"],key,ico,lead,fp))
             counts["established"]+=1
-        # Track selected industries; budget cap explicit, not full universe.
-        # Only newest registrations and stable sample reach history index.
-        if len(seen)<MAX_TRACKED:seen[ico]=fp
-    newest=[t[-1] for t in sorted(new,reverse=True)[:MAX_NEW]]
-    older=[t[-1] for t in sorted(est)[:MAX_ESTABLISHED]]
+    # Stable two-cohort sample with full snapshot fingerprint of each published ICO.
+    # Only the selected sample is indexed; no false full-universe change claims.
+    selected_new=sorted(new,reverse=True)[:MAX_NEW]
+    selected_est=sorted(est)[:MAX_ESTABLISHED]
     out=[]
-    for lead in newest+older:
-        if lead["ico"] not in {x["ico"] for x in out}:out.append(lead)
-    # History index covers selected candidates only; no false all-country coverage assertion.
-    indexed={l["ico"]:fingerprint_for_cached(l,seen,prev) for l in out}
-    first_seen={l["ico"]:l["first_seen"] for l in out}
-    counts["published_new"]=len(newest)
-    counts["published_established"]=len(older)
-    counts["tracked_for_next_snapshot"]=len(indexed)
-    return out,{"tracked":indexed,"first_seen":first_seen},counts
+    index={}
+    first_seen={}
+    for item in selected_new+selected_est:
+        lead,fp=item[-2],item[-1]
+        ico=lead["ico"]
+        if ico in index:continue
+        out.append(lead)
+        index[ico]=fp
+        first_seen[ico]=lead["first_seen"]
+    counts["newly_seen_selected"]=sum(1 for l in out if l["snapshot_event"]=="first_seen_in_filtered_snapshot")
+    counts["changed_selected"]=sum(1 for l in out if l["snapshot_event"]=="changed_record_not_new_company")
 
-def fingerprint_for_cached(lead,current,old):
-    return current.get(lead["ico"]) or old.get(lead["ico"]) or ""
+    counts["published_new"]=len(selected_new)
+    counts["published_established"]=len(selected_est)
+    counts["tracked_for_next_snapshot"]=len(index)
+    return out,{"tracked":index,"first_seen":first_seen},counts
 
 def ingest_csv(handle,previous=None,today=TODAY):
     rows=csv.DictReader(handle)
