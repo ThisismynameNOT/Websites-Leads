@@ -63,3 +63,19 @@
 @media(max-width:1350px){.top-three-grid{grid-template-columns:1fr 1fr}.pick-card:last-child{grid-column:1/-1}}
 @media(max-width:980px){.top-three-grid{grid-template-columns:1fr}.pick-card:last-child{grid-column:auto}.pick-location{min-height:0}}
 @media(max-width:700px){.featured-picks{padding:20px 13px 16px}.picks-heading{gap:9px}.picks-title-row h2{font-size:23px}.picks-refresh-label{font-size:8px}.picks-count{display:none}.top-three-grid{gap:10px}.criteria-grid{grid-template-columns:1fr}}
+
+/* Evidence-backed research dossiers */
+.research-dossier{border:1px solid #dfe9db;background:#f4f8f0;border-radius:9px;padding:17px;margin:25px 0}
+.research-heading{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.research-heading h3{font-size:15px;margin:0}
+.research-tag{font:9px var(--mono);padding:5px 8px;background:#e1edd8;border-radius:5px;color:#50774d}
+.research-field{padding:13px 0;border-bottom:1px solid #dee8d8}
+.research-field:last-child{border-bottom:0}
+.research-field .fact-label{display:block;margin:0 0 9px;font:9px var(--mono);letter-spacing:.6px;color:#849a7d}
+.research-field p{font-size:11px;color:#526953;line-height:1.65;margin:6px 0}
+.research-field p strong{color:#354f39}
+.research-field .research-small{color:#849884;font-size:10px}
+.research-field .research-issue{border-left:3px solid #d5aa64;padding:7px 10px;background:#fff9ef}
+.research-field a{font-weight:700;color:#3e7549;text-decoration:underline;text-underline-offset:2px}
+.research-dossier .source-list{gap:5px}
+.research-dossier .source-list a{font-size:9px}
