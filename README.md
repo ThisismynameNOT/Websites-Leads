@@ -25,6 +25,35 @@ Automated, GitHub-native sales prospecting dashboard for web design opportunitie
 
 Do not assume the site is published until the Pages workflow succeeds.
 
+## The daily three-pick shortlist
+
+The dashboard places **exactly three prospects** above the full directory. The picker runs against the daily refreshed dataset and prefers researched, public-source-supported businesses over generic OSM entries. A prospect is marked **Research required** until all qualification checks are actually completed. An empty slot is shown if there are fewer than three acceptable candidates; the system never invents companies to reach three.
+
+The initial researched picks (checked 8 October 2026) are **An Beauty Studio**, **Marina Hreben — Brow Atelier**, and **Café Marathon**. All three are provisional; none is yet verified to lack a separate website or booking system. Relevant original research links and explicit next-check gaps are included in \`data/manual-leads.json\`. They are not automatically approved for outreach.
+
+### The 16 enforced restrictions
+
+1. **Prague only:** real operation inside Prague administrative limits, not Central Bohemia or a remote-only business.
+2. **Newness:** prefer last 24 months since registration, confirmed opening or premises activation. Older exceptional redesigns need documented evidence.
+3. **Existence and activity:** verify a legitimate currently operating business with its correct address.
+4. **Sector focus:** construction/property, beauty/wellness, independent hospitality, professional services, automotive, related sectors.
+5. **Independent buyer:** exclude corporate brands, huge chains, franchises, banks, government entities and complex mature digital brands.
+6. **Website need:** independently verify absence, a real deficiency, or an actual customer journey gap; directory omissions alone prove nothing.
+7. **Factual UX audit:** do not invent website scores, speed measurements, broken pages, SEO/mobile defects or missing CTAs.
+8. **Public contacts:** a real public business contact channel; aim to confirm the actual buyer or manager, never guess emails.
+9. **Ability to buy:** credible commercial potential and realistically priced scope for a 15,000–90,000+ CZK project.
+10. **Buying signals:** document sourced opening, hiring, expansion, marketing, rebrand or customer momentum.
+11. **Demo value:** a concrete visual/conversion improvement; obtain permission before using images, logos or personal photos.
+12. **Transparent priority:** scored out of 100; HOT 80+, STRONG 65–79, POSSIBLE 50–64. Score alone never qualifies a lead.
+13. **No duplicates:** deduplicate by IČO, name, location, domain and connected branches.
+14. **Sources/date fidelity:** keep multiple public evidence links, distinguish incorporation/premises dates from actual launch dates.
+15. **Exactly three presentation slots:** three picks or clearly unfilled slots; not padded with fabricated verified leads.
+16. **Privacy/legal:** public business contact data only, no private notes in committed JSON, respect Czech/EU outreach rules.
+
+Qualification additionally requires an explicitly documented review: \`qualification.city_verified\`, \`active_verified\`, \`contact_verified\`, \`website_need_verified\`, \`commercial_fit_verified\`, \`independent_owner_check\`, \`not_franchise_verified\`, a recent \`last_checked\`, and at least two evidence links. These flags must only be set after actual review. Unverified candidates stay **Research required**.
+
+The site loads \`picks.js\` (standalone selection policy) and \`data/manual-leads.json\` (manually researched evidence) alongside the main daily \`data/leads.json\` feed. The GitHub Pages publisher copies all of these files and runs the policy tests.
+
 ## Where leads come from
 
 The Python collector reads OpenStreetMap records for businesses within Prague's city boundary via the Overpass API. At most 230 new candidates are retained per run, with a maximum of 1800 deduplicated candidates in the dataset. It rotates between six industry groups across six successive Prague calendar days, keeping existing leads in the snapshot. ARES is queried on a subset of newly discovered companies that have an IČO on their map record.
