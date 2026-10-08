@@ -51,7 +51,7 @@ test("verified new Prague premises qualify for age even when incorporation is ol
 });
 test("stale reviews, invalid contact, outside Prague and no sources are excluded",()=>{
  assert.equal(policy.banned(lead({address:"Kladno, Středočeský kraj",district:"Kladno"})),true);
- assert.equal(policy.banned(lead({email:"",phone:"",instagram:""})),true);
+ assert.equal(policy.banned(lead({email:"",phone:"",instagram:""})),false);
  assert.equal(policy.banned(lead({verification:"closed"})),true);
  assert.equal(policy.isQualified(lead({source_urls:[],verification:"qualified"}),today),false);
 });
@@ -77,6 +77,13 @@ test("registered premises date is distinct from opening date",()=>{
  assert.equal(lead.opened_at,null);
  assert.equal(lead.premises_registered_at,"2026-03-02");
  assert.equal(policy.recent(lead,today),true);
+});
+
+test("registry-only lead remains a research candidate until public contact verified",()=>{
+ const l=lead({id:"registry",ico:"11002233",email:"",phone:"",instagram:"",score:77});
+ assert.equal(policy.banned(l),false);
+ assert.equal(policy.isQualified(l,today),false);
+ assert.equal(policy.choose([l],today)[0].status,"research");
 });
 
 test("established companies are eligible for score-based redesign ranking",()=>{
