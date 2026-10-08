@@ -29,6 +29,19 @@ class ResearchTests(unittest.TestCase):
         self.assertTrue(research.is_directory("https://www.firmy.cz/detail/123"))
         self.assertTrue(research.is_directory("https://instagram.com/abc"))
         self.assertFalse(research.is_directory("https://example.cz/"))
+        for website in ("https://www.ladypraha.cz/katalog/test", "http://www.place123.net/entry",
+                        "https://local.infobel.cz/company", "https://rejstriky.finance.cz/details",
+                        "https://rejstrik-firem.kurzy.cz/firm", "https://www.finmag.cz/obchodni-rejstrik"):
+            self.assertTrue(research.is_directory(website), website)
+
+    def test_redirected_directory_never_becomes_verified_website(self):
+        example=self.example()
+        search={"status":"searched","queries":["query-one","query-two"],"candidates":[{"url":"https://example.cz/business"}],"errors":[]}
+        with patch.object(research,"search_results",return_value=search), \\
+             patch.object(research,"retrieve",return_value=({"url":"https://www.firmy.cz/detail/123","html":"Business IČO 12345678","status":200},None)):
+            found=research.discover_website(example)
+        self.assertNotEqual(found["state"],"VERIFIED_WEBSITE")
+        self.assertEqual(found["website"],"")
 
     def test_identity_requires_business_name_and_street_or_exact_ico(self):
         lead=self.example()
