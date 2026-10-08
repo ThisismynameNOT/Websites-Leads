@@ -68,3 +68,17 @@ test("known parent-company franchises are excluded",()=>{
   assert.equal(policy.banned(lead({name})),true,name);
  }
 });
+
+test("three manually researched Prague businesses rank as the starting daily picks",()=>{
+ const curated=require("../data/manual-leads.json").leads;
+ const choices=policy.choose(curated,today);
+ assert.deepEqual(choices.map(x=>x.lead.name),["An Beauty Studio","Marina Hreben","Café Marathon"]);
+ assert.ok(choices.every(x=>x.status==="research"),"No unverified business may be promoted as qualified");
+ assert.ok(choices.every(x=>(x.lead.source_urls||[]).length>=2),"Each research pick must cite at least two sources");
+});
+test("registered premises date is distinct from opening date",()=>{
+ const lead=require("../data/manual-leads.json").leads.find(x=>x.name==="Marina Hreben");
+ assert.equal(lead.opened_at,null);
+ assert.equal(lead.premises_registered_at,"2026-03-02");
+ assert.equal(policy.recent(lead,today),true);
+});
