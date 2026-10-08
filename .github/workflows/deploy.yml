@@ -48,6 +48,26 @@ jobs:
           test -s public/styles.css
           python -m json.tool public/data/leads.json >/dev/null
           echo 'Validated dashboard files and lead JSON.'
+      - name: Verify Pages is activated
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          STATUS=$(curl -sS -o /tmp/pages-check.json -w "%{http_code}" \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/pages")
+          if [ "$STATUS" = "404" ]; then
+            echo "::error::GitHub Pages needs one-time activation: Settings > Pages > Build and deployment > Source > GitHub Actions."
+            echo "### Action required" >> "$GITHUB_STEP_SUMMARY"
+            echo "Enable **Settings → Pages → Source → GitHub Actions**, then rerun this workflow." >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi
+          if [ "$STATUS" != "200" ]; then
+            echo "::error::Unable to inspect GitHub Pages (HTTP $STATUS)."
+            cat /tmp/pages-check.json
+            exit 1
+          fi
+          echo "GitHub Pages is activated."
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
       - name: Upload static site
