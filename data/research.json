@@ -1,15 +1,1899 @@
 {
   "schema_version": 2,
-  "generated_at": null,
+  "generated_at": "2026-10-08T21:58:49.977381+00:00",
   "mode": "evidence_based_no_ai",
-  "status": "not_run",
-  "searched_today": 0,
-  "completed_today": 0,
+  "status": "completed",
+  "searched_today": 12,
+  "completed_today": 12,
   "limits": {
-    "web_discovery": "Search omissions never prove a business has no website",
-    "browser": "Objective DOM and responsive geometry, not aesthetic judgement",
-    "buyer": "Buying intent and director authority require direct verification"
+    "web_discovery": "No negative proof from search",
+    "browser": "Objective DOM and geometry only",
+    "buyer": "No purchase intent or owner authority inferred"
   },
   "errors": [],
-  "reports": {}
+  "reports": {
+    "research-an-beauty-studio-haje": {
+      "lead_id": "research-an-beauty-studio-haje",
+      "name": "An Beauty Studio",
+      "checked_at": "2026-10-08",
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"An Beauty Studio\" Praha webové stránky",
+          "\"An Beauty Studio\" \"Anežky Malé 768/5\" website"
+        ],
+        "candidates": [
+          {
+            "url": "https://www.firmy.cz/detail/13876102-an-beauty-studio-praha-haje.html?c=2235",
+            "title": "An Beauty Studio (Praha, Háje) • Firmy.cz",
+            "snippet": "Aktuální ověřené informace: adresa, telefon, e-mail, otevírací hodiny a hodnocení An Beauty Studio, Praha, Háje. Telefon: 607 686 …"
+          },
+          {
+            "url": "https://www.zivefirmy.cz/an-beauty-studio_f1906307",
+            "title": "An Beauty Studio , Praha, Háje - Živéfirmy.cz",
+            "snippet": "An Beauty Studio , Anežky Malé 768/5,Praha,14900 Praha 415"
+          },
+          {
+            "url": "https://en.firmy.cz/company/13876102-an-beauty-studio-praha-haje.html",
+            "title": "An Beauty Studio (Praha, Háje) • Firmy.cz",
+            "snippet": "Up-to-date verified information: address, phone, e-mail and opening hours An Beauty Studio, Praha, Háje. Phone: 607 686 …"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "not_found_in_checked_sources",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "22578480",
+        "legal_name": "Minh Phuong Pham",
+        "registered_at": "2025-02-10",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=22578480",
+        "decision_maker": null,
+        "contact_verified": false
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=22578480",
+          "date": "2025-02-10",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "An Beauty Studio — research dossier",
+        "facts": [
+          "The business is listed at Anežky Malé 768/5, 149 00 Praha 11.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 22578480 dated 2025-02-10."
+        ],
+        "offer": "Booking-first beauty website with clear service menu, prices, gallery and mobile enquiry",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=22578480",
+            "date": "2025-02-10",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://www.firmy.cz/detail/13876102-an-beauty-studio-praha-haje.html",
+          "https://www.podnikatel.cz/rejstrik/minh-phuong-pham-22578480/",
+          "https://www.zivefirmy.cz/an-beauty-studio_f1906307",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=22578480"
+        ],
+        "estimated_deal_czk": [
+          25000,
+          45000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.firmy.cz/detail/13876102-an-beauty-studio-praha-haje.html?c=2235",
+        "https://www.zivefirmy.cz/an-beauty-studio_f1906307",
+        "https://en.firmy.cz/company/13876102-an-beauty-studio-praha-haje.html"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "research-marina-hreben-brow-atelier": {
+      "lead_id": "research-marina-hreben-brow-atelier",
+      "name": "Marina Hreben",
+      "checked_at": "2026-10-08",
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Marina Hreben\" Praha webové stránky",
+          "\"Marina Hreben\" \"Trousilova 1065/6\" website"
+        ],
+        "candidates": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Marina",
+            "title": "Marina - Wikipedia",
+            "snippet": "A marina (from Spanish [maˈɾina], Portuguese [mɐˈɾinɐ] and Italian [maˈriːna]: \"related to the sea\") is a dock or area of water with piers and moorings for securing and parking yachts and small boats."
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Marina_Diamandis",
+            "title": "Marina Diamandis - Wikipedia",
+            "snippet": "Marina Lambrini Diamandis[a] (born 10 October 1985), professionally known under the mononym Marina[b] and previously by the stage name Marina and the Diamonds, is a Welsh singer, songwriter, poet and record producer of Greek ancestry."
+          },
+          {
+            "url": "https://www.marinaseeker.com/",
+            "title": "MarinaSeeker | Every Marina in America — 9,287+ Marinas",
+            "snippet": "MarinaSeeker indexes marinas across the U.S. coastline, the Great Lakes, and major inland waterways — covering everything from full-service marinas with restaurants and ship stores to bare-bones county-run facilities with a fuel dock and a pump-out."
+          },
+          {
+            "url": "https://www.merriam-webster.com/dictionary/marina",
+            "title": "MARINA Definition & Meaning - Merriam-Webster",
+            "snippet": "5 days ago · Marina comes straight from Latin, where it means simply \"of the sea\". At a modern marina, sailors can acquire whatever they need for their next excursion, or they can tie up their boats until the next weekend comes along."
+          },
+          {
+            "url": "https://marinas.com/browse/marina/US/",
+            "title": "Marinas in United States",
+            "snippet": "Contact Marinas in United States, and browse and leave reviews. The World's Cruising Guide for United States Marinas. A directory of Marinas, boaters services and Marinas information, Free marina reservations and marina reviews worldwide."
+          },
+          {
+            "url": "https://www.lakepowell.com/plan/getting-here",
+            "title": "Lake Powell Directions | Lake Powell Resorts & Marinas",
+            "snippet": "Discover information on getting to Lake Powell’s top Wahweap and Bullfrog marinas with detailed driving directions, plus a mileage chart and park entrance fees."
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=cmFEMLWs-tI",
+            "title": "MARINA - I ﹤3 YOU (Official Video) - YouTube",
+            "snippet": "See what others said about this video while it was live."
+          },
+          {
+            "url": "https://marinas.com/",
+            "title": "Marinas.com | Where boaters come first to find slips & services.",
+            "snippet": "Where boaters come first to find slips & services."
+          }
+        ],
+        "errors": [],
+        "state": "not_found_in_checked_sources",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.marinaseeker.com/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.merriam-webster.com/dictionary/marina",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://marinas.com/browse/marina/US/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.lakepowell.com/plan/getting-here",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=cmFEMLWs-tI",
+            "result": "ambiguous",
+            "evidence": []
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "21913307",
+        "legal_name": "Marina Vladimirovna Hreben",
+        "registered_at": "2024-08-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=21913307",
+        "decision_maker": null,
+        "contact_verified": false
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Marina Hreben — research dossier",
+        "facts": [
+          "The business is listed at Trousilova 1065/6, 182 00 Praha 8.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 21913307 dated 2024-08-12."
+        ],
+        "offer": "Premium beauty portfolio with services, before/after gallery, pricing and booking CTA",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.firmy.cz/detail/13746724-marina-hreben-praha-kobylisy.html",
+          "https://www.podnikatel.cz/rejstrik/marina-vladimirovna-hreben-21913307/",
+          "https://www.finmag.cz/obchodni-rejstrik/zivnostensky-rejstrik/21913307-marina-vladimirovna-hreben",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=21913307"
+        ],
+        "estimated_deal_czk": [
+          22000,
+          45000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://en.wikipedia.org/wiki/Marina",
+        "https://en.wikipedia.org/wiki/Marina_Diamandis",
+        "https://www.marinaseeker.com/",
+        "https://www.merriam-webster.com/dictionary/marina",
+        "https://marinas.com/browse/marina/US/",
+        "https://www.lakepowell.com/plan/getting-here",
+        "https://www.youtube.com/watch?v=cmFEMLWs-tI"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "research-cafe-marathon": {
+      "lead_id": "research-cafe-marathon",
+      "name": "Café Marathon",
+      "checked_at": "2026-10-08",
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Café Marathon\" Praha webové stránky",
+          "\"Café Marathon\" \"Černá 646/9\" website"
+        ],
+        "candidates": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Vienna_Game",
+            "title": "Vienna Game - Wikipedia",
+            "snippet": "The original idea behind the Vienna Game was to play a delayed King's Gambit with f4, but in modern play White often adopts a more quiet approach, such as by playing 3.Bc4 or 3.g3."
+          },
+          {
+            "url": "https://www.chess.com/blog/vitualis/how-to-play-the-vienna-gambit-a-complete-guide-for-beginners",
+            "title": "How To Play The Vienna Gambit - A Complete Guide For Beginners",
+            "snippet": "Feb 9, 2025 · What is the Vienna Gambit? The Vienna Gambit is credited to being developed by Carl Hamppe, a Swiss government official in the 1800s who spent much of his time in chess cafes in Vienna! In the earliest days, \"Hamppe's Game\" was seen as a potential way of playing a delayed King's Gambit."
+          },
+          {
+            "url": "https://chessdoctrine.com/chess-openings/kings-pawn/vienna-game/",
+            "title": "Vienna Game (Vienna Opening): Lines, Gambit & Traps",
+            "snippet": "The Vienna Gambit is an aggressive approach after the Falkbeer Variation, where White goes for tactical move orders, sacrificing a pawn for a fierce assault on the rival."
+          },
+          {
+            "url": "https://chess-teacher.com/vienna-gambit-opening/",
+            "title": "Vienna Gambit, ALL Variations Explained [Traps, Ideas, Plans]",
+            "snippet": "Nov 10, 2025 · In this lesson, I’ll break down the Vienna Gambit step by step — showing how to punish common defenses, avoid traps, and convert your early initiative into a crushing win."
+          },
+          {
+            "url": "https://lichess.org/study/ixqSygiE",
+            "title": "Interactive Lesson - The Vienna Gambit • lichess.org",
+            "snippet": "Accessibility - Enable blind mode. Your network blocks the Lichess assets! lichess.org. Play lichess.org. Create lobby game Arena tournaments Swiss tournaments Simultaneous exhibi"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=JVxENCPcCjU",
+            "title": "WIN WITH 1. E4 | The Vienna Gambit - YouTube",
+            "snippet": "Oct 23, 2020 · In this video, I analyze the Vienna Attack in full depth. It's excellent for beginners, intermediates, and advanced players. 0:00 Introduction 0:45 Vienna Gambit e4 e5 Nc3 Nf6 13:40 Vienna..."
+          },
+          {
+            "url": "https://www.chessreps.com/opening/vienna-gambit",
+            "title": "Vienna Gambit: Learn & Train It Free | Chessreps",
+            "snippet": "Welcome to the Vienna Gambit course! Learn the key ideas of the Vienna Gambit. Win a tempo early, boost piece activity, and use a pawn sacrifice to open lines. Attack a vulnerable King and crush opponents with a simple, practical plan - GM approved."
+          },
+          {
+            "url": "https://lichess.org/study/CePHEEse/LxqRlXO7",
+            "title": "The Vienna gambit guide. • lichess.org",
+            "snippet": "A chess study by Jonburnettmusic"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "not_found_in_checked_sources",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.chess.com/blog/vitualis/how-to-play-the-vienna-gambit-a-complete-guide-for-beginners",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://chessdoctrine.com/chess-openings/kings-pawn/vienna-game/",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://chess-teacher.com/vienna-gambit-opening/",
+            "result": "unreachable",
+            "reason": "HTTP_202"
+          },
+          {
+            "url": "https://lichess.org/study/ixqSygiE",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=JVxENCPcCjU",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.chessreps.com/opening/vienna-gambit",
+            "result": "ambiguous",
+            "evidence": []
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "23668008",
+        "legal_name": "Družstvo Café Marathon",
+        "registered_at": "2025-09-02",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=23668008",
+        "decision_maker": null,
+        "contact_verified": false
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=23668008",
+          "date": "2025-09-02",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Café Marathon — research dossier",
+        "facts": [
+          "The business is listed at Černá 646/9, 110 00 Praha 2.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 23668008 dated 2025-09-02."
+        ],
+        "offer": "Editorial café website with menu, hours, maps, events and mobile-first directions",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=23668008",
+            "date": "2025-09-02",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://www.firmy.cz/detail/13953624-cafe-marathon-praha-nove-mesto.html",
+          "https://www.podnikatel.cz/rejstrik/druzstvo-cafe-marathon-23668008/",
+          "https://www.idatabaze.cz/firma/747182-cafe-marathon/",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=23668008"
+        ],
+        "estimated_deal_czk": [
+          18000,
+          38000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://en.wikipedia.org/wiki/Vienna_Game",
+        "https://www.chess.com/blog/vitualis/how-to-play-the-vienna-gambit-a-complete-guide-for-beginners",
+        "https://chessdoctrine.com/chess-openings/kings-pawn/vienna-game/",
+        "https://chess-teacher.com/vienna-gambit-opening/",
+        "https://lichess.org/study/ixqSygiE",
+        "https://www.youtube.com/watch?v=JVxENCPcCjU",
+        "https://www.chessreps.com/opening/vienna-gambit"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-766895526": {
+      "lead_id": "osm-node-766895526",
+      "name": "Bei Dai He",
+      "checked_at": "2026-10-08",
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Bei Dai He\" Praha webové stránky",
+          "\"Bei Dai He\" \"Střelničná 1347/47\" website"
+        ],
+        "candidates": [
+          {
+            "url": "https://www.beiresources.org/",
+            "title": "BEI Resources Web Portal > Home",
+            "snippet": "At BEI Resources, we're the leading source for high quality cultures and reagents for microbiology and infectious diseases research. As you explore the benefits we offer, you will see how BEI Resources can serve as a catalyst for your research efforts worldwide."
+          },
+          {
+            "url": "https://www.hhs.texas.gov/providers/assistive-services-providers/board-evaluation-interpreters-certification-program/bei-registry-interpreters",
+            "title": "BEI Registry (For Interpreters) - Texas Health and Human Services",
+            "snippet": "Certificate holders and new applicants to the Board for Evaluation of Interpreters (BEI) can do the following in the online BEI Registry : Request a BEI certification test. Check the status of a BEI certification test application. Enter continuing education units (CEUs) and DHHS-sponsored training. Verify the certifica"
+          },
+          {
+            "url": "https://www.bei-us.com/?AspxAutoDetectCookieSupport=1",
+            "title": "BEI Engineers",
+            "snippet": "BEI prides itself in providing quality and cost-effective multi discipline engineering, procurement and construction management services. Our select group of professionals provide industry leading services and solutions for all your upstream, midstream, petrochemical, chemical and refining needs."
+          },
+          {
+            "url": "https://www.beiresources.org/BEIResourcesScience.aspx",
+            "title": "BEI Resources Science",
+            "snippet": "Biodefense and Emerging Infections Research Resources Repository (BEI Resources) is the leading source for reagents, tools and information for studying NIAID's Category A, B, and C priority pathogens and emerging infectious disease agents."
+          },
+          {
+            "url": "https://www.beisushi.com/",
+            "title": "Bei Sushi",
+            "snippet": "At Bei Sushi, we use only the highest quality ingredients. We strive to provide our guests with the best experience while delivering value in our service. Though we are known for our delicious sushi rolls, our restaurant also serves other dishes such as noodles, rice plates, poke bowls, and more."
+          },
+          {
+            "url": "https://exitplanning.com/",
+            "title": "Exit Planning Certification, Software & Training Solutions | BEI",
+            "snippet": "BEI Membership gives you access to the full system behind successful business and exit planning. With proven frameworks, training, software, tools, and hands-on support, you can work more effectively with business owners and grow your planning services."
+          },
+          {
+            "url": "https://beihawaii.com/",
+            "title": "BEI Hawaii",
+            "snippet": "Founded in 1890, BEI Hawaii is Hawaii's #1 wholesale supplier and manufacturer of fertilizers, agricultural chemicals, and industrial chemicals. Serving Hawaii for over 135 years."
+          },
+          {
+            "url": "https://beiconstruction.com/",
+            "title": "BEI Construction | Renewables & Technology Infrastructure",
+            "snippet": "BEI Construction is a union-based renewable energy constructor specializing in solar and energy storage installations for utility-scale and commercial projects. We partner with developers, EPCs, and utilities to deliver projects safely, efficiently, and at scale."
+          }
+        ],
+        "errors": [],
+        "state": "not_found_in_checked_sources",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.beiresources.org/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.hhs.texas.gov/providers/assistive-services-providers/board-evaluation-interpreters-certification-program/bei-registry-interpreters",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.bei-us.com/?AspxAutoDetectCookieSupport=1",
+            "result": "unreachable",
+            "reason": "too_many_redirects"
+          },
+          {
+            "url": "https://www.beisushi.com/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://exitplanning.com/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://beihawaii.com/",
+            "result": "unreachable",
+            "reason": "SSLError"
+          },
+          {
+            "url": "https://beiconstruction.com/",
+            "result": "ambiguous",
+            "evidence": []
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "27915816",
+        "legal_name": "ZHEN RONG s.r.o.",
+        "registered_at": "2007-07-10",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=27915816",
+        "decision_maker": null,
+        "contact_verified": false
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Bei Dai He — research dossier",
+        "facts": [
+          "The business is listed at Střelničná 1347/47, 18200, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 27915816 dated 2007-07-10."
+        ],
+        "offer": "Booking-ready business website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/766895526",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=27915816"
+        ],
+        "estimated_deal_czk": [
+          17000,
+          45000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.beiresources.org/",
+        "https://www.hhs.texas.gov/providers/assistive-services-providers/board-evaluation-interpreters-certification-program/bei-registry-interpreters",
+        "https://www.bei-us.com/?AspxAutoDetectCookieSupport=1",
+        "https://www.beiresources.org/BEIResourcesScience.aspx",
+        "https://www.beisushi.com/",
+        "https://exitplanning.com/",
+        "https://beihawaii.com/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-13071088011": {
+      "lead_id": "osm-node-13071088011",
+      "name": "Snížek",
+      "checked_at": "2026-10-08",
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Snížek\" Praha webové stránky",
+          "\"Snížek\" \"Komornická 1394/1\" website"
+        ],
+        "candidates": [
+          {
+            "url": "https://www.zacks.com/featured-articles/761/anthropic-ipo",
+            "title": "Anthropic IPO 2026 Guide: Price Predictions, Dates, and...",
+            "snippet": "21 hours ago · Image: Bigstock Anthropic IPO 2026 Guide: Price Predictions, Dates, and Everything You Need to Know Kevin Voigt Updated on October 2, 2026 Join Zacks for Free"
+          },
+          {
+            "url": "https://nodemini.com/en/blog/2026-anthropic-ipo-series-h-funding-965b-guide.html",
+            "title": "Anthropic IPO 2026: $65B Series H Funding, $965B Valuation & ...",
+            "snippet": "Jun 26, 2026 · Anthropic (Claude parent company) completed a $65B Series H in May 2026 at a $965B valuation, confidentially filed its S-1 with the SEC on June 1, and could list on Nasdaq as early as October. Deep dive on IPO timeline, investor roster, financial data, and the OpenAI competitive landscape."
+          },
+          {
+            "url": "https://meshlaunch.com/en/blog/2026-anthropic-ipo-series-h-funding-guide.html",
+            "title": "Anthropic IPO 2026: $65B Series H Funding, $965B Valuation & ...",
+            "snippet": "Jun 26, 2026 · Anthropic closed a record $65B Series H round in May 2026 at a $965B valuation, filed a confidential S-1 on June 1, and may list on Nasdaq as early as October. Full IPO timeline, investor roster, ARR path to $47B, OpenAI rivalry, risks, and a six-step runbook."
+          },
+          {
+            "url": "https://ipos.fyi/tracker/anthropic-ipo",
+            "title": "Anthropic IPO Filed (2026): Date, Price Range & How to Buy",
+            "snippet": "Sep 27, 2026 · Anthropic officially filed to go public on June 1, 2026, submitting its IPO paperwork for one of the biggest IPOs in history. The IPO timeline has shifted, with the listing now delayed from the original October 2026 target to November 2026."
+          },
+          {
+            "url": "https://kvmnode.com/en/blog/2026-0626-anthropic-ipo-series-h-funding-guide.html",
+            "title": "Anthropic IPO 2026: $65B Series H Funding, $965B Valuation & ...",
+            "snippet": "Jun 26, 2026 · Anthropic confidentially filed its S-1 with the SEC on June 1, 2026, eyeing an October IPO at a $1 trillion+ valuation. We break down the $65B Series H round, revenue trajectory, underwriters, and what it means for Claude users and investors."
+          },
+          {
+            "url": "https://tastytrade.com/learn/markets/industry/anthropic-ipo/",
+            "title": "Anthropic IPO 2026: Date, Valuation & Timeline",
+            "snippet": "Oct 1, 2026 · Anthropic confidentially filed a draft S-1 with the SEC on June 1, 2026, following a Series H round that set it at a $965 billion valuation, but the listing date, price, and ticker are not confirmed, and the timeline has already shifted once, from an \"after Labor Day\" target to a mid-October-or-later wind"
+          },
+          {
+            "url": "https://invezz.com/invest/anthropic-ipo/",
+            "title": "Anthropic IPO: Date, Ticker, Valuation & Latest News",
+            "snippet": "Sep 3, 2026 · Track the latest Anthropic IPO news, including the expected IPO date, ticker, valuation, S-1 filing, share price and what happens next."
+          },
+          {
+            "url": "https://vpsmac.com/en/blog/anthropic-ipo-2026.html",
+            "title": "Anthropic IPO 2026: $65B Series H Funding, $965B Valuation & ...",
+            "snippet": "Jun 26, 2026 · The earliest expected window is October 2026, but the exact date depends on SEC review progress (typically 3–4 months) and market conditions. Q4 2026 or early 2027 remain plausible."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "website": "https://www.snizek.cz/",
+        "state": "verified_website",
+        "identity": [
+          "Matching IČO on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.snizek.cz/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "24316237",
+        "legal_name": "Snížek CZ spol. s r.o.",
+        "registered_at": "2012-06-13",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=24316237",
+        "decision_maker": null,
+        "contact_verified": false
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-08",
+        "website": "https://www.snizek.cz/",
+        "devices": {
+          "desktop": {
+            "title": "Snížek sro – Komplexní služby pro technická zařízení budov",
+            "description": "",
+            "viewport_meta": true,
+            "h1_count": 0,
+            "horizontal_overflow_px": 174,
+            "visible_text_elements": 44,
+            "small_text_elements": 1,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 25,
+            "contact_action": false,
+            "form_count": 0,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "mobile": {
+            "title": "Snížek sro – Komplexní služby pro technická zařízení budov",
+            "description": "",
+            "viewport_meta": true,
+            "h1_count": 0,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 38,
+            "small_text_elements": 1,
+            "broken_images": 1,
+            "images_missing_alt": 0,
+            "images_count": 25,
+            "contact_action": false,
+            "form_count": 0,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "objective_issues": [
+          {
+            "issue": "Broken image elements",
+            "detail": "1 observed on mobile viewport",
+            "method": "Playwright DOM",
+            "url": "https://www.snizek.cz/"
+          },
+          {
+            "issue": "No machine-detected direct contact, form or booking action on homepage",
+            "detail": "Could be available on subpages or via JavaScript",
+            "method": "Playwright homepage DOM",
+            "url": "https://www.snizek.cz/"
+          }
+        ],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Snížek — research dossier",
+        "facts": [
+          "The business is listed at Komornická 1394/1, 16000, Praha.",
+          "An independently identity-matched business website was found: https://www.snizek.cz/.",
+          "ARES confirms registration for IČO 24316237 dated 2012-06-13.",
+          "Browser-observed issue: Broken image elements."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Show a measured broken image elements fix in a private demo, and ask if improving enquiries is a priority.",
+        "observed_issues": [
+          {
+            "issue": "Broken image elements",
+            "detail": "1 observed on mobile viewport",
+            "method": "Playwright DOM",
+            "url": "https://www.snizek.cz/"
+          },
+          {
+            "issue": "No machine-detected direct contact, form or booking action on homepage",
+            "detail": "Could be available on subpages or via JavaScript",
+            "method": "Playwright homepage DOM",
+            "url": "https://www.snizek.cz/"
+          }
+        ],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/13071088011",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=24316237",
+          "https://www.snizek.cz/"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.zacks.com/featured-articles/761/anthropic-ipo",
+        "https://nodemini.com/en/blog/2026-anthropic-ipo-series-h-funding-965b-guide.html",
+        "https://meshlaunch.com/en/blog/2026-anthropic-ipo-series-h-funding-guide.html",
+        "https://ipos.fyi/tracker/anthropic-ipo",
+        "https://kvmnode.com/en/blog/2026-0626-anthropic-ipo-series-h-funding-guide.html",
+        "https://tastytrade.com/learn/markets/industry/anthropic-ipo/",
+        "https://invezz.com/invest/anthropic-ipo/"
+      ],
+      "website_need_verified": true,
+      "contact_method": "public_listing_not_owner_verified",
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-296825951": {
+      "lead_id": "osm-node-296825951",
+      "name": "Corner Stories",
+      "checked_at": "2026-10-08",
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Corner Stories\" Praha webové stránky",
+          "\"Corner Stories\" \"Ruská 460/18\" website"
+        ],
+        "candidates": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/corner",
+            "title": "CORNER Definition & Meaning - Merriam-Webster",
+            "snippet": "The meaning of CORNER is the point where converging lines, edges, or sides meet : angle. How to use corner in a sentence."
+          },
+          {
+            "url": "https://dictionary.cambridge.org/dictionary/english/corner",
+            "title": "CORNER | English meaning - Cambridge Dictionary",
+            "snippet": "CORNER definition: 1. the point, area, or line that is formed by the meeting of two lines, surfaces, roads, etc.: 2…. Learn more."
+          },
+          {
+            "url": "https://www.vocabulary.com/dictionary/corner",
+            "title": "Corner - Definition, Meaning & Synonyms | Vocabulary.com",
+            "snippet": "Corners are everywhere. Two perpendicular lines form a corner. Rooms and streets have corners too. If a child misbehaves in class, the teacher might make him stand in the corner."
+          },
+          {
+            "url": "https://www.dictionary.com/browse/corner",
+            "title": "CORNER Definition & Meaning | Dictionary.com",
+            "snippet": "CORNER definition: the place at which two converging lines or surfaces meet. See examples of corner used in a sentence."
+          },
+          {
+            "url": "https://dictionary.cambridge.org/us/dictionary/english/corner",
+            "title": "CORNER | definition in the Cambridge English Dictionary",
+            "snippet": "CORNER meaning: 1. the point, area, or line that is formed by the meeting of two lines, surfaces, roads, etc.: 2…. Learn more."
+          },
+          {
+            "url": "https://www.definitions.net/definition/corner",
+            "title": "What does corner mean? - Definitions.net",
+            "snippet": "Definition of corner in the Definitions.net dictionary. Meaning of corner. What does corner mean? Information and translations of corner in the most comprehensive dictionary definitions resource on the web."
+          },
+          {
+            "url": "https://www.wordreference.com/definition/corner",
+            "title": "corner - WordReference.com Dictionary of English",
+            "snippet": "cor•ner /ˈkɔrnɚ/ n. [countable] the place at which two lines, sides, edges, or surfaces meet; angle: a chair in the corner of the room. an angle, end, side, or edge: a coffee table with sharp corners. the point where two streets meet, or where one street bends sharply: I drove around the corner too fast and the car ski"
+          },
+          {
+            "url": "https://en.m.wiktionary.org/wiki/corner",
+            "title": "corner - Wiktionary, the free dictionary",
+            "snippet": "Sep 30, 2026 · corner (plural corners) A corner (junction of streets) in Cork, Ireland, circa 1910 The point where two converging lines meet; an angle, either external or internal."
+          }
+        ],
+        "errors": [],
+        "website": "https://www.cornerstories.cz/",
+        "state": "verified_website",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.cornerstories.cz/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "05522111",
+        "legal_name": "Květen International s.r.o.",
+        "registered_at": "2016-10-31",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=05522111",
+        "decision_maker": null,
+        "contact_verified": false
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-08",
+        "website": "https://www.cornerstories.cz/",
+        "devices": {
+          "desktop": {
+            "title": "Káva, brunch & drinky | Vršovice - Corner Stories",
+            "description": "Kavárna Corner Stories na pomezí Vršovic a Vinohrad v Praze. Vychutnejte si výjimečnou kávu a čerstvé, lokální suroviny v inspirativním prostředí.",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 163,
+            "visible_text_elements": 168,
+            "small_text_elements": 0,
+            "broken_images": 88,
+            "images_missing_alt": 0,
+            "images_count": 155,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 2,
+            "http_status": 200
+          },
+          "mobile": {
+            "title": "Káva, brunch & drinky | Vršovice - Corner Stories",
+            "description": "Kavárna Corner Stories na pomezí Vršovic a Vinohrad v Praze. Vychutnejte si výjimečnou kávu a čerstvé, lokální suroviny v inspirativním prostředí.",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 151,
+            "small_text_elements": 0,
+            "broken_images": 82,
+            "images_missing_alt": 0,
+            "images_count": 155,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 2,
+            "http_status": 200
+          }
+        },
+        "objective_issues": [
+          {
+            "issue": "Broken image elements",
+            "detail": "82 observed on mobile viewport",
+            "method": "Playwright DOM",
+            "url": "https://www.cornerstories.cz/"
+          }
+        ],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Corner Stories — research dossier",
+        "facts": [
+          "The business is listed at Ruská 460/18, 10100, Praha.",
+          "An independently identity-matched business website was found: https://www.cornerstories.cz/.",
+          "ARES confirms registration for IČO 05522111 dated 2016-10-31.",
+          "Browser-observed issue: Broken image elements."
+        ],
+        "offer": "Booking-ready business website",
+        "outreach_angle": "Show a measured broken image elements fix in a private demo, and ask if improving enquiries is a priority.",
+        "observed_issues": [
+          {
+            "issue": "Broken image elements",
+            "detail": "82 observed on mobile viewport",
+            "method": "Playwright DOM",
+            "url": "https://www.cornerstories.cz/"
+          }
+        ],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/296825951",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=05522111",
+          "https://www.cornerstories.cz/"
+        ],
+        "estimated_deal_czk": [
+          17000,
+          45000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.merriam-webster.com/dictionary/corner",
+        "https://dictionary.cambridge.org/dictionary/english/corner",
+        "https://www.vocabulary.com/dictionary/corner",
+        "https://www.dictionary.com/browse/corner",
+        "https://dictionary.cambridge.org/us/dictionary/english/corner",
+        "https://www.definitions.net/definition/corner",
+        "https://www.wordreference.com/definition/corner"
+      ],
+      "website_need_verified": true,
+      "contact_method": "public_listing_not_owner_verified",
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-1272064729": {
+      "lead_id": "osm-node-1272064729",
+      "name": "Výtopna",
+      "checked_at": "2026-10-08",
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Výtopna\" Praha webové stránky",
+          "\"Výtopna\" \"Václavské náměstí 56\" website"
+        ],
+        "candidates": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Microsoft",
+            "title": "Microsoft - Wikipedia",
+            "snippet": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. The company became influential in the rise of personal computers through software like Windows and has since expanded into areas such as Internet services, cloud computing, artificial intelligence, video gaming, "
+          },
+          {
+            "url": "https://www.microsoft.com/en-us",
+            "title": "Microsoft – AI, Cloud, Productivity, Computing, Gaming & Apps",
+            "snippet": "Explore Microsoft products and services and support for your home or business. Shop Microsoft 365, Copilot, Teams, Xbox, Windows, Azure, Surface and more."
+          },
+          {
+            "url": "https://account.microsoft.com/account",
+            "title": "Microsoft account | Sign In or Create Your Account Today – ...",
+            "snippet": "Get access to free online versions of Outlook, Word, Excel, and PowerPoint."
+          },
+          {
+            "url": "https://myaccount.microsoft.com/",
+            "title": "Sign in to your account",
+            "snippet": "Access and manage your Microsoft account, subscriptions, and settings all in one place."
+          },
+          {
+            "url": "https://myaccount.microsoft.com/login",
+            "title": "My Account",
+            "snippet": "Sign in to manage your Microsoft account and access free online services like Outlook, Word, Excel, and PowerPoint securely from any device."
+          },
+          {
+            "url": "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365",
+            "title": "Sign in to Microsoft 365",
+            "snippet": "For Microsoft 365 or Office apps installed on a Windows PC: If you're not already in a Microsoft 365 or Office file or document, open an app such as Word or Excel, and open an existing file, or create a new one. Select File > Account (or Office Account if you're using Outlook). If you're not already signed in, click Si"
+          },
+          {
+            "url": "https://m365.cloud.microsoft/?origindomain=microsoft365",
+            "title": "Microsoft 365 - Sign into Copilot",
+            "snippet": "Microsoft 365 includes Word, Excel, PowerPoint, Outlook, Teams, and OneDrive, with Microsoft Copilot built in to help you create, communicate, and summarize information. Formerly Office 365."
+          },
+          {
+            "url": "https://apps.microsoft.com/home",
+            "title": "Microsoft Store - Download apps, games & more for your Windows PC",
+            "snippet": "Explore the Microsoft Store for apps and games on Windows. Enjoy exclusive deals, new releases, and your favorite content all in one place."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "website": "https://www.vytopna.cz/cs/pobocky/praha-vaclavak",
+        "state": "verified_website",
+        "identity": [
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.vytopna.cz/cs/pobocky/praha-vaclavak",
+            "result": "identity_match",
+            "evidence": [
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "09248323",
+        "legal_name": "Railway Restaurant Prague s.r.o.",
+        "registered_at": "2020-06-15",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=09248323",
+        "decision_maker": null,
+        "contact_verified": false
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-08",
+        "website": "https://www.vytopna.cz/cs/pobocky/praha-vaclavak",
+        "devices": {
+          "desktop": {
+            "title": "PRAHA – VÁCLAVÁK",
+            "description": "",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 108,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 4,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "mobile": {
+            "title": "PRAHA – VÁCLAVÁK",
+            "description": "",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 105,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 4,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Výtopna — research dossier",
+        "facts": [
+          "The business is listed at Václavské náměstí 56, 11000, Praha.",
+          "An independently identity-matched business website was found: https://www.vytopna.cz/cs/pobocky/praha-vaclavak.",
+          "ARES confirms registration for IČO 09248323 dated 2020-06-15."
+        ],
+        "offer": "Booking-ready business website",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/1272064729",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=09248323",
+          "https://www.vytopna.cz/cs/pobocky/praha-vaclavak"
+        ],
+        "estimated_deal_czk": [
+          17000,
+          45000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://en.wikipedia.org/wiki/Microsoft",
+        "https://www.microsoft.com/en-us",
+        "https://account.microsoft.com/account",
+        "https://myaccount.microsoft.com/",
+        "https://myaccount.microsoft.com/login",
+        "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365",
+        "https://m365.cloud.microsoft/?origindomain=microsoft365"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-150746535": {
+      "lead_id": "osm-node-150746535",
+      "name": "Pizzerie Giovanni",
+      "checked_at": "2026-10-08",
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Pizzerie Giovanni\" Praha webové stránky",
+          "\"Pizzerie Giovanni\" \"Střelničná\" website"
+        ],
+        "candidates": [
+          {
+            "url": "https://www.mayoclinic.org/diseases-conditions/myasthenia-gravis/symptoms-causes/syc-20352036",
+            "title": "Myasthenia gravis - Symptoms and causes - Mayo Clinic",
+            "snippet": "Jun 5, 2026 · Overview Myasthenia gravis is a condition that happens when communication between nerves and muscles breaks down. This causes muscles to feel weak and get tired quickly. This condition may affect any of the muscles you control, called voluntary muscles. Certain muscle groups are more commonly affected tha"
+          },
+          {
+            "url": "https://www.mayoclinic.org/biographies/mauricio-elizabeth-a-m-d/bio-20055723",
+            "title": "Elizabeth A. Mauricio, M.D. - Mayo Clinic",
+            "snippet": "Elizabeth Mauricio, M.D., is a neurologist at Mayo Clinic Hospital in Jacksonville, Florida who treats conditions such as peripheral neuropathy, chronic inflammatory demyelinating polyneuropathy (CIDP), hATTR amyloidosis, myopathy, muscular dystrophy, myasthenia gravis and amyotrophic lateral sclerosis (ALS, also known"
+          },
+          {
+            "url": "https://connect.mayoclinic.org/discussion/mgus-and-myasthenia-gravis-does-anyone-have-both/",
+            "title": "MGUS and Myasthenia Gravis - does anyone have both?",
+            "snippet": "May 6, 2024 · The other thing we have added to this list recently is Myasthenia Gravis. Curiosity always drives me to wonder and investigate; I have seen research about MG following a dx of MGUS."
+          },
+          {
+            "url": "https://newsnetwork.mayoclinic.org/discussion/myasthenia-gravis-early-detection-and-right-treatment/",
+            "title": "Myasthenia gravis – Early detection and right treatment",
+            "snippet": "With proper treatment, the outlook for most patients with myasthenia gravis is very good. Nearly always, with the help of medications, patients are able to lead normal or nearly normal lives. Some cases of myasthenia gravis may go into remission and muscle weakness may disappear completely so that medications can be di"
+          },
+          {
+            "url": "https://connect.mayoclinic.org/discussion/does-anyone-have-both-parkinsonism-and-myasthenia-gravis/",
+            "title": "Does anyone have both Parkinsonism and Myasthenia Gravis?",
+            "snippet": "Jun 24, 2024 · The double vision symptoms, along with the ptosis (drooping eyelid), occurred for the first time, about 2 years ago. Ocular Myasthenia Gravis is still a possible diagnosis, and I have an appointment with an ophthalmologist set up, soon, so we will see how that goes. Thank you for your supportive input! W"
+          },
+          {
+            "url": "https://mcpress.mayoclinic.org/living-well/how-to-stay-active-if-you-have-myasthenia-gravis/",
+            "title": "How to stay active if you have myasthenia gravis",
+            "snippet": "Jan 30, 2026 · Learn how to stay active with myasthenia gravis. Discover pacing tips, benefits of exercise, and strategies to manage fatigue safely and effectively."
+          },
+          {
+            "url": "https://mcpress.mayoclinic.org/living-well/new-frontiers-in-myasthenia-gravis-therapy-fcrn-inhibitors-complement-inhibitors-and-anti-cd-19-therapy/",
+            "title": "New frontiers in myasthenia gravis therapy: FcRN inhibitors,...",
+            "snippet": "Feb 11, 2026 · Explore myasthenia gravis treatments, including FcRn inhibitors, complement inhibitors and anti‑CD19 therapy, offering targeted relief with fewer effects."
+          },
+          {
+            "url": "https://newsnetwork.mayoclinic.org/discussion/treatment-can-effectively-manage-symptoms-of-myasthenia-gravis/",
+            "title": "Can Treatment Effectively Manage Symptoms of Myasthenia Gravis?",
+            "snippet": "Oct 28, 2011 · The effects of myasthenia gravis tend to vary over time. The disease is often directly affected by a person's general health, including physical condition, sleep patterns, hormonal changes, other diseases, medications and even emotional state. Stress and lack of rest are common culprits in aggravating my"
+          },
+          {
+            "url": "https://en.m.wikipedia.org/wiki/Sterling_Shepard",
+            "title": "Sterling Shepard - Wikipedia",
+            "snippet": "Sterling Clay Shepard (born February 10, 1993) is an American professional football wide receiver for the New York Jets of the National Football League (NFL). He played college football for the Oklahoma Sooners."
+          },
+          {
+            "url": "https://www.espn.com/nfl/player/_/id/2976592/sterling-shepard",
+            "title": "Sterling Shepard - New York Jets Wide Receiver - ESPN",
+            "snippet": "Feb 10, 1993 · View the profile of New York Jets Wide Receiver Sterling Shepard on ESPN. Get the latest news, live stats and game highlights."
+          },
+          {
+            "url": "https://www.pro-football-reference.com/players/S/ShepSt00.htm",
+            "title": "Sterling Shepard Stats, Height, Weight, Position, Draft ...",
+            "snippet": "Checkout the latest stats for Sterling Shepard. Get info about his position, age, height, weight, college, draft, and more on Pro-football-reference.com."
+          },
+          {
+            "url": "https://www.espn.com/nfl/player/stats/_/id/2976592/sterling-shepard",
+            "title": "Sterling Shepard Career Stats - NFL - ESPN",
+            "snippet": "Feb 10, 1993 · Complete career NFL stats for New York Jets Wide Receiver Sterling Shepard on ESPN. Includes scoring, rushing, defensive and receiving stats."
+          },
+          {
+            "url": "https://www.tmz.com/2026/04/27/sterling-shepard-at-stagecoach-after-ending-engagement/",
+            "title": "Sterling Shepard Hits Stagecoach After Ending Engagement",
+            "snippet": "Apr 27, 2026 · NFL receiver Sterling Shepard is taking his breakup in stride -- he made his way to the desert for some country music, fresh off his engagement falling apart."
+          },
+          {
+            "url": "https://www.instagram.com/SterlingShepard/",
+            "title": "Sterling Shepard (@SterlingShepard) • Instagram photos and videos",
+            "snippet": "538K Followers, 1,378 Following, 336 Posts - Sterling Shepard (@SterlingShepard) on Instagram: \"\""
+          }
+        ],
+        "errors": [],
+        "website": "https://pizzeriagiovanni.cz/",
+        "state": "verified_website",
+        "identity": [
+          "Matching distinctive business-name words on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://pizzeriagiovanni.cz/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching distinctive business-name words on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "28499786",
+        "legal_name": "JH Styl s.r.o.",
+        "registered_at": "2008-12-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=28499786",
+        "decision_maker": null,
+        "contact_verified": false
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-08",
+        "website": "https://pizzeriagiovanni.cz/",
+        "devices": {
+          "desktop": {
+            "title": "Pizzeria Mexicana Giovanni Praha 8 - Ládví - Pizzeria Mexicana Giovanni - italská restaurace a pizzerie na Praze 8 Ládví",
+            "description": "Zažijte chuť Itálie - dejte si autentickou neapolskou pizzu z kamenné pece, čerstvou pastu a skvělé tiramisu kousek od centra Prahy. V týdnu si můžete také",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 121,
+            "small_text_elements": 0,
+            "broken_images": 7,
+            "images_missing_alt": 0,
+            "images_count": 65,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 4,
+            "http_status": 200
+          },
+          "mobile": {
+            "title": "Pizzeria Mexicana Giovanni Praha 8 - Ládví - Pizzeria Mexicana Giovanni - italská restaurace a pizzerie na Praze 8 Ládví",
+            "description": "Zažijte chuť Itálie - dejte si autentickou neapolskou pizzu z kamenné pece, čerstvou pastu a skvělé tiramisu kousek od centra Prahy. V týdnu si můžete také",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 104,
+            "small_text_elements": 0,
+            "broken_images": 8,
+            "images_missing_alt": 0,
+            "images_count": 67,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 4,
+            "http_status": 200
+          }
+        },
+        "objective_issues": [
+          {
+            "issue": "Broken image elements",
+            "detail": "8 observed on mobile viewport",
+            "method": "Playwright DOM",
+            "url": "https://pizzeriagiovanni.cz/"
+          }
+        ],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Pizzerie Giovanni — research dossier",
+        "facts": [
+          "The business is listed at Střelničná, Praha.",
+          "An independently identity-matched business website was found: https://pizzeriagiovanni.cz/.",
+          "ARES confirms registration for IČO 28499786 dated 2008-12-12.",
+          "Browser-observed issue: Broken image elements."
+        ],
+        "offer": "Booking-ready business website",
+        "outreach_angle": "Show a measured broken image elements fix in a private demo, and ask if improving enquiries is a priority.",
+        "observed_issues": [
+          {
+            "issue": "Broken image elements",
+            "detail": "8 observed on mobile viewport",
+            "method": "Playwright DOM",
+            "url": "https://pizzeriagiovanni.cz/"
+          }
+        ],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/150746535",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=28499786",
+          "https://pizzeriagiovanni.cz/"
+        ],
+        "estimated_deal_czk": [
+          17000,
+          45000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.mayoclinic.org/diseases-conditions/myasthenia-gravis/symptoms-causes/syc-20352036",
+        "https://www.mayoclinic.org/biographies/mauricio-elizabeth-a-m-d/bio-20055723",
+        "https://connect.mayoclinic.org/discussion/mgus-and-myasthenia-gravis-does-anyone-have-both/",
+        "https://newsnetwork.mayoclinic.org/discussion/myasthenia-gravis-early-detection-and-right-treatment/",
+        "https://connect.mayoclinic.org/discussion/does-anyone-have-both-parkinsonism-and-myasthenia-gravis/",
+        "https://mcpress.mayoclinic.org/living-well/how-to-stay-active-if-you-have-myasthenia-gravis/",
+        "https://mcpress.mayoclinic.org/living-well/new-frontiers-in-myasthenia-gravis-therapy-fcrn-inhibitors-complement-inhibitors-and-anti-cd-19-therapy/"
+      ],
+      "website_need_verified": true,
+      "contact_method": "public_listing_not_owner_verified",
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-1526165848": {
+      "lead_id": "osm-node-1526165848",
+      "name": "Mama Coffee",
+      "checked_at": "2026-10-08",
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Mama Coffee\" Praha webové stránky",
+          "\"Mama Coffee\" \"Londýnská 49\" website"
+        ],
+        "candidates": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Mama_(2013_film)",
+            "title": "Mama (2013 film) - Wikipedia",
+            "snippet": "Her troubled ghost, Mama, searched the woods for years until she discovered Victoria and Lily and took them as surrogates. Lucas regains consciousness after a vision of his dead twin tells him to save his daughters."
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Mama",
+            "title": "Mama - Wikipedia",
+            "snippet": "Mama is an English nickname for \"mother\". Mama (s) or Mamma or Momma or Mummy may also refer to: Mama Maybelle Harper, a character in the American TV sitcom Gimme a Break! This disambiguation page lists articles associated with the title Mama."
+          },
+          {
+            "url": "https://www.imdb.com/title/tt2023587",
+            "title": "Mama (2013) - IMDb",
+            "snippet": "Jan 18, 2013 · I highly recommend \"Mama\" to anyone, because it is not your stereotypical horror movie. Its distinct lack of gore, and high level of well-crafted story, makes for an exciting experience for both horror lovers, and those who don't necessarily appreciate the genre."
+          },
+          {
+            "url": "https://www.rottentomatoes.com/m/mama_2013",
+            "title": "Mama (2013) | Rotten Tomatoes",
+            "snippet": "Discover reviews, ratings, and trailers for Mama (2013) on Rotten Tomatoes. Stay updated with critic and audience scores today!"
+          },
+          {
+            "url": "https://www.moviefone.com/movie/mama/58259/main/",
+            "title": "Mama (2013) Movie | Moviefone",
+            "snippet": "Jan 18, 2013 · Guillermo del Toro presents Mama, a supernatural thriller that tells the haunting tale of two little girls who disappeared into the woods the day that their parents were killed."
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=Y_nZJgssIJY",
+            "title": "Mama - YouTube",
+            "snippet": "Guillermo del Toro, the Academy Award-nominated writer of Pan's Labyrinth, presents this supernatural thriller that tells the haunting tale of two little girls who disappeared into the woods the..."
+          },
+          {
+            "url": "https://tubitv.com/movies/585218/mama",
+            "title": "Watch Mama (2013) - Free Movies | Tubi",
+            "snippet": "Jessica Chastain stars as a hesitant young woman who takes in two little girls who have been found after living alone for five years in the woods."
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=I7_CLVoGkgA",
+            "title": "MAMA - Official Trailer [Universal Pictures] - YouTube",
+            "snippet": "Oct 2, 2012 · Five years ago, sisters Victoria and Lilly vanished from their suburban neighborhood without a trace. Since then, their Uncle Lucas (Nikolaj Coster-Waldau) and his girlfriend, Annabel (Jessica..."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "not_found_in_checked_sources",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.mamacoffee.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching distinctive business-name words on website"
+            ]
+          },
+          {
+            "url": "https://www.imdb.com/title/tt2023587",
+            "result": "unreachable",
+            "reason": "HTTP_202"
+          },
+          {
+            "url": "https://www.rottentomatoes.com/m/mama_2013",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.moviefone.com/movie/mama/58259/main/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=Y_nZJgssIJY",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://tubitv.com/movies/585218/mama",
+            "result": "ambiguous",
+            "evidence": []
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "28364601",
+        "legal_name": "mamacoffee s.r.o.",
+        "registered_at": "2008-03-21",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=28364601",
+        "decision_maker": null,
+        "contact_verified": false
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Mama Coffee — research dossier",
+        "facts": [
+          "The business is listed at Londýnská 49, 12000, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 28364601 dated 2008-03-21."
+        ],
+        "offer": "Booking-ready business website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/1526165848",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=28364601"
+        ],
+        "estimated_deal_czk": [
+          17000,
+          45000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://en.wikipedia.org/wiki/Mama_(2013_film)",
+        "https://en.wikipedia.org/wiki/Mama",
+        "https://www.imdb.com/title/tt2023587",
+        "https://www.rottentomatoes.com/m/mama_2013",
+        "https://www.moviefone.com/movie/mama/58259/main/",
+        "https://www.youtube.com/watch?v=Y_nZJgssIJY",
+        "https://tubitv.com/movies/585218/mama"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-12104340701": {
+      "lead_id": "osm-node-12104340701",
+      "name": "Tesařík",
+      "checked_at": "2026-10-08",
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Tesařík\" Praha webové stránky",
+          "\"Tesařík\" \"Kosmická 742/11\" website"
+        ],
+        "candidates": [
+          {
+            "url": "https://markets.businessinsider.com/indices/world-stock-markets",
+            "title": "WORLD STOCK MARKETS TODAY | GLOBAL MARKET INDICES | INTERNATIONAL...",
+            "snippet": "Overview about all the stock market indices in the world. Current stock prices, charts and performance."
+          },
+          {
+            "url": "https://markets.businessinsider.com/indices",
+            "title": "Global Market Indices | International Markets | Markets Insider",
+            "snippet": "21 hours ago · Overview of the world`s largest and most important stock market indices on a world map."
+          },
+          {
+            "url": "https://markets.businessinsider.com/index/dow_jones_global_dow",
+            "title": "The Global Dow INDEX TODAY | LIVE TICKER - Markets Insider",
+            "snippet": "The Global Dow Today: Get all information on the The Global Dow Index including historical chart, news and constituents."
+          },
+          {
+            "url": "https://markets.businessinsider.com/commodities/oil-price?type=wti",
+            "title": "Crude Oil Price Today | WTI OIL PRICE CHART - Markets Insider",
+            "snippet": "Oil Price: Get all information on the Price of Oil including News, Charts and Realtime Quotes."
+          },
+          {
+            "url": "https://markets.businessinsider.com/index/us-dollar-index",
+            "title": "US Dollar Index | Global Market Indices | International Markets...",
+            "snippet": "Overview of the world`s largest and most important stock market indices on a world map."
+          },
+          {
+            "url": "https://markets.businessinsider.com/",
+            "title": "Markets Insider: Stock Market News, Realtime Quotes and Charts",
+            "snippet": "A stock market site by Business Insider with real-time data, custom charts and breaking news. Get the latest on stocks, commodities, currencies, funds, rates, ETFs, and more."
+          },
+          {
+            "url": "https://markets.businessinsider.com/stocks/mcd-stock",
+            "title": "McDonald's Stock Price | MCD Stock Quote, News, and History |...",
+            "snippet": "The latest McDonald's stock prices, stock quotes, news, and MCD history to help you invest and trade smarter."
+          },
+          {
+            "url": "https://markets.businessinsider.com/economic-calendar",
+            "title": "Economic calendar - Markets Insider",
+            "snippet": "Check out the Markets Insider economic calendar. See what will impact the market this week. Sort by importance, country and view historical data and forecasts."
+          },
+          {
+            "url": "https://docs.google.com/document/u/1/",
+            "title": "Google Docs: Sign-in",
+            "snippet": "Access Google Docs with a personal Google account or Google Workspace account (for business use)."
+          },
+          {
+            "url": "https://docs.google.com/",
+            "title": "Google Docs",
+            "snippet": "Create and edit web-based documents, spreadsheets, and presentations. Store documents online and access them from any computer."
+          },
+          {
+            "url": "https://docs.google.com/document/create?hl=fr",
+            "title": "Google Docs : connexion",
+            "snippet": "Accédez à Google Docs avec un compte Google personnel ou un compte Google Workspace (à usage professionnel)."
+          },
+          {
+            "url": "https://docs.google.com/document/d/1hNOLvYKQunyFF6_AzefwtO7Si_8F0uLHOnL1yRL2fAY/edit",
+            "title": "Using Google Documents",
+            "snippet": "Fabulous Features of Google Docs Session Agenda - bit.ly/curts-docs 🧔 Presenter Eric Curts Technology Integration Specialist, Google Certified Trainer and Innovator 💡 Eric’s EdTech blog - controlaltachieve.com 📧 Email - ericcurts@gmail.com - eric.curts@apps.sparcc.org 🐦 Socials:..."
+          },
+          {
+            "url": "https://docs.google.com/spreadsheets/u/0/?ths=true",
+            "title": "Sign in - Google Sheets",
+            "snippet": "Access Google Sheets with a personal Google account or Google Workspace account (for business use)."
+          },
+          {
+            "url": "https://docs.google.com/document/d/19B-yXT9h9A1hXPugvvmo_X2esoLNWJU5ycqK6Fr65gA/edit",
+            "title": "MLA Template - Google Docs",
+            "snippet": "Your Name Your Teacher’s Name Class Name and Period Date Title of Your Paper Press tab, and begin typing your paper here. As you can see, it is already double-spaced. Don’t forget to use easybib to generate your citations properly, and to put the citations in the Works Cited page at the end. ..."
+          }
+        ],
+        "errors": [],
+        "state": "not_found_in_checked_sources",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://markets.businessinsider.com/indices/world-stock-markets",
+            "result": "ambiguous",
+            "evidence": []
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Tesařík — research dossier",
+        "facts": [
+          "The business is listed at Kosmická 742/11, 149 00, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/12104340701"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://markets.businessinsider.com/indices/world-stock-markets",
+        "https://markets.businessinsider.com/indices",
+        "https://markets.businessinsider.com/index/dow_jones_global_dow",
+        "https://markets.businessinsider.com/commodities/oil-price?type=wti",
+        "https://markets.businessinsider.com/index/us-dollar-index",
+        "https://markets.businessinsider.com/",
+        "https://markets.businessinsider.com/stocks/mcd-stock"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-4330936992": {
+      "lead_id": "osm-node-4330936992",
+      "name": "Instalatérství Nágl",
+      "checked_at": "2026-10-08",
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Instalatérství Nágl\" Praha webové stránky",
+          "\"Instalatérství Nágl\" \"Dukelských hrdinů 976/9\" website"
+        ],
+        "candidates": [
+          {
+            "url": "https://support.google.com/youtubemusic/answer/11418178?hl=fr&co=GENIE.Platform=Android",
+            "title": "Consulter votre YouTube Music Recap",
+            "snippet": "Consulter votre YouTube Music Recap Vos Recaps annuel et saisonniers incluent des playlists personnalisées et des statistiques. Ils rassemblent le top des titres, les artistes et les podcasts que vous avez le plus écoutés durant l'année et la saison écoulées, et plus encore."
+          },
+          {
+            "url": "https://support.google.com/youtubemusic/answer/6305537?hl=zh-Hant&co=GENIE.Platform=Desktop",
+            "title": "訂閱 YouTube Premium 或 YouTube Music Premium 方案",
+            "snippet": "訂閱 YouTube Premium 或 YouTube Music Premium 方案 只要成為 Premium 會員，就能享有更豐富多元的 YouTube 影音體驗。 本文將說明如何立即成為個人方案付費會員。 需要 YouTube 學生方案的相關資訊嗎？ 請按 這裡 瞭解詳情。"
+          },
+          {
+            "url": "https://support.google.com/youtubemusic/?hl=es-419",
+            "title": "Ayuda de YouTube Music - Google Help",
+            "snippet": "Centro de asistencia oficial de YouTube Music donde puedes encontrar sugerencias y tutoriales para aprender a utilizar el producto y respuestas a otras preguntas ..."
+          },
+          {
+            "url": "https://support.google.com/youtubemusic/answer/7507349?hl=en",
+            "title": "Sign up for & manage a YouTube family plan - YouTube Music Help",
+            "snippet": "Get a YouTube family plan to share a YouTube paid membership, or Primetime Channels (US, Germany, France, Australia, and UK only), with up to 5 other members"
+          },
+          {
+            "url": "https://support.google.com/youtube/answer/7548835?hl=tr&co=GENIE.Platform=Android",
+            "title": "YouTube Premium veya YouTube Music Premium üyeliğinizi değiştirme...",
+            "snippet": "YouTube Premium veya YouTube Music Premium üyeliğinizi değiştirme ya da yükseltme YouTube Premium veya YouTube Music Premium üyeliğiniz iptal edilene kadar her yeni faturalandırma döneminin başında üyelik ücreti otomatik olarak alınır. Ücretli üyeliğinizi güncelleme hakkında daha fazla bilgiyi aşağıda bulabilirsiniz."
+          },
+          {
+            "url": "https://support.google.com/youtubemusic/answer/10204770?hl=en",
+            "title": "Get help with YouTube Music billing issues - Google Help",
+            "snippet": "Get help with YouTube Music billing issues If your monthly membership payment for YouTube Music is declined, we will notify you via email so that you can take action and restore your membership. After receiving this email: You’ll have 3 days to fix the issue before losing access to your membership benefits."
+          },
+          {
+            "url": "https://support.google.com/youtubemusic/answer/6313542?hl=en",
+            "title": "Customize your music & podcasts - YouTube Music Help - Google...",
+            "snippet": "Sample music videos Samples is a new experience in the YouTube Music app that makes music discovery fun, effortless, and immersive. Browse the \"Samples\" tab to find an endless, personalized stream of music video segments ranging from new releases to old favorites. With Samples, you can: Discover new music Save songs to"
+          },
+          {
+            "url": "https://support.google.com/youtube/answer/11950175?hl=en&co=GENIE.Platform=Android",
+            "title": "Pause or resume YouTube Premium or YouTube Music Premium",
+            "snippet": "YouTube Premium and YouTube Music Premium subscribers can pause, resume, or cancel, at any point during their paid membership. Hit the button below to view and manage your paid membership. Then,"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "not_found_in_checked_sources",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Instalatérství Nágl — research dossier",
+        "facts": [
+          "The business is listed at Dukelských hrdinů 976/9, Praha 7, 17000, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/4330936992"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://support.google.com/youtubemusic/answer/11418178?hl=fr&co=GENIE.Platform=Android",
+        "https://support.google.com/youtubemusic/answer/6305537?hl=zh-Hant&co=GENIE.Platform=Desktop",
+        "https://support.google.com/youtubemusic/?hl=es-419",
+        "https://support.google.com/youtubemusic/answer/7507349?hl=en",
+        "https://support.google.com/youtube/answer/7548835?hl=tr&co=GENIE.Platform=Android",
+        "https://support.google.com/youtubemusic/answer/10204770?hl=en",
+        "https://support.google.com/youtubemusic/answer/6313542?hl=en"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-316725404": {
+      "lead_id": "osm-node-316725404",
+      "name": "Rangoli Pankrác",
+      "checked_at": "2026-10-08",
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Rangoli Pankrác\" Praha webové stránky",
+          "\"Rangoli Pankrác\" \"Pikrtova 13\" website"
+        ],
+        "candidates": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Rangoli",
+            "title": "Rangoli - Wikipedia",
+            "snippet": "Rangoli is an art form that originates from the Indian subcontinent, in which patterns are created on the floor or a tabletop using materials such as powdered limestone, red ochre, dry rice flour, coloured sand, quartz powder, flower petals, and coloured rocks."
+          },
+          {
+            "url": "https://www.britannica.com/art/rangoli",
+            "title": "Rangoli | India, Floor Art, Designs, Meanings, & Festivals |...",
+            "snippet": "Rangoli is a South Asian folk art consisting of floor drawings that women design for festivals and, in some regions, each morning at their front doors. They can be figurative, geometric, or combinations of both, and they can use various materials, but they are ephemeral art."
+          },
+          {
+            "url": "https://www.festivecolours.com/what-is-rangoli-meaning-purpose-patterns-and-materials/",
+            "title": "What is Rangoli- Cultural Significance and Modern Use",
+            "snippet": "Sep 5, 2025 · Rangoli is an ancient Indian floor art with roots tracing back to the Indus Valley Civilisation. Traditionally, simple geometric patterns made with rice flour, coloured rice, and flower petals were created to welcome deities and visitors. It was considered a symbol of prosperity and purity."
+          },
+          {
+            "url": "https://www.shaadidukaan.com/blog/simple-rangoli-designs.html",
+            "title": "151 Easy Simple Rangoli Designs: Creative Ideas for All Occasions",
+            "snippet": "Discover easy simple rangoli designs that are perfect for beginners. Explore creative and beautiful patterns using common materials to enhance your celebrations effortlessly."
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=NDvKgfmyg-8",
+            "title": "Simple Rangoli Designs | Easy & Beautiful Rangoli for Beginners |...",
+            "snippet": "Aug 18, 2026 · Looking for an easy rangoli design for beginners? This tutorial is simple to follow and can be recreated at home using basic rangoli colours. Watch the complete video and enjoy the satisfying..."
+          },
+          {
+            "url": "https://www.wikihow.com/Make-Rangoli",
+            "title": "How to Make Rangoli: 11 Steps (with Pictures) - wikiHow",
+            "snippet": "Feb 19, 2026 · Rangoli is a traditional Indian sand-painted design often seen during Diwali, the Indian festival of lights. Historically created on floors inside and outside of homes, Rangoli can be made in a wide variety of designs, sizes, and materials."
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=G5sHwGV2ECo",
+            "title": "4 Easy Rangoli Tutorial || Easy and Simple Rangoli Kaise Banate...",
+            "snippet": "Jul 28, 2025 · In this video, we've curated a collection of beautiful, easy-to-make, and highly satisfying Rangoli designs, along with soothing sand art and DIY tutorials What to Watch:"
+          },
+          {
+            "url": "https://www.weddingwire.in/wedding-tips/rangoli-designs--c3571",
+            "title": "135+ Latest Rangoli Designs For Diwali 2026 - WeddingWire.in",
+            "snippet": "Jul 21, 2026 · 135+ beautiful, detailed, and Instagram-worthy rangoli designs to decorate your house and step-by-step video tutorials to help you make unique designs this festive season."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "not_found_in_checked_sources",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.britannica.com/art/rangoli",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.festivecolours.com/what-is-rangoli-meaning-purpose-patterns-and-materials/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.shaadidukaan.com/blog/simple-rangoli-designs.html",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=NDvKgfmyg-8",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.wikihow.com/Make-Rangoli",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.weddingwire.in/wedding-tips/rangoli-designs--c3571",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Rangoli Pankrác — research dossier",
+        "facts": [
+          "The business is listed at Pikrtova 13, 14000, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Booking-ready business website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/316725404"
+        ],
+        "estimated_deal_czk": [
+          17000,
+          45000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://en.wikipedia.org/wiki/Rangoli",
+        "https://www.britannica.com/art/rangoli",
+        "https://www.festivecolours.com/what-is-rangoli-meaning-purpose-patterns-and-materials/",
+        "https://www.shaadidukaan.com/blog/simple-rangoli-designs.html",
+        "https://www.youtube.com/watch?v=NDvKgfmyg-8",
+        "https://www.wikihow.com/Make-Rangoli",
+        "https://www.youtube.com/watch?v=G5sHwGV2ECo"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    }
+  }
 }
