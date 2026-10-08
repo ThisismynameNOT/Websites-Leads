@@ -146,7 +146,7 @@ def identity_evidence(lead, html):
         return []
     proof = []
     ico = re.sub(r"\D", "", str(lead.get("ico") or ""))
-    if len(ico) == 8 and re.search(r"(?<!\\d)"+re.escape(ico)+r"(?!\\d)", soup.get_text(" ", strip=True)):
+    if len(ico) == 8 and re.search(r"(?<!\d)"+re.escape(ico)+r"(?!\d)", soup.get_text(" ", strip=True)):
         proof.append("Matching IČO on website")
     full_name = normalized(lead.get("name"))
     if len(full_name) >= 7 and full_name in body:
