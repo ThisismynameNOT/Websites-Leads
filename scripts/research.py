@@ -30,7 +30,7 @@ MANUAL = ROOT / "data/manual-leads.json"
 OUTPUT = ROOT / "data/research.json"
 SCREENSHOTS = ROOT / "research-screenshots"
 PER_DAY = min(18, max(1, int(os.environ.get("RESEARCH_DAILY_LIMIT", "12"))))
-ENGINE_VERSION = 4
+ENGINE_VERSION = 5
 QUERY_WAIT = 1.1
 TODAY = dt.datetime.now(dt.timezone.utc).date().isoformat()
 USER_AGENT = "Mozilla/5.0 (compatible; FieldnotesResearch/2.0; +https://github.com/ThisismynameNOT/Websites-Leads)"
@@ -394,11 +394,29 @@ def browser_audit(website, ident):
                             images_count:document.images.length,
                             contact_action:links.some(h=>h.startsWith('mailto:')||h.startsWith('tel:')),
                             form_count:document.querySelectorAll('form').length,
-                            booking_links:links.filter(h=>/reservio|bookio|calendly|booking|rezerv|objednat/i.test(h)).length
+                            booking_links:links.filter(h=>/reservio|bookio|calendly|booking|rezerv|objednat/i.test(h)).length,
+                            internal_pages:links.filter(h=>h.startsWith(location.origin+"/") && /kontakt|sluzby|reference|projekty|cenik|services|contact/i.test(h)).slice(0,12)
                           };
                         }""".replace("root.scrollWidth-width", "root.scrollWidth-window.innerWidth"))
                         metrics["http_status"] = response.status if response else None
                         findings[name] = metrics
+                        if name == "desktop":
+                            path_issues=[]
+                            # Same-origin internal site paths only, no redirects or external URLs.
+                            base=urllib.parse.urlsplit(website)
+                            for page_url in list(dict.fromkeys(metrics.pop("internal_pages",[])))[:3]:
+                                parsed=urllib.parse.urlsplit(page_url)
+                                if parsed.scheme not in ("https","http") or parsed.netloc!=base.netloc:continue
+                                try:
+                                    target=context.request.get(page_url,timeout=9000,max_redirects=0)
+                                    if target.status in (404,410,500,502,503):
+                                        path_issues.append({"url":page_url,"http_status":target.status,
+                                                            "issue":"Broken internal page","method":"Playwright same-origin GET"})
+                                except Exception:
+                                    pass  # A request failure alone cannot establish a broken page.
+                            findings["navigation_errors"]=path_issues
+                        else:
+                            metrics.pop("internal_pages",None)
                         # Screenshot is for review and never used alone to hallucinate a design diagnosis.
                         name_safe = re.sub(r"[^a-zA-Z0-9_-]", "", ident)[:80]
                         path = SCREENSHOTS / (name_safe + "-" + name + ".webp")
@@ -416,6 +434,9 @@ def browser_audit(website, ident):
             observed.append({"issue": "Missing viewport meta tag", "detail": "No name=viewport in DOM", "method": "Playwright DOM", "url": website})
         if findings["mobile"]["broken_images"] > 0:
             observed.append({"issue": "Broken image elements", "detail": str(findings["mobile"]["broken_images"]) + " observed on mobile viewport", "method": "Playwright DOM", "url": website})
+        for nav in findings.get("navigation_errors",[]):
+            observed.append({"issue":nav["issue"],"detail":"HTTP "+str(nav["http_status"])+" on internal page",
+                             "method":nav["method"],"url":nav["url"]})
         if not findings["mobile"]["contact_action"] and findings["mobile"]["form_count"] == 0 and findings["mobile"]["booking_links"] == 0:
             observed.append({"issue": "No machine-detected direct contact, form or booking action on homepage",
                              "detail": "Could be available on subpages or via JavaScript", "method": "Playwright homepage DOM", "url": website})
