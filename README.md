@@ -4,6 +4,16 @@ Automated, GitHub-native sales prospecting dashboard for web design opportunitie
 
 **Source repo:** https://github.com/ThisismynameNOT/Websites-Leads
 
+## Evidence-first research upgrade (October 2026)
+
+**Daily automatic research now includes** independent website search, official ARES verification, current registry-member lookup when available, browser measurements of desktop/mobile layouts, screenshots in workflow artifacts, cross-checks of listed business contacts, dated opening/hiring/expansion signals, and source-grounded personalized sales dossiers.
+
+All new research appears inside the company's dossier in the dashboard. The top three now prioritize recently observed, measurable website issues rather than only source-directory scores.
+
+**Important:** no web search can prove nonexistence of a website; code-driven screenshots cannot conclusively evaluate aesthetics; public directors may not be purchasing decision-makers; buyer budget and intent require direct confirmation. Unsupported claims remain labelled unknown or research required, rather than being invented.
+
+For the exact research methodology, limitations, optional authenticated search configuration, data schema, screenshot access, and tests, read **[RESEARCH_PIPELINE.md](./RESEARCH_PIPELINE.md)**.
+
 ## Available now
 
 - Mobile-responsive sales dashboard, search, industry filters, opportunity rankings and lead dossiers.
