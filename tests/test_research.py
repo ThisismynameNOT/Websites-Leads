@@ -37,7 +37,7 @@ class ResearchTests(unittest.TestCase):
     def test_redirected_directory_never_becomes_verified_website(self):
         example=self.example()
         search={"status":"searched","queries":["query-one","query-two"],"candidates":[{"url":"https://example.cz/business"}],"errors":[]}
-        with patch.object(research,"search_results",return_value=search), \\
+        with patch.object(research,"search_results",return_value=search), \
              patch.object(research,"retrieve",return_value=({"url":"https://www.firmy.cz/detail/123","html":"Business IČO 12345678","status":200},None)):
             found=research.discover_website(example)
         self.assertNotEqual(found["state"],"VERIFIED_WEBSITE")
