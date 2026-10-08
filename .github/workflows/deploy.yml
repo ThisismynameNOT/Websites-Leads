@@ -29,6 +29,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout latest main
         uses: actions/checkout@v4
@@ -40,6 +41,13 @@ jobs:
           cp index.html styles.css app.js public/
           cp data/leads.json public/data/leads.json
           touch public/.nojekyll
+      - name: Validate dashboard bundle
+        run: |
+          test -s public/index.html
+          test -s public/app.js
+          test -s public/styles.css
+          python -m json.tool public/data/leads.json >/dev/null
+          echo 'Validated dashboard files and lead JSON.'
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
       - name: Upload static site
@@ -49,3 +57,5 @@ jobs:
       - name: Publish
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Show deployed dashboard URL
+        run: echo 'Dashboard deployed to ${{ steps.deployment.outputs.page_url }}' >> "$GITHUB_STEP_SUMMARY"
