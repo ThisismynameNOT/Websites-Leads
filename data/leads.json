@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-08T21:56:06Z",
+  "generated_at": "2026-10-08T22:02:25Z",
   "collector": {
     "name": "OSM + optional ARES lookup",
-    "segment": "food",
-    "discovered_this_run": 230,
-    "listings_examined": 1250,
+    "segment": "services",
+    "discovered_this_run": 0,
+    "listings_examined": 0,
     "notes": "No-website tag denotes a missing directory URL, not independently verified absence of a website. Scores are preliminary."
   },
   "leads": [

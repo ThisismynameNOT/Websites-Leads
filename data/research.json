@@ -1,16 +1,45 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-08T21:58:49.977381+00:00",
+  "generated_at": "2026-10-08T22:04:33.939847+00:00",
   "mode": "evidence_based_no_ai",
-  "status": "completed",
+  "status": "partial",
   "searched_today": 12,
-  "completed_today": 12,
+  "completed_today": 5,
   "limits": {
     "web_discovery": "No negative proof from search",
     "browser": "Objective DOM and geometry only",
     "buyer": "No purchase intent or owner authority inferred"
   },
-  "errors": [],
+  "errors": [
+    {
+      "lead_id": "osm-node-355278872",
+      "error": "NameError: name 'BeautifulSoup' is not defined"
+    },
+    {
+      "lead_id": "osm-node-355282196",
+      "error": "NameError: name 'BeautifulSoup' is not defined"
+    },
+    {
+      "lead_id": "osm-node-13322225548",
+      "error": "NameError: name 'BeautifulSoup' is not defined"
+    },
+    {
+      "lead_id": "osm-node-296517586",
+      "error": "NameError: name 'BeautifulSoup' is not defined"
+    },
+    {
+      "lead_id": "osm-node-296555731",
+      "error": "NameError: name 'BeautifulSoup' is not defined"
+    },
+    {
+      "lead_id": "osm-node-296574409",
+      "error": "NameError: name 'BeautifulSoup' is not defined"
+    },
+    {
+      "lead_id": "osm-node-296608746",
+      "error": "NameError: name 'BeautifulSoup' is not defined"
+    }
+  ],
   "reports": {
     "research-an-beauty-studio-haje": {
       "lead_id": "research-an-beauty-studio-haje",
@@ -1892,6 +1921,326 @@
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-1588777644": {
+      "lead_id": "osm-node-1588777644",
+      "name": "Asia Restaurant Libuš",
+      "checked_at": "2026-10-08",
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Asia Restaurant Libuš\" Praha webové stránky",
+          "\"Asia Restaurant Libuš\" \"Meteorologická 987\" website"
+        ],
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "search_unavailable",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Asia Restaurant Libuš — research dossier",
+        "facts": [
+          "The business is listed at Meteorologická 987, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Booking-ready business website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/1588777644"
+        ],
+        "estimated_deal_czk": [
+          17000,
+          45000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-1946542416": {
+      "lead_id": "osm-node-1946542416",
+      "name": "Černý orel",
+      "checked_at": "2026-10-08",
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Černý orel\" Praha webové stránky",
+          "\"Černý orel\" \"U Lužického semináře 40\" website"
+        ],
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "search_unavailable",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Černý orel — research dossier",
+        "facts": [
+          "The business is listed at U Lužického semináře 40, 11800, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Booking-ready business website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/1946542416"
+        ],
+        "estimated_deal_czk": [
+          17000,
+          45000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-3566722399": {
+      "lead_id": "osm-node-3566722399",
+      "name": "AK-ATELIER",
+      "checked_at": "2026-10-08",
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"AK-ATELIER\" Praha webové stránky",
+          "\"AK-ATELIER\" \"Rooseveltova 764/31\" website"
+        ],
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "search_unavailable",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "AK-ATELIER — research dossier",
+        "facts": [
+          "The business is listed at Rooseveltova 764/31, 16000, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Professional business website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/3566722399"
+        ],
+        "estimated_deal_czk": [
+          20000,
+          50000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-296454947": {
+      "lead_id": "osm-node-296454947",
+      "name": "DABL bistro",
+      "checked_at": "2026-10-08",
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"DABL bistro\" Praha webové stránky",
+          "\"DABL bistro\" \"Rybná 650/3\" website"
+        ],
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "search_unavailable",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "DABL bistro — research dossier",
+        "facts": [
+          "The business is listed at Rybná 650/3, 11000, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Booking-ready business website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/296454947"
+        ],
+        "estimated_deal_czk": [
+          17000,
+          45000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-296466846": {
+      "lead_id": "osm-node-296466846",
+      "name": "U Červeného Páva",
+      "checked_at": "2026-10-08",
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"U Červeného Páva\" Praha webové stránky",
+          "\"U Červeného Páva\" \"Kamzíková 543/6\" website"
+        ],
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "search_unavailable",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "U Červeného Páva — research dossier",
+        "facts": [
+          "The business is listed at Kamzíková 543/6, 11000, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Booking-ready business website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/296466846"
+        ],
+        "estimated_deal_czk": [
+          17000,
+          45000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
       "owner_verified": false,
       "buyer_interest_verified": false
     }
