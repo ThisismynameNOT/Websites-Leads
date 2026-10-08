@@ -187,7 +187,7 @@ async function load(){
   var signals=(rep.buying_signals||[]).filter(function(x){return x.evidence_type==='verified_registry';});
   if(signals.length)lead.buying_signals=(lead.buying_signals||[]).concat(signals.map(function(x){return x.claim+' ('+x.date+')';}));
  });
- $('data-banner').classList.remove('is-error');$('data-status').textContent=state.leads.length?'Snapshot loaded · '+fmt(state.leads.length)+' leads · source data is not automatically verified':'Collector ready · no leads imported yet · run GitHub Action to populate';
+ $('data-banner').classList.remove('is-error');$('data-status').textContent=state.leads.length?'Loaded '+fmt(state.leads.length)+' prospects · '+fmt(Object.keys(state.researchReports||{}).length)+' independently researched · buyer intent still unverified':'Collector ready · no leads imported yet · run GitHub Action to populate';
  $('last-updated').textContent='LAST SYNC — '+(state.generatedAt?formatDate(state.generatedAt)+' '+new Date(state.generatedAt).toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'}):'NOT YET RUN');
  countStats();industryChart();threePicks();focus();list();researchDesk();
  }catch(e){$('data-banner').classList.add('is-error');$('data-status').textContent='Failed to load leads: '+e.message;$('last-updated').textContent='CHECK WORKFLOW / DATA FILE';if(!state.leads.length){countStats();industryChart();threePicks();focus();list();researchDesk();}}
