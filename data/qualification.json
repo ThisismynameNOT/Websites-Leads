@@ -1,0 +1,13 @@
+{
+  "schema_version": 2,
+  "generated_at": null,
+  "scoring_model": {
+    "website_opportunity": 25,
+    "financial_capacity": 25,
+    "business_activity": 20,
+    "lead_generation_value": 15,
+    "accessible_contact": 10,
+    "cms_suitability": 5
+  },
+  "companies": {}
+}
