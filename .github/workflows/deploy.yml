@@ -8,6 +8,7 @@ on:
       - "styles.css"
       - "app.js"
       - "picks.js"
+      - "opportunity.js"
       - "data/manual-leads.json"
       - "data/leads.json"
       - "data/research.json"
@@ -44,7 +45,7 @@ jobs:
       - name: Prepare public site (exclude scripts / manual pipeline)
         run: |
           mkdir -p public/data
-          cp index.html styles.css app.js picks.js public/
+          cp index.html styles.css app.js picks.js opportunity.js public/
           cp data/manual-leads.json public/data/manual-leads.json
           cp data/leads.json public/data/leads.json
           cp data/research.json public/data/research.json
@@ -55,6 +56,7 @@ jobs:
           test -s public/index.html
           test -s public/app.js
           test -s public/picks.js
+          test -s public/opportunity.js
           test -s public/data/manual-leads.json
           test -s public/styles.css
           python -m json.tool public/data/leads.json >/dev/null
@@ -64,7 +66,8 @@ jobs:
           python -m json.tool public/data/manual-leads.json >/dev/null
           node --check public/app.js
           node --check public/picks.js
-          node --test tests/picks.test.cjs
+          node --check public/opportunity.js
+          node --test tests/*.test.cjs
           echo 'Validated dashboard files and lead JSON.'
       - name: Verify Pages is activated
         env:
@@ -109,6 +112,9 @@ jobs:
                   with urllib.request.urlopen(url + 'picks.js', timeout=18) as response:
                       pick_code = response.read().decode('utf-8')
                   assert 'FieldnotesPicks' in pick_code, 'Top-three policy script missing'
+                  with urllib.request.urlopen(url + 'opportunity.js', timeout=18) as response:
+                      radar_code = response.read().decode('utf-8')
+                  assert 'FieldnotesRadar' in radar_code, 'Top-ten radar script missing'
                   with urllib.request.urlopen(url + 'data/research.json', timeout=18) as response:
                       research = json.load(response)
                   assert 'reports' in research, 'Research reports missing'
