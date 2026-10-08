@@ -8,7 +8,7 @@ Automated, GitHub-native sales prospecting dashboard for web design opportunitie
 
 - Mobile-responsive sales dashboard, search, industry filters, opportunity rankings and lead dossiers.
 - CSV export; saved prospects, notes and outreach stages stored locally in your browser.
-- Six collection windows daily: 00:17, 04:17, 08:17, 12:17, 16:17 and 20:17 **UTC** (four-hour cadence).
+- Daily collection scheduled at **09:00 every morning in Europe/Prague**, automatically following CET/CEST daylight-saving time.
 - OpenStreetMap listing research limited to the administrative city of Prague.
 - Six rotating industry groups: beauty, food, professional services, trades, retail and wellness.
 - Optional ARES business-registration checks when the directory lists an IČO.
@@ -17,7 +17,7 @@ Automated, GitHub-native sales prospecting dashboard for web design opportunitie
 
 ## First-time activation
 
-1. The repository is **public**, and the first Prague candidate collection has already succeeded. Further collector runs are scheduled automatically every four hours.
+1. The repository is **public**, and the first Prague candidate collection has already succeeded. Further collector runs are scheduled automatically at 09:00 Prague time every day.
 2. Open [Settings → Pages](https://github.com/ThisismynameNOT/Websites-Leads/settings/pages) and set **Build and deployment → Source → GitHub Actions**.
 3. Choose **Publish lead dashboard → Run workflow** in Actions. When it succeeds, GitHub Settings → Pages will show your actual live URL.
 4. If the collector cannot commit data, review **Settings → Actions → General → Workflow permissions** and ensure the workflow token has repository write permission.
@@ -27,7 +27,7 @@ Do not assume the site is published until the Pages workflow succeeds.
 
 ## Where leads come from
 
-The Python collector reads OpenStreetMap records for businesses within Prague's city boundary via the Overpass API. At most 230 new candidates are retained per run, with a maximum of 1800 deduplicated candidates in the dataset. It rotates between six industry groups each four hours. ARES is queried on a subset of newly discovered companies that have an IČO on their map record.
+The Python collector reads OpenStreetMap records for businesses within Prague's city boundary via the Overpass API. At most 230 new candidates are retained per run, with a maximum of 1800 deduplicated candidates in the dataset. It rotates between six industry groups across six successive Prague calendar days, keeping existing leads in the snapshot. ARES is queried on a subset of newly discovered companies that have an IČO on their map record.
 
 **Integrity rules:**
 
@@ -99,7 +99,7 @@ To run offline tests: **python -m unittest discover -s tests -v**
 
 To trigger the collector locally with internet access: **python scripts/refresh.py**
 
-The browser checks for a new lead snapshot every 15 minutes while visible. Source collection is scheduled every four hours in GitHub Actions; GitHub may delay scheduled runs or skip them under heavy load.
+The browser checks for a new lead snapshot every 15 minutes while visible. Source collection is scheduled at 09:00 Europe/Prague daily in GitHub Actions; GitHub may delay scheduled runs or skip them under heavy load. GitHub may also automatically disable scheduled runs if a public repository has no activity for 60 days.
 
 ## Attribution, privacy, limitations
 
