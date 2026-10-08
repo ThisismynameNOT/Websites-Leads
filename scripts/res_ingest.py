@@ -97,7 +97,7 @@ def candidates(reader,previous=None,today=TODAY):
     prev=(previous or {}).get("tracked",{})
     counts={"rows":0,"prague_relevant":0,"new":0,"established":0,"previously_tracked":len(prev),
             "first_seen_in_snapshot":0,"changed_in_snapshot":0}
-    new=[],est=[]
+    new, est = [], []
     for row in reader:
         counts["rows"]+=1
         lead=interpret(row,today)
