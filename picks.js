@@ -5,7 +5,7 @@
   if(root)root.FieldnotesPicks=api;
 })(typeof window!=="undefined"?window:null,function(){
 "use strict";
-var CHAIN=/\b(mcdonald.?s|starbucks|kfc|burger king|subway|domino.?s|pizza hut|tesco|lidl|billa|albert|penny market|ikea|dm drogerie|rossmann|costa coffee|dhaba beas|bageterie boulevard)\b/i;
+var CHAIN=/\b(mcdonald.?s|starbucks|kfc|burger king|subway|domino.?s|pizza hut|tesco|lidl|billa|albert|penny market|ikea|dm drogerie|rossmann|costa coffee|dhaba beas|bageterie boulevard|mama coffee|mamacoffee|vytopna|výtopna|rangoli)\b/i;
 var EXCLUDED=/^(rejected|excluded|closed|inactive_registry|do_not_contact)$/i;
 var CONSTRAINTS=[
 ["01 · Geography","Operating business inside the administrative boundary of Prague. Exclude suburban Central Bohemia, virtual-only or 'serves Prague' listings with no Prague operation."],
@@ -86,7 +86,7 @@ function rank(l,today){
 function choose(leads,today){
  today=today||new Date().toISOString().slice(0,10);
  var seen=new Set(), candidates=[];
- (leads||[]).filter(l=>!banned(l)).sort((a,b)=>rank(b,today)-rank(a,today)).forEach(l=>{var k=signature(l);if(!seen.has(k)){seen.add(k);candidates.push(l);}});
+ (leads||[]).filter(l=>{if(banned(l))return false;var newBusiness=recent(l,today)===true;var q=l.qualification||{};var provenException=q.exception_site_audit_verified===true && l.website_score!==null && Number(l.website_score)<=4 && q.recent_or_exception_verified===true;return newBusiness||provenException;}).sort((a,b)=>rank(b,today)-rank(a,today)).forEach(l=>{var k=signature(l);if(!seen.has(k)){seen.add(k);candidates.push(l);}});
  var reviewed=candidates.filter(l=>isQualified(l,today)),other=candidates.filter(l=>!isQualified(l,today));
  return reviewed.concat(other).slice(0,3).map((l,index)=>({
    rank:index+1,lead:l,
