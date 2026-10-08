@@ -29,7 +29,7 @@ Do not assume the site is published until the Pages workflow succeeds.
 
 The dashboard places **exactly three prospects** above the full directory. The picker runs against the daily refreshed dataset and prefers researched, public-source-supported businesses over generic OSM entries. A prospect is marked **Research required** until all qualification checks are actually completed. An empty slot is shown if there are fewer than three acceptable candidates; the system never invents companies to reach three.
 
-The initial researched picks (checked 8 October 2026) are **An Beauty Studio**, **Marina Hreben — Brow Atelier**, and **Café Marathon**. All three are provisional; none is yet verified to lack a separate website or booking system. Relevant original research links and explicit next-check gaps are included in \`data/manual-leads.json\`. They are not automatically approved for outreach.
+The initial researched picks (checked 8 October 2026) are **An Beauty Studio**, **Marina Hreben**, and **Café Marathon**. All three are provisional; none is yet verified to lack a separate website or booking system. Relevant original research links and explicit next-check gaps are included in \`data/manual-leads.json\`. They are not automatically approved for outreach.
 
 ### The 16 enforced restrictions
 
