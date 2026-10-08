@@ -36,16 +36,16 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Validate collector without network
+      - name: Install Python research libraries
+        run: python -m pip install -r requirements-research.txt
+      - name: Test collector and research without network
         run: |
           python -m compileall -q scripts tests
           python -m unittest discover -s tests -v
       - name: Discover Prague businesses
         run: python scripts/refresh.py
-      - name: Install public-search and browser research dependencies
-        run: |
-          python -m pip install -r requirements-research.txt
-          python -m playwright install --with-deps chromium
+      - name: Install headless Chromium for responsive audit
+        run: python -m playwright install --with-deps chromium
       - name: Research websites, registry signals and contact evidence
         env:
           BRAVE_SEARCH_API_KEY: ${{ secrets.BRAVE_SEARCH_API_KEY }}
