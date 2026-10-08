@@ -27,7 +27,7 @@ var CONSTRAINTS=[
 ];
 function validDate(s){if(!/^\d{4}-\d{2}-\d{2}$/.test(String(s||"")))return null;var d=new Date(s+"T00:00:00Z");return !isNaN(d.getTime())&&d.toISOString().slice(0,10)===s?d:null;}
 function recent(l,today){
- var todayDate=validDate(today),start=validDate(l.opened_at)||validDate(l.registered_at);
+ var todayDate=validDate(today),start=validDate(l.opened_at)||validDate(l.premises_registered_at)||validDate(l.registered_at);
  if(!todayDate||!start)return null;
  var days=(todayDate.getTime()-start.getTime())/86400000;
  return days>=0&&days<=730;
