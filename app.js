@@ -2,7 +2,7 @@
 'use strict';
 var REPO = 'https://github.com/ThisismynameNOT/Websites-Leads';
 var STORE_KEY = 'fieldnotes-crm-v1';
-var state = { leads: [], threePicks: [], researchReports: {}, researchGeneratedAt: null, tab: 'all', search: '', industry: 'all', sort: 'score', selected: null, generatedAt: null, loading: false };
+var state = { leads: [], threePicks: [], researchReports: {}, researchGeneratedAt: null, tab: 'all', search: '', industry: 'all', source: 'all', website: 'all', age: 'all', qualification: {}, sort: 'score', selected: null, generatedAt: null, loading: false };
 var $ = function(id) { return document.getElementById(id); };
 var safe = function(s) { return String(s == null ? '' : s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];}); };
 var text = function(v, empty) { return v == null || v === '' ? (empty || 'Not verified') : String(v); };
@@ -16,10 +16,10 @@ function storage(){try{return JSON.parse(localStorage.getItem(STORE_KEY)||'{}');
 function updateStorage(id, patch){try{var a=storage();a[id]=Object.assign({},a[id]||{},patch);localStorage.setItem(STORE_KEY,JSON.stringify(a));}catch(e){toast('Local storage is unavailable.');}}
 function local(id){return storage()[id]||{};}
 function normalize(l){return Object.assign({id:'',name:'Unknown company',industry:'Other',district:'Prague',address:'',ico:'',website:'',website_status:'unknown',email:'',phone:'',instagram:'',opened_at:null,registered_at:null,website_score:null,score:0,score_reason:'',reason:'',buying_signals:[],verification:'candidate',demo_potential:'Unknown',offer:'Professional business website',deal_min_czk:15000,deal_max_czk:35000,source_urls:[],first_seen:'',last_seen:''},l);}
-function priority(n){return n>=80?'hot':n>=65?'strong':n>=50?'possible':'low';}
-function priorityName(n){return n>=80?'HOT':n>=65?'STRONG':n>=50?'POSSIBLE':'REVIEW';}
+function priority(n){return n>=80?'hot':n>=60?'possible':'low';}
+function priorityName(n){return n>=80?'HIGH PRIORITY':n>=60?'FURTHER RESEARCH':'LOW PRIORITY';}
 function countStats(){
- var all=state.leads,hot=all.filter(function(l){return Number(l.score)>=65;}).length,unlisted=all.filter(function(l){return l.website_status==='not_listed';}).length;
+ var all=state.leads,hot=all.filter(function(l){return Number(l.score)>=80;}).length,unlisted=all.filter(function(l){return l.website_status==='not_listed';}).length;
  var upper=all.reduce(function(s,l){return s+(Number(l.deal_max_czk)||0);},0);
  $('stat-total').textContent=fmt(all.length);$('stat-hot').textContent=fmt(hot);$('stat-unlisted').textContent=fmt(unlisted);
  $('stat-value').textContent=upper>=1000000?(upper/1000000).toFixed(1)+'M Kč':upper>=1000?Math.round(upper/1000)+'K Kč':fmt(upper)+' Kč';
@@ -50,7 +50,7 @@ function threePicks(){
   var l=choice.lead,qual=choice.status==='qualified';
   var contact=l.email?'Public email listed':l.phone?'Public phone listed':l.instagram?'Instagram listed':'Contact needs validation';
   var evidence=l.research||{},discovery=evidence.discovery||{},audit=evidence.audit||{},registry=evidence.registry||{};
-  var researchStatus=!l.research?'Research pending':discovery.state==='verified_website'?(audit.state==='observed'?'Site + responsive audit completed':'Site identity independently matched'):'Independent search: '+String(discovery.state||'unavailable').replace(/_/g,' ');
+  var researchStatus=!l.research?'Research pending':(discovery.state==='verified_website'||discovery.state==='VERIFIED_WEBSITE')?(audit.state==='observed'?'Site + responsive audit completed':'Site identity independently matched'):'Independent search: '+String(discovery.state||'unavailable').replace(/_/g,' ');
   var nIssues=(audit.objective_issues||[]).length;
   var evidenceLine=nIssues?' · '+nIssues+' measured issue'+(nIssues===1?'':'s'):'';
   var contactEvidence=(evidence.contact_evidence||[]).length>0?'Contact matched on company site':'Public contact not cross-verified';
@@ -86,16 +86,34 @@ function filtered(){
  var s=state.search.toLowerCase().trim(),a=state.leads.filter(function(l){
  var hit=!s||[l.name,l.industry,l.address,l.district,l.ico,l.reason].join(' ').toLowerCase().includes(s);
  var inGroup=state.industry==='all'||l.industry===state.industry;
- var inTab=state.tab==='all'||(state.tab==='hot'&&Number(l.score)>=65)||(state.tab==='unlisted'&&l.website_status==='not_listed')||(state.tab==='saved'&&local(l.id).saved);
- return hit&&inGroup&&inTab;
+ var cls=l.website_classification||'SEARCH_UNAVAILABLE';
+ var group=l.discovery_pipeline||'unknown';
+ var inTab=state.tab==='all'||(state.tab==='new'&&group==='new')||(state.tab==='established'&&group==='established')||
+ (state.tab==='hot'&&Number(l.score)>=80)||(state.tab==='unlisted'&&['NO_VERIFIED_WEBSITE_FOUND','THIRD_PARTY_PRESENCE_ONLY'].includes(cls))||(state.tab==='saved'&&local(l.id).saved);
+ var inSource=state.source==='all'||(state.source==='csu_res'&&String(l.source_type||'').includes('csu_res'))||(state.source!=='csu_res'&&String(l.source_type||l.data_origin||'').includes(state.source));
+ var inWebsite=state.website==='all'||cls===state.website;
+ var start=l.registered_at?Date.parse(l.registered_at+'T00:00:00Z'):NaN;
+ var age=state.age==='all'||(!isNaN(start)&&(Date.now()-start>=0)&&(Date.now()-start<=Number(state.age)*86400000));
+ return hit&&inGroup&&inTab&&inSource&&inWebsite&&age;
  });
  return a.sort(function(a,b){if(state.sort==='name')return a.name.localeCompare(b.name);if(state.sort==='recent')return String(b.first_seen||'').localeCompare(String(a.first_seen||''));return Number(b.score||0)-Number(a.score||0);});
 }
-function websiteLabel(l){if(l.website_status==='not_listed')return '<span class="website-pill no">● Not listed</span>';if(l.website_status==='listed')return '<span class="website-pill yes">● Website listed</span>';return '<span class="website-pill unknown">● Unknown</span>';}
+function websiteLabel(l){
+ var status=l.website_classification||"SEARCH_UNAVAILABLE";
+ var mapping={
+ "VERIFIED_WEBSITE":['yes','Verified website'],
+ "THIRD_PARTY_PRESENCE_ONLY":['no','Social / directory'],
+ "NO_VERIFIED_WEBSITE_FOUND":['no','Not verified found'],
+ "AMBIGUOUS":['unknown','Ambiguous'],
+ "SEARCH_UNAVAILABLE":['unknown',l.website_status==="not_listed"?"Directory URL missing":"Unverified"]
+ };
+ var spec=mapping[status]||mapping.SEARCH_UNAVAILABLE;
+ return '<span class="website-pill '+spec[0]+'">● '+safe(spec[1])+'</span>';
+}
 function list(){
  var leads=filtered();$('result-count').textContent=fmt(leads.length)+' companies';$('table-summary').textContent='Showing '+fmt(leads.length)+' of '+fmt(state.leads.length)+' candidates';
  $('leads-body').innerHTML=leads.slice(0,500).map(function(l){var p=priority(Number(l.score||0));
- return '<tr role="button" tabindex="0" data-id="'+safe(l.id)+'" aria-label="Open '+safe(l.name)+' dossier"><td><span class="company-name">'+safe(l.name)+'</span><span class="company-meta">'+(l.ico?'IČO '+safe(l.ico)+' · ':'')+safe(l.id)+'</span></td><td><span class="industry-text">'+safe(l.industry)+'</span></td><td>'+safe(l.district||'Prague')+'</td><td>'+websiteLabel(l)+'</td><td><div class="score-group"><span class="score-number">'+Number(l.score||0)+'</span><div class="score-track"><div class="score-progress" style="width:'+Math.max(0,Math.min(100,Number(l.score||0)))+'%"></div></div><span class="priority-pill '+p+'">'+priorityName(Number(l.score||0))+'</span></div></td><td><span class="est-deal">'+Math.round(Number(l.deal_min_czk||15000)/1000)+'–'+Math.round(Number(l.deal_max_czk||35000)/1000)+'K Kč</span></td><td class="row-arrow">↗</td></tr>';
+ return '<tr role="button" tabindex="0" data-id="'+safe(l.id)+'" aria-label="Open '+safe(l.name)+' dossier"><td><span class="company-name">'+safe(l.name)+'</span><span class="company-meta">'+(l.ico?'IČO '+safe(l.ico)+' · ':'')+safe(l.source_type||l.data_origin||'OSM')+' · '+safe(l.registered_at||'date unknown')+'</span></td><td><span class="industry-text">'+safe(l.industry)+'</span></td><td>'+safe(l.district||'Prague')+'</td><td>'+websiteLabel(l)+'</td><td><div class="score-group"><span class="score-number">'+Number(l.score||0)+'</span><div class="score-track"><div class="score-progress" style="width:'+Math.max(0,Math.min(100,Number(l.score||0)))+'%"></div></div><span class="priority-pill '+p+'">'+priorityName(Number(l.score||0))+'</span></div></td><td><span class="est-deal">'+Math.round(Number(l.deal_min_czk||15000)/1000)+'–'+Math.round(Number(l.deal_max_czk||35000)/1000)+'K Kč</span></td><td class="row-arrow">↗</td></tr>';
  }).join('');
  var blank=leads.length===0;$('empty-state').hidden=!blank;$('empty-title').textContent=state.leads.length?'No matches for this view':'No leads discovered yet';$('empty-copy').textContent=state.leads.length?'Try another filter or reset your search.':'Run the collector from GitHub Actions to discover Prague businesses. Directory gaps are labelled as unverified—not proof that a website does not exist.';
  document.querySelectorAll('tr[data-id]').forEach(function(row){row.addEventListener('click',function(){openLead(row.dataset.id);});row.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();openLead(row.dataset.id);}});});
@@ -103,11 +121,26 @@ function list(){
 function setTab(tab){state.tab=tab;document.querySelectorAll('[data-tab]').forEach(function(el){el.classList.toggle('active',el.dataset.tab===tab);});list();}
 function link(label, href){var href2=url(href);return href2?'<a href="'+safe(href2)+'" rel="noopener noreferrer" target="_blank">'+safe(label)+' ↗</a>':'<span>'+safe(text(href))+'</span>';}
 function opening(l){return l.opened_at?'Opened '+formatDate(l.opened_at):l.premises_registered_at?'Premises registered '+formatDate(l.premises_registered_at):l.registered_at?'Registered '+formatDate(l.registered_at):'Date not verified';}
+function qualificationDetails(l){
+ var score=l.score_breakdown||{},fin=l.financial||{status:'not_verified',facts:[]};
+ var names={website_opportunity:'Verified website opportunity',financial_capacity:'Financial capacity',
+ business_activity:'Active business credibility',lead_generation_value:'Lead-generation value',
+ accessible_contact:'Accessible contact',cms_suitability:'CMS suitability'};
+ var maxima={website_opportunity:25,financial_capacity:25,business_activity:20,lead_generation_value:15,accessible_contact:10,cms_suitability:5};
+ var rows=Object.keys(maxima).map(function(k){return '<div class="score-breakdown-row"><span>'+safe(names[k])+'</span><strong>'+Number(score[k]||0)+'/'+maxima[k]+'</strong></div>';}).join('');
+ var facts=(fin.facts||[]).map(function(x){return '<p>'+safe(x.kind)+' · '+money(x.value_czk)+' Kč · '+safe(x.period_end)+' '+(x.source_url?link('Official evidence',x.source_url):'')+'</p>';}).join('');
+ var blockers=(l.outstanding_checks||[]).map(function(x){return '<li>'+safe(x)+'</li>';}).join('');
+ return '<div class="dossier-section score-dossier"><h3>Commercial qualification — '+Number(l.score||0)+'/100</h3>'+
+  '<p>Status: '+safe(String(l.qualification_status||'research_required').replace(/_/g,' '))+' · '+safe(l.discovery_pipeline||'unknown cohort')+' company · tier '+Number(l.tier||3)+'</p>'+
+  rows+'<h4>Financial capacity</h4><p>'+safe(fin.status||'not_verified')+' · confirmed buyer budget: not verified</p>'+
+  (facts||'<p>Financial capacity not verified. Proposed website price is not a financial fact.</p>')+
+  '<h4>Outstanding validation</h4><ul>'+blockers+'</ul></div>';
+}
 function researchDetails(l){
  var r=l.research;
  if(!r)return '<div class="dossier-section"><h3>Automated independent research</h3><p>Not researched yet. The daily evidence pass processes a limited set of leads and will not claim unverified facts.</p></div>';
  var d=r.discovery||{},audit=r.audit||{},reg=r.registry||{},report=r.dossier||{},proof=d.identity||[];
- var searchLine=d.state==='verified_website'?'Verified website identity match':d.state==='search_unavailable'?'Web search unavailable (NOT proof no site exists)':'No business site independently verified (NOT proof none exists)';
+ var searchLine=d.state==='VERIFIED_WEBSITE'||d.state==='verified_website'?'Verified company website (identity matched)':d.state==='SEARCH_UNAVAILABLE'||d.state==='search_unavailable'?'Website search unavailable / incomplete':d.state==='THIRD_PARTY_PRESENCE_ONLY'?'Only third-party business presence found':d.state==='AMBIGUOUS'?'Potential site identity ambiguous':'Independent search did not confirm a website (not proof none exists)';
  var evidence=proof.length?proof.map(safe).join(' · '):'No identity-matched website evidence';
  var measurements=(audit.objective_issues||[]);
  var renderedIssues=measurements.length?measurements.map(function(x){return '<p class="research-issue"><strong>'+safe(x.issue)+'</strong> — '+safe(x.detail)+' <a href="'+safe(url(x.url)||'#')+'" target="_blank" rel="noopener noreferrer">Source ↗</a></p>';}).join(''):'<p>No browser-measured website problem confirmed.</p>';
@@ -146,6 +179,7 @@ function openLead(id){
  '<div class="dossier-section"><h3>Buying signals</h3><p>'+signals+'</p></div>'+
  '<div class="dossier-section"><h3>Suggested approach</h3><p>'+safe(l.offer||'Professional business website')+'. '+safe(l.outreach_angle||'Confirm the business has no independent website before pitching a conversion-focused web presence.')+'</p></div>'+
  '<div class="dossier-section"><h3>Research notes</h3><p>'+safe(l.score_reason||'Scores are preliminary; not a verified UX audit.')+'</p></div>'+
+ qualificationDetails(l)+
  researchDetails(l)+
  '<div class="dossier-section"><h3>Evidence and source links</h3><div class="source-list">'+(sources||'No source links available')+'</div></div>'+
  '<div class="dossier-section"><h3>Your pipeline</h3><div class="crm-row"><label><span class="crm-label">Sales stage</span><select id="crm-stage"><option value="new">New</option><option value="researching">Researching</option><option value="contacted">Contacted</option><option value="meeting">Meeting booked</option><option value="proposal">Proposal sent</option><option value="won">Won</option><option value="lost">Lost</option></select></label><button class="bookmark '+(crm.saved?'saved':'')+'" id="bookmark">'+(crm.saved?'★ Saved':'☆ Save')+'</button></div><div style="margin-top:15px"><label class="crm-label" for="crm-notes">Private notes</label><textarea id="crm-notes" class="notes-textarea" placeholder="Outreach notes, conversation details, next steps..."></textarea></div><p class="local-warning">Sales stages and notes are stored only in this browser. Export a backup before clearing browser data.</p></div>';
@@ -175,10 +209,20 @@ async function load(){
    var research=await rr.json();state.researchReports=research.reports||{};state.researchGeneratedAt=research.generated_at||null;
   }
  }catch(researchError){console.warn('Research reports temporarily unavailable',researchError);}
+ try{
+  var qr=await fetch('./data/qualification.json?t='+Date.now(),{cache:'no-store'});
+  if(qr.ok){var qs=await qr.json();state.qualification=qs.companies||{};}
+ }catch(qe){console.warn('Qualified scores not ready',qe);}
+ try{
+  var sr=await fetch('./data/sources.json?t='+Date.now(),{cache:'no-store'});
+  if(sr.ok){var status=await sr.json();$('source-status-list').innerHTML=(status.sources||[]).map(function(x){
+   return '<div class="source-status-row"><strong>'+safe(x.name)+'</strong><span>'+safe(x.status.replace(/_/g,' '))+'</span></div>';}).join('');}
+ }catch(se){$('source-status-list').textContent='Source status manifest unavailable';}
  state.leads.forEach(function(lead){
   var rep=state.researchReports[lead.id];
   if(!rep)return;
   lead.research=rep;
+  lead.website_classification=rep.discovery&&rep.discovery.state||'SEARCH_UNAVAILABLE';
   if(rep.discovery&&rep.discovery.state==='verified_website'&&url(rep.discovery.website)){
    lead.website=rep.discovery.website;lead.website_status='listed';
   }
@@ -186,6 +230,15 @@ async function load(){
   if(rep.registry&&rep.registry.state==='registry_found'&&/^\d{4}-\d{2}-\d{2}$/.test(rep.registry.registered_at||'')&&!lead.registered_at)lead.registered_at=rep.registry.registered_at;
   var signals=(rep.buying_signals||[]).filter(function(x){return x.evidence_type==='verified_registry';});
   if(signals.length)lead.buying_signals=(lead.buying_signals||[]).concat(signals.map(function(x){return x.claim+' ('+x.date+')';}));
+ });
+ state.leads.forEach(function(lead){
+   var q=state.qualification[lead.id];
+   if(q){Object.assign(lead,q);}
+   else{lead.score=0;lead.qualification_status='research_required';lead.financial={status:'not_verified',facts:[]};
+    lead.score_breakdown={website_opportunity:0,financial_capacity:0,business_activity:0,lead_generation_value:0,accessible_contact:0,cms_suitability:0};
+    lead.website_classification=lead.website_classification||'SEARCH_UNAVAILABLE';
+    lead.discovery_pipeline=lead.discovery_pipeline||'unknown';
+   }
  });
  $('data-banner').classList.remove('is-error');$('data-status').textContent=state.leads.length?'Loaded '+fmt(state.leads.length)+' prospects · '+fmt(Object.keys(state.researchReports||{}).length)+' independently researched · buyer intent still unverified':'Collector ready · no leads imported yet · run GitHub Action to populate';
  $('last-updated').textContent='LAST SYNC — '+(state.generatedAt?formatDate(state.generatedAt)+' '+new Date(state.generatedAt).toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'}):'NOT YET RUN');
@@ -203,6 +256,9 @@ document.querySelectorAll('[data-tab]').forEach(function(btn){btn.addEventListen
 $('search').addEventListener('input',function(e){state.search=e.target.value;list();});
 $('industry-filter').addEventListener('change',function(e){state.industry=e.target.value;list();});
 $('sort-filter').addEventListener('change',function(e){state.sort=e.target.value;list();});
+$('source-filter').addEventListener('change',function(e){state.source=e.target.value;list();});
+$('website-filter').addEventListener('change',function(e){state.website=e.target.value;list();});
+$('age-filter').addEventListener('change',function(e){state.age=e.target.value;list();});
 $('export-btn').addEventListener('click',exportCsv);$('refresh-btn').addEventListener('click',load);
 $('drawer-close').addEventListener('click',closeLead);$('drawer-backdrop').addEventListener('click',closeLead);
 document.addEventListener('keydown',function(e){if(e.key==='Escape')closeLead();});
