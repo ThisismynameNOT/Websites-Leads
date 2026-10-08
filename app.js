@@ -49,6 +49,11 @@ function threePicks(){
   if(!choice)return '<article class="pick-card pick-empty"><div class="pick-rank">0'+(i+1)+' / NOT FILLED</div><h3>Qualification pending</h3><p>There are not enough acceptable leads. We will not invent a company to fill this slot.</p></article>';
   var l=choice.lead,qual=choice.status==='qualified';
   var contact=l.email?'Public email listed':l.phone?'Public phone listed':l.instagram?'Instagram listed':'Contact needs validation';
+  var evidence=l.research||{},discovery=evidence.discovery||{},audit=evidence.audit||{},registry=evidence.registry||{};
+  var researchStatus=!l.research?'Research pending':discovery.state==='verified_website'?(audit.state==='observed'?'Site + responsive audit completed':'Site identity independently matched'):'Independent search: '+String(discovery.state||'unavailable').replace(/_/g,' ');
+  var nIssues=(audit.objective_issues||[]).length;
+  var evidenceLine=nIssues?' · '+nIssues+' measured issue'+(nIssues===1?'':'s'):'';
+  var contactEvidence=(evidence.contact_evidence||[]).length>0?'Contact matched on company site':'Public contact not cross-verified';
   var sources=(l.source_urls||[]).filter(url).slice(0,2).map(function(u,k){return '<a href="'+safe(url(u))+'" target="_blank" rel="noopener noreferrer">Evidence '+(k+1)+' ↗</a>';}).join('');
   return '<article class="pick-card'+(qual?' qualified':'')+'">'+
     '<div class="pick-card-top"><span class="pick-rank">0'+(i+1)+' / SELECTED PROSPECT</span><span class="pick-state '+(qual?'verified':'pending')+'">'+(qual?'✓ Qualified':'◌ Research required')+'</span></div>'+
@@ -56,7 +61,7 @@ function threePicks(){
     '<div class="pick-detail"><div class="pick-label">WHY CONSIDER IT</div><p>'+safe(l.reason||'Requires further research.')+'</p></div>'+
     '<div class="pick-detail"><div class="pick-label">WEBSITE TO PROPOSE</div><p>'+safe(l.offer||'Mobile-first professional website')+'</p></div>'+
     '<div class="pick-keyline"><span class="pick-score">'+Number(l.score||0)+'<small>/100</small></span><div><strong>'+Math.round(Number(l.deal_min_czk||15000)/1000)+'–'+Math.round(Number(l.deal_max_czk||35000)/1000)+'K Kč</strong><small>INDICATIVE WEBSITE PITCH</small></div></div>'+
-    '<div class="pick-contact">'+safe(contact)+'</div>'+
+    '<div class="pick-contact">'+safe(researchStatus+evidenceLine)+'</div><div class="pick-research-meta">'+safe(contactEvidence)+(registry.decision_maker?' · Public registry representative found':' · Buyer not verified')+'</div>'+
     '<div class="pick-checks"><div class="pick-label">'+(qual?'VERIFICATION':'MUST CHECK BEFORE PITCH')+'</div><p>'+safe(qual?'Multi-source reviewed; confirm current scope before outreach.':choice.blockers.slice(0,2).join(' · ')||'Website need is unverified.')+'</p></div>'+
     '<div class="pick-actions"><button type="button" class="pick-dossier" data-pick-id="'+safe(l.id)+'">Open dossier ↗</button><div class="pick-sources">'+sources+'</div></div>'+
   '</article>';
@@ -115,7 +120,7 @@ function researchDetails(l){
  return '<div class="dossier-section research-dossier"><div class="research-heading"><h3>Independent research & evidence</h3><span class="research-tag">'+safe(r.state||'research')+' · '+safe(r.checked_at||'date unknown')+'</span></div>'+
   '<div class="research-field"><span class="fact-label">WEBSITE IDENTIFICATION</span><p>'+safe(searchLine)+'</p><p class="research-small">'+safe(evidence)+'</p></div>'+
   '<div class="research-field"><span class="fact-label">DESKTOP & MOBILE AUDIT</span><p>'+safe(audit.state==='observed'?'Browser checks executed, desktop 1365px and mobile 390px.':'Not run: '+(audit.reason||'Site identity not confirmed.'))+'</p>'+renderedIssues+'<p class="research-small">Aesthetic design quality requires reviewing the saved screenshots; DOM metrics are not a complete visual design audit.</p></div>'+
-  '<div class="research-field"><span class="fact-label">REGISTERED DIRECTOR / OWNER</span><p>'+personText+'</p></div>'+
+  '<div class="research-field"><span class="fact-label">PUBLIC CONTACT CROSS-CHECK</span><p>'+safe((r.contact_evidence||[]).length?'Public listing contact matched on the identity-verified business site.':'No official-site contact match available; verify phone/email before outreach.')+'</p></div>'+ '<div class="research-field"><span class="fact-label">REGISTERED DIRECTOR / OWNER</span><p>'+personText+'</p></div>'+
   '<div class="research-field"><span class="fact-label">VERIFIED BUYING SIGNALS</span>'+signalsText+'</div>'+
   '<div class="research-field"><span class="fact-label">PERSONALIZED SALES DOSSIER</span>'+factual+'<p><strong>Offer:</strong> '+safe(report.offer||l.offer)+'</p><p><strong>Approach:</strong> '+safe(report.outreach_angle||l.outreach_angle||'Confirm needs directly.')+'</p></div>'+
   '<div class="research-field"><span class="fact-label">SOURCE DOCUMENTS</span><div class="source-list">'+(sources||'No approved sources recorded')+'</div></div>'+
