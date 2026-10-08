@@ -1,0 +1,52 @@
+name: Refresh Prague leads
+
+on:
+  schedule:
+    # Every four hours in UTC; avoid minute 00 when GitHub Actions is busiest.
+    - cron: "17 */4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/collect.yml"
+      - "scripts/**"
+      - "tests/**"
+      - "data/manual-leads.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: prague-leads-refresh
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    name: Verify and refresh leads
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - name: Checkout latest repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate collector without network
+        run: |
+          python -m compileall -q scripts tests
+          python -m unittest discover -s tests -v
+      - name: Discover Prague businesses
+        run: python scripts/refresh.py
+      - name: Commit refreshed lead snapshot
+        run: |
+          git config user.name "fieldnotes-collector[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/leads.json
+          if ! git diff --cached --quiet; then
+            git commit -m "data: refresh Prague prospect snapshot [skip ci]"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
