@@ -40,7 +40,7 @@ def main():
                     page.locator(".table button[data-dossier]").first.click()
                     assert page.locator("#modal-overlay").is_visible()
                     assert page.get_by_text("NOT APPROVED.").count()>0
-                    assert page.get_by_text("Standalone public-facing brand").count()==1
+                    assert page.locator(".detail-content .dossier-group h3").filter(has_text="Standalone public-facing brand").count()==1
                     page.locator("#close-panel").click()
                     assert page.locator("#modal-overlay").is_hidden()
                     assert page.locator(".table tbody tr").count()==24
