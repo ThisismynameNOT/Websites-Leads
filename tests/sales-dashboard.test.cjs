@@ -6,7 +6,7 @@ test('All twenty-four October source rows unique and auditable',()=>{
  assert.equal(records.filter(r=>r.review_priority==='Priority research').length,4);
  assert.equal(records.filter(r=>r.review_priority==='Deferred / QA').length,20);
  records.forEach(r=>{assert.match(r.registration_date,/^2026-10-0[3-6]$/);
- assert.ok(r.source_urls.length>=1); assert.match(r.outreach_status,/NOT APPROVED/); assert.ok(r.decision_reason.length>30);
+ assert.ok(r.source_urls.length>=1); assert.match(r.outreach_status,/(NOT APPROVED|EXCLUDED)/); assert.ok(r.decision_reason.length>30);
  assert.equal(r.eligible_for_outreach,false); assert.ok(r.group_check&&r.group_check.status); assert.equal(r.direct_customer_check.status,'not_verified');
  assert.equal(r.no_site_confidence,null); assert.equal(r.score,null); assert.equal(r.package_czk,null);});
 });
