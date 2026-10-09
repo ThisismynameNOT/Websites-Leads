@@ -1,5 +1,13 @@
 # Fieldnotes — Prague Website Sales Radar
 
+## Corrected October brand screen (10 October 2026) — zero sales prospects
+
+**An individually owned legal registration is not equivalent to an operating public-facing brand.** The prior four tentative research examples (Orvex Construction, TMZ Air Solutions, D&L BUILD MONT, Lupawood) are now QA / HOLD. None has affirmatively evidenced the exact legal entity independently marketing its services to external customers through an attributable public business channel. Broad trade licences (including real-estate activities) cannot establish actual public customer work or special-purpose-project vehicle status.
+
+New **brand proof** runtime gate requires: standalone recognizable brand identity; its own independently attributable outside B2B/B2C customer contracts, products or services and public contact; proof of operating separately from a mother group or project SPV; existing exact-IČO registry, website and financial checks. A 100% individual shareholder alone is insufficient. An absent web search result is **unknown**, not proof that no website exists.
+
+The October 24-company subset is **0 validated standalone brands, 0 approved outreach, 0 active research priorities and 24 QA/hold/excluded**. ROBET remains a documented corporate-owned exclusion. For the other companies group/SPV status has not been established; do not assert that all are subsidiaries or project-only firms. The prior October 4/20 snapshot is superseded by this dated review. Future leads need positive independent customer-facing proof before any sales pitch.
+
 ## Mandatory independence and direct-customer filter (9 October 2026)
 
 **Both requirements are hard gates before qualification or sales outreach, alongside existing no-site/finance rules.**
