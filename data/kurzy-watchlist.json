@@ -50,11 +50,15 @@
       "source_url": "https://rejstrik-firem.kurzy.cz/seznam-10/",
       "corroboration_url": "https://ov.gov.cz/zapis/25360150",
       "listing_checked_at": "2026-10-09",
-      "registration_status": "pending_live_ares_check",
-      "business_activity": "unverified",
-      "site_status": "not_verified",
-      "screening_stage": "TOP_RESEARCH",
-      "note": "License specifically includes installation/repair of cooling equipment and heat pumps. Service-page and contact/quote website may have direct commercial value; physical Prague operations and official site unverified."
+      "registration_status": "ares_verified_2026-10-09",
+      "business_activity": "not_verified_registered_permitted_activities_only",
+      "site_status": "search_inconclusive_no_official_site_matched",
+      "screening_stage": "HOLD_OPERATOR_AND_CONTACT_PROOF",
+      "note": "Registry and ARES identity confirmed. No confirmed first-party company website, but search was inconclusive; do not assert website absence. Hold until a real operating business, public contact and customer-facing activity can be verified.",
+      "investigation_status": "deep_research_completed_2026-10-09_not_outreach_ready",
+      "investigation_file": "data/kurzy-investigations.json",
+      "priority_reason": "Dedicated HVAC/heat pump trade activity is attractive, but Prague company HQ is an explicitly marketed virtual address. Operating footprint and first-party contact missing.",
+      "next_review_after": "2026-10-16"
     },
     {
       "ico": "30106991",
@@ -66,11 +70,15 @@
       "source_url": "https://rejstrik-firem.kurzy.cz/seznam-10/",
       "corroboration_url": "https://ov.ihned.cz/zapis/25359763",
       "listing_checked_at": "2026-10-09",
-      "registration_status": "pending_live_ares_check",
-      "business_activity": "unverified",
-      "site_status": "not_verified",
-      "screening_stage": "TOP_RESEARCH",
-      "note": "Registered for construction and building alterations, a strong potential portfolio and local enquiry website use case; genuine trading references still unverified."
+      "registration_status": "ares_verified_2026-10-09",
+      "business_activity": "not_verified_registered_permitted_activities_only",
+      "site_status": "search_inconclusive_no_official_site_matched",
+      "screening_stage": "HOLD_OPERATOR_AND_CONTACT_PROOF",
+      "note": "Registry and ARES identity confirmed. No confirmed first-party company website, but search was inconclusive; do not assert website absence. Hold until a real operating business, public contact and customer-facing activity can be verified.",
+      "investigation_status": "deep_research_completed_2026-10-09_not_outreach_ready",
+      "investigation_file": "data/kurzy-investigations.json",
+      "priority_reason": "Construction registered activity could support a project site, but office building is shared with hundreds of companies. Trading activity and first-party contact missing.",
+      "next_review_after": "2026-10-16"
     },
     {
       "ico": "30113997",
