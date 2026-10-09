@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-10-09",
+  "provider": "Kurzy.cz",
+  "coverage": "Curated public Prague examples only; NOT a complete daily feed or all recent registrations",
+  "licence_note": "Public webpages are attributed. Bulk/daily complete database feed requires separate provider authorization; never republish purchased data.",
+  "source_urls": [
+    "https://regiony.kurzy.cz/praha/",
+    "https://www.kurzy.cz/prodej-dat/databaze-firmy.htm",
+    "https://www.kurzy.cz/pouziti/"
+  ],
+  "records": [
+    {
+      "ico": "29855209",
+      "name": "Poctivé rekonstrukce s.r.o.",
+      "registered_at": "2026-08-04",
+      "address": "Sídlištní 245/18A, Lysolaje, 165 00 Praha",
+      "industry": "Construction & property",
+      "tier": 1,
+      "source_url": "https://regiony.kurzy.cz/praha/praha-lysolaje-mestska-cast/",
+      "corroboration_url": "https://www.podnikatel.cz/rejstrik/poctive-rekonstrukce-s-r-o-29855209/",
+      "listing_checked_at": "2026-10-09",
+      "registration_status": "pending_live_ares_check",
+      "business_activity": "unverified",
+      "site_status": "not_checked",
+      "note": "Appears in Prague Kurzy.cz newly registered firms listing; registry cross-reference confirms IČO and date, but operational activity, contact and website remain unknown."
+    },
+    {
+      "ico": "29567947",
+      "name": "PRO Sport Stavby s.r.o.",
+      "registered_at": "2026-05-26",
+      "address": "K hluboké cestě 232/2, Satalice, 190 15 Praha",
+      "industry": "Construction & property",
+      "tier": 1,
+      "source_url": "https://regiony.kurzy.cz/praha/praha-satalice-mestska-cast/",
+      "corroboration_url": "https://ov.ihned.cz/zapis/24819841",
+      "listing_checked_at": "2026-10-09",
+      "registration_status": "pending_live_ares_check",
+      "business_activity": "unverified",
+      "site_status": "not_checked",
+      "note": "Appears on Kurzy.cz Satalice new-firms page, and the commercial bulletin identifies IČO. Do not assume business trades or has no company website."
+    }
+  ]
+}
