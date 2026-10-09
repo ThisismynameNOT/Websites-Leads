@@ -4,6 +4,10 @@ on:
   pull_request:
     paths:
       - "index.html"
+      - "legacy-radar.html"
+      - "sales.css"
+      - "sales.js"
+      - "data/october-review.json"
       - "styles.css"
       - "app.js"
       - "picks.js"
@@ -36,6 +40,8 @@ jobs:
           node --check app.js
           node --check picks.js
           node --check opportunity.js
+          node --check sales.js
+          python -m json.tool data/october-review.json >/dev/null
       - name: Test company ingestion and qualification
         run: python -m unittest discover -s tests -v
       - name: Test featured shortlist
@@ -44,7 +50,7 @@ jobs:
         run: |
           python - <<'PY'
           from pathlib import Path
-          h=Path("index.html").read_text(encoding="utf-8")
+          h=Path("legacy-radar.html").read_text(encoding="utf-8")
           c=Path("styles.css").read_text(encoding="utf-8")
           assert 'id="source-status-list"' in h
           assert 'id="top-three"' in h
@@ -53,11 +59,16 @@ jobs:
           assert 'opportunity.js' in h
           assert 'id="source-filter"' not in h and 'id="website-filter"' not in h
           assert 'id="age-filter"' not in h and 'id="search"' not in h
-          print("Top-ten dashboard, evidence ribbon, and removed filters verified")
+          new=Path("index.html").read_text(encoding="utf-8")
+          assert 'sales.js' in new and 'legacy-radar.html' in new
+          assert 'data-view="queue"' in new and 'data-view="premium"' in new
+          print("Legacy CRM retained and Excel-gated October homepage verified")
           PY
       - name: Install Chromium for dashboard smoke
         run: python -m playwright install --with-deps chromium
       - name: Browser-test the top-ten dashboard
         run: python scripts/smoke_dashboard.py
+      - name: Browser-test October Excel qualification dashboard
+        run: python scripts/smoke_sales_dashboard.py
       - name: Browser-test Czech roofing demo mobile responsiveness
         run: python scripts/smoke_roofer_demo.py

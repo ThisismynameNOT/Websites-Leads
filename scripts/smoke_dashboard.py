@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Browser smoke of EXISTING Pages dashboard against repository fixtures.
+"""Browser smoke of preserved LEGACY Pages dashboard against repository fixtures.
 Keeps top-ten ranking, CRM, CSV export and responsive rendering honest.
 """
 from __future__ import annotations
@@ -18,7 +18,7 @@ def main():
     server=http.server.ThreadingHTTPServer(("127.0.0.1",0),handler)
     thread=threading.Thread(target=server.serve_forever,daemon=True)
     thread.start()
-    url="http://127.0.0.1:"+str(server.server_address[1])+"/index.html"
+    url="http://127.0.0.1:"+str(server.server_address[1])+"/legacy-radar.html"
     try:
         with sync_playwright() as pw:
             browser=pw.chromium.launch(headless=True,args=["--no-sandbox"])

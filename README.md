@@ -1,5 +1,14 @@
 # Fieldnotes — Prague Website Sales Radar
 
+## Excel-rule qualification homepage (9 October 2026)
+
+The homepage at GitHub Pages is now an **Excel-style sales qualification workspace** matching the user-provided September 2026 workbook: Dashboard, Premium 70–100k, New 40–50k, QA / deferred, and Methodology. A sixth verification queue keeps speculative October registrations visible without treating them as approved leads. The source-driven October review lives in `data/october-review.json` with 24 named businesses, 7 priority research, 17 deferred, **0 confirmed site-free qualified** and **0 CZK qualified October pipeline**.
+
+The uploaded September Excel workbook remains historical; no earlier claims about September qualified companies have been reverified in October. The new October workbook retains all five old sheets and adds Oct 2026 Dashboard/Review/QA. A blank score, website confidence and package value are deliberate when exact-entity domain ownership, operating business, contact and finances are unverified. **Neither a newly registered company nor registered share capital is proof of demand, affordability, or lack of a website.** The spreadsheet weights/thresholds and website-verification checklist are rendered in the new Methodology tab; no score is imputed to hold candidates.
+
+All source-linked company dossiers open from the review queue and QA views; CSV export includes the actual evidence. The old ten-prospect radar remains intact as `legacy-radar.html` **on the same origin**, preserving access to prior browser-only CRM annotations. No CRM data was sent to the public JSON. Automated ČSÚ/Kurzy/ARES collection, legacy top-ten scoring, and the Majer demonstration still operate separately. New Playwright tests verify 24 data entries, zero false pass, six section tabs, company dossiers, QA search, CSV export and 1366/390/320px responsiveness.
+
+
 Automated, GitHub-native sales prospecting dashboard for web design opportunities in Prague.
 
 **Source repo:** https://github.com/ThisismynameNOT/Websites-Leads
