@@ -4,6 +4,12 @@ Automated, GitHub-native sales prospecting dashboard for web design opportunitie
 
 **Source repo:** https://github.com/ThisismynameNOT/Websites-Leads
 
+## Kurzy.cz — newly registered companies
+
+Kurzy.cz Prague regional pages are included as an **additional attributed research source**, not a claim that every recent Kurzy entry has been downloaded. The curated `data/kurzy-watchlist.json` is reconciled daily by company IČO against official ČSÚ records and becomes part of the ARES-first research queue when identity/website checks are pending. Initial tracked examples: Poctivé rekonstrukce s.r.o. (IČO 29855209) and PRO Sport Stavby s.r.o. (IČO 29567947). Their business activity, contact and website need are not confirmed.
+
+**For every new Kurzy.cz registration:** a complete daily feed must be legitimately obtained from [Kurzy.cz's paid database updates](https://www.kurzy.cz/prodej-dat/databaze-firmy.htm) or designated authorized API under the provider's [terms](https://www.kurzy.cz/pouziti/). The current integration uses attributed public observations only. It does *not* bulk scrape the public site or purchase/access a licensed feed without approval. Keep purchased source databases private; published leads continue to rely on the official ČSÚ and independent ARES website checks.
+
 ## Commercial website-fit search improvements
 
 The ten-place radar now separates **source-backed website gaps** from **commercially promising clients to investigate**. The latter are *research hypotheses*, not verified redesign defects, confirmed budgets or proof of customer interest.
