@@ -5,6 +5,10 @@ on:
     branches: [main]
     paths:
       - "index.html"
+      - "legacy-radar.html"
+      - "sales.css"
+      - "sales.js"
+      - "data/october-review.json"
       - "styles.css"
       - "app.js"
       - "picks.js"
@@ -46,10 +50,11 @@ jobs:
       - name: Prepare public site (exclude scripts / manual pipeline)
         run: |
           mkdir -p public/data
-          cp index.html styles.css app.js picks.js opportunity.js public/
+          cp index.html legacy-radar.html styles.css app.js picks.js opportunity.js sales.css sales.js public/
           mkdir -p public/demos/majer-roofing
           cp demos/majer-roofing/index.html public/demos/majer-roofing/index.html
           cp data/manual-leads.json public/data/manual-leads.json
+          cp data/october-review.json public/data/october-review.json
           cp data/leads.json public/data/leads.json
           cp data/research.json public/data/research.json
           cp data/qualification.json data/sources.json public/data/
@@ -57,6 +62,9 @@ jobs:
       - name: Validate dashboard bundle
         run: |
           test -s public/index.html
+          test -s public/legacy-radar.html
+          test -s public/sales.js
+          test -s public/sales.css
           test -s public/demos/majer-roofing/index.html
           test -s public/app.js
           test -s public/picks.js
@@ -64,11 +72,13 @@ jobs:
           test -s public/data/manual-leads.json
           test -s public/styles.css
           python -m json.tool public/data/leads.json >/dev/null
+          python -m json.tool public/data/october-review.json >/dev/null
           python -m json.tool public/data/research.json >/dev/null
           python -m json.tool public/data/qualification.json >/dev/null
           python -m json.tool public/data/sources.json >/dev/null
           python -m json.tool public/data/manual-leads.json >/dev/null
           node --check public/app.js
+          node --check public/sales.js
           node --check public/picks.js
           node --check public/opportunity.js
           node --test tests/*.test.cjs
@@ -128,11 +138,22 @@ jobs:
 
                   with urllib.request.urlopen(url + 'data/leads.json', timeout=18) as response:
                       data = json.load(response)
+                  with urllib.request.urlopen(url + 'data/october-review.json', timeout=18) as response:
+                      october = json.load(response)
+                  with urllib.request.urlopen(url + 'sales.js', timeout=18) as response:
+                      sales_code = response.read().decode('utf-8')
+                  with urllib.request.urlopen(url + 'legacy-radar.html', timeout=18) as response:
+                      old_page = response.read().decode('utf-8')
+                  assert len(october['records']) == 24, '24 October leads missing'
+                  assert october['summary']['new_qualified'] == 0 and october['summary']['qualified_pipeline_czk'] == 0, 'False sales qualification'
+                  assert 'function salesQualified' in sales_code, 'Strict Excel qualification not shipped'
+                  assert 'id="leads-body"' in old_page, 'Legacy CRM page not preserved'
                   with urllib.request.urlopen(url + 'demos/majer-roofing/', timeout=18) as response:
                       demo = response.read().decode('utf-8')
                   assert 'NEOFICIÁLNÍ DESIGNOVÝ NÁVRH' in demo, 'Czech demo preview disclaimer missing'
                   assert 'Welcome to the Frontpage' not in demo, 'Legacy template text leaked into refreshed design'
                   assert 'fieldnotes' in page.lower(), 'Dashboard HTML signature missing'
+                  assert 'sales.js' in page and 'legacy-radar.html' in page, 'October homepage not deployed'
                   assert isinstance(data['leads'], list), 'Lead JSON lacks leads array'
                   print('LIVE SITE VERIFIED:', url, 'LEADS:', len(data['leads']))
                   break
