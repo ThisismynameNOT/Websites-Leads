@@ -75,6 +75,18 @@ class CollectorTests(unittest.TestCase):
         self.assertFalse(lead["manual"])
         self.assertEqual(lead["score"],0)
 
+    def test_user_supplied_kurzy_recent_registration_list_is_an_allowed_attributed_source(self):
+        row={"ico":"30118140","name":"TMZ Air Solutions s.r.o.",
+             "address":"Plzeňská 3352/156, Smíchov, 150 00 Praha 5",
+             "registered_at":"2026-10-06",
+             "source_url":"https://rejstrik-firem.kurzy.cz/seznam-10/",
+             "corroboration_url":"https://ov.gov.cz/zapis/25360150"}
+        leads={};ix={}
+        self.assertEqual(collector.import_kurzy_watchlist(leads,ix,[row],today="2026-10-09"),1)
+        self.assertTrue(leads["kurzy-30118140"]["registered_office_only"])
+        self.assertEqual(leads["kurzy-30118140"]["website"],"")
+        self.assertEqual(leads["kurzy-30118140"]["verification"],"candidate")
+
     def test_kurzy_cross_check_does_not_replace_official_identity_or_site(self):
         original={"id":"res-29855209","ico":"29855209","name":"Official registry name",
                   "source_type":"csu_res","registered_at":"2026-08-01",
