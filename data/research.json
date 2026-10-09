@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-09T10:46:19.589181+00:00",
+  "generated_at": "2026-10-09T11:17:46.375476+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -9803,6 +9803,1437 @@
         "buying_signals": [],
         "sources": [
           "https://www.openstreetmap.org/node/13565444642"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "kurzy-30094844": {
+      "lead_id": "kurzy-30094844",
+      "name": "Horvátstaveb s.r.o.",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Horvátstaveb s.r.o.\" IČO 30094844 web",
+          "\"Horvátstaveb s.r.o.\" Praha Construction & property kontakt",
+          "\"Horvátstaveb s.r.o.\" \"Rybná 716/24\" web",
+          "\"Horvátstaveb s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30094844/horvatstaveb-s-r-o",
+            "title": "Horvátstaveb s.r.o. - rizika, majitel, obchodní rejstřík",
+            "snippet": "Horvátstaveb s.r.o. Sídlo Praha. IČO: 30094844. Majitelé a statutární orgány. Registr firem. Rok založení 2026. Rizikové signály firmy."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.chytryrejstrik.cz/ico-30094844/horvatstaveb-s-r-o",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.chytryrejstrik.cz/ico-30094844/horvatstaveb-s-r-o",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30094844/horvatstaveb-s-r-o",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30094844",
+        "legal_name": "Horvátstaveb s.r.o.",
+        "registered_at": "2026-10-05",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30094844",
+        "decision_maker": {
+          "name": "JOZEF HORVÁT",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30094844",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "JOZEF HORVÁT",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30094844",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-09",
+        "website": "https://www.chytryrejstrik.cz/ico-30094844/horvatstaveb-s-r-o",
+        "devices": {
+          "desktop": {
+            "title": "Horvátstaveb s.r.o. - rizika, majitel, obchodní rejstřík",
+            "description": "Horvátstaveb s.r.o. Sídlo Praha. IČO: 30094844. Majitelé a statutární orgány. Registr firem. Rok založení 2026. Rizikové signály firmy. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 163,
+            "small_text_elements": 2,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 44,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Horvátstaveb s.r.o. - rizika, majitel, obchodní rejstřík",
+            "description": "Horvátstaveb s.r.o. Sídlo Praha. IČO: 30094844. Majitelé a statutární orgány. Registr firem. Rok založení 2026. Rizikové signály firmy. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 126,
+            "small_text_elements": 8,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 44,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.chytryrejstrik.cz/ico-30094844/horvatstaveb-s-r-o"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30094844",
+          "date": "2026-10-05",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Horvátstaveb s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Rybná 716/24, Staré Město, 110 00 Praha 1.",
+          "An independently identity-matched business website was found: https://www.chytryrejstrik.cz/ico-30094844/horvatstaveb-s-r-o.",
+          "ARES confirms registration for IČO 30094844 dated 2026-10-05."
+        ],
+        "offer": "Responsive service website with clear contact or booking actions",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30094844",
+            "date": "2026-10-05",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://rejstrik-firem.kurzy.cz/seznam-10/",
+          "https://ov.gov.cz/zapis/25358923",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30094844",
+          "https://www.chytryrejstrik.cz/ico-30094844/horvatstaveb-s-r-o"
+        ],
+        "estimated_deal_czk": [
+          null,
+          null
+        ],
+        "decision_maker": {
+          "name": "JOZEF HORVÁT",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30094844",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.chytryrejstrik.cz/ico-30094844/horvatstaveb-s-r-o"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.chytryrejstrik.cz/ico-30094844/horvatstaveb-s-r-o",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-13997175495": {
+      "lead_id": "osm-node-13997175495",
+      "name": "ALLSAT, s.r.o.",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "ALLSAT, s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Českobrodská 516, 198 00, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/13997175495"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "kurzy-30103819": {
+      "lead_id": "kurzy-30103819",
+      "name": "D&L BUILD MONT s.r.o.",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"D&L BUILD MONT s.r.o.\" IČO 30103819 web",
+          "\"D&L BUILD MONT s.r.o.\" Praha Construction & property kontakt",
+          "\"D&L BUILD MONT s.r.o.\" \"Kurzova 2222/16\" web",
+          "\"D&L BUILD MONT s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30103819",
+        "legal_name": "D&L BUILD MONT s.r.o.",
+        "registered_at": "2026-10-06",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30103819",
+        "decision_maker": {
+          "name": "LUCIE KRCHOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30103819",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "LUCIE KRCHOVÁ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30103819",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30103819",
+          "date": "2026-10-06",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "D&L BUILD MONT s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Kurzova 2222/16, Stodůlky, 155 00 Praha 5.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30103819 dated 2026-10-06."
+        ],
+        "offer": "Responsive service website with clear contact or booking actions",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30103819",
+            "date": "2026-10-06",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://rejstrik-firem.kurzy.cz/seznam-10/",
+          "https://ov.gov.cz/zapis/25359892",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30103819"
+        ],
+        "estimated_deal_czk": [
+          null,
+          null
+        ],
+        "decision_maker": {
+          "name": "LUCIE KRCHOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30103819",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-14115173902": {
+      "lead_id": "osm-node-14115173902",
+      "name": "A.G.T. Komplet s.r.o.",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "A.G.T. Komplet s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Kardašovská 670/15, 198 00, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/14115173902"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "kurzy-30106991": {
+      "lead_id": "kurzy-30106991",
+      "name": "StabilProfi Stav s.r.o.",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"StabilProfi Stav s.r.o.\" IČO 30106991 web",
+          "\"StabilProfi Stav s.r.o.\" Praha Construction & property kontakt",
+          "\"StabilProfi Stav s.r.o.\" \"Dandova 2619/13\" web",
+          "\"StabilProfi Stav s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30106991",
+        "legal_name": "StabilProfi Stav s.r.o.",
+        "registered_at": "2026-10-06",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30106991",
+        "decision_maker": {
+          "name": "ANDRII ZUBRYTSKYI",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30106991",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "ANDRII ZUBRYTSKYI",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30106991",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30106991",
+          "date": "2026-10-06",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "StabilProfi Stav s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Dandova 2619/13, Horní Počernice, 193 00 Praha 9.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30106991 dated 2026-10-06."
+        ],
+        "offer": "Responsive service website with clear contact or booking actions",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30106991",
+            "date": "2026-10-06",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://rejstrik-firem.kurzy.cz/seznam-10/",
+          "https://ov.ihned.cz/zapis/25359763",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30106991"
+        ],
+        "estimated_deal_czk": [
+          null,
+          null
+        ],
+        "decision_maker": {
+          "name": "ANDRII ZUBRYTSKYI",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30106991",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-14256023377": {
+      "lead_id": "osm-node-14256023377",
+      "name": "M&M Reality",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "M&M Reality — research dossier",
+        "facts": [
+          "The business is listed at Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/14256023377"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "kurzy-30118140": {
+      "lead_id": "kurzy-30118140",
+      "name": "TMZ Air Solutions s.r.o.",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"TMZ Air Solutions s.r.o.\" IČO 30118140 web",
+          "\"TMZ Air Solutions s.r.o.\" Praha Construction & property kontakt",
+          "\"TMZ Air Solutions s.r.o.\" \"Plzeňská 3352/156\" web",
+          "\"TMZ Air Solutions s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30118140",
+        "legal_name": "TMZ Air Solutions s.r.o.",
+        "registered_at": "2026-10-06",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30118140",
+        "decision_maker": {
+          "name": "ZBYNĚK TESAŘ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30118140",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "ZBYNĚK TESAŘ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30118140",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30118140",
+          "date": "2026-10-06",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "TMZ Air Solutions s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Plzeňská 3352/156, Smíchov, 150 00 Praha 5.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30118140 dated 2026-10-06."
+        ],
+        "offer": "Responsive service website with clear contact or booking actions",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30118140",
+            "date": "2026-10-06",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://rejstrik-firem.kurzy.cz/seznam-10/",
+          "https://ov.gov.cz/zapis/25360150",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30118140"
+        ],
+        "estimated_deal_czk": [
+          null,
+          null
+        ],
+        "decision_maker": {
+          "name": "ZBYNĚK TESAŘ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30118140",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-1555858848": {
+      "lead_id": "osm-node-1555858848",
+      "name": "Realitní společnost Praha",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Realitní společnost Praha — research dossier",
+        "facts": [
+          "The business is listed at Hornoměcholupská 6, 10200, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/1555858848"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30061342": {
+      "lead_id": "res-30061342",
+      "name": "DEKO-REKon s.r.o.",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"DEKO-REKon s.r.o.\" IČO 30061342 web",
+          "\"DEKO-REKon s.r.o.\" Praha Construction & property kontakt",
+          "\"DEKO-REKon s.r.o.\" \"Chudenická 1059\" web",
+          "\"DEKO-REKon s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30061342",
+        "legal_name": "DEKO-REKon s.r.o.",
+        "registered_at": "2026-09-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30061342",
+        "decision_maker": {
+          "name": "MYKHAILO MARKUSH",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30061342",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "MYKHAILO MARKUSH",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30061342",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30061342",
+          "date": "2026-09-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "DEKO-REKon s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Chudenická 1059, Praha, 10200.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30061342 dated 2026-09-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30061342",
+            "date": "2026-09-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30061342"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "MYKHAILO MARKUSH",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30061342",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-2318297306": {
+      "lead_id": "osm-node-2318297306",
+      "name": "Qarta architektura",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Qarta architektura — research dossier",
+        "facts": [
+          "The business is listed at Pernerova 635, Karlín, 180 00, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/2318297306"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30061369": {
+      "lead_id": "res-30061369",
+      "name": "Nenačovické terasy s.r.o.",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Nenačovické terasy s.r.o.\" IČO 30061369 web",
+          "\"Nenačovické terasy s.r.o.\" Praha Construction & property kontakt",
+          "\"Nenačovické terasy s.r.o.\" \"Zakšínská 571\" web",
+          "\"Nenačovické terasy s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30061369",
+        "legal_name": "Nenačovické terasy s.r.o.",
+        "registered_at": "2026-09-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30061369",
+        "decision_maker": {
+          "name": "VÁCLAV MALÍNSKÝ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30061369",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "VÁCLAV MALÍNSKÝ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30061369",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "VÍTĚZSLAV ČERNÝ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30061369",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30061369",
+          "date": "2026-09-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Nenačovické terasy s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Zakšínská 571, Praha, 19000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30061369 dated 2026-09-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30061369",
+            "date": "2026-09-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30061369"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "VÁCLAV MALÍNSKÝ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30061369",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-2475847880": {
+      "lead_id": "osm-node-2475847880",
+      "name": "HVB Real Estate",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "HVB Real Estate — research dossier",
+        "facts": [
+          "The business is listed at Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/2475847880"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30062012": {
+      "lead_id": "res-30062012",
+      "name": "Oleksandr Patskan",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Oleksandr Patskan\" IČO 30062012 web",
+          "\"Oleksandr Patskan\" Praha Construction & property kontakt",
+          "\"Oleksandr Patskan\" \"Benkova 1694\" web",
+          "\"Oleksandr Patskan\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30062012",
+        "legal_name": "Oleksandr Patskan",
+        "registered_at": "2026-09-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30062012",
+        "decision_maker": {
+          "name": "Oleksandr Patskan",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30062012",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30062012",
+          "date": "2026-09-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Oleksandr Patskan — research dossier",
+        "facts": [
+          "The business is listed at Benkova 1694, Praha, 14900.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30062012 dated 2026-09-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30062012",
+            "date": "2026-09-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30062012"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Oleksandr Patskan",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30062012",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-2896861601": {
+      "lead_id": "osm-node-2896861601",
+      "name": "Orbium Reality",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Orbium Reality — research dossier",
+        "facts": [
+          "The business is listed at 28. října 1001/3, 11000, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/2896861601"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30062276": {
+      "lead_id": "res-30062276",
+      "name": "TERRA EXREME s.r.o.",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"TERRA EXREME s.r.o.\" IČO 30062276 web",
+          "\"TERRA EXREME s.r.o.\" Praha Construction & property kontakt",
+          "\"TERRA EXREME s.r.o.\" \"Plzeňská 3352\" web",
+          "\"TERRA EXREME s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30062276",
+        "legal_name": "TERRA EXREME s.r.o.",
+        "registered_at": "2026-09-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30062276",
+        "decision_maker": {
+          "name": "JAN ČUŽNA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30062276",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "JAN ČUŽNA",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30062276",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30062276",
+          "date": "2026-09-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "TERRA EXREME s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Plzeňská 3352, Praha, 15000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30062276 dated 2026-09-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30062276",
+            "date": "2026-09-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30062276"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "JAN ČUŽNA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30062276",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-296640443": {
+      "lead_id": "osm-node-296640443",
+      "name": "APASON Reality s.r.o.",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "APASON Reality s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Ústřední 388/18, 10200, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/296640443"
         ],
         "estimated_deal_czk": [
           30000,
