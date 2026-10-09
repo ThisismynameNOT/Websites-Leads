@@ -23,9 +23,9 @@ def main():
                     page.on("pageerror",lambda err:errors.append(str(err)))
                     page.goto(f"http://127.0.0.1:{server.server_address[1]}/index.html",wait_until="domcontentloaded")
                     page.wait_for_function('document.getElementById("data-message").textContent.includes("24 October registrations")')
-                    assert page.get_by_text("Seven to investigate further.").count()==1
+                    assert page.get_by_text("Four individually owned companies to investigate.").count()==1
                     assert page.get_by_text("0 outreach approved").count()==1
-                    assert page.locator(".priority").count()==7
+                    assert page.locator(".priority").count()==4
                     assert page.locator("#main-nav button").count()==6
                     assert page.locator('a[href="./legacy-radar.html"]').count()>=1
                     assert not page.evaluate("document.documentElement.scrollWidth > window.innerWidth+3"),f"horizontal document overflow at {width}"
@@ -34,24 +34,26 @@ def main():
                     page.locator('button[data-view="new"]').click()
                     assert page.get_by_text("No companies passed the gate").count()==1
                     page.locator('button[data-view="queue"]').click()
-                    assert page.locator(".table tbody tr").count()==7
+                    assert page.locator(".table tbody tr").count()==4
                     page.locator(".table button[data-dossier]").first.click()
                     assert page.locator("#modal-overlay").is_visible()
                     assert page.get_by_text("NOT APPROVED.").count()>0
                     page.locator("#close-panel").click()
                     assert page.locator("#modal-overlay").is_hidden()
                     page.locator('button[data-view="qa"]').click()
-                    assert page.locator(".table tbody tr").count()==17
-                    page.locator("#company-search").fill("Horvátstaveb")
+                    assert page.locator(".table tbody tr").count()==20
+                    page.locator("#company-search").fill("ROBET")
                     assert page.locator(".table tbody tr").count()==1
+                    assert page.get_by_text("CORPORATE PARENT").count()==1
                     with page.expect_download(timeout=10000) as d:
                         page.locator("#csv-btn").click()
                     assert d.value.suggested_filename.endswith("qa.csv")
                     page.locator('button[data-view="method"]').click()
                     assert page.get_by_text("Six mandatory domain checks").count()==1
+                    assert page.get_by_text("No parent group; outside customers").count()==1
                     assert not errors,errors
                     page.close()
-                print("PASS: Excel-rule dashboard at desktop + mobile, 7 research, 17 QA, zero qualified, dossiers, CSV, search, legacy CRM")
+                print("PASS: Excel-rule dashboard at desktop + mobile, 4 research, 20 QA, zero qualified, dossiers, CSV, search, legacy CRM")
             finally:
                 browser.close()
     finally:
