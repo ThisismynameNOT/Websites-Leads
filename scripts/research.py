@@ -605,7 +605,7 @@ def pick_queue(leads, old_reports):
         if l.get("verification") in ("closed","rejected","inactive_registry","do_not_contact"):continue
         if l.get("do_not_contact") or CHAIN_RE.search(l.get("name","")):continue
         official=bool(l.get("ico") and l.get("source_type")=="csu_res")
-        if not any(l.get(k) for k in ("phone","email","instagram")) and not official and not l.get("manual"):
+        if not any(l.get(k) for k in ("phone","email","instagram")) and not official and not l.get("manual") and not l.get("kurzy_listing_checked_at"):
             continue
         key=l.get("ico") or normalized(l.get("name"))+"|"+normalized(l.get("address"))
         if key in seen:continue
@@ -629,6 +629,7 @@ def pick_queue(leads, old_reports):
         activity=bool(l.get("manual") or l.get("data_origin") in ("OpenStreetMap","Manual web research"))
         scored=(4 if tier==1 else 2 if tier==2 else 0)*100 + (85 if activity else 0) + (55 if contact else 0) + (25 if official else 0)
         scored+=min(45,max(0,elapsed))+(15 if l.get("website") else 0)+(30 if l.get("manual") else 0)
+        scored+=100 if l.get("kurzy_listing_checked_at") and not previous else 0
         eligible.append((cohort,scored,str(l.get("id")),l))
     newer=sorted((x for x in eligible if x[0]=="new"),key=lambda x:(-x[1],x[2]))
     established=sorted((x for x in eligible if x[0]=="established"),key=lambda x:(-x[1],x[2]))
