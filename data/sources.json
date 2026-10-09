@@ -8,11 +8,24 @@
       "name": "ČSÚ RES",
       "url": "https://opendata.csu.gov.cz/soubory/od/od_org03/res_data.csv",
       "role": "primary_new_and_established",
-      "status": "implemented_awaiting_first_verified_live_snapshot",
+      "status": "automated_official_snapshot_verified",
       "frequency": "published twice monthly; HEAD checked on workflow",
       "terms": "Official open data, source attribution required",
-      "last_success_at": null,
-      "integrity_notes": "Scheduled ingestion parses official CSV but has not yet committed any real candidate output. Verify successful workflow run and generated_at."
+      "last_success_at": "2026-10-08T22:50:02Z",
+      "integrity_notes": "Previously ingested official Prague snapshot contains 340 sampled candidates (220 new + 120 established); not a complete daily list; see data/res-candidates.json."
+    },
+    {
+      "id": "kurzy",
+      "name": "Kurzy.cz — nové firmy",
+      "url": "https://regiony.kurzy.cz/praha/",
+      "role": "public_recent_prague_company_cross_check_and_optional_licensed_full_daily_feed",
+      "status": "manual_public_watchlist_integrated_not_full_feed",
+      "frequency": "Public watchlist curated on review; full licensed feed needs provider agreement",
+      "terms_url": "https://www.kurzy.cz/pouziti/",
+      "commercial_feed_url": "https://www.kurzy.cz/prodej-dat/databaze-firmy.htm",
+      "records_file": "data/kurzy-watchlist.json",
+      "terms": "Public attributed links accepted. Do not bulk scrape website pages. Provider says use designated APIs for data and sells daily new-company database updates; no subscription/credential supplied.",
+      "integrity_notes": "Curated subset is merged by IČO with official ČSÚ companies and submitted for ARES/web verification. This is NOT a complete daily Kurzy.cz feed, a proof of trading, or verified website absence."
     },
     {
       "id": "ares",

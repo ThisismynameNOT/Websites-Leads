@@ -66,6 +66,7 @@ def merge_doc(path,remote,generated):
         doc={**remote,**generated}
         candidates=merge_index(remote.get("leads",[]),generated.get("leads",[]),"id")
         candidates.sort(key=lambda l:(bool(l.get("manual")),bool(l.get("source_type")=="csu_res"),
+                                       bool(l.get("kurzy_listing_checked_at")),
                                        l.get("last_seen") or "",int(l.get("score") or 0)),reverse=True)
         doc["leads"]=candidates[:1800]
         return doc

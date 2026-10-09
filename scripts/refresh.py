@@ -22,6 +22,7 @@ ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "data" / "leads.json"
 MANUAL = ROOT / "data" / "manual-leads.json"
 RES = ROOT / "data" / "res-candidates.json"
+KURZY = ROOT / "data" / "kurzy-watchlist.json"
 OVERPASS_ENDPOINTS = (
     "https://overpass.kumi.systems/api/interpreter",
     "https://overpass-api.de/api/interpreter",
@@ -277,6 +278,71 @@ def merge_existing(old, new):
     return score_lead(merged) if not merged.get("manual") else merged
 
 
+
+def import_kurzy_watchlist(by_id, official_ids, records, today=TODAY):
+    """Reconcile a small, attributable human-reviewed Kurzy.cz list by IČO.
+    These remain *unverified registry/website research candidates*, never site defects.
+    Complete Kurzy exports are not spidered or republished.
+    """
+    if not isinstance(records,list):
+        raise ValueError("Invalid Kurzy watchlist: records must be an array")
+    if len(records)>200:
+        raise ValueError("Kurzy watchlist requires small human-reviewed batches (max 200)")
+    imported=0
+    seen=set()
+    for r in records:
+        if not isinstance(r,dict):continue
+        ico=str(r.get("ico") or "")
+        source=str(r.get("source_url") or "")
+        other=str(r.get("corroboration_url") or "")
+        name=str(r.get("name") or "").strip()
+        address=str(r.get("address") or "").strip()
+        registered=str(r.get("registered_at") or "")
+        if not re.fullmatch(r"\d{8}",ico) or ico in seen:
+            continue
+        if not source.startswith(("https://regiony.kurzy.cz/praha/","https://www.kurzy.cz/obec/praha/")):
+            continue
+        if not name or not address or "praha" not in address.casefold():
+            continue
+        try:
+            formed=dt.date.fromisoformat(registered)
+            if formed>dt.date.fromisoformat(today) or (dt.date.fromisoformat(today)-formed).days>730:
+                continue
+        except (TypeError,ValueError):continue
+        seen.add(ico)
+        links=list(dict.fromkeys([source]+([other] if other.startswith("https://") else [])))
+        existing_id=official_ids.get(ico)
+        if existing_id:
+            record=by_id[existing_id]
+            record["source_urls"]=list(dict.fromkeys((record.get("source_urls") or [])+links))[:25]
+            record["kurzy_listing_checked_at"]=r.get("listing_checked_at") or today
+            record["kurzy_source_url"]=source
+            record["kurzy_listing_kind"]="recent_registration_directory_crosscheck"
+            # Do NOT overwrite official ČSÚ or ARES dates, official name, trading location or verified website.
+        else:
+            candidate={
+                "id":"kurzy-"+ico,"name":name,"legal_name":name,
+                "ico":ico,"registered_at":registered,
+                "address":address,"district":"Praha",
+                "industry":r.get("industry") or "Professional services",
+                "tier":int(r.get("tier") or 3),
+                "website":"","website_status":"unknown",
+                "email":"","phone":"","instagram":"",
+                "verification":"candidate","registered_office_only":True,
+                "source_type":"kurzy_review","data_origin":"Kurzy.cz (manual reference)",
+                "kurzy_listing_checked_at":r.get("listing_checked_at") or today,
+                "kurzy_source_url":source,
+                "kurzy_listing_kind":"recent_registration_directory_crosscheck",
+                "source_urls":links,"first_seen":today,"last_seen":today,
+                "manual":False,"score":0,
+                "reason":"Kurzy.cz listed recent registration. Company operations, ARES identity, website and buyer interest require independent verification.",
+                "score_reason":"No commercial score: manually noted Kurzy.cz listing, not a validated operating client."
+            }
+            by_id[candidate["id"]]=candidate
+            official_ids[ico]=candidate["id"]
+        imported+=1
+    return imported
+
 def run():
     old_data = read_json(OUTPUT, {"leads": []})
     old_leads = old_data.get("leads", [])
@@ -351,6 +417,11 @@ def run():
             by_id[official["id"]]=official
             ico_index[ico]=official["id"]
             res_new+=1
+    # Public, attributed Kurzy.cz directory observations complement the primary
+    # official ČSÚ intake. They are never treated as ARES verification or website proof.
+    kurzy_data = read_json(KURZY, {"records": []})
+    kurzy_seen = import_kurzy_watchlist(by_id, ico_index, kurzy_data.get("records", []))
+    print("Kurzy.cz public listing cross-checks:", kurzy_seen, flush=True)
     # Manually-curated records always win and are never silently removed.
     for item in manual_data["leads"]:
         if not isinstance(item, dict) or not item.get("id") or not item.get("name"):
@@ -366,12 +437,13 @@ def run():
         if k not in deduped:
             deduped[k] = lead
     leads = list(deduped.values())
-    leads.sort(key=lambda l: (bool(l.get("manual")), l.get("source_type")=="csu_res", int(l.get("score", 0)), l.get("first_seen", "")), reverse=True)
+    leads.sort(key=lambda l: (bool(l.get("manual")), l.get("source_type")=="csu_res", bool(l.get("kurzy_listing_checked_at")), int(l.get("score", 0)), l.get("first_seen", "")), reverse=True)
     leads = leads[:MAX_TOTAL]
     result = {
         "schema_version": 1, "generated_at": ISO,
         "collector": {
-            "name": "ČSÚ RES primary + OSM supplemental + ARES verification", "segment": segment,
+            "name": "ČSÚ RES primary + OSM supplemental + Kurzy.cz reviewed leads + ARES verification", "segment": segment,
+            "kurzy_crosschecks":kurzy_seen, "kurzy_scope":"small public manually reviewed sample, not a complete licensed daily export",
             "res_candidates_loaded": len(official_candidates), "res_added_this_run": res_new,
             "res_snapshot_at": res_data.get("generated_at"),
             "discovered_this_run": added, "listings_examined": len(elements),

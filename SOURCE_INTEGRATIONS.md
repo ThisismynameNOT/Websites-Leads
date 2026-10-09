@@ -4,7 +4,8 @@ The source-of-truth integration status is published in [data/sources.json](./dat
 
 | Source | Status | Method | Notes |
 |---|---|---|---|
-| ČSÚ RES | Implemented; live CSV import awaiting verified successful run | Official open CSV, streamed; twice-monthly publication | Large ~540MB snapshot; Prague/CZ-NACE filtering and bounded new/established candidate sample. Registered office ≠ operating location. |
+| ČSÚ RES | Official CSV sample successfully ingested | Official open CSV, streamed; twice-monthly publication | Large ~540MB snapshot; 340 sampled Prague candidates in last committed import. Registered office ≠ operating location. |
+| **Kurzy.cz — new firms** | **Public sample integrated; full bulk feed not subscribed** | Manually reviewed, attributed Prague regional recent-registration pages; IČO-matched into ČSÚ / ARES pipeline | Watchlist in `data/kurzy-watchlist.json`. Not a complete scrape or proof of trading. A full daily new-company database is commercially offered: obtain authorized delivery and explicit redistribution rules first. [Feed](https://www.kurzy.cz/prodej-dat/databaze-firmy.htm) · [Terms](https://www.kurzy.cz/pouziti/) · [Prague listings](https://regiony.kurzy.cz/praha/). |
 | Czech ARES | Integrated; used in prior live runs | Official economic-subject REST API | Identifies legal entity by IČO; not proof of commercial budget. |
 | ARES public-register VR | Best-effort structured lookup | Official REST interface when available | Current statutory members shown with source. Director ≠ purchasing authority. |
 | Justice.cz filings | Manual verification only | Official public documents | No verified machine-readable bulk finance API has been enabled. Only attributable annual reports may enter financial evidence. |
@@ -15,6 +16,14 @@ The source-of-truth integration status is published in [data/sources.json](./dat
 | Firmy.cz | Cross-check source; no directory spider | Manual links and independent search results | Robots rules are path/agent-specific; no permission inferred from accessible webpages. |
 | Finmag | Cross-check source; no automated scrape | Public result links/manual verified facts | Bulk licence not established. |
 | OpenStreetMap | Secondary automated supplement | Overpass Prague boundary with 6 rotating sectors | A missing website tag is not proof of no site; ODbL attribution preserved. |
+
+## Kurzy.cz watchlist and coverage limitation
+
+Kurzy.cz publishes lists titled **Nově vzniklé firmy** for Prague and its neighborhoods, useful for finding newly created businesses. A small, source-linked queue currently includes Poctivé rekonstrukce s.r.o. (IČO 29855209) and PRO Sport Stavby s.r.o. (IČO 29567947), pending live ARES status verification, website discovery and evidence of trading. The addresses are **registered offices**, not proven operational sites.
+
+During every daily collector run, `scripts/refresh.py` imports `data/kurzy-watchlist.json` and merges by exact IČO into the official record. It does not overwrite official registration dates, verified company websites, contacts or operational addresses. Unmatched records are created strictly as background research candidates and are checked by `scripts/research.py` before any website-opportunity claim. The original Kurzy regional page and independent registry/bulletin cross-references are retained with attribution.
+
+**Not all Kurzy.cz newly registered companies are yet imported.** Kurzy.cz offers a *paid* daily update dataset and instructs automated users to download from designated APIs, not scrape public WWW pages in bulk. We have not bought or enabled this feed; we must obtain a permitted supplier delivery format and terms before adding automatic complete imports. The ČSÚ RES official open-data source remains the large-scale new-company discovery base. Do not commit commercial purchased raw datasets to this public GitHub repository unless terms explicitly allow republication.
 
 ## Official ČSÚ fields and change handling
 
@@ -39,7 +48,7 @@ Financial proof must be dated, publicly attributable and entered as official fil
 ## Operator checklist
 
 1. Verify Refresh Prague leads workflow passed Python unit tests.
-2. Verify data/res-candidates.json has a non-null generated_at, a real source timestamp and nonzero published_new / published_established counts.
+2. Verify data/res-candidates.json has a non-null generated_at, a real source timestamp and nonzero published_new / published_established counts; verify Kurzy watchlist imported and ARES-checked without implying complete paid-feed coverage.
 3. Confirm data/research.json has genuinely matched business domains, browser metrics and public registry evidence.
 4. Confirm data/qualification.json is populated and sums all six categories to the displayed score.
 5. Verify Publish lead dashboard passed smoke tests and the site correctly filters company cohorts.

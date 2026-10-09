@@ -58,6 +58,53 @@ class CollectorTests(unittest.TestCase):
         self.assertEqual(set(choices), set(collector.SEGMENTS))
         self.assertEqual(collector.segment_for_day(first), collector.segment_for_day(first))
 
+    def test_kurzy_recent_company_added_only_as_unverified_research_candidate(self):
+        row={"ico":"29855209","name":"Poctivé rekonstrukce s.r.o.",
+             "address":"Sídlištní 245/18A, Lysolaje, Praha",
+             "registered_at":"2026-08-04","source_url":"https://regiony.kurzy.cz/praha/praha-lysolaje-mestska-cast/",
+             "corroboration_url":"https://www.podnikatel.cz/rejstrik/poctive-rekonstrukce-s-r-o-29855209/",
+             "industry":"Construction & property","tier":1}
+        leads={};keys={}
+        count=collector.import_kurzy_watchlist(leads,keys,[row],today="2026-10-09")
+        self.assertEqual(count,1)
+        self.assertEqual(keys["29855209"],"kurzy-29855209")
+        lead=leads["kurzy-29855209"]
+        self.assertEqual(lead["website_status"],"unknown")
+        self.assertTrue(lead["registered_office_only"])
+        self.assertEqual(lead["verification"],"candidate")
+        self.assertFalse(lead["manual"])
+        self.assertEqual(lead["score"],0)
+
+    def test_kurzy_cross_check_does_not_replace_official_identity_or_site(self):
+        original={"id":"res-29855209","ico":"29855209","name":"Official registry name",
+                  "source_type":"csu_res","registered_at":"2026-08-01",
+                  "website":"https://correct-company.cz","source_urls":["https://csu.gov.cz/"]}
+        lead={"ico":"29855209","name":"Poctivé rekonstrukce s.r.o.",
+              "address":"Sídlištní 245/18A, Praha", "registered_at":"2026-08-04",
+              "source_url":"https://regiony.kurzy.cz/praha/praha-lysolaje-mestska-cast/"}
+        records={"res-29855209":original};index={"29855209":"res-29855209"}
+        count=collector.import_kurzy_watchlist(records,index,[lead],today="2026-10-09")
+        self.assertEqual(count,1)
+        got=records["res-29855209"]
+        self.assertEqual(len(records),1)
+        self.assertEqual(got["registered_at"],"2026-08-01")
+        self.assertEqual(got["name"],"Official registry name")
+        self.assertEqual(got["website"],"https://correct-company.cz")
+        self.assertIn("regiony.kurzy.cz",str(got["source_urls"]))
+
+    def test_kurzy_rejects_outside_prague_old_future_and_unattributed_records(self):
+        good={"ico":"29855209","name":"Local Prague Construction","registered_at":"2026-08-04",
+              "address":"Lysolaje, Praha",
+              "source_url":"https://regiony.kurzy.cz/praha/praha-lysolaje-mestska-cast/"}
+        rejects=[{**good,"ico":"29855210","address":"Brno"},
+                 {**good,"ico":"29855211","registered_at":"2020-01-01"},
+                 {**good,"ico":"29855212","registered_at":"2027-01-01"},
+                 {**good,"ico":"29855213","source_url":"https://bad-example.cz/firms"},
+                 {**good,"ico":"foo"}]
+        leads={};index={}
+        self.assertEqual(collector.import_kurzy_watchlist(leads,index,rejects,today="2026-10-09"),0)
+        self.assertEqual(leads,{})
+
     def test_query_is_prague_polygon_restricted(self):
         for name in collector.SEGMENTS:
             q = collector.osm_query(name)
