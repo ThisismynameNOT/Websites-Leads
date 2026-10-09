@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-09T11:15:25Z",
+  "generated_at": "2026-10-09T11:38:50Z",
   "collector": {
     "name": "ČSÚ RES primary + OSM supplemental + Kurzy.cz reviewed leads + ARES verification",
     "segment": "services",
@@ -9,8 +9,8 @@
     "res_candidates_loaded": 340,
     "res_added_this_run": 0,
     "res_snapshot_at": "2026-10-08T22:50:02.935409+00:00",
-    "discovered_this_run": 4,
-    "listings_examined": 299,
+    "discovered_this_run": 0,
+    "listings_examined": 0,
     "notes": "No-website tag denotes a missing directory URL, not independently verified absence of a website. Scores are preliminary."
   },
   "leads": [
@@ -17633,7 +17633,8 @@
       "score": 0,
       "reason": "Kurzy.cz listed recent registration. Company operations, ARES identity, website and buyer interest require independent verification.",
       "score_reason": "No commercial score: manually noted Kurzy.cz listing, not a validated operating client.",
-      "source_registry_urls": []
+      "source_registry_urls": [],
+      "research_hold": false
     },
     {
       "id": "kurzy-29567947",
@@ -17667,7 +17668,8 @@
       "score": 0,
       "reason": "Kurzy.cz listed recent registration. Company operations, ARES identity, website and buyer interest require independent verification.",
       "score_reason": "No commercial score: manually noted Kurzy.cz listing, not a validated operating client.",
-      "source_registry_urls": []
+      "source_registry_urls": [],
+      "research_hold": false
     },
     {
       "id": "kurzy-30118140",
@@ -17700,7 +17702,10 @@
       "manual": false,
       "score": 0,
       "reason": "Kurzy.cz listed recent registration. Company operations, ARES identity, website and buyer interest require independent verification.",
-      "score_reason": "No commercial score: manually noted Kurzy.cz listing, not a validated operating client."
+      "score_reason": "No commercial score: manually noted Kurzy.cz listing, not a validated operating client.",
+      "research_hold": true,
+      "research_hold_reason": "Dedicated HVAC/heat pump trade activity is attractive, but Prague company HQ is an explicitly marketed virtual address. Operating footprint and first-party contact missing.",
+      "source_registry_urls": []
     },
     {
       "id": "kurzy-30106991",
@@ -17733,7 +17738,10 @@
       "manual": false,
       "score": 0,
       "reason": "Kurzy.cz listed recent registration. Company operations, ARES identity, website and buyer interest require independent verification.",
-      "score_reason": "No commercial score: manually noted Kurzy.cz listing, not a validated operating client."
+      "score_reason": "No commercial score: manually noted Kurzy.cz listing, not a validated operating client.",
+      "research_hold": true,
+      "research_hold_reason": "Construction registered activity could support a project site, but office building is shared with hundreds of companies. Trading activity and first-party contact missing.",
+      "source_registry_urls": []
     },
     {
       "id": "kurzy-30113997",
@@ -17766,7 +17774,9 @@
       "manual": false,
       "score": 0,
       "reason": "Kurzy.cz listed recent registration. Company operations, ARES identity, website and buyer interest require independent verification.",
-      "score_reason": "No commercial score: manually noted Kurzy.cz listing, not a validated operating client."
+      "score_reason": "No commercial score: manually noted Kurzy.cz listing, not a validated operating client.",
+      "research_hold": false,
+      "source_registry_urls": []
     },
     {
       "id": "kurzy-30103819",
@@ -17799,7 +17809,9 @@
       "manual": false,
       "score": 0,
       "reason": "Kurzy.cz listed recent registration. Company operations, ARES identity, website and buyer interest require independent verification.",
-      "score_reason": "No commercial score: manually noted Kurzy.cz listing, not a validated operating client."
+      "score_reason": "No commercial score: manually noted Kurzy.cz listing, not a validated operating client.",
+      "research_hold": false,
+      "source_registry_urls": []
     },
     {
       "id": "kurzy-30102413",
@@ -17832,7 +17844,9 @@
       "manual": false,
       "score": 0,
       "reason": "Kurzy.cz listed recent registration. Company operations, ARES identity, website and buyer interest require independent verification.",
-      "score_reason": "No commercial score: manually noted Kurzy.cz listing, not a validated operating client."
+      "score_reason": "No commercial score: manually noted Kurzy.cz listing, not a validated operating client.",
+      "research_hold": false,
+      "source_registry_urls": []
     },
     {
       "id": "kurzy-30112460",
@@ -17865,7 +17879,9 @@
       "manual": false,
       "score": 0,
       "reason": "Kurzy.cz listed recent registration. Company operations, ARES identity, website and buyer interest require independent verification.",
-      "score_reason": "No commercial score: manually noted Kurzy.cz listing, not a validated operating client."
+      "score_reason": "No commercial score: manually noted Kurzy.cz listing, not a validated operating client.",
+      "research_hold": false,
+      "source_registry_urls": []
     },
     {
       "id": "kurzy-30094844",
@@ -17898,7 +17914,9 @@
       "manual": false,
       "score": 0,
       "reason": "Kurzy.cz listed recent registration. Company operations, ARES identity, website and buyer interest require independent verification.",
-      "score_reason": "No commercial score: manually noted Kurzy.cz listing, not a validated operating client."
+      "score_reason": "No commercial score: manually noted Kurzy.cz listing, not a validated operating client.",
+      "research_hold": false,
+      "source_registry_urls": []
     },
     {
       "id": "kurzy-30117879",
@@ -17931,7 +17949,9 @@
       "manual": false,
       "score": 0,
       "reason": "Kurzy.cz listed recent registration. Company operations, ARES identity, website and buyer interest require independent verification.",
-      "score_reason": "No commercial score: manually noted Kurzy.cz listing, not a validated operating client."
+      "score_reason": "No commercial score: manually noted Kurzy.cz listing, not a validated operating client.",
+      "research_hold": false,
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-449771792",
@@ -22760,7 +22780,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 20/20, public contactability 0/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 20/20, public contactability 0/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-9585845896",
@@ -22793,7 +22814,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 20/20, public contactability 0/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 20/20, public contactability 0/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-way-25571235",
@@ -22826,7 +22848,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 20/20, public contactability 0/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 20/20, public contactability 0/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12621244499",
@@ -27689,7 +27712,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 25,
-      "score_reason": "Preliminary evidence-only score: website evidence 5/30, registered business age 0/20, sector value 20/20, public contactability 0/15, listing gap 0/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 5/30, registered business age 0/20, sector value 20/20, public contactability 0/15, listing gap 0/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12104340701",
