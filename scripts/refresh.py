@@ -300,7 +300,7 @@ def import_kurzy_watchlist(by_id, official_ids, records, today=TODAY):
         registered=str(r.get("registered_at") or "")
         if not re.fullmatch(r"\d{8}",ico) or ico in seen:
             continue
-        if not source.startswith(("https://regiony.kurzy.cz/praha/","https://www.kurzy.cz/obec/praha/")):
+        if not source.startswith(("https://regiony.kurzy.cz/praha/","https://www.kurzy.cz/obec/praha/","https://rejstrik-firem.kurzy.cz/seznam-10/")):
             continue
         if not name or not address or "praha" not in address.casefold():
             continue
