@@ -53,7 +53,7 @@ function portfolioCase(l){
   return "Potential local-service website and enquiry improvement. Check operating activity, customer demand and the existing booking journey before outreach.";
 }
 function assess(l,today){
- if(!l||!l.id||!l.name||l.do_not_contact||l.is_franchise||/^(rejected|closed|inactive_registry|excluded|do_not_contact)$/i.test(l.verification||""))return null;
+ if(!l||!l.id||!l.name||l.do_not_contact||l.research_hold===true||l.is_franchise||/^(rejected|closed|inactive_registry|excluded|do_not_contact)$/i.test(l.verification||""))return null;
  if(!/praha|prague/i.test(String(l.address||"")+" "+String(l.district||"")))return null;
  if(typeof window!=="undefined"&&window.FieldnotesPicks&&window.FieldnotesPicks.banned(l))return null;
  var reg=(l.research||{}).registry||{};

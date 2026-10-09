@@ -4,6 +4,14 @@ Automated, GitHub-native sales prospecting dashboard for web design opportunitie
 
 **Source repo:** https://github.com/ThisismynameNOT/Websites-Leads
 
+## Deep investigations: October 9, 2026
+
+Two newly formed Prague-registered businesses have been investigated further: TMZ Air Solutions s.r.o. (IČO 30118140) and StabilProfi Stav s.r.o. (IČO 30106991). The latest automated run verified both legal identities through ARES and found registered specialized trades in the commercial register, but website searches failed with DDGS search errors. Independent public-web searches did not identify a matched first-party site or business contact channel; this is **inconclusive**, not proof that either company has no website.
+
+The TMZ address (Plzeňská 3352/156) is explicitly sold as a virtual office address by Jake&James. Kurzy.cz lists approximately 635 companies at the Dandova 2619 building used by StabilProfi. Neither registered location proves actual trading operations. No current customer work, public business contact, buyer intent or financial capacity has been confirmed. The correct status is **HOLD — operations/contact proof needed**, not a sales lead ready to approach.
+
+Source-by-source evidence, public registry links, website-search checks, commercial hypotheses and actionable next steps are in `data/kurzy-investigations.json`. The corresponding entries in `data/kurzy-watchlist.json` now carry `HOLD_OPERATOR_AND_CONTACT_PROOF`. The collector propagates `research_hold` by exact IČO and the dashboard's top-ten selector excludes those holds until cleared by a later reviewed source update. This does not delete historic leads or their private browser CRM.
+
 ## Kurzy.cz — newly registered companies
 
 Kurzy.cz Prague regional pages are included as an **additional attributed research source**, not a claim that every recent Kurzy entry has been downloaded. The curated `data/kurzy-watchlist.json` is reconciled daily by company IČO against official ČSÚ records and becomes part of the ARES-first research queue when identity/website checks are pending. Initial tracked examples: Poctivé rekonstrukce s.r.o. (IČO 29855209) and PRO Sport Stavby s.r.o. (IČO 29567947). Their business activity, contact and website need are not confirmed.

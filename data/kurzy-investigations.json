@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-09",
+  "scope": "Deep website-sales suitability checks for two Kurzy.cz Prague registrations",
+  "method": "Exact IČO/official legal name, Czech business register, ARES from collector, public company-site search, shared/virtual address cross-check and no invented negative website claims",
+  "limits": [
+    "A Czech company-register business activity may be registered before any trading starts",
+    "Web search timeout/no hit cannot establish that no domain exists",
+    "A statutory director is not a verified web-project buyer",
+    "Share capital never equals web-project budget",
+    "Registry headquarters are not proof of operations",
+    "No direct outreach or commercial interest was confirmed"
+  ],
+  "records": [
+    {
+      "ico": "30118140",
+      "name": "TMZ Air Solutions s.r.o.",
+      "investigated_at": "2026-10-09",
+      "status": "research_hold",
+      "readiness": "not_ready_for_outreach",
+      "registration": {
+        "status": "confirmed_by_company_register_and_ares",
+        "registered_at": "2026-10-06",
+        "registered_office": "Plzeňská 3352/156, Smíchov, Praha 5",
+        "ares_source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30118140",
+        "company_register_source": "https://ov.gov.cz/zapis/25360150",
+        "statutory_representative": "Zbyněk Tesař"
+      },
+      "services": {
+        "status": "registered_activity_only_not_operational_proof",
+        "registered_activity": "Installation, maintenance and reconstruction of cooling systems and heat pumps",
+        "operations_in_prague": "not_verified",
+        "direct_customer_activity": "not_verified",
+        "completed_projects": "not_verified"
+      },
+      "website": {
+        "status": "unresolved_not_confirmed",
+        "searches_reviewed": [
+          "Exact legal name: \"TMZ Air Solutions s.r.o.\"",
+          "Exact IČO: \"30118140\"",
+          "Name variants and Czech website/contact/reference queries",
+          "Likely first-party domain spellings and social-business discovery"
+        ],
+        "repo_automated_discovery": "SEARCH_UNAVAILABLE (DDGS query failures: zero successful queries)",
+        "manual_public_web_result": "No independently matched official company website identified in current public-web search results",
+        "site_absence_proven": false,
+        "website_faults_proven": false,
+        "browser_audit": "not_run",
+        "source_urls": [
+          "https://ov.gov.cz/zapis/25360150",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30118140"
+        ]
+      },
+      "contacts": {
+        "status": "not_verified",
+        "official_site_email": null,
+        "official_site_phone": null,
+        "statutory_representative": "Zbyněk Tesař",
+        "representative_is_confirmed_buyer": false
+      },
+      "finances": {
+        "status": "not_verified",
+        "revenue": null,
+        "net_income": null,
+        "buyer_budget": null,
+        "capital_not_budget": true
+      },
+      "office": {
+        "status": "registered_office_only",
+        "finding": "Address is explicitly advertised for commercial virtual registered-office services; it cannot independently prove Prague trading operations",
+        "sources": [
+          "https://www.jake-james.cz/sidlo-pro-spolecnosti",
+          "https://regiony.kurzy.cz/praha/"
+        ]
+      },
+      "commercial_hypothesis": {
+        "status": "speculative",
+        "potential_website_project": "Simple Czech-language informational site covering heat pumps, air conditioning, repair services, manufacturer/installation expertise if confirmed, photo references and public phone/email links; optional public-content CMS",
+        "reason": "Specialist high-value installation and service category has an obvious customer-facing brochure/service site use case, but the entity was only registered on 6 October and there is no proof it operates in Prague or needs a website."
+      },
+      "next_checks": [
+        "Find confirmed operating office/service area or customer-facing business activity tied to the exact IČO",
+        "Find first-party company website or business social profile tied to this IČO or verified contact",
+        "Obtain published business contact channel and verify it belongs to this legal entity",
+        "Verify genuine services/references and whether the business sells directly to customers",
+        "Confirm commercial website need, buying authority and capacity before suggesting a price or contacting"
+      ],
+      "confidence": "low_for_sales_readiness",
+      "source_provenance": "October 9 independent search + dated official Czech business-register records + official ARES research in repository; search non-results not proof of absence"
+    },
+    {
+      "ico": "30106991",
+      "name": "StabilProfi Stav s.r.o.",
+      "investigated_at": "2026-10-09",
+      "status": "research_hold",
+      "readiness": "not_ready_for_outreach",
+      "registration": {
+        "status": "confirmed_by_company_register_and_ares",
+        "registered_at": "2026-10-06",
+        "registered_office": "Dandova 2619/13, Horní Počernice, Praha 9",
+        "ares_source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30106991",
+        "company_register_source": "https://ov.gov.cz/zapis/25359763",
+        "statutory_representative": "Andrii Zubrytskyi"
+      },
+      "services": {
+        "status": "registered_activity_only_not_operational_proof",
+        "registered_activity": "Licensed to undertake construction, building alterations and demolition among other broadly registered business activities",
+        "operations_in_prague": "not_verified",
+        "direct_customer_activity": "not_verified",
+        "completed_projects": "not_verified"
+      },
+      "website": {
+        "status": "unresolved_not_confirmed",
+        "searches_reviewed": [
+          "Exact legal name: \"StabilProfi Stav s.r.o.\"",
+          "Exact IČO: \"30106991\"",
+          "Name variants and Czech website/contact/reference queries",
+          "Likely first-party domain spellings and social-business discovery"
+        ],
+        "repo_automated_discovery": "SEARCH_UNAVAILABLE (DDGS query failures: zero successful queries)",
+        "manual_public_web_result": "No independently matched official company website identified in current public-web search results",
+        "site_absence_proven": false,
+        "website_faults_proven": false,
+        "browser_audit": "not_run",
+        "source_urls": [
+          "https://ov.gov.cz/zapis/25359763",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30106991"
+        ]
+      },
+      "contacts": {
+        "status": "not_verified",
+        "official_site_email": null,
+        "official_site_phone": null,
+        "statutory_representative": "Andrii Zubrytskyi",
+        "representative_is_confirmed_buyer": false
+      },
+      "finances": {
+        "status": "not_verified",
+        "revenue": null,
+        "net_income": null,
+        "buyer_budget": null,
+        "capital_not_budget": true
+      },
+      "office": {
+        "status": "registered_office_only",
+        "finding": "Kurzy.cz address listing shows roughly 635 registered legal entities at the building, so registration is not evidence of a physical construction operation",
+        "sources": [
+          "https://regiony.kurzy.cz/praha/dandova/o-2619/",
+          "https://regiony.kurzy.cz/praha/dandova/2619-13/obchodni-rejstrik-firmy-vypis/"
+        ]
+      },
+      "commercial_hypothesis": {
+        "status": "speculative",
+        "potential_website_project": "Simple construction services and completed-project portfolio site, direct business contact links, references and optional public-content CMS only if genuine projects/customers can be established",
+        "reason": "Registered construction license suggests a possible client portfolio site, but actual direct customer work, references, a local operation and a business contact channel remain unverified."
+      },
+      "next_checks": [
+        "Find confirmed operating office/service area or customer-facing business activity tied to the exact IČO",
+        "Find first-party company website or business social profile tied to this IČO or verified contact",
+        "Obtain published business contact channel and verify it belongs to this legal entity",
+        "Verify genuine services/references and whether the business sells directly to customers",
+        "Confirm commercial website need, buying authority and capacity before suggesting a price or contacting"
+      ],
+      "confidence": "low_for_sales_readiness",
+      "source_provenance": "October 9 independent search + dated official Czech business-register records + official ARES research in repository; search non-results not proof of absence"
+    }
+  ]
+}

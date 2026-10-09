@@ -87,6 +87,26 @@ class CollectorTests(unittest.TestCase):
         self.assertEqual(leads["kurzy-30118140"]["website"],"")
         self.assertEqual(leads["kurzy-30118140"]["verification"],"candidate")
 
+    def test_kurzy_deep_investigation_hold_prevents_unsupported_promotion(self):
+        row={"ico":"30118140","name":"TMZ Air Solutions s.r.o.",
+             "registered_at":"2026-10-06","address":"Plzeňská 3352/156, Praha 5",
+             "source_url":"https://rejstrik-firem.kurzy.cz/seznam-10/",
+             "screening_stage":"HOLD_OPERATOR_AND_CONTACT_PROOF",
+             "priority_reason":"Prague HQ is virtual; no customer activity confirmed"}
+        leads={};keys={}
+        self.assertEqual(collector.import_kurzy_watchlist(leads,keys,[row],today="2026-10-09"),1)
+        self.assertTrue(leads["kurzy-30118140"]["research_hold"])
+        self.assertTrue(leads["kurzy-30118140"]["registered_office_only"])
+        self.assertIn("virtual",leads["kurzy-30118140"]["research_hold_reason"])
+        by_id={"res-30118140":{"id":"res-30118140","name":"ARES Legal Name","ico":"30118140","website":"https://example.org/","source_urls":[]}}
+        ids={"30118140":"res-30118140"}
+        collector.import_kurzy_watchlist(by_id,ids,[row],today="2026-10-09")
+        self.assertTrue(by_id["res-30118140"]["research_hold"])
+        self.assertEqual(by_id["res-30118140"]["website"],"https://example.org/")
+        row["screening_stage"]="TOP_RESEARCH"
+        collector.import_kurzy_watchlist(by_id,ids,[row],today="2026-10-09")
+        self.assertFalse(by_id["res-30118140"]["research_hold"])
+
     def test_kurzy_cross_check_does_not_replace_official_identity_or_site(self):
         original={"id":"res-29855209","ico":"29855209","name":"Official registry name",
                   "source_type":"csu_res","registered_at":"2026-08-01",
