@@ -32,7 +32,7 @@ test('Independent direct-customer business is a mandatory separate gate',()=>{
  const corporate=records.find(x=>x.name==='ROBET design Group s.r.o.');
  assert.equal(corporate.group_check.status,'corporate_parent_confirmed');
  assert.equal(corporate.review_priority,'Deferred / QA');
- assert.equal(corporate.outreach_status,'EXCLUDED — corporate-owned subsidiary');
+ assert.equal(corporate.outreach_status,'EXCLUDED — parent-controlled entity');
  assert.match(corporate.group_check.basis,/Oil Energy/);
  for(const name of ['RONDON DRON s.r.o.','PWB stavební s.r.o.']){
    assert.equal(records.find(x=>x.name===name).review_priority,'Deferred / QA');
