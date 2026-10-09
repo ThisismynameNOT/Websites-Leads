@@ -4,7 +4,7 @@
   "research_cut": "2026-10-09",
   "window": "2026-10-03 to 2026-10-06",
   "source": "https://rejstrik-firem.kurzy.cz/seznam-10/",
-  "scope": "User supplied 24 construction and specialist-service candidates; not all were independently verified; expanded: shareholder, controlling-group and direct external-customer screening",
+  "scope": "User supplied 24 construction and specialist-service candidates; not all were independently verified; expanded: shareholder, controlling-group and direct external-customer screening; Oct 10 repeat public-brand-first review requires affirmative evidence before priority",
   "rules": {
     "hard_no_site_gate": true,
     "premium_min_scale_czk": 50000000,
@@ -32,21 +32,35 @@
     },
     "strict_logic": "A lead can have a weighted score/package only after a repeatable exact-IČO no-owned-website check. Unknown or partially searched = HOLD. Related-name sites require legal matching.",
     "independent_direct_market_gate": true,
-    "eligibility_definition": "ALL mandatory: exact legal entity match (IČO); company is not majority-owned/controlled by another business/parent; company has independently verified public/direct external-customer offering and contact/sales channel (B2B allowed); real operating business; and existing strict first-party no-website gate. A group-related brand, SPV, internal-service entity or entity relying solely on mother-company sales is excluded or held.",
-    "conservative_group_qa": "Definitive corporate-owned firms are excluded. Shared directors, family names, shared addresses or similar branding only trigger research hold; do not assert a legal parent unless commercial-register shareholder control is confirmed."
+    "eligibility_definition": "Only real standalone customer-facing brands operating independently and directly for outside B2B/B2C buyers. A registered sole-shareholder s.r.o. without an active identifiable brand/contact/customer proof FAILS priority eligibility and remains QA; new holding SPV, single-project real-estate vehicle, intragroup agency, shell-like or captive supplier excluded where positively confirmed.",
+    "conservative_group_qa": "Definitive corporate-owned firms are excluded. Shared directors, family names, shared addresses or similar branding only trigger research hold; do not assert a legal parent unless commercial-register shareholder control is confirmed.",
+    "standalone_public_facing_brand_gate": true,
+    "must_pass_before_priority": [
+      "Exact legal entity (IČO) positively confirmed",
+      "Independent commercial operator rather than holding/project SPV, subsidiary or captive group-services unit",
+      "Evidence of a distinct actively marketed business brand (trade name/catalogue/services tied to exact entity)",
+      "Dedicated public contact/sales channel attributed to that operator, directly accessible by outside B2B or B2C customers",
+      "Independent customer work, public service bookings, verified product sales or actual outside-client contracts",
+      "Verified website/domain status and economics assessed only after brand independence and external sales evidence"
+    ]
   },
   "summary": {
     "screened": 24,
     "new_qualified": 0,
     "premium_qualified": 0,
-    "priority_research": 4,
-    "deferred_qa": 20,
+    "priority_research": 0,
+    "deferred_qa": 24,
     "confirmed_web_rejection": 0,
     "qualified_pipeline_czk": 0,
     "confirmed_parent_exclusions": 1,
     "affiliate_or_identity_holds": 2,
     "direct_customer_verified": 0,
-    "no_corporate_parent_named_in_registration": 4
+    "no_corporate_parent_named_in_registration": 4,
+    "verified_standalone_brands": 0,
+    "verified_direct_external_customer_operators": 0,
+    "eligible_for_sales_research": 0,
+    "reaudit_date": "2026-10-10",
+    "reaudit_result": "All 24: zero sufficiently proven standalone, external-client-facing brands. One confirmed corporate-owned exclusion, others held for lack of affirmative brand/client evidence. No claim all are group-owned or project SPVs."
   },
   "records": [
     {
@@ -55,7 +69,7 @@
       "ico": "30107598",
       "city": "Praha 9",
       "sector": "Construction / metalwork",
-      "review_priority": "Priority research",
+      "review_priority": "Deferred / QA",
       "package_group": "New 40-50k",
       "registration_date": "2026-10-05",
       "website_gate": "HOLD — official site status not sufficiently verified",
@@ -71,8 +85,8 @@
       "financial_evidence": "10,000 CZK share capital; not operating cash",
       "scale_evidence": "No verified ≥50m CZK scale proxy",
       "sector_offer": "Construction and metalwork service portfolio",
-      "decision_reason": "Registered Prague construction-related activities, but customer projects and a first-party business contact are unverified.",
-      "next_check": "Obtain a first-party business contact and evidence of contracts, then rerun exact-IČO domain checks.",
+      "decision_reason": "Registered Prague construction-related activities, but customer projects and a first-party business contact are unverified. Re-audited 2026-10-10: NOT a verified standalone public-facing brand. No attributable active sales channel, independently marketed service and outside customer/project evidence. Previous priority was unjustified.",
+      "next_check": "First independently verify a recognizable commercial brand, a dedicated public business phone/email or sales channel, outside-customer work, and independence from group/SPV use. Only after this can website and budget checks proceed.",
       "source_urls": [
         "https://ov.ihned.cz/zapis/25358546",
         "https://rejstrik-firem.kurzy.cz/seznam-10/"
@@ -80,7 +94,7 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "outreach_status": "NOT APPROVED — standalone public-facing brand and external sales unverified",
       "group_check": {
         "status": "individual_wholly_owned_legal_record",
         "checked_at": "2026-10-09",
@@ -95,7 +109,31 @@
         "source_urls": []
       },
       "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
-      "eligible_for_outreach": false
+      "eligible_for_outreach": false,
+      "brand_check": {
+        "status": "not_verified",
+        "explanation": "The exact legal entity has not been shown to operate a distinct, public-facing commercial brand with a recognizable service/product offer, its own sales/contact channel and independently attributable customer projects or transactions. Registration and individual shareholding alone do not count. Previously shortlisted from trade license + individual owner; this was an incorrect proxy for a public-facing brand. Demoted from priority until brand and direct-customer proofs are actually found.",
+        "reviewed_at": "2026-10-10",
+        "source_urls": []
+      },
+      "external_customer_evidence": {
+        "status": "not_verified",
+        "proof_types_checked": [
+          "independent business website or product catalogue",
+          "public business phone or email attributed to exact IČO",
+          "published independent B2B/B2C service offering",
+          "documented projects, outside clients or official contracting"
+        ],
+        "limitation": "Absence of observed evidence in these limited checks is not proof the entity does not have customers."
+      },
+      "project_vehicle_check": {
+        "status": "unknown",
+        "note": "Exact entity's role as standalone operator vs one-project/SPV/intragroup vehicle not established; require affirmative independent-brand and external-sales evidence, not assumptions."
+      },
+      "brand_gate": "HOLD — standalone public-facing brand not verified",
+      "verified_standalone_brand": false,
+      "public_business_contact_verified": false,
+      "direct_public_or_b2b_sales_verified": false
     },
     {
       "id": "oct-02",
@@ -103,7 +141,7 @@
       "ico": "30118140",
       "city": "Praha 5",
       "sector": "HVAC / heat pumps",
-      "review_priority": "Priority research",
+      "review_priority": "Deferred / QA",
       "package_group": "New 40-50k",
       "registration_date": "2026-10-06",
       "website_gate": "HOLD — official site status not sufficiently verified",
@@ -119,8 +157,8 @@
       "financial_evidence": "50,000 CZK share capital; not operating cash",
       "scale_evidence": "No verified ≥50m CZK scale proxy",
       "sector_offer": "Heating and cooling service website",
-      "decision_reason": "Specific heat-pump/cooling installation license; Prague HQ is marketed as a virtual address and trading location unproven.",
-      "next_check": "Confirm actual service territory, business phone/email, client installations, and domain.",
+      "decision_reason": "Specific heat-pump/cooling installation license; Prague HQ is marketed as a virtual address and trading location unproven. Re-audited 2026-10-10: NOT a verified standalone public-facing brand. No attributable active sales channel, independently marketed service and outside customer/project evidence. Previous priority was unjustified.",
+      "next_check": "First independently verify a recognizable commercial brand, a dedicated public business phone/email or sales channel, outside-customer work, and independence from group/SPV use. Only after this can website and budget checks proceed.",
       "source_urls": [
         "https://ov.gov.cz/zapis/25360150",
         "https://rejstrik-firem.kurzy.cz/seznam-10/",
@@ -129,7 +167,7 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "outreach_status": "NOT APPROVED — standalone public-facing brand and external sales unverified",
       "group_check": {
         "status": "individual_wholly_owned_legal_record",
         "checked_at": "2026-10-09",
@@ -144,7 +182,31 @@
         "source_urls": []
       },
       "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
-      "eligible_for_outreach": false
+      "eligible_for_outreach": false,
+      "brand_check": {
+        "status": "not_verified",
+        "explanation": "The exact legal entity has not been shown to operate a distinct, public-facing commercial brand with a recognizable service/product offer, its own sales/contact channel and independently attributable customer projects or transactions. Registration and individual shareholding alone do not count. Previously shortlisted from trade license + individual owner; this was an incorrect proxy for a public-facing brand. Demoted from priority until brand and direct-customer proofs are actually found.",
+        "reviewed_at": "2026-10-10",
+        "source_urls": []
+      },
+      "external_customer_evidence": {
+        "status": "not_verified",
+        "proof_types_checked": [
+          "independent business website or product catalogue",
+          "public business phone or email attributed to exact IČO",
+          "published independent B2B/B2C service offering",
+          "documented projects, outside clients or official contracting"
+        ],
+        "limitation": "Absence of observed evidence in these limited checks is not proof the entity does not have customers."
+      },
+      "project_vehicle_check": {
+        "status": "unknown",
+        "note": "Exact entity's role as standalone operator vs one-project/SPV/intragroup vehicle not established; require affirmative independent-brand and external-sales evidence, not assumptions."
+      },
+      "brand_gate": "HOLD — standalone public-facing brand not verified",
+      "verified_standalone_brand": false,
+      "public_business_contact_verified": false,
+      "direct_public_or_b2b_sales_verified": false
     },
     {
       "id": "oct-03",
@@ -152,7 +214,7 @@
       "ico": "30103819",
       "city": "Praha 5",
       "sector": "Metalwork / construction",
-      "review_priority": "Priority research",
+      "review_priority": "Deferred / QA",
       "package_group": "New 40-50k",
       "registration_date": "2026-10-06",
       "website_gate": "HOLD — official site status not sufficiently verified",
@@ -168,8 +230,8 @@
       "financial_evidence": "20,000 CZK share capital; not operating cash",
       "scale_evidence": "No verified ≥50m CZK scale proxy",
       "sector_offer": "Welding and fabrication B2B project site",
-      "decision_reason": "Registered for metalwork, welding and construction; no attributable work, customer contact or domain. Statutory director is based outside Prague.",
-      "next_check": "Validate actual workshop, geographic service area, completed projects and company contact.",
+      "decision_reason": "Registered for metalwork, welding and construction; no attributable work, customer contact or domain. Statutory director is based outside Prague. Re-audited 2026-10-10: NOT a verified standalone public-facing brand. No attributable active sales channel, independently marketed service and outside customer/project evidence. Previous priority was unjustified.",
+      "next_check": "First independently verify a recognizable commercial brand, a dedicated public business phone/email or sales channel, outside-customer work, and independence from group/SPV use. Only after this can website and budget checks proceed.",
       "source_urls": [
         "https://ov.gov.cz/zapis/25359892",
         "https://rejstrik-firem.kurzy.cz/seznam-10/"
@@ -177,7 +239,7 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "outreach_status": "NOT APPROVED — standalone public-facing brand and external sales unverified",
       "group_check": {
         "status": "individual_wholly_owned_legal_record",
         "checked_at": "2026-10-09",
@@ -192,7 +254,31 @@
         "source_urls": []
       },
       "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
-      "eligible_for_outreach": false
+      "eligible_for_outreach": false,
+      "brand_check": {
+        "status": "not_verified",
+        "explanation": "The exact legal entity has not been shown to operate a distinct, public-facing commercial brand with a recognizable service/product offer, its own sales/contact channel and independently attributable customer projects or transactions. Registration and individual shareholding alone do not count. Previously shortlisted from trade license + individual owner; this was an incorrect proxy for a public-facing brand. Demoted from priority until brand and direct-customer proofs are actually found.",
+        "reviewed_at": "2026-10-10",
+        "source_urls": []
+      },
+      "external_customer_evidence": {
+        "status": "not_verified",
+        "proof_types_checked": [
+          "independent business website or product catalogue",
+          "public business phone or email attributed to exact IČO",
+          "published independent B2B/B2C service offering",
+          "documented projects, outside clients or official contracting"
+        ],
+        "limitation": "Absence of observed evidence in these limited checks is not proof the entity does not have customers."
+      },
+      "project_vehicle_check": {
+        "status": "unknown",
+        "note": "Exact entity's role as standalone operator vs one-project/SPV/intragroup vehicle not established; require affirmative independent-brand and external-sales evidence, not assumptions."
+      },
+      "brand_gate": "HOLD — standalone public-facing brand not verified",
+      "verified_standalone_brand": false,
+      "public_business_contact_verified": false,
+      "direct_public_or_b2b_sales_verified": false
     },
     {
       "id": "oct-04",
@@ -226,7 +312,7 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "EXCLUDED — corporate-owned subsidiary",
+      "outreach_status": "EXCLUDED — parent-controlled entity",
       "group_check": {
         "status": "corporate_parent_confirmed",
         "checked_at": "2026-10-09",
@@ -242,7 +328,31 @@
         "source_urls": []
       },
       "direct_market_gate": "FAIL — owned 100% by another legal company",
-      "eligible_for_outreach": false
+      "eligible_for_outreach": false,
+      "brand_check": {
+        "status": "not_verified",
+        "explanation": "The exact legal entity has not been shown to operate a distinct, public-facing commercial brand with a recognizable service/product offer, its own sales/contact channel and independently attributable customer projects or transactions. Registration and individual shareholding alone do not count.",
+        "reviewed_at": "2026-10-10",
+        "source_urls": []
+      },
+      "external_customer_evidence": {
+        "status": "not_verified",
+        "proof_types_checked": [
+          "independent business website or product catalogue",
+          "public business phone or email attributed to exact IČO",
+          "published independent B2B/B2C service offering",
+          "documented projects, outside clients or official contracting"
+        ],
+        "limitation": "Absence of observed evidence in these limited checks is not proof the entity does not have customers."
+      },
+      "project_vehicle_check": {
+        "status": "unknown",
+        "note": "Exact entity's role as standalone operator vs one-project/SPV/intragroup vehicle not established; require affirmative independent-brand and external-sales evidence, not assumptions."
+      },
+      "brand_gate": "FAIL — corporate-controlled entity",
+      "verified_standalone_brand": false,
+      "public_business_contact_verified": false,
+      "direct_public_or_b2b_sales_verified": false
     },
     {
       "id": "oct-05",
@@ -278,7 +388,7 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "outreach_status": "NOT APPROVED — standalone public-facing brand and external sales unverified",
       "group_check": {
         "status": "associated_brand_network",
         "checked_at": "2026-10-09",
@@ -296,7 +406,31 @@
         "source_urls": []
       },
       "direct_market_gate": "HOLD — interconnected RONDON brands; autonomy and public sales unverified",
-      "eligible_for_outreach": false
+      "eligible_for_outreach": false,
+      "brand_check": {
+        "status": "not_verified",
+        "explanation": "The exact legal entity has not been shown to operate a distinct, public-facing commercial brand with a recognizable service/product offer, its own sales/contact channel and independently attributable customer projects or transactions. Registration and individual shareholding alone do not count.",
+        "reviewed_at": "2026-10-10",
+        "source_urls": []
+      },
+      "external_customer_evidence": {
+        "status": "not_verified",
+        "proof_types_checked": [
+          "independent business website or product catalogue",
+          "public business phone or email attributed to exact IČO",
+          "published independent B2B/B2C service offering",
+          "documented projects, outside clients or official contracting"
+        ],
+        "limitation": "Absence of observed evidence in these limited checks is not proof the entity does not have customers."
+      },
+      "project_vehicle_check": {
+        "status": "unknown",
+        "note": "Exact entity's role as standalone operator vs one-project/SPV/intragroup vehicle not established; require affirmative independent-brand and external-sales evidence, not assumptions."
+      },
+      "brand_gate": "HOLD — standalone public-facing brand not verified",
+      "verified_standalone_brand": false,
+      "public_business_contact_verified": false,
+      "direct_public_or_b2b_sales_verified": false
     },
     {
       "id": "oct-06",
@@ -304,7 +438,7 @@
       "ico": "30112460",
       "city": "Praha 2",
       "sector": "Woodworking / design",
-      "review_priority": "Priority research",
+      "review_priority": "Deferred / QA",
       "package_group": "New 40-50k",
       "registration_date": "2026-10-06",
       "website_gate": "HOLD — official site status not sufficiently verified",
@@ -320,8 +454,8 @@
       "financial_evidence": "1,000 CZK share capital; not cash budget",
       "scale_evidence": "No verified ≥50m CZK scale proxy",
       "sector_offer": "Wood products and bespoke project catalogue",
-      "decision_reason": "Wood/design activities are registered but so are many unrelated categories; owner address in Jablonec, trading activity unknown.",
-      "next_check": "Verify products, service geography, finished work and a company contact.",
+      "decision_reason": "Wood/design activities are registered but so are many unrelated categories; owner address in Jablonec, trading activity unknown. Re-audited 2026-10-10: NOT a verified standalone public-facing brand. No attributable active sales channel, independently marketed service and outside customer/project evidence. Previous priority was unjustified.",
+      "next_check": "First independently verify a recognizable commercial brand, a dedicated public business phone/email or sales channel, outside-customer work, and independence from group/SPV use. Only after this can website and budget checks proceed.",
       "source_urls": [
         "https://ov.ihned.cz/zapis/25360403",
         "https://rejstrik-firem.kurzy.cz/seznam-10/"
@@ -329,7 +463,7 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "outreach_status": "NOT APPROVED — standalone public-facing brand and external sales unverified",
       "group_check": {
         "status": "individual_wholly_owned_legal_record",
         "checked_at": "2026-10-09",
@@ -344,7 +478,31 @@
         "source_urls": []
       },
       "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
-      "eligible_for_outreach": false
+      "eligible_for_outreach": false,
+      "brand_check": {
+        "status": "not_verified",
+        "explanation": "The exact legal entity has not been shown to operate a distinct, public-facing commercial brand with a recognizable service/product offer, its own sales/contact channel and independently attributable customer projects or transactions. Registration and individual shareholding alone do not count. Previously shortlisted from trade license + individual owner; this was an incorrect proxy for a public-facing brand. Demoted from priority until brand and direct-customer proofs are actually found.",
+        "reviewed_at": "2026-10-10",
+        "source_urls": []
+      },
+      "external_customer_evidence": {
+        "status": "not_verified",
+        "proof_types_checked": [
+          "independent business website or product catalogue",
+          "public business phone or email attributed to exact IČO",
+          "published independent B2B/B2C service offering",
+          "documented projects, outside clients or official contracting"
+        ],
+        "limitation": "Absence of observed evidence in these limited checks is not proof the entity does not have customers."
+      },
+      "project_vehicle_check": {
+        "status": "unknown",
+        "note": "Exact entity's role as standalone operator vs one-project/SPV/intragroup vehicle not established; require affirmative independent-brand and external-sales evidence, not assumptions."
+      },
+      "brand_gate": "HOLD — standalone public-facing brand not verified",
+      "verified_standalone_brand": false,
+      "public_business_contact_verified": false,
+      "direct_public_or_b2b_sales_verified": false
     },
     {
       "id": "oct-07",
@@ -379,7 +537,7 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "outreach_status": "NOT APPROVED — standalone public-facing brand and external sales unverified",
       "group_check": {
         "status": "identity_and_group_relation_unresolved",
         "checked_at": "2026-10-09",
@@ -395,7 +553,31 @@
         "source_urls": []
       },
       "direct_market_gate": "HOLD — exact entity and association with existing PWB brand unverified",
-      "eligible_for_outreach": false
+      "eligible_for_outreach": false,
+      "brand_check": {
+        "status": "not_verified",
+        "explanation": "The exact legal entity has not been shown to operate a distinct, public-facing commercial brand with a recognizable service/product offer, its own sales/contact channel and independently attributable customer projects or transactions. Registration and individual shareholding alone do not count.",
+        "reviewed_at": "2026-10-10",
+        "source_urls": []
+      },
+      "external_customer_evidence": {
+        "status": "not_verified",
+        "proof_types_checked": [
+          "independent business website or product catalogue",
+          "public business phone or email attributed to exact IČO",
+          "published independent B2B/B2C service offering",
+          "documented projects, outside clients or official contracting"
+        ],
+        "limitation": "Absence of observed evidence in these limited checks is not proof the entity does not have customers."
+      },
+      "project_vehicle_check": {
+        "status": "unknown",
+        "note": "Exact entity's role as standalone operator vs one-project/SPV/intragroup vehicle not established; require affirmative independent-brand and external-sales evidence, not assumptions."
+      },
+      "brand_gate": "HOLD — standalone public-facing brand not verified",
+      "verified_standalone_brand": false,
+      "public_business_contact_verified": false,
+      "direct_public_or_b2b_sales_verified": false
     },
     {
       "id": "oct-08",
@@ -429,7 +611,7 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "outreach_status": "NOT APPROVED — standalone public-facing brand and external sales unverified",
       "group_check": {
         "status": "individual_wholly_owned_legal_record",
         "checked_at": "2026-10-09",
@@ -445,7 +627,31 @@
         "source_urls": []
       },
       "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
-      "eligible_for_outreach": false
+      "eligible_for_outreach": false,
+      "brand_check": {
+        "status": "not_verified",
+        "explanation": "The exact legal entity has not been shown to operate a distinct, public-facing commercial brand with a recognizable service/product offer, its own sales/contact channel and independently attributable customer projects or transactions. Registration and individual shareholding alone do not count.",
+        "reviewed_at": "2026-10-10",
+        "source_urls": []
+      },
+      "external_customer_evidence": {
+        "status": "not_verified",
+        "proof_types_checked": [
+          "independent business website or product catalogue",
+          "public business phone or email attributed to exact IČO",
+          "published independent B2B/B2C service offering",
+          "documented projects, outside clients or official contracting"
+        ],
+        "limitation": "Absence of observed evidence in these limited checks is not proof the entity does not have customers."
+      },
+      "project_vehicle_check": {
+        "status": "unknown",
+        "note": "Exact entity's role as standalone operator vs one-project/SPV/intragroup vehicle not established; require affirmative independent-brand and external-sales evidence, not assumptions."
+      },
+      "brand_gate": "HOLD — standalone public-facing brand not verified",
+      "verified_standalone_brand": false,
+      "public_business_contact_verified": false,
+      "direct_public_or_b2b_sales_verified": false
     },
     {
       "id": "oct-09",
@@ -477,7 +683,7 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "outreach_status": "NOT APPROVED — standalone public-facing brand and external sales unverified",
       "group_check": {
         "status": "shareholder_structure_not_independently_checked",
         "checked_at": "2026-10-09",
@@ -490,7 +696,31 @@
         "source_urls": []
       },
       "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
-      "eligible_for_outreach": false
+      "eligible_for_outreach": false,
+      "brand_check": {
+        "status": "not_verified",
+        "explanation": "The exact legal entity has not been shown to operate a distinct, public-facing commercial brand with a recognizable service/product offer, its own sales/contact channel and independently attributable customer projects or transactions. Registration and individual shareholding alone do not count.",
+        "reviewed_at": "2026-10-10",
+        "source_urls": []
+      },
+      "external_customer_evidence": {
+        "status": "not_verified",
+        "proof_types_checked": [
+          "independent business website or product catalogue",
+          "public business phone or email attributed to exact IČO",
+          "published independent B2B/B2C service offering",
+          "documented projects, outside clients or official contracting"
+        ],
+        "limitation": "Absence of observed evidence in these limited checks is not proof the entity does not have customers."
+      },
+      "project_vehicle_check": {
+        "status": "unknown",
+        "note": "Exact entity's role as standalone operator vs one-project/SPV/intragroup vehicle not established; require affirmative independent-brand and external-sales evidence, not assumptions."
+      },
+      "brand_gate": "HOLD — standalone public-facing brand not verified",
+      "verified_standalone_brand": false,
+      "public_business_contact_verified": false,
+      "direct_public_or_b2b_sales_verified": false
     },
     {
       "id": "oct-10",
@@ -522,7 +752,7 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "outreach_status": "NOT APPROVED — standalone public-facing brand and external sales unverified",
       "group_check": {
         "status": "shareholder_structure_not_independently_checked",
         "checked_at": "2026-10-09",
@@ -535,7 +765,31 @@
         "source_urls": []
       },
       "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
-      "eligible_for_outreach": false
+      "eligible_for_outreach": false,
+      "brand_check": {
+        "status": "not_verified",
+        "explanation": "The exact legal entity has not been shown to operate a distinct, public-facing commercial brand with a recognizable service/product offer, its own sales/contact channel and independently attributable customer projects or transactions. Registration and individual shareholding alone do not count.",
+        "reviewed_at": "2026-10-10",
+        "source_urls": []
+      },
+      "external_customer_evidence": {
+        "status": "not_verified",
+        "proof_types_checked": [
+          "independent business website or product catalogue",
+          "public business phone or email attributed to exact IČO",
+          "published independent B2B/B2C service offering",
+          "documented projects, outside clients or official contracting"
+        ],
+        "limitation": "Absence of observed evidence in these limited checks is not proof the entity does not have customers."
+      },
+      "project_vehicle_check": {
+        "status": "unknown",
+        "note": "Exact entity's role as standalone operator vs one-project/SPV/intragroup vehicle not established; require affirmative independent-brand and external-sales evidence, not assumptions."
+      },
+      "brand_gate": "HOLD — standalone public-facing brand not verified",
+      "verified_standalone_brand": false,
+      "public_business_contact_verified": false,
+      "direct_public_or_b2b_sales_verified": false
     },
     {
       "id": "oct-11",
@@ -568,7 +822,7 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "outreach_status": "NOT APPROVED — standalone public-facing brand and external sales unverified",
       "group_check": {
         "status": "shareholder_structure_not_independently_checked",
         "checked_at": "2026-10-09",
@@ -581,7 +835,31 @@
         "source_urls": []
       },
       "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
-      "eligible_for_outreach": false
+      "eligible_for_outreach": false,
+      "brand_check": {
+        "status": "not_verified",
+        "explanation": "The exact legal entity has not been shown to operate a distinct, public-facing commercial brand with a recognizable service/product offer, its own sales/contact channel and independently attributable customer projects or transactions. Registration and individual shareholding alone do not count.",
+        "reviewed_at": "2026-10-10",
+        "source_urls": []
+      },
+      "external_customer_evidence": {
+        "status": "not_verified",
+        "proof_types_checked": [
+          "independent business website or product catalogue",
+          "public business phone or email attributed to exact IČO",
+          "published independent B2B/B2C service offering",
+          "documented projects, outside clients or official contracting"
+        ],
+        "limitation": "Absence of observed evidence in these limited checks is not proof the entity does not have customers."
+      },
+      "project_vehicle_check": {
+        "status": "unknown",
+        "note": "Exact entity's role as standalone operator vs one-project/SPV/intragroup vehicle not established; require affirmative independent-brand and external-sales evidence, not assumptions."
+      },
+      "brand_gate": "HOLD — standalone public-facing brand not verified",
+      "verified_standalone_brand": false,
+      "public_business_contact_verified": false,
+      "direct_public_or_b2b_sales_verified": false
     },
     {
       "id": "oct-12",
@@ -613,7 +891,7 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "outreach_status": "NOT APPROVED — standalone public-facing brand and external sales unverified",
       "group_check": {
         "status": "shareholder_structure_not_independently_checked",
         "checked_at": "2026-10-09",
@@ -626,7 +904,31 @@
         "source_urls": []
       },
       "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
-      "eligible_for_outreach": false
+      "eligible_for_outreach": false,
+      "brand_check": {
+        "status": "not_verified",
+        "explanation": "The exact legal entity has not been shown to operate a distinct, public-facing commercial brand with a recognizable service/product offer, its own sales/contact channel and independently attributable customer projects or transactions. Registration and individual shareholding alone do not count.",
+        "reviewed_at": "2026-10-10",
+        "source_urls": []
+      },
+      "external_customer_evidence": {
+        "status": "not_verified",
+        "proof_types_checked": [
+          "independent business website or product catalogue",
+          "public business phone or email attributed to exact IČO",
+          "published independent B2B/B2C service offering",
+          "documented projects, outside clients or official contracting"
+        ],
+        "limitation": "Absence of observed evidence in these limited checks is not proof the entity does not have customers."
+      },
+      "project_vehicle_check": {
+        "status": "unknown",
+        "note": "Exact entity's role as standalone operator vs one-project/SPV/intragroup vehicle not established; require affirmative independent-brand and external-sales evidence, not assumptions."
+      },
+      "brand_gate": "HOLD — standalone public-facing brand not verified",
+      "verified_standalone_brand": false,
+      "public_business_contact_verified": false,
+      "direct_public_or_b2b_sales_verified": false
     },
     {
       "id": "oct-13",
@@ -658,7 +960,7 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "outreach_status": "NOT APPROVED — standalone public-facing brand and external sales unverified",
       "group_check": {
         "status": "shareholder_structure_not_independently_checked",
         "checked_at": "2026-10-09",
@@ -671,7 +973,31 @@
         "source_urls": []
       },
       "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
-      "eligible_for_outreach": false
+      "eligible_for_outreach": false,
+      "brand_check": {
+        "status": "not_verified",
+        "explanation": "The exact legal entity has not been shown to operate a distinct, public-facing commercial brand with a recognizable service/product offer, its own sales/contact channel and independently attributable customer projects or transactions. Registration and individual shareholding alone do not count.",
+        "reviewed_at": "2026-10-10",
+        "source_urls": []
+      },
+      "external_customer_evidence": {
+        "status": "not_verified",
+        "proof_types_checked": [
+          "independent business website or product catalogue",
+          "public business phone or email attributed to exact IČO",
+          "published independent B2B/B2C service offering",
+          "documented projects, outside clients or official contracting"
+        ],
+        "limitation": "Absence of observed evidence in these limited checks is not proof the entity does not have customers."
+      },
+      "project_vehicle_check": {
+        "status": "unknown",
+        "note": "Exact entity's role as standalone operator vs one-project/SPV/intragroup vehicle not established; require affirmative independent-brand and external-sales evidence, not assumptions."
+      },
+      "brand_gate": "HOLD — standalone public-facing brand not verified",
+      "verified_standalone_brand": false,
+      "public_business_contact_verified": false,
+      "direct_public_or_b2b_sales_verified": false
     },
     {
       "id": "oct-14",
@@ -703,7 +1029,7 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "outreach_status": "NOT APPROVED — standalone public-facing brand and external sales unverified",
       "group_check": {
         "status": "shareholder_structure_not_independently_checked",
         "checked_at": "2026-10-09",
@@ -716,7 +1042,31 @@
         "source_urls": []
       },
       "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
-      "eligible_for_outreach": false
+      "eligible_for_outreach": false,
+      "brand_check": {
+        "status": "not_verified",
+        "explanation": "The exact legal entity has not been shown to operate a distinct, public-facing commercial brand with a recognizable service/product offer, its own sales/contact channel and independently attributable customer projects or transactions. Registration and individual shareholding alone do not count.",
+        "reviewed_at": "2026-10-10",
+        "source_urls": []
+      },
+      "external_customer_evidence": {
+        "status": "not_verified",
+        "proof_types_checked": [
+          "independent business website or product catalogue",
+          "public business phone or email attributed to exact IČO",
+          "published independent B2B/B2C service offering",
+          "documented projects, outside clients or official contracting"
+        ],
+        "limitation": "Absence of observed evidence in these limited checks is not proof the entity does not have customers."
+      },
+      "project_vehicle_check": {
+        "status": "unknown",
+        "note": "Exact entity's role as standalone operator vs one-project/SPV/intragroup vehicle not established; require affirmative independent-brand and external-sales evidence, not assumptions."
+      },
+      "brand_gate": "HOLD — standalone public-facing brand not verified",
+      "verified_standalone_brand": false,
+      "public_business_contact_verified": false,
+      "direct_public_or_b2b_sales_verified": false
     },
     {
       "id": "oct-15",
@@ -748,7 +1098,7 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "outreach_status": "NOT APPROVED — standalone public-facing brand and external sales unverified",
       "group_check": {
         "status": "shareholder_structure_not_independently_checked",
         "checked_at": "2026-10-09",
@@ -761,7 +1111,31 @@
         "source_urls": []
       },
       "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
-      "eligible_for_outreach": false
+      "eligible_for_outreach": false,
+      "brand_check": {
+        "status": "not_verified",
+        "explanation": "The exact legal entity has not been shown to operate a distinct, public-facing commercial brand with a recognizable service/product offer, its own sales/contact channel and independently attributable customer projects or transactions. Registration and individual shareholding alone do not count.",
+        "reviewed_at": "2026-10-10",
+        "source_urls": []
+      },
+      "external_customer_evidence": {
+        "status": "not_verified",
+        "proof_types_checked": [
+          "independent business website or product catalogue",
+          "public business phone or email attributed to exact IČO",
+          "published independent B2B/B2C service offering",
+          "documented projects, outside clients or official contracting"
+        ],
+        "limitation": "Absence of observed evidence in these limited checks is not proof the entity does not have customers."
+      },
+      "project_vehicle_check": {
+        "status": "unknown",
+        "note": "Exact entity's role as standalone operator vs one-project/SPV/intragroup vehicle not established; require affirmative independent-brand and external-sales evidence, not assumptions."
+      },
+      "brand_gate": "HOLD — standalone public-facing brand not verified",
+      "verified_standalone_brand": false,
+      "public_business_contact_verified": false,
+      "direct_public_or_b2b_sales_verified": false
     },
     {
       "id": "oct-16",
@@ -793,7 +1167,7 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "outreach_status": "NOT APPROVED — standalone public-facing brand and external sales unverified",
       "group_check": {
         "status": "shareholder_structure_not_independently_checked",
         "checked_at": "2026-10-09",
@@ -806,7 +1180,31 @@
         "source_urls": []
       },
       "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
-      "eligible_for_outreach": false
+      "eligible_for_outreach": false,
+      "brand_check": {
+        "status": "not_verified",
+        "explanation": "The exact legal entity has not been shown to operate a distinct, public-facing commercial brand with a recognizable service/product offer, its own sales/contact channel and independently attributable customer projects or transactions. Registration and individual shareholding alone do not count.",
+        "reviewed_at": "2026-10-10",
+        "source_urls": []
+      },
+      "external_customer_evidence": {
+        "status": "not_verified",
+        "proof_types_checked": [
+          "independent business website or product catalogue",
+          "public business phone or email attributed to exact IČO",
+          "published independent B2B/B2C service offering",
+          "documented projects, outside clients or official contracting"
+        ],
+        "limitation": "Absence of observed evidence in these limited checks is not proof the entity does not have customers."
+      },
+      "project_vehicle_check": {
+        "status": "unknown",
+        "note": "Exact entity's role as standalone operator vs one-project/SPV/intragroup vehicle not established; require affirmative independent-brand and external-sales evidence, not assumptions."
+      },
+      "brand_gate": "HOLD — standalone public-facing brand not verified",
+      "verified_standalone_brand": false,
+      "public_business_contact_verified": false,
+      "direct_public_or_b2b_sales_verified": false
     },
     {
       "id": "oct-17",
@@ -838,7 +1236,7 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "outreach_status": "NOT APPROVED — standalone public-facing brand and external sales unverified",
       "group_check": {
         "status": "shareholder_structure_not_independently_checked",
         "checked_at": "2026-10-09",
@@ -851,7 +1249,31 @@
         "source_urls": []
       },
       "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
-      "eligible_for_outreach": false
+      "eligible_for_outreach": false,
+      "brand_check": {
+        "status": "not_verified",
+        "explanation": "The exact legal entity has not been shown to operate a distinct, public-facing commercial brand with a recognizable service/product offer, its own sales/contact channel and independently attributable customer projects or transactions. Registration and individual shareholding alone do not count.",
+        "reviewed_at": "2026-10-10",
+        "source_urls": []
+      },
+      "external_customer_evidence": {
+        "status": "not_verified",
+        "proof_types_checked": [
+          "independent business website or product catalogue",
+          "public business phone or email attributed to exact IČO",
+          "published independent B2B/B2C service offering",
+          "documented projects, outside clients or official contracting"
+        ],
+        "limitation": "Absence of observed evidence in these limited checks is not proof the entity does not have customers."
+      },
+      "project_vehicle_check": {
+        "status": "unknown",
+        "note": "Exact entity's role as standalone operator vs one-project/SPV/intragroup vehicle not established; require affirmative independent-brand and external-sales evidence, not assumptions."
+      },
+      "brand_gate": "HOLD — standalone public-facing brand not verified",
+      "verified_standalone_brand": false,
+      "public_business_contact_verified": false,
+      "direct_public_or_b2b_sales_verified": false
     },
     {
       "id": "oct-18",
@@ -883,7 +1305,7 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "outreach_status": "NOT APPROVED — standalone public-facing brand and external sales unverified",
       "group_check": {
         "status": "shareholder_structure_not_independently_checked",
         "checked_at": "2026-10-09",
@@ -896,7 +1318,31 @@
         "source_urls": []
       },
       "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
-      "eligible_for_outreach": false
+      "eligible_for_outreach": false,
+      "brand_check": {
+        "status": "not_verified",
+        "explanation": "The exact legal entity has not been shown to operate a distinct, public-facing commercial brand with a recognizable service/product offer, its own sales/contact channel and independently attributable customer projects or transactions. Registration and individual shareholding alone do not count.",
+        "reviewed_at": "2026-10-10",
+        "source_urls": []
+      },
+      "external_customer_evidence": {
+        "status": "not_verified",
+        "proof_types_checked": [
+          "independent business website or product catalogue",
+          "public business phone or email attributed to exact IČO",
+          "published independent B2B/B2C service offering",
+          "documented projects, outside clients or official contracting"
+        ],
+        "limitation": "Absence of observed evidence in these limited checks is not proof the entity does not have customers."
+      },
+      "project_vehicle_check": {
+        "status": "unknown",
+        "note": "Exact entity's role as standalone operator vs one-project/SPV/intragroup vehicle not established; require affirmative independent-brand and external-sales evidence, not assumptions."
+      },
+      "brand_gate": "HOLD — standalone public-facing brand not verified",
+      "verified_standalone_brand": false,
+      "public_business_contact_verified": false,
+      "direct_public_or_b2b_sales_verified": false
     },
     {
       "id": "oct-19",
@@ -928,7 +1374,7 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "outreach_status": "NOT APPROVED — standalone public-facing brand and external sales unverified",
       "group_check": {
         "status": "shareholder_structure_not_independently_checked",
         "checked_at": "2026-10-09",
@@ -941,7 +1387,31 @@
         "source_urls": []
       },
       "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
-      "eligible_for_outreach": false
+      "eligible_for_outreach": false,
+      "brand_check": {
+        "status": "not_verified",
+        "explanation": "The exact legal entity has not been shown to operate a distinct, public-facing commercial brand with a recognizable service/product offer, its own sales/contact channel and independently attributable customer projects or transactions. Registration and individual shareholding alone do not count.",
+        "reviewed_at": "2026-10-10",
+        "source_urls": []
+      },
+      "external_customer_evidence": {
+        "status": "not_verified",
+        "proof_types_checked": [
+          "independent business website or product catalogue",
+          "public business phone or email attributed to exact IČO",
+          "published independent B2B/B2C service offering",
+          "documented projects, outside clients or official contracting"
+        ],
+        "limitation": "Absence of observed evidence in these limited checks is not proof the entity does not have customers."
+      },
+      "project_vehicle_check": {
+        "status": "unknown",
+        "note": "Exact entity's role as standalone operator vs one-project/SPV/intragroup vehicle not established; require affirmative independent-brand and external-sales evidence, not assumptions."
+      },
+      "brand_gate": "HOLD — standalone public-facing brand not verified",
+      "verified_standalone_brand": false,
+      "public_business_contact_verified": false,
+      "direct_public_or_b2b_sales_verified": false
     },
     {
       "id": "oct-20",
@@ -973,7 +1443,7 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "outreach_status": "NOT APPROVED — standalone public-facing brand and external sales unverified",
       "group_check": {
         "status": "shareholder_structure_not_independently_checked",
         "checked_at": "2026-10-09",
@@ -986,7 +1456,31 @@
         "source_urls": []
       },
       "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
-      "eligible_for_outreach": false
+      "eligible_for_outreach": false,
+      "brand_check": {
+        "status": "not_verified",
+        "explanation": "The exact legal entity has not been shown to operate a distinct, public-facing commercial brand with a recognizable service/product offer, its own sales/contact channel and independently attributable customer projects or transactions. Registration and individual shareholding alone do not count.",
+        "reviewed_at": "2026-10-10",
+        "source_urls": []
+      },
+      "external_customer_evidence": {
+        "status": "not_verified",
+        "proof_types_checked": [
+          "independent business website or product catalogue",
+          "public business phone or email attributed to exact IČO",
+          "published independent B2B/B2C service offering",
+          "documented projects, outside clients or official contracting"
+        ],
+        "limitation": "Absence of observed evidence in these limited checks is not proof the entity does not have customers."
+      },
+      "project_vehicle_check": {
+        "status": "unknown",
+        "note": "Exact entity's role as standalone operator vs one-project/SPV/intragroup vehicle not established; require affirmative independent-brand and external-sales evidence, not assumptions."
+      },
+      "brand_gate": "HOLD — standalone public-facing brand not verified",
+      "verified_standalone_brand": false,
+      "public_business_contact_verified": false,
+      "direct_public_or_b2b_sales_verified": false
     },
     {
       "id": "oct-21",
@@ -1018,7 +1512,7 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "outreach_status": "NOT APPROVED — standalone public-facing brand and external sales unverified",
       "group_check": {
         "status": "shareholder_structure_not_independently_checked",
         "checked_at": "2026-10-09",
@@ -1031,7 +1525,31 @@
         "source_urls": []
       },
       "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
-      "eligible_for_outreach": false
+      "eligible_for_outreach": false,
+      "brand_check": {
+        "status": "not_verified",
+        "explanation": "The exact legal entity has not been shown to operate a distinct, public-facing commercial brand with a recognizable service/product offer, its own sales/contact channel and independently attributable customer projects or transactions. Registration and individual shareholding alone do not count.",
+        "reviewed_at": "2026-10-10",
+        "source_urls": []
+      },
+      "external_customer_evidence": {
+        "status": "not_verified",
+        "proof_types_checked": [
+          "independent business website or product catalogue",
+          "public business phone or email attributed to exact IČO",
+          "published independent B2B/B2C service offering",
+          "documented projects, outside clients or official contracting"
+        ],
+        "limitation": "Absence of observed evidence in these limited checks is not proof the entity does not have customers."
+      },
+      "project_vehicle_check": {
+        "status": "unknown",
+        "note": "Exact entity's role as standalone operator vs one-project/SPV/intragroup vehicle not established; require affirmative independent-brand and external-sales evidence, not assumptions."
+      },
+      "brand_gate": "HOLD — standalone public-facing brand not verified",
+      "verified_standalone_brand": false,
+      "public_business_contact_verified": false,
+      "direct_public_or_b2b_sales_verified": false
     },
     {
       "id": "oct-22",
@@ -1063,7 +1581,7 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "outreach_status": "NOT APPROVED — standalone public-facing brand and external sales unverified",
       "group_check": {
         "status": "shareholder_structure_not_independently_checked",
         "checked_at": "2026-10-09",
@@ -1076,7 +1594,31 @@
         "source_urls": []
       },
       "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
-      "eligible_for_outreach": false
+      "eligible_for_outreach": false,
+      "brand_check": {
+        "status": "not_verified",
+        "explanation": "The exact legal entity has not been shown to operate a distinct, public-facing commercial brand with a recognizable service/product offer, its own sales/contact channel and independently attributable customer projects or transactions. Registration and individual shareholding alone do not count.",
+        "reviewed_at": "2026-10-10",
+        "source_urls": []
+      },
+      "external_customer_evidence": {
+        "status": "not_verified",
+        "proof_types_checked": [
+          "independent business website or product catalogue",
+          "public business phone or email attributed to exact IČO",
+          "published independent B2B/B2C service offering",
+          "documented projects, outside clients or official contracting"
+        ],
+        "limitation": "Absence of observed evidence in these limited checks is not proof the entity does not have customers."
+      },
+      "project_vehicle_check": {
+        "status": "unknown",
+        "note": "Exact entity's role as standalone operator vs one-project/SPV/intragroup vehicle not established; require affirmative independent-brand and external-sales evidence, not assumptions."
+      },
+      "brand_gate": "HOLD — standalone public-facing brand not verified",
+      "verified_standalone_brand": false,
+      "public_business_contact_verified": false,
+      "direct_public_or_b2b_sales_verified": false
     },
     {
       "id": "oct-23",
@@ -1108,7 +1650,7 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "outreach_status": "NOT APPROVED — standalone public-facing brand and external sales unverified",
       "group_check": {
         "status": "shareholder_structure_not_independently_checked",
         "checked_at": "2026-10-09",
@@ -1121,7 +1663,31 @@
         "source_urls": []
       },
       "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
-      "eligible_for_outreach": false
+      "eligible_for_outreach": false,
+      "brand_check": {
+        "status": "not_verified",
+        "explanation": "The exact legal entity has not been shown to operate a distinct, public-facing commercial brand with a recognizable service/product offer, its own sales/contact channel and independently attributable customer projects or transactions. Registration and individual shareholding alone do not count.",
+        "reviewed_at": "2026-10-10",
+        "source_urls": []
+      },
+      "external_customer_evidence": {
+        "status": "not_verified",
+        "proof_types_checked": [
+          "independent business website or product catalogue",
+          "public business phone or email attributed to exact IČO",
+          "published independent B2B/B2C service offering",
+          "documented projects, outside clients or official contracting"
+        ],
+        "limitation": "Absence of observed evidence in these limited checks is not proof the entity does not have customers."
+      },
+      "project_vehicle_check": {
+        "status": "unknown",
+        "note": "Exact entity's role as standalone operator vs one-project/SPV/intragroup vehicle not established; require affirmative independent-brand and external-sales evidence, not assumptions."
+      },
+      "brand_gate": "HOLD — standalone public-facing brand not verified",
+      "verified_standalone_brand": false,
+      "public_business_contact_verified": false,
+      "direct_public_or_b2b_sales_verified": false
     },
     {
       "id": "oct-24",
@@ -1153,7 +1719,7 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "outreach_status": "NOT APPROVED — standalone public-facing brand and external sales unverified",
       "group_check": {
         "status": "shareholder_structure_not_independently_checked",
         "checked_at": "2026-10-09",
@@ -1166,7 +1732,31 @@
         "source_urls": []
       },
       "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
-      "eligible_for_outreach": false
+      "eligible_for_outreach": false,
+      "brand_check": {
+        "status": "not_verified",
+        "explanation": "The exact legal entity has not been shown to operate a distinct, public-facing commercial brand with a recognizable service/product offer, its own sales/contact channel and independently attributable customer projects or transactions. Registration and individual shareholding alone do not count.",
+        "reviewed_at": "2026-10-10",
+        "source_urls": []
+      },
+      "external_customer_evidence": {
+        "status": "not_verified",
+        "proof_types_checked": [
+          "independent business website or product catalogue",
+          "public business phone or email attributed to exact IČO",
+          "published independent B2B/B2C service offering",
+          "documented projects, outside clients or official contracting"
+        ],
+        "limitation": "Absence of observed evidence in these limited checks is not proof the entity does not have customers."
+      },
+      "project_vehicle_check": {
+        "status": "unknown",
+        "note": "Exact entity's role as standalone operator vs one-project/SPV/intragroup vehicle not established; require affirmative independent-brand and external-sales evidence, not assumptions."
+      },
+      "brand_gate": "HOLD — standalone public-facing brand not verified",
+      "verified_standalone_brand": false,
+      "public_business_contact_verified": false,
+      "direct_public_or_b2b_sales_verified": false
     }
   ]
 }
