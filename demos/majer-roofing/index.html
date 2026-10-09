@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow,noarchive">
+  <meta name="theme-color" content="#192a2b">
+  <meta name="description" content="Neoficiální návrh webu pro prezentaci pokrývačských, klempířských a tesařských prací.">
+  <title>Majer — koncept moderní prezentace střech</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root { color-scheme:light; --ink:#192a2b;--muted:#667476;--cream:#f6f3ec;--card:#fffefa;--accent:#c78957;--accent2:#e3b184;--line:rgba(25,42,43,.14); }
+    *,*:before,*:after { box-sizing:border-box }
+    html { scroll-behavior:smooth;scroll-padding-top:100px }
+    body { margin:0;background:var(--cream);color:var(--ink);font:16px/1.6 "DM Sans",system-ui,sans-serif }
+    a { color:inherit;text-decoration:none }
+    button { font:inherit }
+    a:focus-visible,button:focus-visible { outline:3px solid #d48a32;outline-offset:4px }
+    .wrap { width:min(1192px,calc(100% - 48px));margin:0 auto }
+    .preview { background:#cda46e;color:#17292a; text-align:center;font-size:12px;letter-spacing:.02em;padding:8px 18px;font-weight:700 }
+    .preview a { text-decoration:underline;text-underline-offset:3px }
+    header { position:sticky;top:0;background:rgba(246,243,236,.97);z-index:20;border-bottom:1px solid var(--line);backdrop-filter:blur(15px) }
+    .nav { height:86px;display:flex;align-items:center;justify-content:space-between;gap:20px }
+    .brand { display:flex;align-items:center;gap:11px;white-space:nowrap }
+    .brand-icon { width:44px;height:44px;display:grid;place-items:center;background:#253b3d;color:#e4b07b;border-radius:5px }
+    .brand-icon svg { width:27px }
+    .brand-word {font-family:Manrope,system-ui;font-size:22px;letter-spacing:-.06em;font-weight:800;line-height:1}
+    .brand-word span{display:block;font:700 9px/1.3 "DM Sans",sans-serif;letter-spacing:.16em;color:#717b78;margin-top:6px}
+    nav {display:flex;gap:31px;align-items:center;font-size:13px;font-weight:700}
+    nav a:hover {color:#a76936}
+    .btn { display:inline-flex;align-items:center;justify-content:center;gap:12px;padding:14px 22px;border-radius:3px;background:#bd7d4b;color:#fff;font-weight:700;font-size:13px;transition:transform .2s,background .2s;white-space:nowrap}
+    .btn:hover { background:#985e32;transform:translateY(-2px) }
+    .btn.dark {background:#1b3335}
+    .btn.dark:hover {background:#335456}
+    .menu-toggle {display:none;background:transparent;border:1px solid var(--line);border-radius:4px;padding:8px 14px;color:var(--ink)}
+    .hero {background:#1c3032;position:relative;color:#fff;overflow:hidden}
+    .hero:before {content:"";position:absolute;inset:0;background:radial-gradient(ellipse at 71% 50%,rgba(200,133,77,.18),transparent 55%),linear-gradient(120deg,transparent 55%,rgba(255,255,255,.025) 55.2%,transparent 56%)}
+    .hero .wrap {min-height:620px;display:grid;grid-template-columns:55% 45%;align-items:center;gap:10px;position:relative}
+    .eyebrow {font-size:11px;text-transform:uppercase;letter-spacing:.2em;font-weight:800;color:#b77847;display:flex;align-items:center;gap:12px}
+    .eyebrow:before {content:"";width:29px;height:2px;background:currentColor}
+    .hero .eyebrow {color:#e5ab77}
+    h1,h2,h3 {font-family:Manrope,system-ui;line-height:1.12;letter-spacing:-.045em}
+    h1 {font-size:clamp(40px,5.15vw,75px);max-width:650px;margin:26px 0}
+    h1 em{font-style:normal;color:#d9a06e}
+    .hero-lede {font-size:17px;color:#c7d1d0;max-width:525px;margin-bottom:37px}
+    .hero-actions {display:flex;gap:14px;align-items:center;flex-wrap:wrap}
+    .hero-actions .second {padding:12px 14px;font-weight:700;font-size:13px;border-bottom:1px solid rgba(255,255,255,.4)}
+    .hero-art{align-self:stretch;display:grid;place-items:center;position:relative}
+    .hero-art svg { width:100%;height:auto;max-width:580px;filter:drop-shadow(0 35px 30px rgba(0,0,0,.24)) }
+    .art-label {position:absolute;right:1%;bottom:16%;color:#a8b8b6;font:700 10px/1.4 "DM Sans",sans-serif;text-transform:uppercase;letter-spacing:.14em;max-width:140px;text-align:right}
+    .factbar {background:#e5ddd1;border-bottom:1px solid var(--line)}
+    .facts {display:grid;grid-template-columns:repeat(3,1fr)}
+    .fact {padding:24px 30px;display:flex;align-items:center;gap:17px;min-height:88px;border-right:1px solid rgba(25,42,43,.12)}
+    .fact:first-child{padding-left:0}.fact:last-child{border:0}
+    .fact strong {font:800 20px/1 Manrope;display:block;margin-bottom:5px}
+    .fact small {color:#697471;font-size:12px;display:block}
+    .fact .diamond {color:#a16c44;font-size:22px}
+    section {padding:105px 0}
+    .section-head {display:flex;justify-content:space-between;align-items:end;gap:30px;margin-bottom:40px}
+    h2 {font-size:clamp(33px,3.6vw,49px);margin:16px 0 0}
+    .section-head p{max-width:380px;color:var(--muted);font-size:15px;margin:0}
+    .services {display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+    .service {background:var(--card);padding:30px;border:1px solid var(--line);min-height:294px;display:flex;flex-direction:column;position:relative;overflow:hidden}
+    .service:after {content:"";position:absolute;left:0;bottom:0;width:100%;height:3px;background:var(--accent);transform:scaleX(0);transform-origin:left;transition:transform .2s}
+    .service:hover:after{transform:scaleX(1)}
+    .service .num {font:800 12px Manrope;color:#ac805f;letter-spacing:.14em;margin-bottom:auto}
+    .service h3 {font-size:24px;margin:36px 0 12px}
+    .service p {font-size:14px;color:var(--muted);margin:0}
+    .projects {background:#eae4d9}
+    .project-grid{display:grid;grid-template-columns:1.2fr 1fr 1fr;gap:18px}
+    .project{min-width:0;background:#fffcf6;overflow:hidden;border:1px solid rgba(25,42,43,.08)}
+    .project-art{aspect-ratio:4/3;position:relative;background:#345052;display:grid;place-items:center;overflow:hidden}
+    .project-art svg{width:100%;height:100%;position:absolute;inset:0}
+    .project-art .ill{position:absolute;bottom:13px;left:15px;font-size:10px;letter-spacing:.13em;color:#fff;opacity:.8;background:rgba(0,0,0,.34);padding:4px 8px}
+    .project:nth-child(2) .project-art{background:#766455}
+    .project:nth-child(3) .project-art{background:#3d5d61}
+    .project .body{padding:23px 23px 26px}
+    .project .body small {font-weight:800;letter-spacing:.12em;color:#b17e50;font-size:10px;text-transform:uppercase}
+    .project h3 {font-size:22px;margin:9px 0 7px}
+    .project p{font-size:13px;color:var(--muted);margin:0}
+    .about {display:grid;grid-template-columns:1fr 1fr;gap:100px;align-items:center}
+    .about p {color:var(--muted);margin:25px 0;max-width:490px}
+    .about ul{margin:0;padding:0;list-style:none}
+    .about li{padding:11px 0;border-bottom:1px solid var(--line);font-weight:700;font-size:14px;display:flex;gap:14px;align-items:center}
+    .about li:before{content:"✓";color:#b3743e;font-weight:800}
+    .about-visual{background:#d7cbb9;min-height:390px;padding:34px;display:grid;align-items:end;position:relative;overflow:hidden}
+    .about-visual .big {font:800 clamp(75px,11vw,170px)/.82 Manrope;color:#b8875b;letter-spacing:-.09em;position:absolute;top:23px;right:36px;opacity:.55}
+    .about-visual blockquote{font:700 clamp(20px,3vw,31px)/1.25 Manrope;max-width:365px;position:relative;margin:0}
+    .about-visual small {margin-top:24px;font-size:12px;color:#61716e;display:block;font-weight:700;position:relative}
+    .cta {background:#1c3032;color:#fff;padding:80px 0}
+    .cta-row{display:flex;align-items:center;justify-content:space-between;gap:32px}
+    .cta h2 {margin:0 0 12px;max-width:620px}
+    .cta p{color:#c0cfcd;margin:0;font-size:15px}
+    .contact-actions{display:flex;gap:12px;flex-wrap:wrap;justify-content:flex-end}
+    footer {padding:32px 0;background:#142628;color:#9cafad;font-size:12px}
+    footer .wrap {display:flex;justify-content:space-between;gap:18px;flex-wrap:wrap}
+    footer a{text-decoration:underline;text-underline-offset:3px}
+    @media(max-width:850px){nav{gap:16px}nav a:not(.btn){display:none}.hero .wrap{grid-template-columns:1fr;min-height:auto;padding:90px 0 60px}.hero-art{height:310px}.hero-art svg{max-height:330px}.art-label{bottom:0}.services{grid-template-columns:repeat(2,1fr)}.project-grid{grid-template-columns:1fr 1fr}.project:first-child{grid-column:1 / -1}.project:first-child .project-art{aspect-ratio:16/7}.about{gap:35px}.facts{grid-template-columns:1fr 1fr}.fact:last-child{grid-column:1 / -1;border-top:1px solid var(--line)}}
+    @media(max-width:600px){.wrap{width:min(100% - 36px,1192px)}.nav{height:68px}.brand-word{font-size:19px}.nav>.btn{display:none}.menu-toggle{display:block}nav{position:absolute;top:100%;left:0;right:0;display:none;background:#f6f3ec;flex-direction:column;align-items:stretch;padding:20px;border-bottom:1px solid var(--line);box-shadow:0 15px 20px rgba(0,0,0,.08)}nav.open{display:flex}nav a:not(.btn){display:block}.hero .wrap{padding:65px 0 50px}.hero-art{height:225px}.hero-lede{font-size:15px}.facts{grid-template-columns:1fr}.fact,.fact:first-child{padding:17px 0;border-right:0;border-bottom:1px solid var(--line);min-height:64px}.fact:last-child{grid-column:auto;border-top:0}section{padding:68px 0}.section-head{display:block}.section-head p{margin-top:17px}.services,.project-grid,.about{grid-template-columns:1fr}.service{min-height:225px}.service h3{margin-top:24px}.project:first-child{grid-column:auto}.project:first-child .project-art{aspect-ratio:4/3}.cta{padding:65px 0}.cta-row{display:block}.contact-actions{margin-top:26px;justify-content:flex-start}.about-visual{min-height:280px}}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.btn{transition:none}}
+  </style>
+</head>
+<body>
+  <div class="preview">NEOFICIÁLNÍ DESIGNOVÝ NÁVRH · Nejste na skutečných stránkách firmy. <a href="https://www.pokryvacstvimajer.cz/" target="_blank" rel="noopener noreferrer">Přejít na původní web ↗</a></div>
+  <header>
+    <div class="wrap nav">
+      <a class="brand" href="#uvod" aria-label="Úvod návrhu Majer">
+        <span class="brand-icon" aria-hidden="true"><svg viewBox="0 0 48 48" fill="none"><path d="m6 25 18-15 18 15M12 22v17h24V22M20 39V27h8v12" stroke="currentColor" stroke-width="3" stroke-linecap="square"/></svg></span>
+        <span class="brand-word">MAJER<span>STŘECHY & ŘEMESLO</span></span>
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="navigation" type="button">Menu ☰</button>
+      <nav id="navigation" aria-label="Hlavní navigace">
+        <a href="#sluzby">Služby</a><a href="#realizace">Realizace</a><a href="#o-nas">O přístupu</a>
+        <a href="#kontakt" class="btn dark">Kontaktovat ↗</a>
+      </nav>
+      <a href="#kontakt" class="btn dark">Nezávazně se zeptat ↗</a>
+    </div>
+  </header>
+  <main>
+    <section class="hero" id="uvod" aria-labelledby="hero-title">
+      <div class="wrap">
+        <div>
+          <div class="eyebrow">Pokrývačství · Tesařství · Klempířství</div>
+          <h1 id="hero-title">Dobrá střecha.<br><em>Poctivá práce.</em><br>Klid na roky.</h1>
+          <p class="hero-lede">Nové střechy, rekonstrukce a odborné opravy. Řemeslná práce s důrazem na správné provedení a kvalitní materiály v Praze a okolí.</p>
+          <div class="hero-actions"><a class="btn" href="tel:+420774571774">Zavolat: 774 571 774 <span aria-hidden="true">↗</span></a><a class="second" href="#realizace">Prohlédnout realizace ↓</a></div>
+        </div>
+        <div class="hero-art" aria-label="Originální ilustrace siluety střechy">
+          <svg viewBox="0 0 660 545" role="img" aria-labelledby="roof-illustration">
+            <title id="roof-illustration">Stylizovaná kresba šikmé střechy</title>
+            <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#ddae7c"/><stop offset="1" stop-color="#87583b"/></linearGradient><pattern id="tiles" width="43" height="22" patternUnits="userSpaceOnUse"><path d="M0 21H43 M21.5 0V22" stroke="#dfac78" stroke-opacity=".26" stroke-width="2"/></pattern></defs>
+            <path d="M26 327 291 78 608 330 538 353 291 167 100 358Z" fill="url(#g)"/>
+            <path d="m95 351 196-182 247 184v124H95Z" fill="#294144" stroke="#d4a174" stroke-width="3"/>
+            <path d="m291 169 247 184-56 6-192-145-156 145-39-8Z" fill="#71533f"/>
+            <path d="m291 169 247 184-56 6-192-145-156 145-39-8Z" fill="url(#tiles)"/>
+            <path d="M217 477V336h128v141" fill="#223739" stroke="#bb936e" stroke-width="3"/>
+            <path d="M235 358h92v102h-92Z" fill="#39575a"/>
+            <path d="M365 333h111v90H365Z" fill="#1c3335" stroke="#bb936e" stroke-width="3"/>
+            <path d="M421 333v90M365 377h111" stroke="#bb936e" stroke-width="3"/>
+            <path d="M67 488h519" stroke="#e0b484" stroke-width="3" stroke-opacity=".7"/>
+            <path d="m35 355 256-250 306 250" fill="none" stroke="#e0b484" stroke-width="2" stroke-opacity=".4"/>
+          </svg>
+          <span class="art-label">Autorská ilustrace<br>Žádné převzaté fotografie</span>
+        </div>
+      </div>
+    </section>
+    <div class="factbar"><div class="wrap facts">
+      <div class="fact"><span class="diamond" aria-hidden="true">◆</span><div><strong>Od roku 2004</strong><small>Živnost v oboru tesařství a pokrývačství</small></div></div>
+      <div class="fact"><span class="diamond" aria-hidden="true">◆</span><div><strong>Praha a okolí</strong><small>Práce na nových i stávajících střechách</small></div></div>
+      <div class="fact"><span class="diamond" aria-hidden="true">◆</span><div><strong>Reálné reference</strong><small>Výběr zakázek publikovaných na původním webu</small></div></div>
+    </div></div>
+    <section id="sluzby"><div class="wrap">
+      <div class="section-head"><div><div class="eyebrow">Co pro vás zajistíme</div><h2>Střecha od A do Z.</h2></div><p>Jednoduché vysvětlení služeb pomůže zákazníkům zjistit, s čím se mohou ozvat.</p></div>
+      <div class="services">
+        <article class="service"><div class="num">01 / POKRÝVAČSTVÍ</div><h3>Nové střešní krytiny</h3><p>Pokládka krytin na novostavbách, výměny zastaralých vrstev a vhodné materiály podle typu stavby.</p></article>
+        <article class="service"><div class="num">02 / REKONSTRUKCE</div><h3>Opravy a renovace</h3><p>Komplexní opravy střech a řešení poškozených částí po odborném posouzení na místě.</p></article>
+        <article class="service"><div class="num">03 / TESAŘSTVÍ</div><h3>Krovy a konstrukce</h3><p>Tesařské práce na střešních konstrukcích, renovace krovů a související řemeslné práce.</p></article>
+        <article class="service"><div class="num">04 / KLEMPÍŘSTVÍ</div><h3>Oplechování střech</h3><p>Okapy, svody, úžlabí, lemování komínů a další klempířské detaily.</p></article>
+        <article class="service"><div class="num">05 / OKNA</div><h3>Střešní okna</h3><p>Dodání a montáž střešních oken jako součást modernizace střechy.</p></article>
+        <article class="service"><div class="num">06 / KONZULTACE</div><h3>Individuální řešení</h3><p>Posouzení požadavků a doporučení odpovídajícího postupu podle konstrukce a materiálu.</p></article>
+      </div>
+    </div></section>
+    <section class="projects" id="realizace"><div class="wrap">
+      <div class="section-head"><div><div class="eyebrow">Vybrané skutečně uvedené zakázky</div><h2>Za každou střechou<br>je konkrétní práce.</h2></div><p>Informace jsou převzaté z veřejných referencí původního webu. Grafické vizualizace nejsou fotografiemi realizací.</p></div>
+      <div class="project-grid">
+        <article class="project"><div class="project-art">
+          <svg viewBox="0 0 400 300" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="400" height="300" fill="#315456"/><circle cx="310" cy="55" r="110" fill="#456e6c" opacity=".65"/><path d="M-30 207 173 54l250 163" stroke="#ddae7c" stroke-width="22" fill="none"/><path d="M30 196h320v140H30Z" fill="#203e41"/><path d="M30 196 173 89l177 107" fill="#705c4a"/><path d="M30 196 173 89l177 107" fill="none" stroke="#dfae7c" stroke-width="5"/><path d="M184 241h92v59h-92Z" fill="#77958b"/></svg>
+          <span class="ill">ILUSTRATIVNÍ VIZUALIZACE</span></div><div class="body"><small>Nová střecha</small><h3>Dolní Černošice</h3><p>Novostavba chaty · Krytina IKO Bobrovka · Uvedená doba realizace: 2 dny.</p></div></article>
+        <article class="project"><div class="project-art">
+          <svg viewBox="0 0 400 300" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="400" height="300" fill="#817163"/><path d="M-40 195 170 40l270 173" stroke="#c8a17f" stroke-width="30" fill="none"/><path d="M15 190 171 65l217 143v170H15Z" fill="#534941"/><path d="M80 270V195h89v75M219 245h110" stroke="#c9a683" stroke-width="10"/></svg>
+          <span class="ill">ILUSTRATIVNÍ VIZUALIZACE</span></div><div class="body"><small>Pokrývačské práce</small><h3>Libuš</h3><p>Krytina STODO 12 · Titanzinkové prvky · Uvedená doba realizace: 9 dní.</p></div></article>
+        <article class="project"><div class="project-art">
+          <svg viewBox="0 0 400 300" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><rect width="400" height="300" fill="#426269"/><path d="m-10 197 191-131 240 166" stroke="#d0aa86" stroke-width="25" fill="none"/><path d="M35 195 182 87l193 141v100H35Z" fill="#304a4c"/><path d="M35 195 182 87l193 141" stroke="#e0af83" stroke-width="5" fill="none"/><path d="M90 265h83v65H90Zm148 0h85v65h-85Z" fill="#668488"/></svg>
+          <span class="ill">ILUSTRATIVNÍ VIZUALIZACE</span></div><div class="body"><small>Rekonstrukce střechy</small><h3>Průhonice</h3><p>Krytina Bramac Classic · Titanzinek · Uvedená doba realizace: 6 dní.</p></div></article>
+      </div>
+    </div></section>
+    <section id="o-nas"><div class="wrap about">
+      <div><div class="eyebrow">Řemeslný přístup</div><h2>Zkušenosti, které<br>se promítnou do detailu.</h2><p>Dobrá střecha závisí na každém správně provedeném spoji, vrstvě i klempířském prvku. Návrh prezentace staví do popředí přesně to, co zákazníci potřebují vědět.</p>
+        <ul><li>Srozumitelný přehled nabízených služeb</li><li>Reálné dokončené zakázky a používané materiály</li><li>Telefon a e-mail vždy snadno dostupné</li><li>Jednoduchá správa obsahu bez složitých funkcí</li></ul>
+      </div>
+      <div class="about-visual"><div class="big" aria-hidden="true">20+</div><blockquote>„Vaše střecha, naše starost.“</blockquote><small>Motto použité na původních veřejných stránkách firmy. Ilustrativní vizuální koncept.</small></div>
+    </div></section>
+    <section class="cta" id="kontakt"><div class="wrap cta-row"><div><h2>Potřebujete opravit nebo postavit střechu?</h2><p>Ve skutečné prezentaci zde zákazník jednoduše zavolá nebo pošle e-mail.</p></div><div class="contact-actions"><a class="btn" href="tel:+420774571774">Zavolat ↗</a><a class="btn dark" href="mailto:tomas.majer@atlas.cz?subject=Popt%C3%A1vka%20st%C5%99echy">Napsat e-mail ↗</a></div></div></section>
+  </main>
+  <footer><div class="wrap"><span><strong>MAJER — STUDIJNÍ NÁVRH</strong> · Nepatří společnosti ani nevyjadřuje její schválení.</span><span>Obsah služeb a názvy realizací: <a href="https://www.pokryvacstvimajer.cz/" target="_blank" rel="noopener noreferrer">původní web</a> · Návrh bez převzatých fotografií.</span></div></footer>
+  <script>
+  (()=>{const btn=document.querySelector(".menu-toggle"),nav=document.querySelector("#navigation");btn.addEventListener("click",()=>{const open=nav.classList.toggle("open");btn.setAttribute("aria-expanded",String(open))});nav.querySelectorAll("a").forEach(a=>a.addEventListener("click",()=>{nav.classList.remove("open");btn.setAttribute("aria-expanded","false")}))})();
+  </script>
+</body>
+</html>

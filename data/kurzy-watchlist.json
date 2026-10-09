@@ -90,11 +90,14 @@
       "source_url": "https://rejstrik-firem.kurzy.cz/seznam-10/",
       "corroboration_url": "https://ov.ihned.cz/zapis/25360156",
       "listing_checked_at": "2026-10-09",
-      "registration_status": "pending_live_ares_check",
-      "business_activity": "unverified",
-      "site_status": "not_verified",
-      "screening_stage": "TOP_RESEARCH",
-      "note": "Registered for motor vehicle maintenance and photography; service-package and visual car-care showcase could be useful. A similarly named existing site is NOT attributable without matching IČO. Location and budget unverified."
+      "registration_status": "company_register_confirmed_ares_recheck_pending",
+      "business_activity": "registered_licence_only_not_proof_of_operations",
+      "site_status": "unknown_no_first_party_domain_matched",
+      "screening_stage": "HOLD_OPERATOR_AND_CONTACT_PROOF",
+      "note": "Company formation verified by commercial bulletin. Actual customer-facing Prague business operation, official first-party website and business contact are unverified. Hold from Top 10 pending evidence; search non-results do not prove absence of a website.",
+      "investigation_status": "deep_research_2026-10-09_no_outreach",
+      "priority_reason": "Valid Prague motor-vehicle-maintenance licence and direct owners listed; no attributable detailing workshop, public company contact, documented client jobs or matched official site. Do not confuse unrelated Royal Detailing businesses.",
+      "next_review_after": "2026-10-16"
     },
     {
       "ico": "30103819",
@@ -106,11 +109,14 @@
       "source_url": "https://rejstrik-firem.kurzy.cz/seznam-10/",
       "corroboration_url": "https://ov.gov.cz/zapis/25359892",
       "listing_checked_at": "2026-10-09",
-      "registration_status": "pending_live_ares_check",
-      "business_activity": "unverified",
-      "site_status": "not_verified",
-      "screening_stage": "TOP_RESEARCH",
-      "note": "Specifically registered for metal structures, welding and specialized construction; ideal case-study and service-page subject if it actually takes Prague contracts. Director is based outside Prague and operating location needs proof; unrelated dlmont.cz has a DIFFERENT IČO."
+      "registration_status": "company_register_confirmed_ares_recheck_pending",
+      "business_activity": "registered_licence_only_not_proof_of_operations",
+      "site_status": "unknown_no_first_party_domain_matched",
+      "screening_stage": "HOLD_OPERATOR_AND_CONTACT_PROOF",
+      "note": "Company formation verified by commercial bulletin. Actual customer-facing Prague business operation, official first-party website and business contact are unverified. Hold from Top 10 pending evidence; search non-results do not prove absence of a website.",
+      "investigation_status": "deep_research_2026-10-09_no_outreach",
+      "priority_reason": "Legal metalwork/welding/construction registration in Prague; representative's public registered address is Havířov, and no actual Prague trading jobs, company contact, or correctly matched first-party website were identified.",
+      "next_review_after": "2026-10-16"
     },
     {
       "ico": "30102413",

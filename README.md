@@ -18,6 +18,21 @@ Kurzy.cz Prague regional pages are included as an **additional attributed resear
 
 **For every new Kurzy.cz registration:** a complete daily feed must be legitimately obtained from [Kurzy.cz's paid database updates](https://www.kurzy.cz/prodej-dat/databaze-firmy.htm) or designated authorized API under the provider's [terms](https://www.kurzy.cz/pouziti/). The current integration uses attributed public observations only. It does *not* bulk scrape the public site or purchase/access a licensed feed without approval. Keep purchased source databases private; published leads continue to rely on the official ČSÚ and independent ARES website checks.
 
+## October 9: three operating Prague roofing website prospects
+
+We checked Royal Detailing Prague (30113997) and D&L BUILD MONT (30103819): valid recent registrations, but no independently attributable operating premises, customer work, official website or business contact was found. Both remain on *HOLD* in `data/kurzy-watchlist.json`. A similarly named domain is never assumed to belong to a new company.
+
+Instead, three **real Prague trades** have source-linked, first-party business websites, contact details and concrete marketing hypotheses in `data/manual-leads.json`:
+
+1. **Pokrývačství Tomáš Majer**, IČO 71141162, Praha 4: active registered Prague roof-related business premises, completed project references, current 2026 advertising. The homepage visibly contains the untranslated template string "Welcome to the Frontpage" and © 2012 footer. **First visual-demo choice.**
+2. **STŘECHY ADAPT HROUDA s.r.o.**, IČO 27145697, Praha Kbely: official company, identifiable services, site and project references, public phone/e-mail; a case-study content refresh may be useful, but no technical problem is proven.
+3. **Střecha servis – Zbíral**, IČO 65384628, Praha Braník: publicly listed Prague business and matching domain with phone/e-mail; site's homepage is template-like and shows brief service blurbs and old photo filenames. Check whether new portfolios would be useful.
+
+All are **sales-fit ideas**, not confirmed interested buyers or independently measured browser/HTTPS defects. No company budget is known; no prices or guaranteed conversion rates are asserted.
+
+### Unofficial demo
+`demos/majer-roofing/index.html` is a self-contained, mobile-responsive Czech-language visual example for Pokrývačství Majer. Its content is sourced from published service/project details; roof imagery is original SVG illustration, not scraped photographs. It has a conspicuous *NEOFICIÁLNÍ DESIGNOVÝ NÁVRH* disclaimer, a noindex directive, a link to the actual website, and only public telephone/email contact actions, with no customer-data collection. The Pages workflow publishes it at `/demos/majer-roofing/` and both CI and nightly collector run a desktop/mobile browser smoke test.
+
 ## Commercial website-fit search improvements
 
 The ten-place radar now separates **source-backed website gaps** from **commercially promising clients to investigate**. The latter are *research hypotheses*, not verified redesign defects, confirmed budgets or proof of customer interest.

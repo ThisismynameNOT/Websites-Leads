@@ -8,6 +8,7 @@ on:
       - "app.js"
       - "picks.js"
       - "opportunity.js"
+      - "demos/majer-roofing/index.html"
       - "scripts/**"
       - "tests/**"
       - ".github/workflows/validate.yml"
@@ -58,3 +59,5 @@ jobs:
         run: python -m playwright install --with-deps chromium
       - name: Browser-test the top-ten dashboard
         run: python scripts/smoke_dashboard.py
+      - name: Browser-test Czech roofing demo mobile responsiveness
+        run: python scripts/smoke_roofer_demo.py

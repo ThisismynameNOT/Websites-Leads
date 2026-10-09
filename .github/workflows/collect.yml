@@ -72,5 +72,7 @@ jobs:
         run: python scripts/qualify.py
       - name: Browser smoke existing CRM and new qualification dashboard
         run: python scripts/smoke_dashboard.py
+      - name: Browser smoke public Czech roofer design demo
+        run: python scripts/smoke_roofer_demo.py
       - name: Reconcile and publish generated data safely
         run: python scripts/safe_publish.py
