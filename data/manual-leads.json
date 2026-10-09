@@ -396,6 +396,61 @@
       "buying_signals": [],
       "deal_min_czk": null,
       "deal_max_czk": null
+    },
+    {
+      "id": "manual-jan-kazimour-architects",
+      "name": "KAZIMOUR ARCHITEKTI — Ing. arch. Jan Kazimour",
+      "industry": "Construction & property",
+      "tier": 1,
+      "address": "Čajkovského 492/35, Žižkov, 130 00 Praha 3",
+      "district": "Praha 3 · Žižkov",
+      "ico": "76291499",
+      "registered_at": "2008-04-24",
+      "opened_at": null,
+      "email": "jan.kazimour@email.cz",
+      "phone": "+420 604 584 517",
+      "website": "https://www.kazimour.com/",
+      "website_status": "listed",
+      "website_score": null,
+      "verification": "researching",
+      "financial_capacity_status": "not_verified",
+      "financial_evidence": null,
+      "source_type": "Manual curation",
+      "data_origin": "Manual web research",
+      "registered_office_only": false,
+      "manual": true,
+      "business_activity": "Architectural design and planning, family residences, reconstruction, historic sites and church buildings. Exact registered Prague architecture practice/sole trader IČO and website matching in public business directory. Faculty profile documents architect's current practice and portfolio collaboration; does not prove current pipeline or project turnover.",
+      "source_urls": [
+        "https://www.kazimour.com/",
+        "https://www.kazimour.com/team-view/mark-johnson/",
+        "https://www.firmy.cz/detail/2255074-architekt-ing-arch-jan-kazimour-praha-zizkov.html",
+        "https://www.podnikatel.cz/rejstrik/ing-arch-jan-kazimour-76291499/",
+        "https://www.fa.cvut.cz/cs/fakulta/lide/11995-jan-kazimour",
+        "https://kripnerova.com/"
+      ],
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "editorial_review": {
+        "reviewed_at": "2026-10-09",
+        "business_case": "The publicly indexed first-party Kazimour architecture homepage exhibits generic English service list content ('3D Modeling', 'Predesign', 'Programming'), latest dated news anchored around 2020, and an architect profile with a template-like '/team-view/mark-johnson/' slug. A premium Czech-first studio project portfolio with responsive image-led cases and maintainable CMS may better reflect the documented heritage, residential and institutional projects. This is a visible content/URL hygiene opportunity, not proof of a broken website, bad mobile performance, absent customer leads or buyer intent.",
+        "first_party_website_candidate": "https://www.kazimour.com/",
+        "evidence_scope": "Search-engine indexed first-party pages (crawled around mid-2026), public verified IČO/Prague operating listing, dated university faculty profile and independently published collaborator portfolio. Direct website HTTP fetch timed out in browsing and could not be independently reached via the analysis environment; live status/SSL/mobile/browser defects unverified.",
+        "next_checks": [
+          "Revisit exact first-party site on desktop and phone to check accessibility, mobile layouts, image quality and functioning contact fields; live fetch currently inconclusive",
+          "Confirm whether architect and current Kripner collaboration maintain separate customer-facing brands and whether the studio wants its own improved portfolio",
+          "Ask if project publications and images are available/authorized for a modern proposal",
+          "Confirm marketing decision maker, budget, operational capacity, and preference for Czech/English public-content-only CMS"
+        ]
+      },
+      "reason": "Identifiable Prague architectural practice with public references and a template-like website presentation. Specific editorial opportunity to improve architecture project storytelling, project updates and Czech copy, not an observed technical fault.",
+      "score_reason": "Public directory and business register establish IČO/site identity; faculty and collaborator sources establish professional activity. Website presentation opportunity based on indexed copy/slug, with no successful same-day live browser audit and no confirmed buyer intent.",
+      "offer": "Premium Czech-first architectural portfolio with full-width project galleries, authored case studies, clear service pages, contact links and optional easy-to-maintain public-content CMS",
+      "outreach_angle": "Your historic conversions, housing work and institutional projects deserve a refined, image-led presentation; I noticed generic English service labels and the legacy team page address. Would you be open to seeing a short, no-obligation concept?",
+      "deal_min_czk": null,
+      "deal_max_czk": null,
+      "buying_signals": [],
+      "demo_potential": "High: public architectural work supports an attractive bespoke gallery-led concept; obtain permission for use of photographs and logo.",
+      "lead_research_status": "source_supported_visual_content_hypothesis_live_site_check_pending"
     }
   ]
 }
