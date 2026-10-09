@@ -9,6 +9,7 @@ on:
       - "app.js"
       - "picks.js"
       - "opportunity.js"
+      - "demos/majer-roofing/index.html"
       - "data/manual-leads.json"
       - "data/leads.json"
       - "data/research.json"
@@ -46,6 +47,8 @@ jobs:
         run: |
           mkdir -p public/data
           cp index.html styles.css app.js picks.js opportunity.js public/
+          mkdir -p public/demos/majer-roofing
+          cp demos/majer-roofing/index.html public/demos/majer-roofing/index.html
           cp data/manual-leads.json public/data/manual-leads.json
           cp data/leads.json public/data/leads.json
           cp data/research.json public/data/research.json
@@ -54,6 +57,7 @@ jobs:
       - name: Validate dashboard bundle
         run: |
           test -s public/index.html
+          test -s public/demos/majer-roofing/index.html
           test -s public/app.js
           test -s public/picks.js
           test -s public/opportunity.js
@@ -124,6 +128,10 @@ jobs:
 
                   with urllib.request.urlopen(url + 'data/leads.json', timeout=18) as response:
                       data = json.load(response)
+                  with urllib.request.urlopen(url + 'demos/majer-roofing/', timeout=18) as response:
+                      demo = response.read().decode('utf-8')
+                  assert 'NEOFICIÁLNÍ DESIGNOVÝ NÁVRH' in demo, 'Czech demo preview disclaimer missing'
+                  assert 'Welcome to the Frontpage' not in demo, 'Legacy template text leaked into refreshed design'
                   assert 'fieldnotes' in page.lower(), 'Dashboard HTML signature missing'
                   assert isinstance(data['leads'], list), 'Lead JSON lacks leads array'
                   print('LIVE SITE VERIFIED:', url, 'LEADS:', len(data['leads']))
