@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-09T12:46:57Z",
+  "generated_at": "2026-10-09T14:04:11Z",
   "collector": {
     "name": "ČSÚ RES primary + OSM supplemental + Kurzy.cz reviewed leads + ARES verification",
     "segment": "services",
@@ -333,7 +333,8 @@
       "deal_max_czk": null,
       "buying_signals": [],
       "demo_potential": "High: public architectural work supports an attractive bespoke gallery-led concept; obtain permission for use of photographs and logo.",
-      "lead_research_status": "source_supported_visual_content_hypothesis_live_site_check_pending"
+      "lead_research_status": "source_supported_visual_content_hypothesis_live_site_check_pending",
+      "source_registry_urls": []
     },
     {
       "id": "research-an-beauty-studio-haje",

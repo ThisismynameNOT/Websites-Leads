@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-09T12:49:31.577379+00:00",
+  "generated_at": "2026-10-09T14:07:49.450217+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -2026,61 +2026,16 @@
     "osm-node-4330936992": {
       "lead_id": "osm-node-4330936992",
       "name": "Instalatérství Nágl",
-      "checked_at": "2026-10-08",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "searched",
-        "queries": [
-          "\"Instalatérství Nágl\" Praha webové stránky",
-          "\"Instalatérství Nágl\" \"Dukelských hrdinů 976/9\" website"
-        ],
-        "candidates": [
-          {
-            "url": "https://support.google.com/youtubemusic/answer/11418178?hl=fr&co=GENIE.Platform=Android",
-            "title": "Consulter votre YouTube Music Recap",
-            "snippet": "Consulter votre YouTube Music Recap Vos Recaps annuel et saisonniers incluent des playlists personnalisées et des statistiques. Ils rassemblent le top des titres, les artistes et les podcasts que vous avez le plus écoutés durant l'année et la saison écoulées, et plus encore."
-          },
-          {
-            "url": "https://support.google.com/youtubemusic/answer/6305537?hl=zh-Hant&co=GENIE.Platform=Desktop",
-            "title": "訂閱 YouTube Premium 或 YouTube Music Premium 方案",
-            "snippet": "訂閱 YouTube Premium 或 YouTube Music Premium 方案 只要成為 Premium 會員，就能享有更豐富多元的 YouTube 影音體驗。 本文將說明如何立即成為個人方案付費會員。 需要 YouTube 學生方案的相關資訊嗎？ 請按 這裡 瞭解詳情。"
-          },
-          {
-            "url": "https://support.google.com/youtubemusic/?hl=es-419",
-            "title": "Ayuda de YouTube Music - Google Help",
-            "snippet": "Centro de asistencia oficial de YouTube Music donde puedes encontrar sugerencias y tutoriales para aprender a utilizar el producto y respuestas a otras preguntas ..."
-          },
-          {
-            "url": "https://support.google.com/youtubemusic/answer/7507349?hl=en",
-            "title": "Sign up for & manage a YouTube family plan - YouTube Music Help",
-            "snippet": "Get a YouTube family plan to share a YouTube paid membership, or Primetime Channels (US, Germany, France, Australia, and UK only), with up to 5 other members"
-          },
-          {
-            "url": "https://support.google.com/youtube/answer/7548835?hl=tr&co=GENIE.Platform=Android",
-            "title": "YouTube Premium veya YouTube Music Premium üyeliğinizi değiştirme...",
-            "snippet": "YouTube Premium veya YouTube Music Premium üyeliğinizi değiştirme ya da yükseltme YouTube Premium veya YouTube Music Premium üyeliğiniz iptal edilene kadar her yeni faturalandırma döneminin başında üyelik ücreti otomatik olarak alınır. Ücretli üyeliğinizi güncelleme hakkında daha fazla bilgiyi aşağıda bulabilirsiniz."
-          },
-          {
-            "url": "https://support.google.com/youtubemusic/answer/10204770?hl=en",
-            "title": "Get help with YouTube Music billing issues - Google Help",
-            "snippet": "Get help with YouTube Music billing issues If your monthly membership payment for YouTube Music is declined, we will notify you via email so that you can take action and restore your membership. After receiving this email: You’ll have 3 days to fix the issue before losing access to your membership benefits."
-          },
-          {
-            "url": "https://support.google.com/youtubemusic/answer/6313542?hl=en",
-            "title": "Customize your music & podcasts - YouTube Music Help - Google...",
-            "snippet": "Sample music videos Samples is a new experience in the YouTube Music app that makes music discovery fun, effortless, and immersive. Browse the \"Samples\" tab to find an endless, personalized stream of music video segments ranging from new releases to old favorites. With Samples, you can: Discover new music Save songs to"
-          },
-          {
-            "url": "https://support.google.com/youtube/answer/11950175?hl=en&co=GENIE.Platform=Android",
-            "title": "Pause or resume YouTube Premium or YouTube Music Premium",
-            "snippet": "YouTube Premium and YouTube Music Premium subscribers can pause, resume, or cancel, at any point during their paid membership. Hit the button below to view and manage your paid membership. Then,"
-          }
-        ],
-        "errors": [
-          "DDGSException: No results found."
-        ],
-        "state": "not_found_in_checked_sources",
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
         "website": "",
+        "queries": [],
+        "candidates": [],
         "examined": [],
         "no_website_proven": false
       },
@@ -2120,17 +2075,11 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [
-        "https://support.google.com/youtubemusic/answer/11418178?hl=fr&co=GENIE.Platform=Android",
-        "https://support.google.com/youtubemusic/answer/6305537?hl=zh-Hant&co=GENIE.Platform=Desktop",
-        "https://support.google.com/youtubemusic/?hl=es-419",
-        "https://support.google.com/youtubemusic/answer/7507349?hl=en",
-        "https://support.google.com/youtube/answer/7548835?hl=tr&co=GENIE.Platform=Android",
-        "https://support.google.com/youtubemusic/answer/10204770?hl=en",
-        "https://support.google.com/youtubemusic/answer/6313542?hl=en"
-      ],
+      "candidate_search_sources": [],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
       "owner_verified": false,
       "buyer_interest_verified": false
     },
@@ -15987,6 +15936,1579 @@
         ]
       },
       "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30067898": {
+      "lead_id": "res-30067898",
+      "name": "Mykhailo Papish",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Mykhailo Papish\" IČO 30067898 web",
+          "\"Mykhailo Papish\" Praha Construction & property kontakt",
+          "\"Mykhailo Papish\" \"Petra Slezáka 511\" web",
+          "\"Mykhailo Papish\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-mykhailo-papish-30067898/kontakty",
+            "title": "Mykhailo Papish IČO 30067898 kontakty 28.09.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Mykhailo Papish IČO 30067898 kontakty 28.09.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-mykhailo-papish-30067898",
+            "title": "Mykhailo Papish IČO 30067898 kontakty 27.09.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Mykhailo Papish IČO 30067898 kontakty 27.09.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/mykhailo-papish-64896498/",
+            "title": "Mykhailo Papish - IČO 64896498 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Podrobnosti o firmě Mykhailo Papish - IČO 64896498 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://rejstrik.penize.cz/mykhailo-papish",
+            "title": "Mykhailo Papish - Obchodní rejstřík | Peníze.cz",
+            "snippet": "Mykhailo Papish výpis firem z Obchodního rejstříku, IČO firmy, adresa sídla firmy, pozice ve firmě, související firmy, vztahy ve firmách."
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/64896498-mykhailo-papish",
+            "title": "Mykhailo Papish, IČO: 64896498 - ARES - Finmag.cz",
+            "snippet": "Výpis z registru ekonomických subjektů (RES) - Mykhailo Papish, IČO: 64896498, obec: , klasifikace ekonomických činností. Aktuální data."
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/mykhailo-papish-21293651/",
+            "title": "Mykhailo Papish - IČO 21293651 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Podrobnosti o firmě Mykhailo Papish - IČO 21293651 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://rejstrik.penize.cz/64896498-mykhailo-papish",
+            "title": "Mykhailo Papish, IČO: 64896498 - Obchodní rejstřík - Peníze.cz",
+            "snippet": "Mykhailo Papish, IČO: 64896498, sídlo firmy, předmět podnikání firmy. Aktuální i úplný výpis firmy Mykhailo Papish z Obchodního rejstříku - majitelé, vedení firmy, vztahy osob."
+          },
+          {
+            "url": "https://www.detail.cz/subjekt/64896498-mykhailo-papish-na-zlichove-251-15-praha/",
+            "title": "Subjekt Mykhailo Papish | Detail.cz",
+            "snippet": "Subjekt Mykhailo Papish (IČO: 64896498) vznikl dne 14. listopadu 1995 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle subjektu."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.detail.cz/subjekt/64896498-mykhailo-papish-na-zlichove-251-15-praha/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30067898",
+        "legal_name": "Mykhailo Papish",
+        "registered_at": "2026-09-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30067898",
+        "decision_maker": {
+          "name": "Mykhailo Papish",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30067898",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30067898",
+          "date": "2026-09-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Mykhailo Papish — research dossier",
+        "facts": [
+          "The business is listed at Petra Slezáka 511, Praha, 18600.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30067898 dated 2026-09-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30067898",
+            "date": "2026-09-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30067898"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Mykhailo Papish",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30067898",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-mykhailo-papish-30067898/kontakty",
+        "https://rejstriky.finance.cz/firma-mykhailo-papish-30067898",
+        "https://www.podnikatel.cz/rejstrik/mykhailo-papish-64896498/",
+        "https://rejstrik.penize.cz/mykhailo-papish",
+        "https://www.finmag.cz/obchodni-rejstrik/ares/64896498-mykhailo-papish",
+        "https://www.podnikatel.cz/rejstrik/mykhailo-papish-21293651/",
+        "https://rejstrik.penize.cz/64896498-mykhailo-papish"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30067979": {
+      "lead_id": "res-30067979",
+      "name": "Tomáš Jáně",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Tomáš Jáně\" IČO 30067979 web",
+          "\"Tomáš Jáně\" Praha Construction & property kontakt",
+          "\"Tomáš Jáně\" \"Souběžná I 474\" web",
+          "\"Tomáš Jáně\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30067979",
+        "legal_name": "Tomáš Jáně",
+        "registered_at": "2026-09-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30067979",
+        "decision_maker": {
+          "name": "Tomáš Jáně",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30067979",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30067979",
+          "date": "2026-09-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Tomáš Jáně — research dossier",
+        "facts": [
+          "The business is listed at Souběžná I 474, Praha, 15800.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30067979 dated 2026-09-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30067979",
+            "date": "2026-09-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30067979"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Tomáš Jáně",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30067979",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-01121499": {
+      "lead_id": "res-01121499",
+      "name": "Václav Růt",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Václav Růt\" IČO 01121499 web",
+          "\"Václav Růt\" Praha Construction & property kontakt",
+          "\"Václav Růt\" \"Čerpadlová 1034\" web",
+          "\"Václav Růt\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "01121499",
+        "legal_name": "Václav Růt",
+        "registered_at": "2012-09-26",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=01121499",
+        "decision_maker": {
+          "name": "Václav Růt",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=01121499",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Václav Růt — research dossier",
+        "facts": [
+          "The business is listed at Čerpadlová 1034, Praha, 19000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 01121499 dated 2012-09-26."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=01121499"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Václav Růt",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=01121499",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30068088": {
+      "lead_id": "res-30068088",
+      "name": "Matouš Plánička",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Matouš Plánička\" IČO 30068088 web",
+          "\"Matouš Plánička\" Praha Construction & property kontakt",
+          "\"Matouš Plánička\" \"Kardašovská 755\" web",
+          "\"Matouš Plánička\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30068088",
+        "legal_name": "Matouš Plánička",
+        "registered_at": "2026-09-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068088",
+        "decision_maker": {
+          "name": "Matouš Plánička",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068088",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068088",
+          "date": "2026-09-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Matouš Plánička — research dossier",
+        "facts": [
+          "The business is listed at Kardašovská 755, Praha, 19800.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30068088 dated 2026-09-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068088",
+            "date": "2026-09-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30068088"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Matouš Plánička",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068088",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-01183648": {
+      "lead_id": "res-01183648",
+      "name": "Dipl.Ing. Hausenblas Karel",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Dipl.Ing. Hausenblas Karel\" IČO 01183648 web",
+          "\"Dipl.Ing. Hausenblas Karel\" Praha Construction & property kontakt",
+          "\"Dipl.Ing. Hausenblas Karel\" \"U Havlíčkových sadů 1526\" web",
+          "\"Dipl.Ing. Hausenblas Karel\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "01183648",
+        "legal_name": "Dipl.Ing. Hausenblas Karel",
+        "registered_at": "2012-10-22",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=01183648",
+        "decision_maker": null,
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Dipl.Ing. Hausenblas Karel — research dossier",
+        "facts": [
+          "The business is listed at U Havlíčkových sadů 1526, Praha, 12000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 01183648 dated 2012-10-22."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=01183648"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30068321": {
+      "lead_id": "res-30068321",
+      "name": "NEXCORE s.r.o.",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"NEXCORE s.r.o.\" IČO 30068321 web",
+          "\"NEXCORE s.r.o.\" Praha Construction & property kontakt",
+          "\"NEXCORE s.r.o.\" \"Chudenická 1059\" web",
+          "\"NEXCORE s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30068321",
+        "legal_name": "NEXCORE s.r.o.",
+        "registered_at": "2026-09-24",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068321",
+        "decision_maker": {
+          "name": "ONDŘEJ NOVÁK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068321",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "ONDŘEJ NOVÁK",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068321",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "JIŘÍ CIBULKA",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068321",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068321",
+          "date": "2026-09-24",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "NEXCORE s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Chudenická 1059, Praha, 10200.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30068321 dated 2026-09-24."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068321",
+            "date": "2026-09-24",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30068321"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "ONDŘEJ NOVÁK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068321",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-01453467": {
+      "lead_id": "res-01453467",
+      "name": "TH Mácháč s.r.o.",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"TH Mácháč s.r.o.\" IČO 01453467 web",
+          "\"TH Mácháč s.r.o.\" Praha Construction & property kontakt",
+          "\"TH Mácháč s.r.o.\" \"Sousedíkova 970\" web",
+          "\"TH Mácháč s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "01453467",
+        "legal_name": "TH Mácháč s.r.o.",
+        "registered_at": "2013-03-01",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=01453467",
+        "decision_maker": {
+          "name": "HELENA OTÁHALOVÁ",
+          "role": "jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=01453467",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "HELENA OTÁHALOVÁ",
+            "role": "jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=01453467",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "TH Mácháč s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Sousedíkova 970, Praha, 19000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 01453467 dated 2013-03-01."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=01453467"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "HELENA OTÁHALOVÁ",
+          "role": "jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=01453467",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30068495": {
+      "lead_id": "res-30068495",
+      "name": "Denys Matviiuk",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Denys Matviiuk\" IČO 30068495 web",
+          "\"Denys Matviiuk\" Praha Construction & property kontakt",
+          "\"Denys Matviiuk\" \"Čimická 634\" web",
+          "\"Denys Matviiuk\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30068495",
+        "legal_name": "Denys Matviiuk",
+        "registered_at": "2026-09-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068495",
+        "decision_maker": {
+          "name": "Denys Matviiuk",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068495",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068495",
+          "date": "2026-09-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Denys Matviiuk — research dossier",
+        "facts": [
+          "The business is listed at Čimická 634, Praha, 18200.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30068495 dated 2026-09-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068495",
+            "date": "2026-09-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30068495"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Denys Matviiuk",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068495",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-01834304": {
+      "lead_id": "res-01834304",
+      "name": "Original Century s.r.o.",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Original Century s.r.o.\" IČO 01834304 web",
+          "\"Original Century s.r.o.\" Praha Construction & property kontakt",
+          "\"Original Century s.r.o.\" \"Táboritská 880\" web",
+          "\"Original Century s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "01834304",
+        "legal_name": "Original Century s.r.o.",
+        "registered_at": "2013-06-26",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=01834304",
+        "decision_maker": {
+          "name": "DOMINIK ŘEČNÍK",
+          "role": "jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=01834304",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "DOMINIK ŘEČNÍK",
+            "role": "jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=01834304",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Original Century s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Táboritská 880, Praha, 13000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 01834304 dated 2013-06-26."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=01834304"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "DOMINIK ŘEČNÍK",
+          "role": "jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=01834304",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30068584": {
+      "lead_id": "res-30068584",
+      "name": "Yeva Sipailova",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Yeva Sipailova\" IČO 30068584 web",
+          "\"Yeva Sipailova\" Praha Construction & property kontakt",
+          "\"Yeva Sipailova\" \"Ďáblická 10\" web",
+          "\"Yeva Sipailova\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30068584",
+        "legal_name": "Yeva Sipailova",
+        "registered_at": "2026-09-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068584",
+        "decision_maker": null,
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068584",
+          "date": "2026-09-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Yeva Sipailova — research dossier",
+        "facts": [
+          "The business is listed at Ďáblická 10, Praha, 18200.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30068584 dated 2026-09-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068584",
+            "date": "2026-09-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30068584"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-04137906": {
+      "lead_id": "res-04137906",
+      "name": "PL Development s.r.o.",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"PL Development s.r.o.\" IČO 04137906 web",
+          "\"PL Development s.r.o.\" Praha Construction & property kontakt",
+          "\"PL Development s.r.o.\" \"Pikovická 1818\" web",
+          "\"PL Development s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "04137906",
+        "legal_name": "PL Development s.r.o.",
+        "registered_at": "2015-06-03",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=04137906",
+        "decision_maker": {
+          "name": "JIŘÍ LENNER",
+          "role": "jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=04137906",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "JIŘÍ LENNER",
+            "role": "jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=04137906",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "PL Development s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Pikovická 1818, Praha, 14700.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 04137906 dated 2015-06-03."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=04137906"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "JIŘÍ LENNER",
+          "role": "jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=04137906",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30068673": {
+      "lead_id": "res-30068673",
+      "name": "Yurii Zhbadynskyi",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Yurii Zhbadynskyi\" IČO 30068673 web",
+          "\"Yurii Zhbadynskyi\" Praha Construction & property kontakt",
+          "\"Yurii Zhbadynskyi\" \"Husitská 853\" web",
+          "\"Yurii Zhbadynskyi\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30068673",
+        "legal_name": "Yurii Zhbadynskyi",
+        "registered_at": "2026-09-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068673",
+        "decision_maker": {
+          "name": "Yurii Zhbadynskyi",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068673",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068673",
+          "date": "2026-09-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Yurii Zhbadynskyi — research dossier",
+        "facts": [
+          "The business is listed at Husitská 853, Praha, 13000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30068673 dated 2026-09-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068673",
+            "date": "2026-09-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30068673"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Yurii Zhbadynskyi",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30068673",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-04423216": {
+      "lead_id": "res-04423216",
+      "name": "Společenství vlastníků pro dům U Jeslí 2267-2271, Praha 9",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Společenství vlastníků pro dům U Jeslí 2267-2271, Praha 9\" IČO 04423216 web",
+          "\"Společenství vlastníků pro dům U Jeslí 2267-2271, Praha 9\" Praha Construction & property kontakt",
+          "\"Společenství vlastníků pro dům U Jeslí 2267-2271, Praha 9\" \"U jeslí 2269\" web",
+          "\"Společenství vlastníků pro dům U Jeslí 2267-2271, Praha 9\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "04423216",
+        "legal_name": "Společenství vlastníků pro dům U Jeslí 2267-2271, Praha 9",
+        "registered_at": "2015-09-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=04423216",
+        "decision_maker": {
+          "name": "KAREL PETRŽÍLKA",
+          "role": "předseda výboru",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=04423216",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "KAREL PETRŽÍLKA",
+            "role": "předseda výboru",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=04423216",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "ANDREA DADKOVÁ",
+            "role": "místopředsedkyně výboru",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=04423216",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "ZDENĚK FIŠER",
+            "role": "člen výboru",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=04423216",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Společenství vlastníků pro dům U Jeslí 2267-2271, Praha 9 — research dossier",
+        "facts": [
+          "The business is listed at U jeslí 2269, Praha, 19300.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 04423216 dated 2015-09-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=04423216"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "KAREL PETRŽÍLKA",
+          "role": "předseda výboru",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=04423216",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30069181": {
+      "lead_id": "res-30069181",
+      "name": "Jerosolyma s.r.o.",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Jerosolyma s.r.o.\" IČO 30069181 web",
+          "\"Jerosolyma s.r.o.\" Praha Specialized B2B kontakt",
+          "\"Jerosolyma s.r.o.\" \"Příčná 1892\" web",
+          "\"Jerosolyma s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30069181",
+        "legal_name": "Jerosolyma s.r.o.",
+        "registered_at": "2026-09-24",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30069181",
+        "decision_maker": {
+          "name": "ROMAN KOPAČKA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30069181",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "ROMAN KOPAČKA",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30069181",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30069181",
+          "date": "2026-09-24",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Jerosolyma s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Příčná 1892, Praha, 11000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30069181 dated 2026-09-24."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30069181",
+            "date": "2026-09-24",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30069181"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "ROMAN KOPAČKA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30069181",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-04530209": {
+      "lead_id": "res-04530209",
+      "name": "Ladislav Závodník",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Ladislav Závodník\" IČO 04530209 web",
+          "\"Ladislav Závodník\" Praha Construction & property kontakt",
+          "\"Ladislav Závodník\" \"Rybná 716\" web",
+          "\"Ladislav Závodník\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/ladislav-zavodnik-04530209/",
+            "title": "Ladislav Závodník - IČO 04530209 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Podrobnosti o firmě Ladislav Závodník - IČO 04530209 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-ladislav-zavodnik-04530209/vedeni-firmy",
+            "title": "Ladislav Závodník Praha IČO: 04530209 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Ladislav Závodník Praha IČO 04530209 kontakty 01.07.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-ladislav-zavodnik-04530209",
+            "title": "Ladislav Závodník Praha IČO: 04530209 - Finance.cz",
+            "snippet": "Ladislav Závodník Praha IČO: 04530209 Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Ladislav Závodník, která sídlí v obci Praha a bylo jí přiděleno IČO 04530209. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/04530209-ladislav-zavodnik",
+            "title": "Ladislav Závodník, IČO: 04530209 - ARES - Finmag.cz",
+            "snippet": "Výpis z registru ekonomických subjektů (RES) - Ladislav Závodník, IČO: 04530209, obec: , klasifikace ekonomických činností. Aktuální data."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/ares/04530209-ladislav-zavodnik",
+            "title": "Ladislav Závodník, Praha, IČO: 04530209 - ARES | Peníze.cz",
+            "snippet": "Registr ekonomických subjektů - Ladislav Závodník, IČO: 04530209, sídlo firmy, předmět podnikání firmy Ladislav Závodník."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/osoby/176242/",
+            "title": "Ladislav Závodník - rejstříky, události | Kurzy.cz",
+            "snippet": "Tato stránka obsahuje informace o osobách se jménem Ladislav Závodník, které jsou uvedeny ve veřejných rejstřících a jsou tedy ze zákona veřejné *. Evidujeme 1 osobu jménem Ladislav Závodník, která působí a působila v 1 společnosti a je zapsána v obchodním rejstříku a dále 1 osobu nezapsanou v obchodním rejstříku."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/ladislav-zavodnik",
+            "title": "Ladislav Závodník - Obchodní rejstřík | Peníze.cz",
+            "snippet": "Ladislav Závodník výpis firem z Obchodního rejstříku, IČO firmy, adresa sídla firmy, pozice ve firmě, související firmy, vztahy ve firmách."
+          },
+          {
+            "url": "https://www.firmy.cz/detail/2259366-ladislav-zavodnik-rostin.html",
+            "title": "Ladislav Závodník (Roštín) • Firmy.cz",
+            "snippet": "Aktuální ověřené informace: adresa, telefon, e-mail a provozní hodiny Ladislav Závodník, Roštín. Telefon: 776 851 …"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "04530209",
+        "legal_name": "Ladislav Závodník",
+        "registered_at": "2015-09-14",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=04530209",
+        "decision_maker": {
+          "name": "Ladislav Závodník",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=04530209",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Ladislav Závodník — research dossier",
+        "facts": [
+          "The business is listed at Rybná 716, Praha, 11000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 04530209 dated 2015-09-14."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=04530209"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Ladislav Závodník",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=04530209",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.podnikatel.cz/rejstrik/ladislav-zavodnik-04530209/",
+        "https://rejstriky.finance.cz/firma-ladislav-zavodnik-04530209/vedeni-firmy",
+        "https://rejstriky.finance.cz/firma-ladislav-zavodnik-04530209",
+        "https://www.finmag.cz/obchodni-rejstrik/ares/04530209-ladislav-zavodnik",
+        "https://rejstrik.penize.cz/ares/04530209-ladislav-zavodnik",
+        "https://rejstrik-firem.kurzy.cz/osoby/176242/",
+        "https://rejstrik.penize.cz/ladislav-zavodnik"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
