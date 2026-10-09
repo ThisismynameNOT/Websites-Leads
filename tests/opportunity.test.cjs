@@ -87,3 +87,9 @@ test("top ten includes some suitable clients even when numerous verified gaps ex
  assert.equal(picks.filter(x=>x.category==="research_candidate").length,3);
  assert.equal(picks.filter(x=>x.category==="verified_gap").length,7);
 });
+
+test("registered-only research holds never get sold as top website opportunities",()=>{
+ const lead=base({id:"hold",research_hold:true,registered_at:"2026-10-06",score:85});
+ assert.equal(radar.assess(lead,TODAY),null);
+ assert.equal(radar.select([lead],TODAY,10).length,0);
+});
