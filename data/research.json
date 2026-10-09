@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-09T11:41:40.448345+00:00",
+  "generated_at": "2026-10-09T12:40:27.940235+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -13208,6 +13208,1561 @@
         "buying_signals": [],
         "sources": [
           "https://www.openstreetmap.org/node/4585304756"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30063795": {
+      "lead_id": "res-30063795",
+      "name": "PMU stavby s.r.o.",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"PMU stavby s.r.o.\" IČO 30063795 web",
+          "\"PMU stavby s.r.o.\" Praha Construction & property kontakt",
+          "\"PMU stavby s.r.o.\" \"Čenětická 2413\" web",
+          "\"PMU stavby s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/pmu-stavby-s-r-o-30063795/",
+            "title": "PMU stavby s.r.o. - IČO 30063795 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Podrobnosti o firmě PMU stavby s.r.o. - IČO 30063795 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-pmu-stavby-s-r-o-30063795/vlastnici-firmy",
+            "title": "PMU stavby s.r.o. Praha 4 IČO: 30063795 - Finance.cz",
+            "snippet": "Podrobnosti o firmě PMU stavby s.r.o. Praha 4 IČO 30063795 kontakty 05.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-pmu-stavby-s-r-o-30063795/obory-cinnosti",
+            "title": "PMU stavby s.r.o. IČO 30063795 kontakty 03.10.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě PMU stavby s.r.o. IČO 30063795 kontakty 03.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů…"
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30063795/pmu-stavby-s-r-o",
+            "title": "PMU stavby s.r.o. - rizika, jednatelé, obchodní rejstřík",
+            "snippet": "PMU stavby s.r.o. Sídlo Praha. IČO: 30063795. Majitelé a statutární orgány. Registr firem. Rok založení 2026. Rizikové signály firmy."
+          },
+          {
+            "url": "https://www.jenfirmy.cz/firma/30063795-pmu-stavby-s-r-o",
+            "title": "PMU stavby s.r.o. ⭐ Profil firmy | ⭐ JenFirmy.cz",
+            "snippet": "Prohlédněte si profil PMU stavby s.r.o. a zjistěte vše, co potřebujete vědět. Místo, kontakty i prověřené recenze zaměstnanců."
+          },
+          {
+            "url": "https://www.jenprace.cz/firmy/30063795-pmu-stavby-s-r-o",
+            "title": "Práce v PMU stavby s.r.o. Zaměstnání, volná místa",
+            "snippet": "JenPráce.cz — každý den aktuální nabídky práce a brigád v České republice i zahraničí"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.chytryrejstrik.cz/ico-30063795/pmu-stavby-s-r-o",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.chytryrejstrik.cz/ico-30063795/pmu-stavby-s-r-o",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30063795/pmu-stavby-s-r-o",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30063795",
+        "legal_name": "PMU stavby s.r.o.",
+        "registered_at": "2026-09-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30063795",
+        "decision_maker": {
+          "name": "PETR PĚKNÝ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30063795",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "PETR PĚKNÝ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30063795",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "ALEŠ MATOUŠEK",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30063795",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "RADEK URBÁNEK",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30063795",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-09",
+        "website": "https://www.chytryrejstrik.cz/ico-30063795/pmu-stavby-s-r-o",
+        "devices": {
+          "desktop": {
+            "title": "PMU stavby s.r.o. - rizika, jednatelé, obchodní rejstřík",
+            "description": "PMU stavby s.r.o. Sídlo Praha. IČO: 30063795. Majitelé a statutární orgány. Registr firem. Rok založení 2026. Rizikové signály firmy. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 170,
+            "small_text_elements": 2,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 48,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "PMU stavby s.r.o. - rizika, jednatelé, obchodní rejstřík",
+            "description": "PMU stavby s.r.o. Sídlo Praha. IČO: 30063795. Majitelé a statutární orgány. Registr firem. Rok založení 2026. Rizikové signály firmy. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 133,
+            "small_text_elements": 10,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 48,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.chytryrejstrik.cz/ico-30063795/pmu-stavby-s-r-o"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30063795",
+          "date": "2026-09-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "PMU stavby s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Čenětická 2413, Praha, 14900.",
+          "An independently identity-matched business website was found: https://www.chytryrejstrik.cz/ico-30063795/pmu-stavby-s-r-o.",
+          "ARES confirms registration for IČO 30063795 dated 2026-09-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30063795",
+            "date": "2026-09-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30063795",
+          "https://www.chytryrejstrik.cz/ico-30063795/pmu-stavby-s-r-o"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "PETR PĚKNÝ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30063795",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.podnikatel.cz/rejstrik/pmu-stavby-s-r-o-30063795/",
+        "https://rejstriky.finance.cz/firma-pmu-stavby-s-r-o-30063795/vlastnici-firmy",
+        "https://rejstriky.finance.cz/firma-pmu-stavby-s-r-o-30063795/obory-cinnosti",
+        "https://www.chytryrejstrik.cz/ico-30063795/pmu-stavby-s-r-o",
+        "https://www.jenfirmy.cz/firma/30063795-pmu-stavby-s-r-o",
+        "https://www.jenprace.cz/firmy/30063795-pmu-stavby-s-r-o"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.chytryrejstrik.cz/ico-30063795/pmu-stavby-s-r-o",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "manual-strecha-servis-zbiral": {
+      "lead_id": "manual-strecha-servis-zbiral",
+      "name": "Střecha servis – Zbíral",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Střecha servis – Zbíral\" IČO 65384628 web",
+          "\"Střecha servis – Zbíral\" Praha Construction & property kontakt",
+          "\"Střecha servis – Zbíral\" \"Branická 213/53\" web",
+          "\"Střecha servis – Zbíral\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.strechaservis.cz/",
+            "result": "ambiguous",
+            "evidence": []
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "65384628",
+        "legal_name": "Martin Zbíral",
+        "registered_at": "1996-04-03",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=65384628",
+        "decision_maker": {
+          "name": "Martin Zbíral",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=65384628",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Střecha servis – Zbíral — research dossier",
+        "facts": [
+          "The business is listed at Branická 213/53, Braník, 147 00 Praha 4.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 65384628 dated 1996-04-03."
+        ],
+        "offer": "Reorganize roofing services and recent work gallery, improve trust and project clarity, optional public content CMS",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.strechaservis.cz/",
+          "https://www.firmy.cz/detail/846854-strecha-servis-zbiral-praha-branik.html",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=65384628"
+        ],
+        "estimated_deal_czk": [
+          null,
+          null
+        ],
+        "decision_maker": {
+          "name": "Martin Zbíral",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=65384628",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30064074": {
+      "lead_id": "res-30064074",
+      "name": "Hasbay s.r.o.",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Hasbay s.r.o.\" IČO 30064074 web",
+          "\"Hasbay s.r.o.\" Praha Construction & property kontakt",
+          "\"Hasbay s.r.o.\" \"Stárkova 1166\" web",
+          "\"Hasbay s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30064074",
+        "legal_name": "Hasbay s.r.o.",
+        "registered_at": "2026-09-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30064074",
+        "decision_maker": {
+          "name": "KENAN HASALTUN",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30064074",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "KENAN HASALTUN",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30064074",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30064074",
+          "date": "2026-09-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Hasbay s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Stárkova 1166, Praha, 11000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30064074 dated 2026-09-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30064074",
+            "date": "2026-09-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30064074"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "KENAN HASALTUN",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30064074",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "manual-strechy-adapt-hrouda": {
+      "lead_id": "manual-strechy-adapt-hrouda",
+      "name": "STŘECHY ADAPT HROUDA s.r.o.",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"STŘECHY ADAPT HROUDA s.r.o.\" IČO 27145697 web",
+          "\"STŘECHY ADAPT HROUDA s.r.o.\" Praha Construction & property kontakt",
+          "\"STŘECHY ADAPT HROUDA s.r.o.\" \"Mohelnická 1020/1c\" web",
+          "\"STŘECHY ADAPT HROUDA s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.strechy-adapt.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching distinctive business-name words on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "27145697",
+        "legal_name": "STŘECHY ADAPT HROUDA s.r.o.",
+        "registered_at": "2004-05-19",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=27145697",
+        "decision_maker": {
+          "name": "PETR HROUDA",
+          "role": "jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=27145697",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "PETR HROUDA",
+            "role": "jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=27145697",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "STŘECHY ADAPT HROUDA s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Mohelnická 1020/1c, Kbely, 197 00 Praha 19.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 27145697 dated 2004-05-19."
+        ],
+        "offer": "Modern roofing references/case-study gallery, service pages and public-content CMS",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.strechy-adapt.cz/",
+          "https://www.strechy-adapt.cz/sluzby.php",
+          "https://www.firmy.cz/detail/590642-strechy-adapt-hrouda-s-r-o-praha-kbely.html",
+          "https://www.podnikatel.cz/rejstrik/strechy-adapt-hrouda-s-r-o-27145697/",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=27145697"
+        ],
+        "estimated_deal_czk": [
+          null,
+          null
+        ],
+        "decision_maker": {
+          "name": "PETR HROUDA",
+          "role": "jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=27145697",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30064287": {
+      "lead_id": "res-30064287",
+      "name": "QUANTUM Engineering a.s.",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"QUANTUM Engineering a.s.\" IČO 30064287 web",
+          "\"QUANTUM Engineering a.s.\" Praha Construction & property kontakt",
+          "\"QUANTUM Engineering a.s.\" \"Korunní 2569\" web",
+          "\"QUANTUM Engineering a.s.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30064287",
+        "legal_name": "QUANTUM Engineering a.s.",
+        "registered_at": "2026-09-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30064287",
+        "decision_maker": {
+          "name": "TOMÁŠ KOLBABA",
+          "role": "Člen správní rady",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30064287",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "TOMÁŠ KOLBABA",
+            "role": "Člen správní rady",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30064287",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30064287",
+          "date": "2026-09-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "QUANTUM Engineering a.s. — research dossier",
+        "facts": [
+          "The business is listed at Korunní 2569, Praha, 10100.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30064287 dated 2026-09-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30064287",
+            "date": "2026-09-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30064287"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "TOMÁŠ KOLBABA",
+          "role": "Člen správní rady",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30064287",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "manual-tomas-majer-roofing": {
+      "lead_id": "manual-tomas-majer-roofing",
+      "name": "Pokrývačství Tomáš Majer",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Pokrývačství Tomáš Majer\" IČO 71141162 web",
+          "\"Pokrývačství Tomáš Majer\" Praha Construction & property kontakt",
+          "\"Pokrývačství Tomáš Majer\" \"Ke mlýnu 10\" web",
+          "\"Pokrývačství Tomáš Majer\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.pokryvacstvimajer.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching distinctive business-name words on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "71141162",
+        "legal_name": "Tomáš Majer",
+        "registered_at": "2004-03-15",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=71141162",
+        "decision_maker": {
+          "name": "Tomáš Majer",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=71141162",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Pokrývačství Tomáš Majer — research dossier",
+        "facts": [
+          "The business is listed at Ke mlýnu 10, Újezd u Průhonic, 149 00 Praha 4.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 71141162 dated 2004-03-15."
+        ],
+        "offer": "Redesign roofing services and project portfolio, add clearer contact links and optional public-website CMS",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.pokryvacstvimajer.cz/",
+          "https://www.pokryvacstvimajer.cz/reference",
+          "https://www.podnikatel.cz/rejstrik/tomas-majer-71141162/",
+          "https://www.finmag.cz/obchodni-rejstrik/zivnostensky-rejstrik/71141162-tomas-majer",
+          "https://nasregion.cz/wp-content/uploads/2026/04/2617_NR_Stredocesky.pdf",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=71141162"
+        ],
+        "estimated_deal_czk": [
+          null,
+          null
+        ],
+        "decision_maker": {
+          "name": "Tomáš Majer",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=71141162",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30064465": {
+      "lead_id": "res-30064465",
+      "name": "Hana Pejchová",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Hana Pejchová\" IČO 30064465 web",
+          "\"Hana Pejchová\" Praha Construction & property kontakt",
+          "\"Hana Pejchová\" \"Augustinova 2076\" web",
+          "\"Hana Pejchová\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30064465",
+        "legal_name": "Hana Pejchová",
+        "registered_at": "2026-09-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30064465",
+        "decision_maker": {
+          "name": "Hana Pejchová",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30064465",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30064465",
+          "date": "2026-09-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Hana Pejchová — research dossier",
+        "facts": [
+          "The business is listed at Augustinova 2076, Praha, 14800.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30064465 dated 2026-09-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30064465",
+            "date": "2026-09-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30064465"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Hana Pejchová",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30064465",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-5188088452": {
+      "lead_id": "osm-node-5188088452",
+      "name": "Li-Vi Praha s.r.o",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Li-Vi Praha s.r.o — research dossier",
+        "facts": [
+          "The business is listed at Jana Želivského 1857/8, 130 00, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/5188088452"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30064856": {
+      "lead_id": "res-30064856",
+      "name": "Tibor Samek",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Tibor Samek\" IČO 30064856 web",
+          "\"Tibor Samek\" Praha Construction & property kontakt",
+          "\"Tibor Samek\" \"Světova 523\" web",
+          "\"Tibor Samek\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30064856",
+        "legal_name": "Tibor Samek",
+        "registered_at": "2026-09-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30064856",
+        "decision_maker": {
+          "name": "Tibor Samek",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30064856",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30064856",
+          "date": "2026-09-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Tibor Samek — research dossier",
+        "facts": [
+          "The business is listed at Světova 523, Praha, 18000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30064856 dated 2026-09-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30064856",
+            "date": "2026-09-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30064856"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Tibor Samek",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30064856",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-7837764654": {
+      "lead_id": "osm-node-7837764654",
+      "name": "Ateliér Emil",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Ateliér Emil — research dossier",
+        "facts": [
+          "The business is listed at Bořivojova 59, 130 00, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/7837764654"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30065097": {
+      "lead_id": "res-30065097",
+      "name": "Tridentstav stavební s.r.o.",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Tridentstav stavební s.r.o.\" IČO 30065097 web",
+          "\"Tridentstav stavební s.r.o.\" Praha Construction & property kontakt",
+          "\"Tridentstav stavební s.r.o.\" \"Kaprova 42\" web",
+          "\"Tridentstav stavební s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30065097",
+        "legal_name": "Tridentstav stavební s.r.o.",
+        "registered_at": "2026-09-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30065097",
+        "decision_maker": null,
+        "contact_verified": false,
+        "statutory_members": []
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30065097",
+          "date": "2026-09-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Tridentstav stavební s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Kaprova 42, Praha, 11000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30065097 dated 2026-09-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30065097",
+            "date": "2026-09-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30065097"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-9920800818": {
+      "lead_id": "osm-node-9920800818",
+      "name": "Maxxus Realty",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Maxxus Realty — research dossier",
+        "facts": [
+          "The business is listed at Ječná 529/29, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/9920800818"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30065224": {
+      "lead_id": "res-30065224",
+      "name": "Adéla Klimešová",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Adéla Klimešová\" IČO 30065224 web",
+          "\"Adéla Klimešová\" Praha Construction & property kontakt",
+          "\"Adéla Klimešová\" \"Kurkova 1209\" web",
+          "\"Adéla Klimešová\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30065224",
+        "legal_name": "Adéla Klimešová",
+        "registered_at": "2026-09-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30065224",
+        "decision_maker": {
+          "name": "Adéla Klimešová",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30065224",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30065224",
+          "date": "2026-09-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Adéla Klimešová — research dossier",
+        "facts": [
+          "The business is listed at Kurkova 1209, Praha, 18200.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30065224 dated 2026-09-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30065224",
+            "date": "2026-09-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30065224"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Adéla Klimešová",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30065224",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-9991267555": {
+      "lead_id": "osm-node-9991267555",
+      "name": "RAMSS spol. s r.o.",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "RAMSS spol. s r.o. — research dossier",
+        "facts": [
+          "The business is listed at Dubečská 73/6, 10000, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/9991267555"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30066131": {
+      "lead_id": "res-30066131",
+      "name": "G-STAK s.r.o.",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"G-STAK s.r.o.\" IČO 30066131 web",
+          "\"G-STAK s.r.o.\" Praha Construction & property kontakt",
+          "\"G-STAK s.r.o.\" \"U Klavírky 1501\" web",
+          "\"G-STAK s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30066131",
+        "legal_name": "G-STAK s.r.o.",
+        "registered_at": "2026-09-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30066131",
+        "decision_maker": {
+          "name": "ISTVÁN RISKOVICS",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30066131",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "ISTVÁN RISKOVICS",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30066131",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30066131",
+          "date": "2026-09-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "G-STAK s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at U Klavírky 1501, Praha, 15000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30066131 dated 2026-09-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30066131",
+            "date": "2026-09-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30066131"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "ISTVÁN RISKOVICS",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30066131",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-way-132113757": {
+      "lead_id": "osm-way-132113757",
+      "name": "ELSA Consulting s.r.o.",
+      "checked_at": "2026-10-09",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "ELSA Consulting s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Do podkovy 176/44, 10400, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/way/132113757"
         ],
         "estimated_deal_czk": [
           30000,
