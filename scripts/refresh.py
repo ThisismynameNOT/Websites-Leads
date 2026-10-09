@@ -318,6 +318,11 @@ def import_kurzy_watchlist(by_id, official_ids, records, today=TODAY):
             record["kurzy_listing_checked_at"]=r.get("listing_checked_at") or today
             record["kurzy_source_url"]=source
             record["kurzy_listing_kind"]="recent_registration_directory_crosscheck"
+            record["research_hold"]=str(r.get("screening_stage") or "").startswith("HOLD_")
+            if record["research_hold"]:
+                record["research_hold_reason"]=r.get("priority_reason") or r.get("note") or "Operating business not yet verified"
+            else:
+                record.pop("research_hold_reason",None)
             # Do NOT overwrite official ČSÚ or ARES dates, official name, trading location or verified website.
         else:
             candidate={
@@ -329,6 +334,8 @@ def import_kurzy_watchlist(by_id, official_ids, records, today=TODAY):
                 "website":"","website_status":"unknown",
                 "email":"","phone":"","instagram":"",
                 "verification":"candidate","registered_office_only":True,
+                "research_hold":str(r.get("screening_stage") or "").startswith("HOLD_"),
+                "research_hold_reason":(r.get("priority_reason") or r.get("note") or "") if str(r.get("screening_stage") or "").startswith("HOLD_") else "",
                 "source_type":"kurzy_review","data_origin":"Kurzy.cz (manual reference)",
                 "kurzy_listing_checked_at":r.get("listing_checked_at") or today,
                 "kurzy_source_url":source,
