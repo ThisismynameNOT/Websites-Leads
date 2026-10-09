@@ -1,5 +1,17 @@
 # Fieldnotes — Prague Website Sales Radar
 
+## Mandatory independence and direct-customer filter (9 October 2026)
+
+**Both requirements are hard gates before qualification or sales outreach, alongside existing no-site/finance rules.**
+
+1. **Independent owner/operator** — verify the exact new business IČO and its shareholders, controllers, and linked brands. Exclude 100%-corporate-owned subsidiaries, parent-run internal service companies, standalone project/SPVs, and captive units that have no independently managed public clientele. Shared names/directors/addresses **alone** do not prove parent control: such matches are research holds.
+2. **Direct to outside customers** — verify the same legal entity markets and supplies products or services directly to external retail **or B2B** clients and has its own attributable public business contact/booking/enquiry channel. A business need not be a consumer walk-in shop. Registration, individual ownership, company name and an empty Google search do not satisfy this requirement.
+3. **Website and sales economics** — only after (1) and (2) pass, independently match or rule out a first-party site, verify operating scale/buyer contact, and assign a score or proposed package. Failure/unverified = HOLD, no price, no outreach-ready designation.
+
+Ownership/public-client re-screen of all **24** October entries: **4** individual-owned legal entities remain a *preliminary verification queue*, **20** are deferred/QA (including **1 confirmed corporate-owned exclusion**, **1 related-brand autonomy hold**, and **1 existing-brand/identity hold**), **0** verified direct-market independent companies are cleared for outreach, and October revenue remains **0 CZK**. Supporting records and source links live in `data/october-review.json`, with the criteria and ownership flags displayed by the updated sales dashboard.
+
+**Confirmed exclusion:** ROBET design Group s.r.o. (IČO 30111561) is owned 100% by Oil Energy s.r.o. (IČO 14053764), per [commercial bulletin](https://ov.ihned.cz/zapis/25359769). **Related-brand hold:** RONDON DRON has individual founders, but shares a director/branding with several RONDON firms and a newly registered association, so this is not automatically a subsidiary—but its independent sales channel is unverified ([company filing](https://ov.ihned.cz/zapis/25360288), [association](https://ov.gov.cz/zapis/25360407), [related roles](https://www.podnikatel.cz/rejstrik/osoby/roman-neumann-459892/)). **Identity hold:** PWB stavební and the established PWB stavby s.r.o. must be disambiguated by exact IČO, not conflated ([established firm's site](https://www.pwb.cz/reference-stavby/)). Independent legal ownership documented for Orvex, TMZ, D&L BUILD MONT and Lupawood, but none has a verified direct external-customer operation; they are **not** qualified leads.
+
 ## Excel-rule qualification homepage (9 October 2026)
 
 The homepage at GitHub Pages is now an **Excel-style sales qualification workspace** matching the user-provided September 2026 workbook: Dashboard, Premium 70–100k, New 40–50k, QA / deferred, and Methodology. A sixth verification queue keeps speculative October registrations visible without treating them as approved leads. The source-driven October review lives in `data/october-review.json` with 24 named businesses, 7 priority research, 17 deferred, **0 confirmed site-free qualified** and **0 CZK qualified October pipeline**.
