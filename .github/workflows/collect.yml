@@ -11,6 +11,7 @@ on:
     paths:
       - ".github/workflows/collect.yml"
       - "data/manual-leads.json"
+      - "data/kurzy-watchlist.json"
       - "requirements-research.txt"
 
 permissions:
@@ -50,7 +51,7 @@ jobs:
         run: |
           echo "::warning::ČSÚ RES unavailable; keeping last valid official candidate snapshot."
           echo "ČSÚ RES refresh unavailable; check registry download step." >> "$GITHUB_STEP_SUMMARY"
-      - name: Discover Prague businesses
+      - name: Discover Prague businesses and cross-check Kurzy.cz recent-company watchlist
         run: python scripts/refresh.py
       - name: Install headless Chromium for responsive audit
         run: python -m playwright install --with-deps chromium
