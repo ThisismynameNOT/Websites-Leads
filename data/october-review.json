@@ -4,7 +4,7 @@
   "research_cut": "2026-10-09",
   "window": "2026-10-03 to 2026-10-06",
   "source": "https://rejstrik-firem.kurzy.cz/seznam-10/",
-  "scope": "User supplied 24 construction and specialist-service candidates; not all were independently verified",
+  "scope": "User supplied 24 construction and specialist-service candidates; not all were independently verified; expanded: shareholder, controlling-group and direct external-customer screening",
   "rules": {
     "hard_no_site_gate": true,
     "premium_min_scale_czk": 50000000,
@@ -30,16 +30,23 @@
       "no_site": 15,
       "market": 10
     },
-    "strict_logic": "A lead can have a weighted score/package only after a repeatable exact-IČO no-owned-website check. Unknown or partially searched = HOLD. Related-name sites require legal matching."
+    "strict_logic": "A lead can have a weighted score/package only after a repeatable exact-IČO no-owned-website check. Unknown or partially searched = HOLD. Related-name sites require legal matching.",
+    "independent_direct_market_gate": true,
+    "eligibility_definition": "ALL mandatory: exact legal entity match (IČO); company is not majority-owned/controlled by another business/parent; company has independently verified public/direct external-customer offering and contact/sales channel (B2B allowed); real operating business; and existing strict first-party no-website gate. A group-related brand, SPV, internal-service entity or entity relying solely on mother-company sales is excluded or held.",
+    "conservative_group_qa": "Definitive corporate-owned firms are excluded. Shared directors, family names, shared addresses or similar branding only trigger research hold; do not assert a legal parent unless commercial-register shareholder control is confirmed."
   },
   "summary": {
     "screened": 24,
     "new_qualified": 0,
     "premium_qualified": 0,
-    "priority_research": 7,
-    "deferred_qa": 17,
+    "priority_research": 4,
+    "deferred_qa": 20,
     "confirmed_web_rejection": 0,
-    "qualified_pipeline_czk": 0
+    "qualified_pipeline_czk": 0,
+    "confirmed_parent_exclusions": 1,
+    "affiliate_or_identity_holds": 2,
+    "direct_customer_verified": 0,
+    "no_corporate_parent_named_in_registration": 4
   },
   "records": [
     {
@@ -73,7 +80,22 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — research required"
+      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "group_check": {
+        "status": "individual_wholly_owned_legal_record",
+        "checked_at": "2026-10-09",
+        "basis": "Public filing: Zoriana Mandziuk 100% shareholder, own director, no parent company in initial shareholder register. This is not proof that business sells directly to the public.",
+        "source_urls": [
+          "https://ov.ihned.cz/zapis/25358546"
+        ]
+      },
+      "direct_customer_check": {
+        "status": "not_verified",
+        "basis": "No verified proof this exact legal entity has an independent sales channel, public product/service offering, and accepts work directly from outside customers (retail or B2B). A registered trade licence and person shareholder are insufficient.",
+        "source_urls": []
+      },
+      "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
+      "eligible_for_outreach": false
     },
     {
       "id": "oct-02",
@@ -101,12 +123,28 @@
       "next_check": "Confirm actual service territory, business phone/email, client installations, and domain.",
       "source_urls": [
         "https://ov.gov.cz/zapis/25360150",
-        "https://rejstrik-firem.kurzy.cz/seznam-10/"
+        "https://rejstrik-firem.kurzy.cz/seznam-10/",
+        "https://ov.ihned.cz/zapis/25360150"
       ],
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — research required"
+      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "group_check": {
+        "status": "individual_wholly_owned_legal_record",
+        "checked_at": "2026-10-09",
+        "basis": "Public filing: Zbyněk Tesař 100% shareholder and manager. Trade activities include heat pumps/refrigeration; actual direct-customer service not confirmed.",
+        "source_urls": [
+          "https://ov.ihned.cz/zapis/25360150"
+        ]
+      },
+      "direct_customer_check": {
+        "status": "not_verified",
+        "basis": "No verified proof this exact legal entity has an independent sales channel, public product/service offering, and accepts work directly from outside customers (retail or B2B). A registered trade licence and person shareholder are insufficient.",
+        "source_urls": []
+      },
+      "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
+      "eligible_for_outreach": false
     },
     {
       "id": "oct-03",
@@ -139,7 +177,22 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — research required"
+      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "group_check": {
+        "status": "individual_wholly_owned_legal_record",
+        "checked_at": "2026-10-09",
+        "basis": "Public filing: Lucie Krchová 100% shareholder and director. No corporate parent named; no public sales/contact/workshop confirmed.",
+        "source_urls": [
+          "https://ov.gov.cz/zapis/25359892"
+        ]
+      },
+      "direct_customer_check": {
+        "status": "not_verified",
+        "basis": "No verified proof this exact legal entity has an independent sales channel, public product/service offering, and accepts work directly from outside customers (retail or B2B). A registered trade licence and person shareholder are insufficient.",
+        "source_urls": []
+      },
+      "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
+      "eligible_for_outreach": false
     },
     {
       "id": "oct-04",
@@ -147,7 +200,7 @@
       "ico": "30111561",
       "city": "Praha 4",
       "sector": "Design / manufacturing",
-      "review_priority": "Priority research",
+      "review_priority": "Deferred / QA",
       "package_group": "New 40-50k",
       "registration_date": "2026-10-06",
       "website_gate": "HOLD — official site status not sufficiently verified",
@@ -163,16 +216,33 @@
       "financial_evidence": "20,000 CZK share capital; not operating cash",
       "scale_evidence": "No verified ≥50m CZK scale proxy",
       "sector_offer": "Design-manufacturing portfolio and product catalogue",
-      "decision_reason": "Registered woodworking, glasswork, metalwork and design activities, but real customer offering and operator location unverified.",
-      "next_check": "Confirm primary products, actual workshop, company contact and group website.",
+      "decision_reason": "Registered woodworking, glasswork, metalwork and design activities, but real customer offering and operator location unverified. Registry explicitly identifies 100% ownership by Oil Energy s.r.o. (IČO 14053764). This is a corporate-controlled entity and excluded.",
+      "next_check": "No further website outreach research under current independent-owner policy; require proof ownership changed before reconsideration.",
       "source_urls": [
         "https://ov.ihned.cz/zapis/25359769",
-        "https://rejstrik-firem.kurzy.cz/seznam-10/"
+        "https://rejstrik-firem.kurzy.cz/seznam-10/",
+        "https://fakturujzdarma.cz/firma/14053764-oil-energy-s-r-o"
       ],
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — research required"
+      "outreach_status": "EXCLUDED — corporate-owned subsidiary",
+      "group_check": {
+        "status": "corporate_parent_confirmed",
+        "checked_at": "2026-10-09",
+        "basis": "Public filing explicitly lists Oil Energy s.r.o. (IČO 14053764) as 100% shareholder. Disqualified under direct-independent requirement.",
+        "source_urls": [
+          "https://ov.ihned.cz/zapis/25359769",
+          "https://fakturujzdarma.cz/firma/14053764-oil-energy-s-r-o"
+        ]
+      },
+      "direct_customer_check": {
+        "status": "not_verified",
+        "basis": "No independently verified direct market presence; legal ownership already fails the rule.",
+        "source_urls": []
+      },
+      "direct_market_gate": "FAIL — owned 100% by another legal company",
+      "eligible_for_outreach": false
     },
     {
       "id": "oct-05",
@@ -180,7 +250,7 @@
       "ico": "30117879",
       "city": "Praha 8",
       "sector": "Drones / specialist B2B",
-      "review_priority": "Priority research",
+      "review_priority": "Deferred / QA",
       "package_group": "New 40-50k",
       "registration_date": "2026-10-06",
       "website_gate": "HOLD — official site status not sufficiently verified",
@@ -196,16 +266,37 @@
       "financial_evidence": "No independently verified operating financials",
       "scale_evidence": "No verified ≥50m CZK scale proxy",
       "sector_offer": "Specialist technology, product and project site",
-      "decision_reason": "Broad drone and aircraft-related permitted activities; no demonstrated product, customer or owned brand domain.",
-      "next_check": "Verify actual products, independent business operation, first-party contacts, existing digital channels.",
+      "decision_reason": "Broad drone and aircraft-related permitted activities; no demonstrated product, customer or owned brand domain. Group-affiliation screen found multiple RONDON-branded businesses and a RONDON association linked through director Roman Neumann; this does not itself establish a corporate parent, but direct autonomous customer sales is not verified.",
+      "next_check": "Establish whether RONDON DRON is a separate direct-client business or a captive/internal unit of the wider RONDON network; verify a separate business contact, independently attributed services and sales authority.",
       "source_urls": [
         "https://ov.ihned.cz/zapis/25360288",
-        "https://rejstrik-firem.kurzy.cz/seznam-10/"
+        "https://rejstrik-firem.kurzy.cz/seznam-10/",
+        "https://ov.gov.cz/zapis/25360407",
+        "https://www.podnikatel.cz/rejstrik/osoby/roman-neumann-459892/",
+        "https://www.finmag.cz/obchodni-rejstrik/09863532-rondon-prague-s-r-o"
       ],
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — research required"
+      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "group_check": {
+        "status": "associated_brand_network",
+        "checked_at": "2026-10-09",
+        "basis": "Two private individual shareholders are shown in RONDON DRON formation, but director Roman Neumann also leads RONDON SPOLEK at the same address and established Rondon Prague / Rondon Czech firms. Brand-network relation and independent client-facing sales unverified. A shared director does NOT prove a legal parent company.",
+        "source_urls": [
+          "https://ov.ihned.cz/zapis/25360288",
+          "https://ov.gov.cz/zapis/25360407",
+          "https://www.podnikatel.cz/rejstrik/osoby/roman-neumann-459892/",
+          "https://www.finmag.cz/obchodni-rejstrik/09863532-rondon-prague-s-r-o"
+        ]
+      },
+      "direct_customer_check": {
+        "status": "not_verified",
+        "basis": "No verified proof this exact legal entity has an independent sales channel, public product/service offering, and accepts work directly from outside customers (retail or B2B). A registered trade licence and person shareholder are insufficient.",
+        "source_urls": []
+      },
+      "direct_market_gate": "HOLD — interconnected RONDON brands; autonomy and public sales unverified",
+      "eligible_for_outreach": false
     },
     {
       "id": "oct-06",
@@ -238,7 +329,22 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — research required"
+      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "group_check": {
+        "status": "individual_wholly_owned_legal_record",
+        "checked_at": "2026-10-09",
+        "basis": "Public filing: Lukáš Lejdar 100% shareholder/director. Independent legal ownership indicated, but no actual woodworking products, storefront or direct buyers established.",
+        "source_urls": [
+          "https://ov.ihned.cz/zapis/25360403"
+        ]
+      },
+      "direct_customer_check": {
+        "status": "not_verified",
+        "basis": "No verified proof this exact legal entity has an independent sales channel, public product/service offering, and accepts work directly from outside customers (retail or B2B). A registered trade licence and person shareholder are insufficient.",
+        "source_urls": []
+      },
+      "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
+      "eligible_for_outreach": false
     },
     {
       "id": "oct-07",
@@ -246,7 +352,7 @@
       "ico": null,
       "city": "Praha 9 (name/address requires check)",
       "sector": "Construction",
-      "review_priority": "Priority research",
+      "review_priority": "Deferred / QA",
       "package_group": "New 40-50k",
       "registration_date": "2026-10-06",
       "website_gate": "HOLD — official site status not sufficiently verified",
@@ -262,16 +368,34 @@
       "financial_evidence": "Unverified",
       "scale_evidence": "No verified ≥50m CZK scale proxy",
       "sector_offer": "Separate branded construction website if genuinely independent",
-      "decision_reason": "Shares name/address indicators with PWB stavby s.r.o. (IČO 01434837), which already has a company website; relationship and new entity IČO unresolved.",
-      "next_check": "Identify exact new IČO and relation to PWB stavby before making any no-site claim.",
+      "decision_reason": "Shares name/address indicators with PWB stavby s.r.o. (IČO 01434837), which already has a company website; relationship and new entity IČO unresolved. Established PWB stavby (IČO 01434837) operates www.pwb.cz and accepts projects; this proves neither a public market nor autonomy for the new PWB stavební entity.",
+      "next_check": "Find exact new IČO and owners first; establish if independent or internal to existing PWB stavby. Do not contact the established company's email on the new company's behalf.",
       "source_urls": [
         "https://www.pwb.cz/kontakty-stavby/",
-        "https://rejstrik-firem.kurzy.cz/seznam-10/"
+        "https://rejstrik-firem.kurzy.cz/seznam-10/",
+        "https://www.pwb.cz/reference-stavby/",
+        "https://fakturujzdarma.cz/firma/01434837-pwb-stavby-s-r-o"
       ],
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — research required"
+      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "group_check": {
+        "status": "identity_and_group_relation_unresolved",
+        "checked_at": "2026-10-09",
+        "basis": "Exact newly registered 'PWB stavební' IČO cannot be corroborated; established different PWB stavby s.r.o. (IČO 01434837) has the same reported HQ and an existing customer website. No ownership or shared-brand assumption is safe.",
+        "source_urls": [
+          "https://www.pwb.cz/reference-stavby/",
+          "https://fakturujzdarma.cz/firma/01434837-pwb-stavby-s-r-o"
+        ]
+      },
+      "direct_customer_check": {
+        "status": "not_verified",
+        "basis": "No verified proof this exact legal entity has an independent sales channel, public product/service offering, and accepts work directly from outside customers (retail or B2B). A registered trade licence and person shareholder are insufficient.",
+        "source_urls": []
+      },
+      "direct_market_gate": "HOLD — exact entity and association with existing PWB brand unverified",
+      "eligible_for_outreach": false
     },
     {
       "id": "oct-08",
@@ -299,12 +423,29 @@
       "next_check": "Confirm relation between 30094844 and 10935703 and whether web identity needs an update.",
       "source_urls": [
         "https://ov.gov.cz/zapis/25358923",
-        "https://rejstrik-firem.kurzy.cz/seznam-10/"
+        "https://rejstrik-firem.kurzy.cz/seznam-10/",
+        "https://horvatstaveb.cz/"
       ],
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — research required"
+      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "group_check": {
+        "status": "individual_wholly_owned_legal_record",
+        "checked_at": "2026-10-09",
+        "basis": "Public filing lists Jozef Horvát 100% owner. Separately an established sole trader with the Horvatstaveb name and website exists (different IČO); exact new s.r.o. public-facing brand and operating autonomy remain unverified.",
+        "source_urls": [
+          "https://ov.gov.cz/zapis/25358923",
+          "https://horvatstaveb.cz/"
+        ]
+      },
+      "direct_customer_check": {
+        "status": "not_verified",
+        "basis": "No verified proof this exact legal entity has an independent sales channel, public product/service offering, and accepts work directly from outside customers (retail or B2B). A registered trade licence and person shareholder are insufficient.",
+        "source_urls": []
+      },
+      "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
+      "eligible_for_outreach": false
     },
     {
       "id": "oct-09",
@@ -336,7 +477,20 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — research required"
+      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "group_check": {
+        "status": "shareholder_structure_not_independently_checked",
+        "checked_at": "2026-10-09",
+        "basis": "Neither a corporate parent nor independent ownership was established for the exact company IČO during this screening; unknown does not mean independent.",
+        "source_urls": []
+      },
+      "direct_customer_check": {
+        "status": "not_verified",
+        "basis": "No verified proof this exact legal entity has an independent sales channel, public product/service offering, and accepts work directly from outside customers (retail or B2B). A registered trade licence and person shareholder are insufficient.",
+        "source_urls": []
+      },
+      "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
+      "eligible_for_outreach": false
     },
     {
       "id": "oct-10",
@@ -368,7 +522,20 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — research required"
+      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "group_check": {
+        "status": "shareholder_structure_not_independently_checked",
+        "checked_at": "2026-10-09",
+        "basis": "Neither a corporate parent nor independent ownership was established for the exact company IČO during this screening; unknown does not mean independent.",
+        "source_urls": []
+      },
+      "direct_customer_check": {
+        "status": "not_verified",
+        "basis": "No verified proof this exact legal entity has an independent sales channel, public product/service offering, and accepts work directly from outside customers (retail or B2B). A registered trade licence and person shareholder are insufficient.",
+        "source_urls": []
+      },
+      "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
+      "eligible_for_outreach": false
     },
     {
       "id": "oct-11",
@@ -401,7 +568,20 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — research required"
+      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "group_check": {
+        "status": "shareholder_structure_not_independently_checked",
+        "checked_at": "2026-10-09",
+        "basis": "Neither a corporate parent nor independent ownership was established for the exact company IČO during this screening; unknown does not mean independent.",
+        "source_urls": []
+      },
+      "direct_customer_check": {
+        "status": "not_verified",
+        "basis": "No verified proof this exact legal entity has an independent sales channel, public product/service offering, and accepts work directly from outside customers (retail or B2B). A registered trade licence and person shareholder are insufficient.",
+        "source_urls": []
+      },
+      "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
+      "eligible_for_outreach": false
     },
     {
       "id": "oct-12",
@@ -433,7 +613,20 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — research required"
+      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "group_check": {
+        "status": "shareholder_structure_not_independently_checked",
+        "checked_at": "2026-10-09",
+        "basis": "Neither a corporate parent nor independent ownership was established for the exact company IČO during this screening; unknown does not mean independent.",
+        "source_urls": []
+      },
+      "direct_customer_check": {
+        "status": "not_verified",
+        "basis": "No verified proof this exact legal entity has an independent sales channel, public product/service offering, and accepts work directly from outside customers (retail or B2B). A registered trade licence and person shareholder are insufficient.",
+        "source_urls": []
+      },
+      "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
+      "eligible_for_outreach": false
     },
     {
       "id": "oct-13",
@@ -465,7 +658,20 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — research required"
+      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "group_check": {
+        "status": "shareholder_structure_not_independently_checked",
+        "checked_at": "2026-10-09",
+        "basis": "Neither a corporate parent nor independent ownership was established for the exact company IČO during this screening; unknown does not mean independent.",
+        "source_urls": []
+      },
+      "direct_customer_check": {
+        "status": "not_verified",
+        "basis": "No verified proof this exact legal entity has an independent sales channel, public product/service offering, and accepts work directly from outside customers (retail or B2B). A registered trade licence and person shareholder are insufficient.",
+        "source_urls": []
+      },
+      "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
+      "eligible_for_outreach": false
     },
     {
       "id": "oct-14",
@@ -497,7 +703,20 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — research required"
+      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "group_check": {
+        "status": "shareholder_structure_not_independently_checked",
+        "checked_at": "2026-10-09",
+        "basis": "Neither a corporate parent nor independent ownership was established for the exact company IČO during this screening; unknown does not mean independent.",
+        "source_urls": []
+      },
+      "direct_customer_check": {
+        "status": "not_verified",
+        "basis": "No verified proof this exact legal entity has an independent sales channel, public product/service offering, and accepts work directly from outside customers (retail or B2B). A registered trade licence and person shareholder are insufficient.",
+        "source_urls": []
+      },
+      "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
+      "eligible_for_outreach": false
     },
     {
       "id": "oct-15",
@@ -529,7 +748,20 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — research required"
+      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "group_check": {
+        "status": "shareholder_structure_not_independently_checked",
+        "checked_at": "2026-10-09",
+        "basis": "Neither a corporate parent nor independent ownership was established for the exact company IČO during this screening; unknown does not mean independent.",
+        "source_urls": []
+      },
+      "direct_customer_check": {
+        "status": "not_verified",
+        "basis": "No verified proof this exact legal entity has an independent sales channel, public product/service offering, and accepts work directly from outside customers (retail or B2B). A registered trade licence and person shareholder are insufficient.",
+        "source_urls": []
+      },
+      "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
+      "eligible_for_outreach": false
     },
     {
       "id": "oct-16",
@@ -561,7 +793,20 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — research required"
+      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "group_check": {
+        "status": "shareholder_structure_not_independently_checked",
+        "checked_at": "2026-10-09",
+        "basis": "Neither a corporate parent nor independent ownership was established for the exact company IČO during this screening; unknown does not mean independent.",
+        "source_urls": []
+      },
+      "direct_customer_check": {
+        "status": "not_verified",
+        "basis": "No verified proof this exact legal entity has an independent sales channel, public product/service offering, and accepts work directly from outside customers (retail or B2B). A registered trade licence and person shareholder are insufficient.",
+        "source_urls": []
+      },
+      "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
+      "eligible_for_outreach": false
     },
     {
       "id": "oct-17",
@@ -593,7 +838,20 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — research required"
+      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "group_check": {
+        "status": "shareholder_structure_not_independently_checked",
+        "checked_at": "2026-10-09",
+        "basis": "Neither a corporate parent nor independent ownership was established for the exact company IČO during this screening; unknown does not mean independent.",
+        "source_urls": []
+      },
+      "direct_customer_check": {
+        "status": "not_verified",
+        "basis": "No verified proof this exact legal entity has an independent sales channel, public product/service offering, and accepts work directly from outside customers (retail or B2B). A registered trade licence and person shareholder are insufficient.",
+        "source_urls": []
+      },
+      "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
+      "eligible_for_outreach": false
     },
     {
       "id": "oct-18",
@@ -625,7 +883,20 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — research required"
+      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "group_check": {
+        "status": "shareholder_structure_not_independently_checked",
+        "checked_at": "2026-10-09",
+        "basis": "Neither a corporate parent nor independent ownership was established for the exact company IČO during this screening; unknown does not mean independent.",
+        "source_urls": []
+      },
+      "direct_customer_check": {
+        "status": "not_verified",
+        "basis": "No verified proof this exact legal entity has an independent sales channel, public product/service offering, and accepts work directly from outside customers (retail or B2B). A registered trade licence and person shareholder are insufficient.",
+        "source_urls": []
+      },
+      "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
+      "eligible_for_outreach": false
     },
     {
       "id": "oct-19",
@@ -657,7 +928,20 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — research required"
+      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "group_check": {
+        "status": "shareholder_structure_not_independently_checked",
+        "checked_at": "2026-10-09",
+        "basis": "Neither a corporate parent nor independent ownership was established for the exact company IČO during this screening; unknown does not mean independent.",
+        "source_urls": []
+      },
+      "direct_customer_check": {
+        "status": "not_verified",
+        "basis": "No verified proof this exact legal entity has an independent sales channel, public product/service offering, and accepts work directly from outside customers (retail or B2B). A registered trade licence and person shareholder are insufficient.",
+        "source_urls": []
+      },
+      "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
+      "eligible_for_outreach": false
     },
     {
       "id": "oct-20",
@@ -689,7 +973,20 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — research required"
+      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "group_check": {
+        "status": "shareholder_structure_not_independently_checked",
+        "checked_at": "2026-10-09",
+        "basis": "Neither a corporate parent nor independent ownership was established for the exact company IČO during this screening; unknown does not mean independent.",
+        "source_urls": []
+      },
+      "direct_customer_check": {
+        "status": "not_verified",
+        "basis": "No verified proof this exact legal entity has an independent sales channel, public product/service offering, and accepts work directly from outside customers (retail or B2B). A registered trade licence and person shareholder are insufficient.",
+        "source_urls": []
+      },
+      "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
+      "eligible_for_outreach": false
     },
     {
       "id": "oct-21",
@@ -721,7 +1018,20 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — research required"
+      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "group_check": {
+        "status": "shareholder_structure_not_independently_checked",
+        "checked_at": "2026-10-09",
+        "basis": "Neither a corporate parent nor independent ownership was established for the exact company IČO during this screening; unknown does not mean independent.",
+        "source_urls": []
+      },
+      "direct_customer_check": {
+        "status": "not_verified",
+        "basis": "No verified proof this exact legal entity has an independent sales channel, public product/service offering, and accepts work directly from outside customers (retail or B2B). A registered trade licence and person shareholder are insufficient.",
+        "source_urls": []
+      },
+      "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
+      "eligible_for_outreach": false
     },
     {
       "id": "oct-22",
@@ -753,7 +1063,20 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — research required"
+      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "group_check": {
+        "status": "shareholder_structure_not_independently_checked",
+        "checked_at": "2026-10-09",
+        "basis": "Neither a corporate parent nor independent ownership was established for the exact company IČO during this screening; unknown does not mean independent.",
+        "source_urls": []
+      },
+      "direct_customer_check": {
+        "status": "not_verified",
+        "basis": "No verified proof this exact legal entity has an independent sales channel, public product/service offering, and accepts work directly from outside customers (retail or B2B). A registered trade licence and person shareholder are insufficient.",
+        "source_urls": []
+      },
+      "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
+      "eligible_for_outreach": false
     },
     {
       "id": "oct-23",
@@ -785,7 +1108,20 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — research required"
+      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "group_check": {
+        "status": "shareholder_structure_not_independently_checked",
+        "checked_at": "2026-10-09",
+        "basis": "Neither a corporate parent nor independent ownership was established for the exact company IČO during this screening; unknown does not mean independent.",
+        "source_urls": []
+      },
+      "direct_customer_check": {
+        "status": "not_verified",
+        "basis": "No verified proof this exact legal entity has an independent sales channel, public product/service offering, and accepts work directly from outside customers (retail or B2B). A registered trade licence and person shareholder are insufficient.",
+        "source_urls": []
+      },
+      "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
+      "eligible_for_outreach": false
     },
     {
       "id": "oct-24",
@@ -817,7 +1153,20 @@
       "public_company_contact_verified": false,
       "operating_business_verified": false,
       "checked_at": "2026-10-09",
-      "outreach_status": "NOT APPROVED — research required"
+      "outreach_status": "NOT APPROVED — independent public/customer-facing operation not verified",
+      "group_check": {
+        "status": "shareholder_structure_not_independently_checked",
+        "checked_at": "2026-10-09",
+        "basis": "Neither a corporate parent nor independent ownership was established for the exact company IČO during this screening; unknown does not mean independent.",
+        "source_urls": []
+      },
+      "direct_customer_check": {
+        "status": "not_verified",
+        "basis": "No verified proof this exact legal entity has an independent sales channel, public product/service offering, and accepts work directly from outside customers (retail or B2B). A registered trade licence and person shareholder are insufficient.",
+        "source_urls": []
+      },
+      "direct_market_gate": "HOLD — independent direct-to-customer operation not confirmed",
+      "eligible_for_outreach": false
     }
   ]
 }
