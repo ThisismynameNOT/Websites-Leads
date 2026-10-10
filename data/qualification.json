@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-09T15:58:48.131042+00:00",
+  "generated_at": "2026-10-10T13:20:15.357997+00:00",
   "scoring_model": {
     "website_opportunity": 25,
     "financial_capacity": 25,
@@ -571,11 +571,11 @@
       "verified_ares": true
     },
     "res-30071470": {
-      "score": 15,
+      "score": 25,
       "score_breakdown": {
         "website_opportunity": 0,
         "financial_capacity": 0,
-        "business_activity": 0,
+        "business_activity": 10,
         "lead_generation_value": 12,
         "accessible_contact": 0,
         "cms_suitability": 3
@@ -588,13 +588,12 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "SEARCH_UNAVAILABLE",
+      "website_classification": "AMBIGUOUS",
       "registered_at": "2026-09-23",
       "source_type": "csu_res",
       "outstanding_checks": [
-        "ARES identity and active legal status not verified",
         "Registered HQ is not evidence of trading premises",
-        "Website search incomplete or unavailable",
+        "Company website identity ambiguous",
         "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
@@ -602,16 +601,16 @@
         "Buyer interest and budget not confirmed"
       ],
       "tier": 1,
-      "verified_ares": false
+      "verified_ares": true
     },
     "res-30071160": {
-      "score": 15,
+      "score": 28,
       "score_breakdown": {
         "website_opportunity": 0,
         "financial_capacity": 0,
-        "business_activity": 0,
+        "business_activity": 10,
         "lead_generation_value": 12,
-        "accessible_contact": 0,
+        "accessible_contact": 3,
         "cms_suitability": 3
       },
       "priority": "low",
@@ -622,21 +621,19 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "SEARCH_UNAVAILABLE",
+      "website_classification": "AMBIGUOUS",
       "registered_at": "2026-09-23",
       "source_type": "csu_res",
       "outstanding_checks": [
-        "ARES identity and active legal status not verified",
         "Registered HQ is not evidence of trading premises",
-        "Website search incomplete or unavailable",
+        "Company website identity ambiguous",
         "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
         "Buyer interest and budget not confirmed"
       ],
       "tier": 1,
-      "verified_ares": false
+      "verified_ares": true
     },
     "res-30070139": {
       "score": 28,
@@ -2183,13 +2180,13 @@
       "verified_ares": false
     },
     "res-30074193": {
-      "score": 15,
+      "score": 31,
       "score_breakdown": {
         "website_opportunity": 0,
         "financial_capacity": 0,
-        "business_activity": 0,
+        "business_activity": 13,
         "lead_generation_value": 12,
-        "accessible_contact": 0,
+        "accessible_contact": 3,
         "cms_suitability": 3
       },
       "priority": "low",
@@ -2200,28 +2197,25 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "SEARCH_UNAVAILABLE",
+      "website_classification": "VERIFIED_WEBSITE",
       "registered_at": "2026-09-24",
       "source_type": "csu_res",
       "outstanding_checks": [
-        "ARES identity and active legal status not verified",
         "Registered HQ is not evidence of trading premises",
-        "Website search incomplete or unavailable",
         "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
         "Buyer interest and budget not confirmed"
       ],
       "tier": 1,
-      "verified_ares": false
+      "verified_ares": true
     },
     "res-30072476": {
-      "score": 15,
+      "score": 25,
       "score_breakdown": {
         "website_opportunity": 0,
         "financial_capacity": 0,
-        "business_activity": 0,
+        "business_activity": 10,
         "lead_generation_value": 12,
         "accessible_contact": 0,
         "cms_suitability": 3
@@ -2234,13 +2228,12 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "SEARCH_UNAVAILABLE",
+      "website_classification": "AMBIGUOUS",
       "registered_at": "2026-09-24",
       "source_type": "csu_res",
       "outstanding_checks": [
-        "ARES identity and active legal status not verified",
         "Registered HQ is not evidence of trading premises",
-        "Website search incomplete or unavailable",
+        "Company website identity ambiguous",
         "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
@@ -2248,16 +2241,16 @@
         "Buyer interest and budget not confirmed"
       ],
       "tier": 1,
-      "verified_ares": false
+      "verified_ares": true
     },
     "res-30071429": {
-      "score": 15,
+      "score": 28,
       "score_breakdown": {
         "website_opportunity": 0,
         "financial_capacity": 0,
-        "business_activity": 0,
+        "business_activity": 10,
         "lead_generation_value": 12,
-        "accessible_contact": 0,
+        "accessible_contact": 3,
         "cms_suitability": 3
       },
       "priority": "low",
@@ -2268,21 +2261,19 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "SEARCH_UNAVAILABLE",
+      "website_classification": "AMBIGUOUS",
       "registered_at": "2026-09-24",
       "source_type": "csu_res",
       "outstanding_checks": [
-        "ARES identity and active legal status not verified",
         "Registered HQ is not evidence of trading premises",
-        "Website search incomplete or unavailable",
+        "Company website identity ambiguous",
         "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
         "Buyer interest and budget not confirmed"
       ],
       "tier": 1,
-      "verified_ares": false
+      "verified_ares": true
     },
     "res-30070708": {
       "score": 28,
@@ -2708,13 +2699,13 @@
       "verified_ares": false
     },
     "res-30075041": {
-      "score": 15,
+      "score": 31,
       "score_breakdown": {
         "website_opportunity": 0,
         "financial_capacity": 0,
-        "business_activity": 0,
+        "business_activity": 13,
         "lead_generation_value": 12,
-        "accessible_contact": 0,
+        "accessible_contact": 3,
         "cms_suitability": 3
       },
       "priority": "low",
@@ -2725,30 +2716,27 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "SEARCH_UNAVAILABLE",
+      "website_classification": "VERIFIED_WEBSITE",
       "registered_at": "2026-09-25",
       "source_type": "csu_res",
       "outstanding_checks": [
-        "ARES identity and active legal status not verified",
         "Registered HQ is not evidence of trading premises",
-        "Website search incomplete or unavailable",
         "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
         "Buyer interest and budget not confirmed"
       ],
       "tier": 1,
-      "verified_ares": false
+      "verified_ares": true
     },
     "res-30072867": {
-      "score": 15,
+      "score": 28,
       "score_breakdown": {
         "website_opportunity": 0,
         "financial_capacity": 0,
-        "business_activity": 0,
+        "business_activity": 10,
         "lead_generation_value": 12,
-        "accessible_contact": 0,
+        "accessible_contact": 3,
         "cms_suitability": 3
       },
       "priority": "low",
@@ -2759,28 +2747,26 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "SEARCH_UNAVAILABLE",
+      "website_classification": "AMBIGUOUS",
       "registered_at": "2026-09-25",
       "source_type": "csu_res",
       "outstanding_checks": [
-        "ARES identity and active legal status not verified",
         "Registered HQ is not evidence of trading premises",
-        "Website search incomplete or unavailable",
+        "Company website identity ambiguous",
         "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
         "Buyer interest and budget not confirmed"
       ],
       "tier": 1,
-      "verified_ares": false
+      "verified_ares": true
     },
     "res-30071879": {
-      "score": 15,
+      "score": 25,
       "score_breakdown": {
         "website_opportunity": 0,
         "financial_capacity": 0,
-        "business_activity": 0,
+        "business_activity": 10,
         "lead_generation_value": 12,
         "accessible_contact": 0,
         "cms_suitability": 3
@@ -2793,13 +2779,12 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "SEARCH_UNAVAILABLE",
+      "website_classification": "AMBIGUOUS",
       "registered_at": "2026-09-25",
       "source_type": "csu_res",
       "outstanding_checks": [
-        "ARES identity and active legal status not verified",
         "Registered HQ is not evidence of trading premises",
-        "Website search incomplete or unavailable",
+        "Company website identity ambiguous",
         "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
@@ -2807,7 +2792,7 @@
         "Buyer interest and budget not confirmed"
       ],
       "tier": 1,
-      "verified_ares": false
+      "verified_ares": true
     },
     "res-30067766": {
       "score": 25,
@@ -10156,13 +10141,13 @@
       "verified_ares": true
     },
     "res-07075057": {
-      "score": 15,
+      "score": 29,
       "score_breakdown": {
         "website_opportunity": 0,
         "financial_capacity": 0,
-        "business_activity": 0,
+        "business_activity": 11,
         "lead_generation_value": 12,
-        "accessible_contact": 0,
+        "accessible_contact": 3,
         "cms_suitability": 3
       },
       "priority": "low",
@@ -10173,31 +10158,28 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "SEARCH_UNAVAILABLE",
+      "website_classification": "VERIFIED_WEBSITE",
       "registered_at": "2018-04-26",
       "source_type": "csu_res",
       "outstanding_checks": [
-        "ARES identity and active legal status not verified",
         "Registered HQ is not evidence of trading premises",
-        "Website search incomplete or unavailable",
         "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
         "Buyer interest and budget not confirmed"
       ],
       "tier": 1,
-      "verified_ares": false
+      "verified_ares": true
     },
     "res-07491646": {
-      "score": 15,
+      "score": 50,
       "score_breakdown": {
-        "website_opportunity": 0,
+        "website_opportunity": 16,
         "financial_capacity": 0,
-        "business_activity": 0,
-        "lead_generation_value": 12,
-        "accessible_contact": 0,
-        "cms_suitability": 3
+        "business_activity": 11,
+        "lead_generation_value": 15,
+        "accessible_contact": 3,
+        "cms_suitability": 5
       },
       "priority": "low",
       "qualification_status": "research_required",
@@ -10207,30 +10189,26 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "SEARCH_UNAVAILABLE",
+      "website_classification": "VERIFIED_WEBSITE",
       "registered_at": "2018-09-25",
       "source_type": "csu_res",
       "outstanding_checks": [
-        "ARES identity and active legal status not verified",
         "Registered HQ is not evidence of trading premises",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
         "Buyer interest and budget not confirmed"
       ],
       "tier": 1,
-      "verified_ares": false
+      "verified_ares": true
     },
     "res-07687303": {
-      "score": 15,
+      "score": 26,
       "score_breakdown": {
         "website_opportunity": 0,
         "financial_capacity": 0,
-        "business_activity": 0,
+        "business_activity": 8,
         "lead_generation_value": 12,
-        "accessible_contact": 0,
+        "accessible_contact": 3,
         "cms_suitability": 3
       },
       "priority": "low",
@@ -10241,30 +10219,28 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "SEARCH_UNAVAILABLE",
+      "website_classification": "AMBIGUOUS",
       "registered_at": "2018-11-30",
       "source_type": "csu_res",
       "outstanding_checks": [
-        "ARES identity and active legal status not verified",
         "Registered HQ is not evidence of trading premises",
-        "Website search incomplete or unavailable",
+        "Company website identity ambiguous",
         "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
         "Buyer interest and budget not confirmed"
       ],
       "tier": 1,
-      "verified_ares": false
+      "verified_ares": true
     },
     "res-07699981": {
-      "score": 15,
+      "score": 29,
       "score_breakdown": {
         "website_opportunity": 0,
         "financial_capacity": 0,
-        "business_activity": 0,
+        "business_activity": 11,
         "lead_generation_value": 12,
-        "accessible_contact": 0,
+        "accessible_contact": 3,
         "cms_suitability": 3
       },
       "priority": "low",
@@ -10275,30 +10251,27 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "SEARCH_UNAVAILABLE",
+      "website_classification": "VERIFIED_WEBSITE",
       "registered_at": "2018-12-12",
       "source_type": "csu_res",
       "outstanding_checks": [
-        "ARES identity and active legal status not verified",
         "Registered HQ is not evidence of trading premises",
-        "Website search incomplete or unavailable",
         "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
         "Buyer interest and budget not confirmed"
       ],
       "tier": 1,
-      "verified_ares": false
+      "verified_ares": true
     },
     "res-07683146": {
-      "score": 15,
+      "score": 29,
       "score_breakdown": {
         "website_opportunity": 0,
         "financial_capacity": 0,
-        "business_activity": 0,
+        "business_activity": 11,
         "lead_generation_value": 12,
-        "accessible_contact": 0,
+        "accessible_contact": 3,
         "cms_suitability": 3
       },
       "priority": "low",
@@ -10309,31 +10282,28 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "SEARCH_UNAVAILABLE",
+      "website_classification": "VERIFIED_WEBSITE",
       "registered_at": "2018-12-16",
       "source_type": "csu_res",
       "outstanding_checks": [
-        "ARES identity and active legal status not verified",
         "Registered HQ is not evidence of trading premises",
-        "Website search incomplete or unavailable",
         "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
         "Buyer interest and budget not confirmed"
       ],
       "tier": 1,
-      "verified_ares": false
+      "verified_ares": true
     },
     "res-07866739": {
-      "score": 15,
+      "score": 50,
       "score_breakdown": {
-        "website_opportunity": 0,
+        "website_opportunity": 16,
         "financial_capacity": 0,
-        "business_activity": 0,
-        "lead_generation_value": 12,
-        "accessible_contact": 0,
-        "cms_suitability": 3
+        "business_activity": 11,
+        "lead_generation_value": 15,
+        "accessible_contact": 3,
+        "cms_suitability": 5
       },
       "priority": "low",
       "qualification_status": "research_required",
@@ -10343,30 +10313,26 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "SEARCH_UNAVAILABLE",
+      "website_classification": "VERIFIED_WEBSITE",
       "registered_at": "2019-02-04",
       "source_type": "csu_res",
       "outstanding_checks": [
-        "ARES identity and active legal status not verified",
         "Registered HQ is not evidence of trading premises",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
         "Buyer interest and budget not confirmed"
       ],
       "tier": 1,
-      "verified_ares": false
+      "verified_ares": true
     },
     "res-08008949": {
-      "score": 15,
+      "score": 26,
       "score_breakdown": {
         "website_opportunity": 0,
         "financial_capacity": 0,
-        "business_activity": 0,
+        "business_activity": 8,
         "lead_generation_value": 12,
-        "accessible_contact": 0,
+        "accessible_contact": 3,
         "cms_suitability": 3
       },
       "priority": "low",
@@ -10377,30 +10343,28 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "SEARCH_UNAVAILABLE",
+      "website_classification": "AMBIGUOUS",
       "registered_at": "2019-03-20",
       "source_type": "csu_res",
       "outstanding_checks": [
-        "ARES identity and active legal status not verified",
         "Registered HQ is not evidence of trading premises",
-        "Website search incomplete or unavailable",
+        "Company website identity ambiguous",
         "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
         "Buyer interest and budget not confirmed"
       ],
       "tier": 1,
-      "verified_ares": false
+      "verified_ares": true
     },
     "res-08241678": {
-      "score": 15,
+      "score": 29,
       "score_breakdown": {
         "website_opportunity": 0,
         "financial_capacity": 0,
-        "business_activity": 0,
+        "business_activity": 11,
         "lead_generation_value": 12,
-        "accessible_contact": 0,
+        "accessible_contact": 3,
         "cms_suitability": 3
       },
       "priority": "low",
@@ -10411,21 +10375,18 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "SEARCH_UNAVAILABLE",
+      "website_classification": "VERIFIED_WEBSITE",
       "registered_at": "2019-06-10",
       "source_type": "csu_res",
       "outstanding_checks": [
-        "ARES identity and active legal status not verified",
         "Registered HQ is not evidence of trading premises",
-        "Website search incomplete or unavailable",
         "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
         "Buyer interest and budget not confirmed"
       ],
       "tier": 1,
-      "verified_ares": false
+      "verified_ares": true
     },
     "res-08295417": {
       "score": 15,

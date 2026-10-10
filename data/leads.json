@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-09T15:47:44Z",
+  "generated_at": "2026-10-10T13:14:01Z",
   "collector": {
     "name": "ČSÚ RES primary + OSM supplemental + Kurzy.cz reviewed leads + ARES verification",
-    "segment": "services",
+    "segment": "trades",
     "kurzy_crosschecks": 10,
     "kurzy_scope": "small public manually reviewed sample, not a complete licensed daily export",
     "res_candidates_loaded": 340,
     "res_added_this_run": 0,
     "res_snapshot_at": "2026-10-08T22:50:02.935409+00:00",
     "discovered_this_run": 0,
-    "listings_examined": 313,
+    "listings_examined": 0,
     "notes": "No-website tag denotes a missing directory URL, not independently verified absence of a website. Scores are preliminary."
   },
   "leads": [
