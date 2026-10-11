@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "review_date": "2026-10-11",
+  "source_policy": "Web sources and commercial registers checked independently; source dates and search limitations retained. No confirmation of buying intent or website budget.",
+  "task": "Find independently operating customer-facing Czech brands with real outside clients and concrete website opportunity. Exclude corporate group captive and project-only property SPV.",
+  "summary": {
+    "independent_public_operator_supported": 3,
+    "actionable_website_defect_observed": 1,
+    "first_party_web_absence_confirmed": 0,
+    "website_status_pending": 2,
+    "approved_as_new_company_no_site_qualified": 0
+  },
+  "priority": [
+    {
+      "company": "Martin Kozák – Truhlářství",
+      "ico": "18666027",
+      "place": "Klíčovská 840/37, Praha 9 – Vysočany",
+      "sector": "Custom joinery and kitchen renovation",
+      "business_contact": {
+        "phone": "+420 602 360 838",
+        "email": "marhok@volny.cz"
+      },
+      "commercial_operation": "Business directory gives matching website, business contact, recent public customer reviews from 2023-24; official registry shows sole-trader identity and active joinery; first-party site describes working custom furniture workshop and services to external clients.",
+      "standalone_brand": "Sole-trader public brand; no corporate shareholder/parent applicable. Caution: an additional Martin Kozák IČO is registered at identical address; verify which contracting person holds current project proposals before outreach.",
+      "website": "https://www.marhok.cz/",
+      "website_state": "OWN_SITE_PRESENT_WITH_OBSERVED_CONTENT_DEFECT",
+      "observed_issue": "Website homepage visibly contains unrelated 'AGRA Podještědí' agricultural-company heading and assertion of farming 900 hectares, while offering kitchen/furniture services. This is a specific editorial/credibility defect; do not infer a formal technical failure or ownership link from copied content.",
+      "possible_offer": "Targeted content cleanup, polished product/project galleries, trust proof and quotation experience; redesign instead of new site.",
+      "status": "RESEARCH — EXISTING SITE / TARGETED RENOVATION ONLY",
+      "qualified_no_site": false,
+      "finance_verified": false,
+      "buyer_interest_verified": false,
+      "source_urls": [
+        "https://www.marhok.cz/",
+        "https://www.firmy.cz/detail/2590059-martin-kozak-truhlarstvi-praha-vysocany.html",
+        "https://www.podnikatel.cz/rejstrik/martin-kozak-18666027/",
+        "https://www.podnikatel.cz/rejstrik/martin-kozak-21773980/"
+      ],
+      "next_checks": [
+        "Ask which legal person currently contracts the jobs",
+        "Recheck website visibly in desktop/mobile browser",
+        "Confirm interest and budget before proposing changes"
+      ]
+    },
+    {
+      "company": "Brow Atelier – Marina Vladimirovna Hreben",
+      "ico": "21913307",
+      "place": "Praha 8; published booking addresses differ (Trousilova 1065/6 vs Opletalova 27 on a current Notino snapshot)",
+      "sector": "Beauty / eyebrow and eyelash specialist",
+      "business_contact": {
+        "phone": "+420 775 479 574",
+        "email": "mhreben@seznam.cz"
+      },
+      "commercial_operation": "Named sole trader with active cosmetics licences, independently bookable services on Notino and verified customer reviews in 2026. Branded listings and public contact channels exist.",
+      "standalone_brand": "Individually operated branded service business under her exact IČO, with external paying consumer sessions. No parent company evident in individual sole-trader register, though salon tenancy/location requires validation.",
+      "website": "https://taplink.cc/marinahreben",
+      "website_state": "BRAND_USES_THIRD_PARTY_MICROSITE_AND_BOOKING_PLATFORM",
+      "observed_issue": "Business directories attribute Instagram, Taplink and Notino booking page, rather than a confirmed standalone first-party domain. This does not prove no other company-owned site exists. Notino booking already works, so clarify demand for a separate site.",
+      "possible_offer": "Modest independent branded landing page with services/portfolio, languages, contact and a link to existing Notino bookings.",
+      "status": "RESEARCH — TRUE PUBLIC BRAND / WEBSITE OWNERSHIP AND ADDRESS TO CONFIRM",
+      "qualified_no_site": false,
+      "finance_verified": false,
+      "buyer_interest_verified": false,
+      "source_urls": [
+        "https://www.podnikatel.cz/rejstrik/marina-vladimirovna-hreben-21913307/",
+        "https://www.notino.cz/salony/brow-atelier/",
+        "https://www.zivefirmy.cz/brow-atelier_f1870591?cz=905&loc=50490105",
+        "https://www.finmag.cz/obchodni-rejstrik/zivnostensky-rejstrik/21913307-marina-vladimirovna-hreben"
+      ],
+      "next_checks": [
+        "Confirm latest physical salon/booking address with proprietor",
+        "Search exact IČO and brand again for any first-party domain",
+        "Validate whether a separate branded site would add value beyond already-active Notino reservations"
+      ]
+    }
+  ],
+  "additional_screen": [
+    {
+      "company": "Café Marathon",
+      "ico": "23668008",
+      "status": "HOLD — EXISTING SITE / LIVE BROWSER RECHECK NEEDED",
+      "detail": "Legally registered private cooperative serving outside customers; recent Oct 2026 independent customer reviews confirm current operation. HappyCow links cafemarathon.cz; a historical crawler snapshot shows a default WordPress sample page, but current direct fetch returned a 502 (tool failure could be cause). Thus there is an existing domain, NOT a confirmed no-site lead; current defect needs real browser validation. Café on university campus does not by itself mean parent ownership.",
+      "sources": [
+        "https://www.podnikatel.cz/rejstrik/druzstvo-cafe-marathon-23668008/",
+        "https://www.happycow.net/reviews/cafe-marathon-prague-483405",
+        "https://www.cafemarathon.cz/"
+      ]
+    },
+    {
+      "company": "An Beauty Studio",
+      "ico": "22578480",
+      "status": "LOW PRIORITY — THIRD-PARTY SOCIAL PRESENCE ONLY",
+      "detail": "Individual proprietor Minh Phuong Pham operates identifiable salon with public phone/email, advertised services and 2026 staffing vacancies; business profile links only Instagram. One unfavorable dated customer review limits commercial confidence; no separate website ownership or buyer budget is proven.",
+      "sources": [
+        "https://www.firmy.cz/detail/13876102-an-beauty-studio-praha-haje.html",
+        "https://www.zivefirmy.cz/an-beauty-studio_f1906307"
+      ]
+    }
+  ],
+  "rejected_existing_web_examples": [
+    {
+      "name": "Střechy Štrouchal",
+      "ico": "05585171",
+      "website": "https://www.strechystrouchal.cz",
+      "why": "First-party site positively listed and linked to legal IČO"
+    },
+    {
+      "name": "Bakule truhlářství",
+      "ico": "06389414",
+      "website": "https://bakule-truhlarstvi.cz",
+      "why": "First-party portfolio already extensive"
+    },
+    {
+      "name": "Truhlářství Jan Klier",
+      "ico": "08134847",
+      "website": "https://truhlarstviklier.cz",
+      "why": "Developed site and completed public contract"
+    },
+    {
+      "name": "HAKO nábytek",
+      "ico": "19765576",
+      "website": "https://hakonabytek.com",
+      "why": "Operating premises in Brno, not Prague registered-office location; developed first-party website"
+    }
+  ]
+}
