@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-11T13:46:58.949508+00:00",
+  "generated_at": "2026-10-12T16:29:46.018632+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -3179,76 +3179,109 @@
     "res-30076803": {
       "lead_id": "res-30076803",
       "name": "Ben Terence Creighton",
-      "checked_at": "2026-10-08",
-      "engine_version": 5,
+      "checked_at": "2026-10-12",
+      "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "searched",
+        "status": "partial_search",
         "queries": [
-          "\"Ben Terence Creighton\" Praha web kontakt služby",
           "\"Ben Terence Creighton\" IČO 30076803 web",
-          "\"Ben Terence Creighton\" Specialized B2B Praha reference",
-          "\"Ben Terence Creighton\" web služby reference kontakt"
+          "\"Ben Terence Creighton\" Praha Specialized B2B kontakt",
+          "\"Ben Terence Creighton\" \"Sokolovská 79\" web",
+          "\"Ben Terence Creighton\" Praha služby reference poptávka"
         ],
+        "successful_queries": 1,
         "candidates": [
           {
-            "url": "https://www.linkedin.com/pub/dir/Ben+/Creighton+",
-            "title": "40+ \"Ben Creighton\" profiles | LinkedIn",
-            "snippet": "View the profiles of professionals named \"Ben Creighton\" on LinkedIn. There are 40+ professionals named \"Ben Creighton\", who use LinkedIn to exchange information, ideas, and opportunities."
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
           },
           {
-            "url": "https://www.linkedin.com/in/ben-creighton-18564119",
-            "title": "Ben Creighton - Web Master at USC School of Dentistry | LinkedInBen Creighton (@ben_creighton) • Instagram photos and videosBen Creighton: Business Profiles | ZoomInfo.comDepartame",
-            "snippet": "Web Master at USC School of Dentistry · Experience: USC School of Dentistry · Location: Los Angeles · 37 connections on LinkedIn. View Ben Creighton’s profile on LinkedIn, a professional ... 396 followers · 752 following. See photos and videos from friends on Instagram, and discover other accounts you'll love. Find con"
+            "url": "https://hans.cz/",
+            "title": "H.A.N.S. stavby, a.s. - Osvědčená stavební společnost",
+            "snippet": "H.A.N.S. stavby pro Vás staví již mnoho let. Díky svým zkušenostem nabízíme špičkové služby v oboru. Vlastníme také výrobní závody Prefa dílů..."
           },
           {
-            "url": "https://www.zoominfo.com/people/Ben/Creighton",
-            "title": "Ben Creighton: Business Profiles | ZoomInfo.com",
-            "snippet": "Find contact and company information for business people in our free business information database. This directory covers Ben Creighton"
+            "url": "https://www.poptavka.net/",
+            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
+            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
           },
           {
-            "url": "https://www.instagram.com/ben_creighton/",
-            "title": "Ben Creighton (@ben_creighton) • Instagram photos and videos",
-            "snippet": "396 followers · 752 following. See photos and videos from friends on Instagram, and discover other accounts you'll love."
+            "url": "https://www.tlumoceni-preklady.cz/",
+            "title": "Registr překladatelů ČR - Tlumočení-Překlady.cz",
+            "snippet": "Překlady Praha Ceny, reference a nabídka služeb překladatelů v Praze. Doporučení, ceník, služby. Překlady Brno Využijte zkušenosti překladatelů a překladatelek v Brně. Překlady České Budějovice Doporučeni překladatelé, překladatelky a překladatelské firmy a agentury z Českých Budějovic. Překlady Ostrava"
           },
           {
-            "url": "https://www.gov.pl/web/sluzby-specjalne/kontakt",
-            "title": "Kontakt - Służby specjalne - Portal Gov.pl",
-            "snippet": "Treści tekstowe publikowane w serwisie (z wyłączeniem treści audiowizualnych), są udostępniane na licencji typu Creative Commons: uznanie autorstwa - na tych samych warunkach 4.0 (CC BY-SA 4.0). Materiały audiowizualne, w tym zdjęcia, materiały audio i wideo, są udostępniane na licencji typu Creative Commons: uznanie a"
+            "url": "https://www.presto.cz/",
+            "title": "Překladatelská agentura PRESTO | PRESTO",
+            "snippet": "Hledáte kvalitní překladatelskou agenturu? PRESTO vám zajistí profesionální překlady, tlumočení, lokalizace a další jazykové služby. Přečtěte si více."
           },
           {
-            "url": "https://www.gov.pl/web/obrona-narodowa/departament-wojskowej-sluzby-zdrowia",
-            "title": "Departament Wojskowej Służby Zdrowia - Ministerstwo Obrony ...",
-            "snippet": "Departament Wojskowej Służby Zdrowia odpowiada za wyznaczanie kierunków rozwoju oraz funkcjonowanie systemu ochrony zdrowia i opieki psychologicznej oraz systemu orzecznictwa lekarskiego, a także sprawuje nadzór nad SPZOZ i instytutami badawczymi uczestniczącymi w systemie ochrony zdrowia (IB).Celem Departamentu jest s"
+            "url": "https://www.ceskepreklady.cz/",
+            "title": "Překladatelská agentura České překlady s.r.o.",
+            "snippet": "Hledáte partnera, se kterým prolomíte jazykovou bariéru? Kontaktujte nás, rádi vám s tím pomůžeme. Zajišťujeme profesionální překlady a tlumočení do všech světových jazyků."
           },
           {
-            "url": "https://www.forez.cz/",
-            "title": "Vítejte « FOREZ",
-            "snippet": "Vítejte na stránkách společnosti Forez s.r.o., výrobce kovových i plastových dílů pro automobilový a elektrotechnický […]"
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "O projektu Projekt Poptávky.cz sdružuje 928 607 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
           }
         ],
         "errors": [
-          "TimeoutException: error sending request for url (https://html.duckduckgo.com/html/) > operation timed out",
-          "TimeoutException: error sending request for url (https://html.duckduckgo.com/html/) > operation timed out",
-          "TimeoutException: error sending request for url (https://html.duckduckgo.com/html/) > operation timed out"
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
         ],
         "state": "AMBIGUOUS",
         "website": "",
         "examined": [
           {
-            "url": "https://www.zoominfo.com/people/Ben/Creighton",
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://hans.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.tlumoceni-preklady.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.presto.cz/",
             "result": "ambiguous",
             "evidence": []
           },
           {
-            "url": "https://www.gov.pl/web/sluzby-specjalne/kontakt",
+            "url": "https://www.ceskepreklady.cz/",
             "result": "ambiguous",
-            "evidence": []
+            "evidence": [
+              "Prague mentioned on website"
+            ]
           },
           {
-            "url": "https://www.forez.cz/",
+            "url": "https://www.poptavky.cz/",
             "result": "ambiguous",
-            "evidence": []
+            "evidence": [
+              "Prague mentioned on website"
+            ]
           }
         ],
         "no_website_proven": false
@@ -3312,64 +3345,66 @@
         ]
       },
       "candidate_search_sources": [
-        "https://www.linkedin.com/pub/dir/Ben+/Creighton+",
-        "https://www.linkedin.com/in/ben-creighton-18564119",
-        "https://www.zoominfo.com/people/Ben/Creighton",
-        "https://www.instagram.com/ben_creighton/",
-        "https://www.gov.pl/web/sluzby-specjalne/kontakt",
-        "https://www.gov.pl/web/obrona-narodowa/departament-wojskowej-sluzby-zdrowia",
-        "https://www.forez.cz/"
+        "https://zakazky.epoptavka.cz/",
+        "https://hans.cz/",
+        "https://www.poptavka.net/",
+        "https://www.tlumoceni-preklady.cz/",
+        "https://www.presto.cz/",
+        "https://www.ceskepreklady.cz/",
+        "https://www.poptavky.cz/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
+      "verified_site_public_contacts": {},
       "owner_verified": false,
       "buyer_interest_verified": false
     },
     "res-30076200": {
       "lead_id": "res-30076200",
       "name": "Oleksandr Prymachenko",
-      "checked_at": "2026-10-08",
-      "engine_version": 5,
-      "state": "audited",
+      "checked_at": "2026-10-12",
+      "engine_version": 8,
+      "state": "researched",
       "discovery": {
         "status": "searched",
         "queries": [
-          "\"Oleksandr Prymachenko\" Praha web kontakt služby",
           "\"Oleksandr Prymachenko\" IČO 30076200 web",
-          "\"Oleksandr Prymachenko\" Specialized B2B Praha reference",
-          "\"Oleksandr Prymachenko\" web služby reference kontakt"
+          "\"Oleksandr Prymachenko\" Praha Specialized B2B kontakt",
+          "\"Oleksandr Prymachenko\" \"Jana Přibíka 957\" web",
+          "\"Oleksandr Prymachenko\" Praha služby reference poptávka"
         ],
+        "successful_queries": 2,
         "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-oleksandr-prymachenko-30076200",
+            "title": "Oleksandr Prymachenko Praha IČO 30076200 kontakty 10.10.2026 ...",
+            "snippet": "Podrobnosti o firmě Oleksandr Prymachenko Praha IČO 30076200 kontakty 10.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
+          },
           {
             "url": "https://rejstriky.finance.cz/firma-oleksandr-prymachenko-30076200/kontakty",
             "title": "Oleksandr Prymachenko Praha 9 IČO 30076200 kontakty 06.10. ...",
-            "snippet": "Podrobnosti o firmě Oleksandr Prymachenko Praha 9 IČO 30076200 kontakty 06.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru…"
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Oleksandr Prymachenko, která sídlí v obci Praha 9 a bylo jí přiděleno IČO 30076200. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
           },
           {
             "url": "https://www.linkedin.com/pub/dir/Oleksandr/Prymachenko",
             "title": "3 \"Oleksandr Prymachenko\" profiles | LinkedIn",
-            "snippet": "View the profiles of professionals named \"Oleksandr Prymachenko\" on LinkedIn. There are 3 professionals named \"Oleksandr Prymachenko\", who use LinkedIn to exchange information, ideas, and ..."
+            "snippet": "View the profiles of professionals named \"Oleksandr Prymachenko\" on LinkedIn. There are 3 professionals named \"Oleksandr Prymachenko\", who use LinkedIn to exchange information, ideas, and..."
           },
           {
             "url": "https://de.linkedin.com/in/oprym/de",
-            "title": "Oleksandr Prymachenko – Risiko manager, Buchalter | LinkedInOleksandr Prymachenko - Senior Frontend Engineer | LinkedInI’m excited to share that I’ve completed the professional ...",
-            "snippet": "Risiko manager, Buchalter · My professional areas are capital, liquidity and market risk management, ALM and finance. · Berufserfahrung: Ukreximbank · Ausbildung: Nationale Wirtschaftsuniversität Kiew · Standort: Berlin · 500+ Kontakte auf LinkedIn. Sehen Sie sich das Profil von Oleksandr Prymachenko auf LinkedIn, eine"
-          },
-          {
-            "url": "https://pl.linkedin.com/in/oleksandr-prymachenko-b82693101",
-            "title": "Oleksandr Prymachenko - Senior Frontend Engineer | LinkedInI’m excited to share that I’ve completed the professional ...Oleksandr Prymachenko - On Payroll-Contractor at Kinesso ...",
-            "snippet": "Senior Frontend Engineer · Senior Frontend Engineer with 7+ years of experience building complex, data-intensive web applications, with deep expertise in Angular, TypeScript, and React and hands-on backend development experience with Java and Spring Boot. Experienced in frontend architecture, state management, performa"
+            "title": "Oleksandr Prymachenko – Risiko manager, Buchalter | LinkedInI’m excited to share that I’ve completed the professional ...Oleksandr Prymachenko - On Payroll-Contractor at Kinesso ..",
+            "snippet": "· Berufserfahrung: Ukreximbank · Ausbildung: Nationale Wirtschaftsuniversität Kiew · Standort: Berlin · 500+ Kontakte auf LinkedIn. Sehen Sie sich das Profil von Oleksandr Prymachenko auf... I’m excited to share that I’ve completed the professional development program, enhancing my skills in finance, financial accounti"
           },
           {
             "url": "https://www.zoominfo.com/p/Oleksandr-Prymachenko/5621975735",
             "title": "Oleksandr Prymachenko - On Payroll-Contractor at Kinesso ...",
-            "snippet": "Get the details of Oleksandr Prymachenko's business profile including email address, phone number and more."
+            "snippet": "Oleksandr Prymachenko has been working as a On Payroll-Contractor at Kinesso for 4 years. Kinesso is part of the Advertising & Marketing industry, and located in New York, United States."
           },
           {
-            "url": "https://de.linkedin.com/in/oprym/ru",
-            "title": "Oleksandr Prymachenko – Financial risk manager | LinkedIn",
-            "snippet": "Financial risk manager · My professional areas are capital, liquidity and market risk management, ALM and finance. · Опыт работы: Ukreximbank · Образование: Kyiv National Economics University · Регион: Берлин · Более 500 контактов в LinkedIn. Просмотрите профиль участника Oleksandr Prymachenko в ..."
+            "url": "https://pl.linkedin.com/in/oleksandr-prymachenko-b82693101",
+            "title": "Oleksandr Prymachenko - Senior Frontend Engineer | LinkedIn",
+            "snippet": "Senior Frontend Engineer with 7+ years of experience building complex, data-intensive web applications, with deep expertise in Angular, TypeScript, and React and hands-on backend development..."
           },
           {
             "url": "https://www.linkedin.com/posts/oprym_im-excited-to-share-that-ive-completed-activity-7273301690458529793-6jeD",
@@ -3377,32 +3412,75 @@
             "snippet": "I’m excited to share that I’ve completed the professional development program, enhancing my skills in finance, financial accounting."
           },
           {
-            "url": "https://www.linkedin.com/posts/oprym_sap-finance-professionalgrowth-activity-7275454574289653760-Olce",
-            "title": "#sap #finance #professionalgrowth | Oleksandr Prymachenko",
-            "snippet": "🎉 Exciting News! I am thrilled to announce that I have successfully completed my SAP courses and obtained the SAP Finance Certificate! A big thank you to everyone who has supported me on this ..."
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
+            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "O projektu Projekt Poptávky.cz sdružuje 928 607 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
           }
         ],
         "errors": [
-          "TimeoutException: error sending request for url (https://html.duckduckgo.com/html/) > operation timed out",
-          "TimeoutException: error sending request for url (https://html.duckduckgo.com/html/) > operation timed out"
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
         ],
-        "contact_matches": [],
-        "website": "https://rejstriky.finance.cz/firma-oleksandr-prymachenko-30076200/kontakty",
-        "state": "VERIFIED_WEBSITE",
-        "identity": [
-          "Matching IČO on website",
-          "Matching business name on website",
-          "Matching Prague street address on website",
-          "Prague mentioned on website"
-        ],
+        "state": "AMBIGUOUS",
+        "website": "",
         "examined": [
           {
-            "url": "https://rejstriky.finance.cz/firma-oleksandr-prymachenko-30076200/kontakty",
-            "result": "identity_match",
+            "url": "https://www.zoominfo.com/p/Oleksandr-Prymachenko/5621975735",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
             "evidence": [
-              "Matching IČO on website",
-              "Matching business name on website",
-              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
               "Prague mentioned on website"
             ]
           }
@@ -3426,48 +3504,8 @@
         "director_lookup_status": "HTTPError"
       },
       "audit": {
-        "state": "observed",
-        "checked_at": "2026-10-08",
-        "website": "https://rejstriky.finance.cz/firma-oleksandr-prymachenko-30076200/kontakty",
-        "devices": {
-          "desktop": {
-            "title": "Oleksandr Prymachenko Praha IČO 30076200 kontakty 09.10.2026 - Finance.cz",
-            "description": "Podrobnosti o firmě Oleksandr Prymachenko Praha IČO 30076200 kontakty 09.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…",
-            "viewport_meta": true,
-            "h1_count": 1,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 61,
-            "small_text_elements": 0,
-            "broken_images": 0,
-            "images_missing_alt": 6,
-            "images_count": 6,
-            "contact_action": true,
-            "form_count": 0,
-            "booking_links": 0,
-            "http_status": 200
-          },
-          "navigation_errors": [],
-          "mobile": {
-            "title": "Oleksandr Prymachenko Praha IČO 30076200 kontakty 09.10.2026 - Finance.cz",
-            "description": "Podrobnosti o firmě Oleksandr Prymachenko Praha IČO 30076200 kontakty 09.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…",
-            "viewport_meta": true,
-            "h1_count": 1,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 50,
-            "small_text_elements": 0,
-            "broken_images": 0,
-            "images_missing_alt": 6,
-            "images_count": 6,
-            "contact_action": true,
-            "form_count": 0,
-            "booking_links": 0,
-            "http_status": 200
-          }
-        },
-        "objective_issues": [],
-        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
-        "visual_design_review": "human_review_required",
-        "website_score": null
+        "state": "not_run",
+        "reason": "No independently verified company website"
       },
       "buying_signals": [
         {
@@ -3481,11 +3519,11 @@
         "title": "Oleksandr Prymachenko — research dossier",
         "facts": [
           "The business is listed at Jana Přibíka 957, Praha, 19000.",
-          "An independently identity-matched business website was found: https://rejstriky.finance.cz/firma-oleksandr-prymachenko-30076200/kontakty.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
           "ARES confirms registration for IČO 30076200 dated 2026-09-23."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
         "observed_issues": [],
         "buying_signals": [
           {
@@ -3497,8 +3535,7 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30076200",
-          "https://rejstriky.finance.cz/firma-oleksandr-prymachenko-30076200/kontakty"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30076200"
         ],
         "estimated_deal_czk": [
           30000,
@@ -3519,79 +3556,61 @@
         ]
       },
       "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-oleksandr-prymachenko-30076200",
         "https://rejstriky.finance.cz/firma-oleksandr-prymachenko-30076200/kontakty",
         "https://www.linkedin.com/pub/dir/Oleksandr/Prymachenko",
         "https://de.linkedin.com/in/oprym/de",
-        "https://pl.linkedin.com/in/oleksandr-prymachenko-b82693101",
         "https://www.zoominfo.com/p/Oleksandr-Prymachenko/5621975735",
-        "https://de.linkedin.com/in/oprym/ru",
+        "https://pl.linkedin.com/in/oleksandr-prymachenko-b82693101",
         "https://www.linkedin.com/posts/oprym_im-excited-to-share-that-ive-completed-activity-7273301690458529793-6jeD"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
+      "verified_site_public_contacts": {},
       "owner_verified": false,
       "buyer_interest_verified": false
     },
     "res-30076170": {
       "lead_id": "res-30076170",
       "name": "Josef Očenáš",
-      "checked_at": "2026-10-08",
-      "engine_version": 5,
-      "state": "audited",
+      "checked_at": "2026-10-12",
+      "engine_version": 8,
+      "state": "researched",
       "discovery": {
         "status": "searched",
         "queries": [
-          "\"Josef Očenáš\" Praha web kontakt služby",
           "\"Josef Očenáš\" IČO 30076170 web",
-          "\"Josef Očenáš\" Construction & property Praha reference",
-          "\"Josef Očenáš\" web služby reference kontakt"
+          "\"Josef Očenáš\" Praha Construction & property kontakt",
+          "\"Josef Očenáš\" \"Velké Kunratické 1309\" web",
+          "\"Josef Očenáš\" Praha služby reference poptávka"
         ],
+        "successful_queries": 2,
         "candidates": [
           {
             "url": "https://rejstriky.finance.cz/firma-josef-ocenas-66439779/kontakty",
             "title": "Josef Očenáš Praha IČO 66439779 kontakty 20.06.2024 - Finance.cz",
-            "snippet": "Podrobnosti o firmě Josef Očenáš Praha IČO 66439779 kontakty 20.06.2024 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů…"
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Josef Očenáš, která sídlí v obci Praha a bylo jí přiděleno IČO 66439779. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-josef-ocenas-66439779/vedeni-firmy",
+            "title": "Josef Očenáš Praha IČO: 66439779 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Josef Očenáš, která sídlí v obci Praha a bylo jí přiděleno IČO 66439779. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
           },
           {
             "url": "https://www.mesec.cz/rejstrik-firem/firma-josef-ocenas-66439779",
             "title": "Josef Očenáš, IČO (66439779), sídlo Praha - Měšec.cz",
-            "snippet": "Základní údaje Josef Očenáš IČO: 66439779 Firma: Josef Očenáš Právní forma: Fyzická osoba podnikající dle živnostenského zákona Okres: Praha Základní územní jednotka: Praha 10 Počet zaměstnanců: Bez zaměstnanců Institucionální sektor: Osoby samostatně výdělečně činné Datum vzniku:"
-          },
-          {
-            "url": "https://rejstriky.finance.cz/firma-josef-ocenas-66439779/vedeni-firmy",
-            "title": "Josef Očenáš Praha IČO 66439779 kontakty 28.01.2026 - Finance.cz",
-            "snippet": "Podrobnosti o firmě Josef Očenáš Praha IČO 66439779 kontakty 28.01.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů…"
-          },
-          {
-            "url": "https://firmy.euro.cz/subjekt-josef-ocenas-66439779",
-            "title": "Josef Očenáš IČO: 66439779, Praha, výpis z rejstříku 16.01. ...",
-            "snippet": "Josef Očenáš (66439779) je Fyzická osoba podnikající dle živnostenského zákona. Má celkem jeden obor činnosti. Živnost provozuje od roku 1996. V současnosti stále podniká."
+            "snippet": "Najdete zde informace o Josef Očenáš. Výpis dat z živnostenského i obchodního rejstříku a ze statistického úřadu"
           },
           {
             "url": "https://www.podnikatel.cz/rejstrik/josef-ocenas-66439779/",
             "title": "Josef Očenáš - IČO 66439779 - Obchodní rejstřík na Podnikatel.cz",
-            "snippet": "Podrobnosti o firmě Josef Očenáš - IČO 66439779 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+            "snippet": "Osoby stejného jména Josef Očenáš Sídlo podnikání: Amurská 855/1, Praha, 100 00, Česká republika Působí ve firmě Dormont s.r.o."
           },
           {
-            "url": "https://firmy.euro.cz/jmeno-josef-ocenas",
-            "title": "Očenáš - data, informace, firmy (03.12.2025) - Firmy.euro.cz",
-            "snippet": "Josef Očenáš Sídlo: Amurská 855/1, Praha 10000 působí ve firmách: Dormont s.r.o. Jozef Očenáš Jiří Očenáš Marek Očenáš Josef Očenáš František Očenáš Kamil Očenáš Pavel Očenáš Petr Očenáš Igor Očenáš Martin Očenáš Roman Očenáš Dušan Očenáš Alex Očenáš Vladimír Očenáš Filip Očenáš Karel ..."
-          },
-          {
-            "url": "https://www.finmag.cz/obchodni-rejstrik/osoba/josef-ocenas",
-            "title": "Josef Očenáš - obchodní rejstřík - Finmag.cz",
-            "snippet": "Josef Očenáš, výpis z obchodního i živnostenského rejstříků. Osoby a firmy - adresy, kontakty. Aktuální i historická data."
-          },
-          {
-            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/66439779-josef-ocenas",
-            "title": "Josef Očenáš, IČO: 66439779 - ARES - Finmag.cz",
-            "snippet": "Obchodní firma Josef Očenáš se sídlem Praha - Vršovice, Amurská 855/1, 10000 a identifikačním číslem (IČO) 66439779."
-          },
-          {
-            "url": "https://www.dnb.com/business-directory/company-profiles.dormont_sro.741b3f60ce4f9bc30d1e38cb0e8567cd.html",
-            "title": "Dormont s.r.o. Company Profile | Praha 4 - Kunratice, Hlavní ...",
-            "snippet": "Dormont s.r.o. Company Profile | Praha 4 - Kunratice, Hlavní město Praha, Czech Republic | Competitors, Financials & Contacts - Dun & Bradstreet"
+            "url": "https://firmy.euro.cz/subjekt-josef-ocenas-66439779",
+            "title": "Josef Očenáš IČO: 66439779, Praha, výpis z rejstříku 16.01. ...",
+            "snippet": "Josef Očenáš má aktuální nebo historický záznam v těchto rejstřících: živnostenský rejstřík, registr ekonomických subjektů. Josef Očenáš (66439779) je Fyzická osoba podnikající dle živnostenského zákona. Má celkem jeden obor činnosti. Živnost provozuje od roku 1996. V současnosti stále podniká."
           },
           {
             "url": "https://www.finmag.cz/obchodni-rejstrik/zivnostensky-rejstrik/66439779-josef-ocenas",
@@ -3599,36 +3618,43 @@
             "snippet": "Kompletní informace o živnosti – Josef Očenáš. Výpis z živnostenského rejstříku, aktuální data, IČO: 66439779."
           },
           {
-            "url": "https://www.flashlabs.ai/people/Josef-Očenášek-6c92129a30a04f848b437eb30c890a3a/",
-            "title": "Josef Očenášek--Emails and Phone Numbers | FlashLabs",
-            "snippet": "View Josef Očenášek business profile . Find contact's direct phone number, email address, work history, and more."
+            "url": "https://www.finmag.cz/obchodni-rejstrik/osoba/josef-ocenas",
+            "title": "Josef Očenáš - obchodní rejstřík - Finmag.cz",
+            "snippet": "Níže naleznete seznam osob se jménem Josef Očenáš a seznam firem a subjektů, ve kterých tyto osoby figurují."
           },
           {
-            "url": "https://www.facebook.com/josef.ocenas/",
-            "title": "Josef Očenáš - Facebook",
-            "snippet": "Josef Očenáš is on Facebook. Join Facebook to connect with Josef Očenáš and others you may know. Facebook gives people the power to share and makes the world more open and connected."
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
+            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Monitorujeme pro Vás a kategorizujeme poptávky a veřejné zakázky z nejvýznamnějších zdrojů."
           }
         ],
         "errors": [
-          "TimeoutException: error sending request for url (https://html.duckduckgo.com/html/) > operation timed out"
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
         ],
-        "contact_matches": [],
-        "website": "https://www.finmag.cz/obchodni-rejstrik/osoba/josef-ocenas",
-        "state": "VERIFIED_WEBSITE",
-        "identity": [
-          "Matching business name on website",
-          "Matching Prague street address on website",
-          "Prague mentioned on website"
-        ],
+        "state": "AMBIGUOUS",
+        "website": "",
         "examined": [
-          {
-            "url": "https://rejstriky.finance.cz/firma-josef-ocenas-66439779/kontakty",
-            "result": "ambiguous",
-            "evidence": [
-              "Matching business name on website",
-              "Prague mentioned on website"
-            ]
-          },
           {
             "url": "https://www.mesec.cz/rejstrik-firem/firma-josef-ocenas-66439779",
             "result": "ambiguous",
@@ -3646,11 +3672,37 @@
             ]
           },
           {
-            "url": "https://www.finmag.cz/obchodni-rejstrik/osoba/josef-ocenas",
-            "result": "identity_match",
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
             "evidence": [
-              "Matching business name on website",
-              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
               "Prague mentioned on website"
             ]
           }
@@ -3674,55 +3726,8 @@
         "director_lookup_status": "HTTPError"
       },
       "audit": {
-        "state": "observed",
-        "checked_at": "2026-10-08",
-        "website": "https://www.finmag.cz/obchodni-rejstrik/osoba/josef-ocenas",
-        "devices": {
-          "desktop": {
-            "title": "Josef Očenáš - obchodní rejstřík - Finmag.cz",
-            "description": "Josef Očenáš, výpis z obchodního i živnostenského rejstříků. Osoby a firmy - adresy, kontakty. Aktuální i historická data.",
-            "viewport_meta": true,
-            "h1_count": 1,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 222,
-            "small_text_elements": 3,
-            "broken_images": 25,
-            "images_missing_alt": 0,
-            "images_count": 29,
-            "contact_action": false,
-            "form_count": 2,
-            "booking_links": 0,
-            "http_status": 200
-          },
-          "navigation_errors": [],
-          "mobile": {
-            "title": "Josef Očenáš - obchodní rejstřík - Finmag.cz",
-            "description": "Josef Očenáš, výpis z obchodního i živnostenského rejstříků. Osoby a firmy - adresy, kontakty. Aktuální i historická data.",
-            "viewport_meta": true,
-            "h1_count": 1,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 135,
-            "small_text_elements": 3,
-            "broken_images": 27,
-            "images_missing_alt": 0,
-            "images_count": 29,
-            "contact_action": false,
-            "form_count": 2,
-            "booking_links": 0,
-            "http_status": 200
-          }
-        },
-        "objective_issues": [
-          {
-            "issue": "Broken image elements",
-            "detail": "27 observed on mobile viewport",
-            "method": "Playwright DOM",
-            "url": "https://www.finmag.cz/obchodni-rejstrik/osoba/josef-ocenas"
-          }
-        ],
-        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
-        "visual_design_review": "human_review_required",
-        "website_score": null
+        "state": "not_run",
+        "reason": "No independently verified company website"
       },
       "buying_signals": [
         {
@@ -3736,20 +3741,12 @@
         "title": "Josef Očenáš — research dossier",
         "facts": [
           "The business is listed at Velké Kunratické 1309, Praha, 14800.",
-          "An independently identity-matched business website was found: https://www.finmag.cz/obchodni-rejstrik/osoba/josef-ocenas.",
-          "ARES confirms registration for IČO 30076170 dated 2026-09-23.",
-          "Browser-observed issue: Broken image elements."
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30076170 dated 2026-09-23."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Show a measured broken image elements fix in a private demo, and ask if improving enquiries is a priority.",
-        "observed_issues": [
-          {
-            "issue": "Broken image elements",
-            "detail": "27 observed on mobile viewport",
-            "method": "Playwright DOM",
-            "url": "https://www.finmag.cz/obchodni-rejstrik/osoba/josef-ocenas"
-          }
-        ],
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
         "buying_signals": [
           {
             "claim": "Registered in the previous 24 months (ARES)",
@@ -3760,8 +3757,7 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30076170",
-          "https://www.finmag.cz/obchodni-rejstrik/osoba/josef-ocenas"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30076170"
         ],
         "estimated_deal_czk": [
           30000,
@@ -3783,38 +3779,40 @@
       },
       "candidate_search_sources": [
         "https://rejstriky.finance.cz/firma-josef-ocenas-66439779/kontakty",
-        "https://www.mesec.cz/rejstrik-firem/firma-josef-ocenas-66439779",
         "https://rejstriky.finance.cz/firma-josef-ocenas-66439779/vedeni-firmy",
-        "https://firmy.euro.cz/subjekt-josef-ocenas-66439779",
+        "https://www.mesec.cz/rejstrik-firem/firma-josef-ocenas-66439779",
         "https://www.podnikatel.cz/rejstrik/josef-ocenas-66439779/",
-        "https://firmy.euro.cz/jmeno-josef-ocenas",
+        "https://firmy.euro.cz/subjekt-josef-ocenas-66439779",
+        "https://www.finmag.cz/obchodni-rejstrik/zivnostensky-rejstrik/66439779-josef-ocenas",
         "https://www.finmag.cz/obchodni-rejstrik/osoba/josef-ocenas"
       ],
-      "website_need_verified": true,
+      "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
+      "verified_site_public_contacts": {},
       "owner_verified": false,
       "buyer_interest_verified": false
     },
     "res-30076048": {
       "lead_id": "res-30076048",
       "name": "Tomáš Kotlář",
-      "checked_at": "2026-10-08",
-      "engine_version": 5,
-      "state": "audited",
+      "checked_at": "2026-10-12",
+      "engine_version": 8,
+      "state": "researched",
       "discovery": {
-        "status": "searched",
+        "status": "partial_search",
         "queries": [
-          "\"Tomáš Kotlář\" Praha web kontakt služby",
           "\"Tomáš Kotlář\" IČO 30076048 web",
-          "\"Tomáš Kotlář\" Construction & property Praha reference",
-          "\"Tomáš Kotlář\" web služby reference kontakt"
+          "\"Tomáš Kotlář\" Praha Construction & property kontakt",
+          "\"Tomáš Kotlář\" \"Dandova 2619\" web",
+          "\"Tomáš Kotlář\" Praha služby reference poptávka"
         ],
+        "successful_queries": 1,
         "candidates": [
           {
             "url": "https://rejstriky.finance.cz/firma-tomas-kotlar-30076048",
             "title": "Tomáš Kotlář Praha 9 IČO 30076048 kontakty 06.10.2026 ...",
-            "snippet": "Tomáš Kotlář je Fyzická osoba podnikající dle živnostenského zákona se sídlem v obci Praha 9. Podniká od roku 2026 Společnost podniká v oboru Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona ."
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Tomáš Kotlář, která sídlí v obci Praha 9 a bylo jí přiděleno IČO 30076048. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
           },
           {
             "url": "https://www.podnikatel.cz/rejstrik/tomas-kotlar-23242345/",
@@ -3822,64 +3820,50 @@
             "snippet": "Podrobnosti o firmě Tomáš Kotlář - IČO 23242345 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
           },
           {
+            "url": "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+            "title": "Construction & Property Management s.r.o. , Praha IČO ...",
+            "snippet": "May 12, 2026 · Kde je sídlo firmy Construction & Property Management s.r.o.? Sídlo firmy Construction & Property Management s.r.o. je Na příkopě 859/22, Nové Město (Praha 1), 110 00 Praha."
+          },
+          {
             "url": "https://www.finmag.cz/obchodni-rejstrik/osoba/tomas-kotlar",
             "title": "Tomáš Kotlár, Tomáš Kotlar, Tomáš Kotlář - obchodní rejstřík ...",
-            "snippet": "Tomáš Kotlár, Tomáš Kotlar, Tomáš Kotlář, výpis z obchodního i živnostenského rejstříků. Osoby a firmy - adresy, kontakty. Aktuální i historická data."
+            "snippet": "Níže naleznete seznam osob se jménem Tomáš Kotlár, Tomáš Kotlar, Tomáš Kotlář a seznam firem a subjektů, ve kterých tyto osoby figurují."
           },
           {
             "url": "https://rejstriky.finance.cz/firma-tomas-kotlar-23242345/obory-cinnosti",
             "title": "Tomáš Kotlář IČO 23242345 kontakty 26.05.2025 - Finance.cz",
-            "snippet": "Podrobnosti o firmě Tomáš Kotlář IČO 23242345 kontakty 26.05.2025 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Tomáš Kotlář, která sídlí v obci a bylo jí přiděleno IČO 23242345. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
           },
           {
-            "url": "https://rejstrik.penize.cz/tomas-kotlar",
-            "title": "Tomáš Kotlár, Tomáš Kotlar, Tomáš Kotlář - Obchodní rejstřík",
-            "snippet": "Tomáš Kotlár, Tomáš Kotlar, Tomáš Kotlář výpis firem z Obchodního rejstříku, IČO firmy, adresa sídla firmy, pozice ve firmě, související firmy, vztahy ve firmách."
+            "url": "https://www.propertymaps.cz/cs/kontakt",
+            "title": "Kontakt | Propertymaps.cz od Colliers",
+            "snippet": "+420 226 537 618 Tým pronájmu kanceláří Napiš nebo zavolej celému týmu prague.office@colliers.com +420 226 537 618 Kanceláře k pronájmu"
           },
           {
-            "url": "https://www.atelierkotlar.cz/",
-            "title": "Kadeřnický ateliér Kotlár",
-            "snippet": "Kadeřnický ateliér v srdci Prahy 1. Dopřejte si péči v luxusním prostředí Ateliéru Kotlár."
-          },
-          {
-            "url": "https://www.atelierkotlar.cz/nas-tym/",
-            "title": "Náš tým – Kadeřnický ateliér Kotlár",
-            "snippet": "Kadeřnický ateliér v srdci Prahy 1. Dopřejte si péči v luxusním prostředí Ateliéru Kotlár."
-          },
-          {
-            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/23242345-tomas-kotlar",
-            "title": "Tomáš Kotlář, IČO: 23242345 - ARES - Finmag.cz",
-            "snippet": "Výpis z registru ekonomických subjektů (RES) - Tomáš Kotlář, IČO: 23242345, obec: , klasifikace ekonomických činností. Aktuální data."
-          },
-          {
-            "url": "https://www.linkedin.com/pub/dir/Tomáš/Kotlář",
-            "title": "10+ \"Tomáš Kotlář\" profiles | LinkedIn",
-            "snippet": "There are 10+ professionals named \"Tomáš Kotlář\", who use LinkedIn to exchange information, ideas, and opportunities."
-          },
-          {
-            "url": "https://www.instagram.com/tom_kotlar/",
-            "title": "Tomáš Kotlář (@tom_kotlar) • Instagram photos and videos",
-            "snippet": "109 Followers, 57 Following, 13 Posts - See Instagram photos and videos from Tomáš Kotlář (@tom_kotlar)"
+            "url": "https://firmastat.cz/firma/21718164",
+            "title": "MyFlat Lambda, s.r.o. (IČO 21718164) — Firmastat",
+            "snippet": "MyFlat Lambda, s.r.o., IČO 21718164, Společnost s ručením omezeným, sídlo Kroftova 391/6, 150 00 Praha. Aktivní subjekt — základní údaje, statutární orgán, spo…"
           }
         ],
         "errors": [
-          "TimeoutException: error sending request for url (https://html.duckduckgo.com/html/) > operation timed out"
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
         ],
-        "contact_matches": [],
-        "website": "https://rejstriky.finance.cz/firma-tomas-kotlar-30076048",
-        "state": "VERIFIED_WEBSITE",
-        "identity": [
-          "Matching IČO on website",
-          "Matching business name on website",
-          "Prague mentioned on website"
-        ],
+        "state": "AMBIGUOUS",
+        "website": "",
         "examined": [
           {
-            "url": "https://rejstriky.finance.cz/firma-tomas-kotlar-30076048",
-            "result": "identity_match",
+            "url": "https://www.propertymaps.cz/cs/kontakt",
+            "result": "ambiguous",
             "evidence": [
-              "Matching IČO on website",
-              "Matching business name on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://firmastat.cz/firma/21718164",
+            "result": "ambiguous",
+            "evidence": [
               "Prague mentioned on website"
             ]
           }
@@ -3903,48 +3887,8 @@
         "director_lookup_status": "HTTPError"
       },
       "audit": {
-        "state": "observed",
-        "checked_at": "2026-10-08",
-        "website": "https://rejstriky.finance.cz/firma-tomas-kotlar-30076048",
-        "devices": {
-          "desktop": {
-            "title": "Tomáš Kotlář Praha IČO 30076048 kontakty 09.10.2026 - Finance.cz",
-            "description": "Podrobnosti o firmě Tomáš Kotlář Praha IČO 30076048 kontakty 09.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů…",
-            "viewport_meta": true,
-            "h1_count": 1,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 60,
-            "small_text_elements": 0,
-            "broken_images": 0,
-            "images_missing_alt": 6,
-            "images_count": 6,
-            "contact_action": true,
-            "form_count": 0,
-            "booking_links": 0,
-            "http_status": 200
-          },
-          "navigation_errors": [],
-          "mobile": {
-            "title": "Tomáš Kotlář Praha IČO 30076048 kontakty 09.10.2026 - Finance.cz",
-            "description": "Podrobnosti o firmě Tomáš Kotlář Praha IČO 30076048 kontakty 09.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů…",
-            "viewport_meta": true,
-            "h1_count": 1,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 49,
-            "small_text_elements": 0,
-            "broken_images": 0,
-            "images_missing_alt": 6,
-            "images_count": 6,
-            "contact_action": true,
-            "form_count": 0,
-            "booking_links": 0,
-            "http_status": 200
-          }
-        },
-        "objective_issues": [],
-        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
-        "visual_design_review": "human_review_required",
-        "website_score": null
+        "state": "not_run",
+        "reason": "No independently verified company website"
       },
       "buying_signals": [
         {
@@ -3958,11 +3902,11 @@
         "title": "Tomáš Kotlář — research dossier",
         "facts": [
           "The business is listed at Dandova 2619, Praha, 19300.",
-          "An independently identity-matched business website was found: https://rejstriky.finance.cz/firma-tomas-kotlar-30076048.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
           "ARES confirms registration for IČO 30076048 dated 2026-09-23."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
         "observed_issues": [],
         "buying_signals": [
           {
@@ -3974,8 +3918,7 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30076048",
-          "https://rejstriky.finance.cz/firma-tomas-kotlar-30076048"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30076048"
         ],
         "estimated_deal_czk": [
           30000,
@@ -3998,57 +3941,49 @@
       "candidate_search_sources": [
         "https://rejstriky.finance.cz/firma-tomas-kotlar-30076048",
         "https://www.podnikatel.cz/rejstrik/tomas-kotlar-23242345/",
+        "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
         "https://www.finmag.cz/obchodni-rejstrik/osoba/tomas-kotlar",
         "https://rejstriky.finance.cz/firma-tomas-kotlar-23242345/obory-cinnosti",
-        "https://rejstrik.penize.cz/tomas-kotlar",
-        "https://www.atelierkotlar.cz/",
-        "https://www.atelierkotlar.cz/nas-tym/"
+        "https://www.propertymaps.cz/cs/kontakt",
+        "https://firmastat.cz/firma/21718164"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
+      "verified_site_public_contacts": {},
       "owner_verified": false,
       "buyer_interest_verified": false
     },
     "res-30073693": {
       "lead_id": "res-30073693",
       "name": "Nikola Kleinová",
-      "checked_at": "2026-10-08",
-      "engine_version": 5,
-      "state": "audited",
+      "checked_at": "2026-10-12",
+      "engine_version": 8,
+      "state": "researched",
       "discovery": {
         "status": "searched",
         "queries": [
-          "\"Nikola Kleinová\" Praha web kontakt služby",
           "\"Nikola Kleinová\" IČO 30073693 web",
-          "\"Nikola Kleinová\" Construction & property Praha reference",
-          "\"Nikola Kleinová\" web služby reference kontakt"
+          "\"Nikola Kleinová\" Praha Construction & property kontakt",
+          "\"Nikola Kleinová\" \"Myslbekova 683\" web",
+          "\"Nikola Kleinová\" Praha služby reference poptávka"
         ],
+        "successful_queries": 4,
         "candidates": [
-          {
-            "url": "https://cz.linkedin.com/in/nikola-kleinová-60bbab74",
-            "title": "Nikola Kleinová – If you can´t keep going, go faster! | LinkedInNikola Kleinová makléř v TAF Estate s.r.o. • Sreality.czSeller Nikola Kleinová TAF Estate s.r.o. • Sreality.czNikola",
-            "snippet": "If you can´t keep going, go faster! · Pracovní zkušenosti: PSN s.r.o. · Vzdělání: Univerzita Karlova v Praze · Lokalita: Hlavní město Praha · 301 spojení na LinkedIn. Podívejte se na profil uživatele Nikola Kleinová na LinkedIn, komunitě profesionálů s miliardou členů. Aktuální informace o makléři Nikola Kleinová z rea"
-          },
-          {
-            "url": "https://www.sreality.cz/adresar/taf-estate-s-r-o-praha-holesovice/74798/makleri/333884",
-            "title": "Nikola Kleinová makléř v TAF Estate s.r.o. • Sreality.cz",
-            "snippet": "Aktuální informace o makléři Nikola Kleinová z realitní kanceláře TAF Estate s.r.o. na sreality.cz s kontakty, aktuálně nabízenými realitami a recenzemi."
-          },
-          {
-            "url": "https://www.sreality.cz/en/directory/taf-estate-s-r-o-praha-holesovice/74798/agents/333884",
-            "title": "Seller Nikola Kleinová TAF Estate s.r.o. • Sreality.cz",
-            "snippet": "Current offer 3 estates, which is handled by Nikola Kleinová from company TAF Estate s.r.o.."
-          },
-          {
-            "url": "https://www.podnikatel.cz/rejstrik/nikola-kleinova-23668148/",
-            "title": "Nikola Kleinová - IČO 23668148 - Obchodní rejstřík na ...",
-            "snippet": "Podrobnosti o firmě Nikola Kleinová - IČO 23668148 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
-          },
           {
             "url": "https://rejstriky.finance.cz/firma-nikola-kleinova-30073693/kontakty",
             "title": "Nikola Kleinová IČO 30073693 kontakty 28.09.2026 - Finance.cz",
-            "snippet": "Podrobnosti o firmě Nikola Kleinová IČO 30073693 kontakty 28.09.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Nikola Kleinová, která sídlí v obci a bylo jí přiděleno IČO 30073693. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-nikola-kleinova-30073693",
+            "title": "Nikola Kleinová IČO 30073693 kontakty 29.09.2026 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Nikola Kleinová, která sídlí v obci a bylo jí přiděleno IČO 30073693. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/osoby/2173989/",
+            "title": "NIKOLA KLEINOVÁ - rejstříky, události | Kurzy.cz",
+            "snippet": "Nikola Budínová okres Tachov - události, poslední změny v rejstřících ... 2. Nikola Kleinová, okres Ostrava-město ... Souhrnné informace ke jménu \"NIKOLA KLEINOVÁ\" Tato stránka obsahuje informace o osobách se jménem NIKOLA KLEINOVÁ, které jsou uvedeny ve veřejných rejstřících a jsou tedy ze zákona veřejné *."
           },
           {
             "url": "https://www.finmag.cz/obchodni-rejstrik/osoba/nikola-kleinova",
@@ -4057,34 +3992,56 @@
           },
           {
             "url": "https://firmy.euro.cz/subjekt-nikola-kleinova-23668148",
-            "title": "Nikola Kleinová IČO: 23668148, Svatava, výpis z rejstříku 23. ...",
-            "snippet": "Nikola Kleinová (23668148) je Fyzická osoba podnikající dle živnostenského zákona. Má celkem dva obory činností. Živnost provozuje od roku 2025. V současnosti stále podniká."
+            "title": "FIRMA Nikola Kleinová IČO: 23668148 - Euro-rejstrik",
+            "snippet": "Nikola Kleinová má aktuální nebo historický záznam v těchto rejstřících: živnostenský rejstřík, registr ekonomických subjektů. Nikola Kleinová (23668148) je Fyzická osoba podnikající dle živnostenského zákona. Má celkem dva obory činností. Živnost provozuje od roku 2025. V současnosti stále podniká."
           },
           {
-            "url": "https://rejstriky.finance.cz/firma-nikola-kleinova-30073693",
-            "title": "Nikola Kleinová IČO 30073693 kontakty 29.09.2026 - Finance.cz",
-            "snippet": "Nikola Kleinová je Fyzická osoba podnikající dle živnostenského zákona . Podniká od roku 2026 Společnost podniká v oboru Realitní zprostředkování , Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona ."
+            "url": "https://www.sreality.cz/adresar/taf-estate-s-r-o-praha-holesovice/74798/makleri/333884",
+            "title": "Nikola Kleinová makléř v TAF Estate s.r.o. • Sreality.cz",
+            "snippet": "Aktuální informace o makléři Nikola Kleinová z realitní kanceláře TAF Estate s.r.o. na sreality.cz s kontakty, aktuálně nabízenými realitami a recenzemi."
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/zivnostensky-rejstrik/23668148-nikola-kleinova",
+            "title": "Nikola Kleinová, IČO: 23668148 - RŽP - Finmag.cz",
+            "snippet": "Kompletní informace o živnosti - Nikola Kleinová. Výpis z živnostenského rejstříku, aktuální data, IČO: 23668148."
           },
           {
             "url": "https://www.podnikatel.cz/rejstrik/bc-nikola-kleinova-23498951/",
-            "title": "Bc. Nikola Kleinová - IČO 23498951 - Obchodní rejstřík na ...",
+            "title": "Bc. Nikola Kleinová - IČO 23498951 - Obchodní rejstřík na Podnikatel.cz",
             "snippet": "Podrobnosti o firmě Bc. Nikola Kleinová - IČO 23498951 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://www.sreality.cz/en/directory/taf-estate-s-r-o-praha-holesovice/74798/agents/333884",
+            "title": "Seller Nikola Kleinová TAF Estate s.r.o. • Sreality.cz",
+            "snippet": "Current offer 3 estates, which is handled by Nikola Kleinová from company TAF Estate s.r.o.."
+          },
+          {
+            "url": "https://cz.linkedin.com/in/nikola-kleinová-60bbab74",
+            "title": "Nikola Kleinová – If you can´t keep going, go faster! | LinkedInNikola Kleinová IČO 30073693 kontakty 28.09.2026 - Finance.czNikola Kleinová makléř v TAF Estate s.r.o. • Sreality.c",
+            "snippet": "If you can´t keep going, go faster! · Pracovní zkušenosti: PSN s.r.o. · Vzdělání: Univerzita Karlova v Praze · Lokalita: Hlavní město Praha · 301 spojení na LinkedIn. Podívejte se na profil... Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Nikola Kleinová, která sídlí v obci a bylo jí přiděleno IČO 30073"
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/nikola-kleinova-23668148/",
+            "title": "Nikola Kleinová - IČO 23668148 - Obchodní rejstřík na ...",
+            "snippet": "Jakékoli požadavky na jejich úpravu či odstranění je proto nutné směřovat na zdroj MFČR, konkrétně na e-mail: ares@mfcr.cz. Data ohledně právní formy, předmětu podnikání, kapitálu, odpovědných osobách a ostatních skutečnostech jsou přebírána z veřejné databáze Ministerstva spravedlnosti ČR (MSČR)."
+          },
+          {
+            "url": "https://psn.cz/nas-tym/praha",
+            "title": "Tým PSN - Praha",
+            "snippet": "PSN je český developer s více než 30 lety zkušeností. Specializujeme se na rekonstrukce historických budov, moderní rezidenční projekty i komerční prostory v Praze, Brně a Pardubicích."
           }
         ],
-        "errors": [
-          "TimeoutException: error sending request for url (https://html.duckduckgo.com/html/) > operation timed out",
-          "TimeoutException: error sending request for url (https://html.duckduckgo.com/html/) > operation timed out"
-        ],
-        "contact_matches": [],
-        "website": "https://rejstriky.finance.cz/firma-nikola-kleinova-30073693/kontakty",
-        "state": "VERIFIED_WEBSITE",
-        "identity": [
-          "Matching IČO on website",
-          "Matching business name on website",
-          "Matching Prague street address on website",
-          "Prague mentioned on website"
-        ],
+        "errors": [],
+        "state": "AMBIGUOUS",
+        "website": "",
         "examined": [
+          {
+            "url": "https://firmy.euro.cz/subjekt-nikola-kleinova-23668148",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website"
+            ]
+          },
           {
             "url": "https://www.sreality.cz/adresar/taf-estate-s-r-o-praha-holesovice/74798/makleri/333884",
             "result": "ambiguous",
@@ -4094,12 +4051,9 @@
             ]
           },
           {
-            "url": "https://rejstriky.finance.cz/firma-nikola-kleinova-30073693/kontakty",
-            "result": "identity_match",
+            "url": "https://psn.cz/nas-tym/praha",
+            "result": "ambiguous",
             "evidence": [
-              "Matching IČO on website",
-              "Matching business name on website",
-              "Matching Prague street address on website",
               "Prague mentioned on website"
             ]
           }
@@ -4123,48 +4077,8 @@
         "director_lookup_status": "HTTPError"
       },
       "audit": {
-        "state": "observed",
-        "checked_at": "2026-10-08",
-        "website": "https://rejstriky.finance.cz/firma-nikola-kleinova-30073693/kontakty",
-        "devices": {
-          "desktop": {
-            "title": "Nikola Kleinová Praha IČO 30073693 kontakty 09.10.2026 - Finance.cz",
-            "description": "Podrobnosti o firmě Nikola Kleinová Praha IČO 30073693 kontakty 09.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…",
-            "viewport_meta": true,
-            "h1_count": 1,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 61,
-            "small_text_elements": 0,
-            "broken_images": 0,
-            "images_missing_alt": 6,
-            "images_count": 6,
-            "contact_action": true,
-            "form_count": 0,
-            "booking_links": 0,
-            "http_status": 200
-          },
-          "navigation_errors": [],
-          "mobile": {
-            "title": "Nikola Kleinová Praha IČO 30073693 kontakty 09.10.2026 - Finance.cz",
-            "description": "Podrobnosti o firmě Nikola Kleinová Praha IČO 30073693 kontakty 09.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…",
-            "viewport_meta": true,
-            "h1_count": 1,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 50,
-            "small_text_elements": 0,
-            "broken_images": 0,
-            "images_missing_alt": 6,
-            "images_count": 6,
-            "contact_action": true,
-            "form_count": 0,
-            "booking_links": 0,
-            "http_status": 200
-          }
-        },
-        "objective_issues": [],
-        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
-        "visual_design_review": "human_review_required",
-        "website_score": null
+        "state": "not_run",
+        "reason": "No independently verified company website"
       },
       "buying_signals": [
         {
@@ -4178,11 +4092,11 @@
         "title": "Nikola Kleinová — research dossier",
         "facts": [
           "The business is listed at Myslbekova 683, Praha, 16900.",
-          "An independently identity-matched business website was found: https://rejstriky.finance.cz/firma-nikola-kleinova-30073693/kontakty.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
           "ARES confirms registration for IČO 30073693 dated 2026-09-23."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
         "observed_issues": [],
         "buying_signals": [
           {
@@ -4194,8 +4108,7 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30073693",
-          "https://rejstriky.finance.cz/firma-nikola-kleinova-30073693/kontakty"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30073693"
         ],
         "estimated_deal_czk": [
           30000,
@@ -4216,69 +4129,46 @@
         ]
       },
       "candidate_search_sources": [
-        "https://cz.linkedin.com/in/nikola-kleinová-60bbab74",
-        "https://www.sreality.cz/adresar/taf-estate-s-r-o-praha-holesovice/74798/makleri/333884",
-        "https://www.sreality.cz/en/directory/taf-estate-s-r-o-praha-holesovice/74798/agents/333884",
-        "https://www.podnikatel.cz/rejstrik/nikola-kleinova-23668148/",
         "https://rejstriky.finance.cz/firma-nikola-kleinova-30073693/kontakty",
+        "https://rejstriky.finance.cz/firma-nikola-kleinova-30073693",
+        "https://rejstrik-firem.kurzy.cz/osoby/2173989/",
         "https://www.finmag.cz/obchodni-rejstrik/osoba/nikola-kleinova",
-        "https://firmy.euro.cz/subjekt-nikola-kleinova-23668148"
+        "https://firmy.euro.cz/subjekt-nikola-kleinova-23668148",
+        "https://www.sreality.cz/adresar/taf-estate-s-r-o-praha-holesovice/74798/makleri/333884",
+        "https://www.finmag.cz/obchodni-rejstrik/zivnostensky-rejstrik/23668148-nikola-kleinova"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
+      "verified_site_public_contacts": {},
       "owner_verified": false,
       "buyer_interest_verified": false
     },
     "res-30073219": {
       "lead_id": "res-30073219",
       "name": "Roman Kutsyna",
-      "checked_at": "2026-10-08",
-      "engine_version": 5,
-      "state": "audited",
+      "checked_at": "2026-10-12",
+      "engine_version": 8,
+      "state": "researched",
       "discovery": {
         "status": "searched",
         "queries": [
-          "\"Roman Kutsyna\" Praha web kontakt služby",
           "\"Roman Kutsyna\" IČO 30073219 web",
-          "\"Roman Kutsyna\" Construction & property Praha reference",
-          "\"Roman Kutsyna\" web služby reference kontakt"
+          "\"Roman Kutsyna\" Praha Construction & property kontakt",
+          "\"Roman Kutsyna\" \"Orebitská 616\" web",
+          "\"Roman Kutsyna\" Praha služby reference poptávka"
         ],
+        "successful_queries": 4,
         "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-roman-kutsyna-30073219",
+            "title": "Roman Kutsyna Praha 3 IČO 30073219 kontakty 11.10.2026 ...",
+            "snippet": "Podrobnosti o firmě Roman Kutsyna Praha 3 IČO 30073219 kontakty 11.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
+          },
           {
             "url": "https://rejstriky.finance.cz/firma-roman-kutsyna-30073219/obory-cinnosti",
             "title": "Roman Kutsyna Praha 3 IČO 30073219 kontakty 08.10.2026 ...",
-            "snippet": "Roman Kutsyna je Zahraniční fyzická osoba se sídlem v obci Praha 3. Podniká od roku 2026 Společnost podniká v oboru Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona ."
-          },
-          {
-            "url": "https://register.peniaze.sk/osoba/roman-kutsyna",
-            "title": "Roman Kutsyna - Obchodný register | Peniaze.sk",
-            "snippet": "Získajte podrobné informácie o osobe Roman Kutsyna a jeho podnikateľských aktivitách v obchodnom registri na Peniaze.sk. Prehľad firiem, v ktorých pôsobí, vrátane adries a funkcií."
-          },
-          {
-            "url": "https://www.psas.cz/",
-            "title": "Pražské služby a.s.",
-            "snippet": "Pražské služby představují profesi značkaře Bezpečnost a řád jdou na silnicích ruku v ruce celoročně, přesto představuje přelom srpna a září pro pracovníky dopravního značení Pražských služeb velmi náročné období."
-          },
-          {
-            "url": "https://www.flowersgohome.cz/",
-            "title": "Rozvoz květin Praha | Doručování květin | Květinářství Praha",
-            "snippet": "Rozvoz květin Praha. Rozvoz květin v Praze - kytice růží, kytice k narozeninám, smuteční květiny a další floristické služby naleznete v květinářství Praha 5. Smuteční kytice a věnce doručíme přímo na místo konání smutečního obřadu. Rozvoz květin v Praze přímo z vlastního květinářství již za 120 minut."
-          },
-          {
-            "url": "https://praha.eu/uredni-deska",
-            "title": "Úřední deska - Praha - MHMP",
-            "snippet": "Na úřední desce hlavního města Prahy jsou zveřejňovány dokumenty z různých oblastí činnosti města, například veřejné vyhlášky, úřední oznámení, rozhodnutí a opatření orgánů města a Magistrátu hlavního města Prahy, informace o správních řízeních a jejich výsledcích, opatření obecné povahy, územní a stavební záležitosti,"
-          },
-          {
-            "url": "https://www.perfectclinic.cz/",
-            "title": "Perfect Clinic | Krása je umění,vy jste inspirací",
-            "snippet": "4 days ago · Pokud je krása uměním,vy jste její inspirací. Klinika Perfect Clinic,to je tým plastických chirurgů pod vedením Romana Kufy a Zdeňka Prose,který zde provádí kompletní škálu estetických plastických operací."
-          },
-          {
-            "url": "https://vasegeny.cz/",
-            "title": "Sestavení rodokmenu a hledání předků | VAŠE GENY",
-            "snippet": "Profesionální genealogické služby a tvorba rodokmenů po celé ČR. Tým s 13letou praxí. Zjistěte svůj původ, vytvoříme Vám rodokmen, vývod i přímé linie rodu (se sourozenci)."
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Roman Kutsyna, která sídlí v obci Praha 3 a bylo jí přiděleno IČO 30073219. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
           },
           {
             "url": "https://www.registeruz.sk/cruz-public/domain/accountingentity/show/1938789",
@@ -4286,50 +4176,119 @@
             "snippet": "Aug 31, 2026 · Zabezpečujú základnú použiteľnosť webovej stránky. Webová stránka nemôže správne fungovať bez týchto cookies. Tieto súbory cookie neukladajú žiadne informácie o vás."
           },
           {
-            "url": "https://www.forez.cz/",
-            "title": "Vítejte « FOREZ",
-            "snippet": "Vítejte na stránkách společnosti Forez s.r.o., výrobce kovových i plastových dílů pro automobilový a elektrotechnický […]"
+            "url": "https://register.peniaze.sk/osoba/roman-kutsyna",
+            "title": "Roman Kutsyna - Obchodný register | Peniaze.sk",
+            "snippet": "Získajte podrobné informácie o osobe Roman Kutsyna a jeho podnikateľských aktivitách v obchodnom registri na Peniaze.sk. Prehľad firiem, v ktorých pôsobí, vrátane adries a funkcií."
           },
           {
-            "url": "https://media-board.europa.eu/index_en",
-            "title": "Home - The Media Board - European Union",
-            "snippet": "The Media Board considers the protection of minors as a priority issue. Therefore, the Board welcomes the attention dedicated during Commission President Ursula von der Leyen's State of the Union address to the need to strengthen the protection of minors in the digital environment."
+            "url": "https://valida.sk/53177053",
+            "title": "Roman Kutsyna, 53177053 - Analýza firmy zadarmo | Valida",
+            "snippet": "Údaje o firme Obchodné meno: Roman Kutsyna Sídlo: Hviezdoslavova 8/7, 06001 Kežmarok IČO: 53177053 DIČ: 3120687130 IČ DPH: nie je platcom DPH"
           },
           {
-            "url": "https://www.nydeckekorytko.cz/",
-            "title": "Pohoštění pro rodinu či přátele | Nýdecké korýtko",
-            "snippet": "Pokud se chystáte uspořádat pohoštění pro rodinu, přátelé či obchodní partnery, jste na správném místě. Využijte naši pestrou nabídku nejen chutného masíčka, ale také dalších osvědčených produktů. Dnes již „tradiční“ Nýdecké korýtko garantuje kvalitu prověřenou časem i počtem spokojených zákazníků. Vyberte si z pohodlí"
+            "url": "https://findat.sk/firma/roman-kutsyna/NDYzODMxMjM=",
+            "title": "Roman Kutsyna, IČO: 53177053 - finančný report",
+            "snippet": "Roman Kutsyna, Kežmarok, IČO: 53177053, DIČ: 3120687130. Tržby, zisk firmy Roman Kutsyna a mnoho ďalších informácií. Databáza slovenských firiem a…"
           },
           {
-            "url": "https://www.tart.cz/",
-            "title": "Obalová řešení, materiály a balicí technologie | TART",
-            "snippet": "Kompletní sortiment balicích strojů pro různé způsoby balení. Od jednoduchých ručních balicích strojků až po plně automatické balicí linky postavených na míru. Balicí stroje snižují náklady."
+            "url": "https://www.finreg.sk/subjekt/3120687130",
+            "title": "Roman Kutsyna, Hviezdoslavova 8/7, Kežmarok - finančný ...",
+            "snippet": "Finančné informácie o Roman Kutsyna - (zisk,tržby, dlhy, daňové priznania a DPH) | FinReg.sk - finančný register"
           },
           {
-            "url": "https://www.mobilheimcentrum.cz/",
-            "title": "Prodejce mobilních domů a mobilheimů nedaleko Prahy ...",
-            "snippet": "Mobilheimy a mobilní domy máme skladem v počtu nejméně 20 ks. Všechny mobilní domy pečlivě vybíráme. Kontrolujeme kvalitu, podvozek a celkový stav mobilních domů."
+            "url": "https://www.yelp.com/biz/roman-mykytyn-praha",
+            "title": "ROMAN MYKYTYN - Property Management - Krškova 783/15, Praha ...",
+            "snippet": "Roman Mykytyn in Praha, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Praha and beyond."
+          },
+          {
+            "url": "https://koucky-arch.cz/kontakt/",
+            "title": "Kontakt - Architektonická kancelář Roman Koucký | koucky-arch.cz",
+            "snippet": "Kontakt koucky-arch.cz, s.r.o. Plzeňská 170, CZ 150 06 Praha 5 tel: +420 720 028 180 email@koucky-arch.cz"
+          },
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles.dzahiaty_construction_sro.12710bbce8c47d36434e79fc676fb4ff.html",
+            "title": "DZAHIATY CONSTRUCTION s.r.o. Company Profile | Praha, Hlavní ...",
+            "snippet": "Find company research, competitor information, contact details & financial data for DZAHIATY CONSTRUCTION s.r.o. of Praha, Hlavní město Praha. Get the latest business insights from Dun & Bradstreet."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
+            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
           }
         ],
-        "errors": [
-          "TimeoutException: error sending request for url (https://html.duckduckgo.com/html/) > operation timed out",
-          "TimeoutException: error sending request for url (https://html.duckduckgo.com/html/) > operation timed out"
-        ],
-        "contact_matches": [],
-        "website": "https://rejstriky.finance.cz/firma-roman-kutsyna-30073219/obory-cinnosti",
-        "state": "VERIFIED_WEBSITE",
-        "identity": [
-          "Matching IČO on website",
-          "Matching business name on website",
-          "Prague mentioned on website"
-        ],
+        "errors": [],
+        "state": "AMBIGUOUS",
+        "website": "",
         "examined": [
           {
-            "url": "https://rejstriky.finance.cz/firma-roman-kutsyna-30073219/obory-cinnosti",
-            "result": "identity_match",
+            "url": "https://www.registeruz.sk/cruz-public/domain/accountingentity/show/1938789",
+            "result": "ambiguous",
             "evidence": [
-              "Matching IČO on website",
-              "Matching business name on website",
+              "Matching business name on website"
+            ]
+          },
+          {
+            "url": "https://register.peniaze.sk/osoba/roman-kutsyna",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website"
+            ]
+          },
+          {
+            "url": "https://valida.sk/53177053",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://findat.sk/firma/roman-kutsyna/NDYzODMxMjM=",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.finreg.sk/subjekt/3120687130",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website"
+            ]
+          },
+          {
+            "url": "https://koucky-arch.cz/kontakt/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles.dzahiaty_construction_sro.12710bbce8c47d36434e79fc676fb4ff.html",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
               "Prague mentioned on website"
             ]
           }
@@ -4348,48 +4307,8 @@
         "director_lookup_status": "HTTPError"
       },
       "audit": {
-        "state": "observed",
-        "checked_at": "2026-10-08",
-        "website": "https://rejstriky.finance.cz/firma-roman-kutsyna-30073219/obory-cinnosti",
-        "devices": {
-          "desktop": {
-            "title": "Roman Kutsyna Praha 3 IČO 30073219 kontakty 09.10.2026 - Finance.cz",
-            "description": "Podrobnosti o firmě Roman Kutsyna Praha 3 IČO 30073219 kontakty 09.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…",
-            "viewport_meta": true,
-            "h1_count": 1,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 63,
-            "small_text_elements": 0,
-            "broken_images": 0,
-            "images_missing_alt": 6,
-            "images_count": 6,
-            "contact_action": true,
-            "form_count": 0,
-            "booking_links": 0,
-            "http_status": 200
-          },
-          "navigation_errors": [],
-          "mobile": {
-            "title": "Roman Kutsyna Praha 3 IČO 30073219 kontakty 09.10.2026 - Finance.cz",
-            "description": "Podrobnosti o firmě Roman Kutsyna Praha 3 IČO 30073219 kontakty 09.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…",
-            "viewport_meta": true,
-            "h1_count": 1,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 52,
-            "small_text_elements": 0,
-            "broken_images": 0,
-            "images_missing_alt": 6,
-            "images_count": 6,
-            "contact_action": true,
-            "form_count": 0,
-            "booking_links": 0,
-            "http_status": 200
-          }
-        },
-        "objective_issues": [],
-        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
-        "visual_design_review": "human_review_required",
-        "website_score": null
+        "state": "not_run",
+        "reason": "No independently verified company website"
       },
       "buying_signals": [
         {
@@ -4403,11 +4322,11 @@
         "title": "Roman Kutsyna — research dossier",
         "facts": [
           "The business is listed at Orebitská 616, Praha, 13000.",
-          "An independently identity-matched business website was found: https://rejstriky.finance.cz/firma-roman-kutsyna-30073219/obory-cinnosti.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
           "ARES confirms registration for IČO 30073219 dated 2026-09-23."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
         "observed_issues": [],
         "buying_signals": [
           {
@@ -4419,8 +4338,7 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30073219",
-          "https://rejstriky.finance.cz/firma-roman-kutsyna-30073219/obory-cinnosti"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30073219"
         ],
         "estimated_deal_czk": [
           30000,
@@ -4436,17 +4354,18 @@
         ]
       },
       "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-roman-kutsyna-30073219",
         "https://rejstriky.finance.cz/firma-roman-kutsyna-30073219/obory-cinnosti",
+        "https://www.registeruz.sk/cruz-public/domain/accountingentity/show/1938789",
         "https://register.peniaze.sk/osoba/roman-kutsyna",
-        "https://www.psas.cz/",
-        "https://www.flowersgohome.cz/",
-        "https://praha.eu/uredni-deska",
-        "https://www.perfectclinic.cz/",
-        "https://vasegeny.cz/"
+        "https://valida.sk/53177053",
+        "https://findat.sk/firma/roman-kutsyna/NDYzODMxMjM=",
+        "https://www.finreg.sk/subjekt/3120687130"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
+      "verified_site_public_contacts": {},
       "owner_verified": false,
       "buyer_interest_verified": false
     },
@@ -8352,27 +8271,113 @@
     "res-30051541": {
       "lead_id": "res-30051541",
       "name": "Tridentstav OMEGA s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-12",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "partial_search",
         "queries": [
           "\"Tridentstav OMEGA s.r.o.\" IČO 30051541 web",
           "\"Tridentstav OMEGA s.r.o.\" Praha Construction & property kontakt",
           "\"Tridentstav OMEGA s.r.o.\" \"Kaprova 42\" web",
           "\"Tridentstav OMEGA s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Josef Sedláček Služby v oblasti vodo – topo – plyn tedy nabízíme hlavně v Karlovarském kraji. Vodoinstalace – kompletní rozvody vody v různých objektech, domovní vodárny, výměna vodoměrů, kanalizační a odpadní rozvody, další instalatérské práce i následný servis a pravidelná údržba."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
+            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+          },
+          {
+            "url": "https://profi-firmy.cz/",
+            "title": "Profi-firmy.cz – Databáze ověřených firem a řemeslníků po ...",
+            "snippet": "Poptávka zdarma Jedním formulářem oslovíte víc firem najednou. Bez registrace a poplatků."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "O projektu Projekt Poptávky.cz sdružuje 928 607 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
+          }
+        ],
         "errors": [
           "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
+        "state": "AMBIGUOUS",
         "website": "",
-        "examined": [],
+        "examined": [
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://profi-firmy.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -8432,7 +8437,15 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://dodavatele.epoptavka.cz/",
+        "https://zakazky.epoptavka.cz/",
+        "https://www.epoptavka.cz/",
+        "https://www.poptavka.net/",
+        "https://profi-firmy.cz/",
+        "https://poptavky.epoptavka.cz/",
+        "https://www.poptavky.cz/"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -9305,33 +9318,120 @@
     "res-30060940": {
       "lead_id": "res-30060940",
       "name": "Kukleny Projekt s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-12",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "partial_search",
+        "status": "searched",
         "queries": [
           "\"Kukleny Projekt s.r.o.\" IČO 30060940 web",
           "\"Kukleny Projekt s.r.o.\" Praha Construction & property kontakt",
           "\"Kukleny Projekt s.r.o.\" \"Korunní 810\" web",
           "\"Kukleny Projekt s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 1,
+        "successful_queries": 2,
         "candidates": [
           {
             "url": "https://rejstrik-firem.kurzy.cz/30060940/kukleny-projekt-sro/",
-            "title": "Kukleny Projekt s.r.o. , IČO 30060940 - Obchodní rejstřík ...",
-            "snippet": "Kukleny Projekt s.r.o. – obchodní rejstřík, aktuální výpis Datum vzniku a zápisu 23. září 2026 Spisová značka C 456675/MSPH Městský soud v Praze Obchodní firma Kukleny Projekt s.r.o. Sídlo Korunní 810/104, Vinohrady, 101 00 Praha 10 Identifikační číslo 30060940 Právní forma Společnost s r.o. Předmět činnosti pronájem n"
+            "title": "Kukleny Projekt s.r.o. , IČO 30060940 - Obchodní rejstřík firem",
+            "snippet": "Kukleny Projekt s.r.o. - obchodní rejstřík, aktuální výpis Datum vzniku a zápisu 23. září 2026 Spisová značka C 456675/MSPH Městský soud v Praze Obchodní firma Kukleny Projekt s.r.o. Sídlo Korunní 810/104, Vinohrady, 101 00 Praha 10 Identifikační číslo 30060940 Právní forma Společnost s r.o. Předmět činnosti pronájem n"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-kukleny-projekt-s-r-o-30060940",
+            "title": "Kukleny Projekt s.r.o. IČO: 30060940 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Kukleny Projekt s.r.o. IČO 30060940 kontakty 03.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-kukleny-projekt-s-r-o-30060940/obory-cinnosti",
+            "title": "Kukleny Projekt s.r.o. Praha 10 IČO: 30060940",
+            "snippet": "Podrobnosti o firmě Kukleny Projekt s.r.o. Praha 10 IČO 30060940 kontakty 06.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru…"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30066514/kukleny-park-sro/",
+            "title": "Kukleny Park s.r.o. , IČO 30066514 - Obchodní rejstřík firem",
+            "snippet": "Společníci Společník Kukleny Projekt s.r.o. IČO: 30060940 Korunní 810/104, Vinohrady, 101 00 Praha 10 ... Základní kapitál 10 000,-Kč"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
+            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "O projektu Projekt Poptávky.cz sdružuje 928 607 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
+          },
+          {
+            "url": "https://profi-firmy.cz/",
+            "title": "Profi-firmy.cz – Databáze ověřených firem a řemeslníků po ...",
+            "snippet": "Poptávka zdarma Jedním formulářem oslovíte víc firem najednou. Bez registrace a poplatků."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
           }
         ],
         "errors": [
           "DDGSException: No results found.",
-          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
+        "state": "AMBIGUOUS",
         "website": "",
-        "examined": [],
+        "examined": [
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://profi-firmy.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -9421,7 +9521,13 @@
         ]
       },
       "candidate_search_sources": [
-        "https://rejstrik-firem.kurzy.cz/30060940/kukleny-projekt-sro/"
+        "https://rejstrik-firem.kurzy.cz/30060940/kukleny-projekt-sro/",
+        "https://rejstriky.finance.cz/firma-kukleny-projekt-s-r-o-30060940",
+        "https://rejstriky.finance.cz/firma-kukleny-projekt-s-r-o-30060940/obory-cinnosti",
+        "https://rejstrik-firem.kurzy.cz/30066514/kukleny-park-sro/",
+        "https://zakazky.epoptavka.cz/",
+        "https://www.epoptavka.cz/",
+        "https://www.poptavka.net/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
@@ -24039,6 +24145,486 @@
         "buying_signals": [],
         "sources": [
           "https://www.openstreetmap.org/node/12857219463"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-13282887518": {
+      "lead_id": "osm-node-13282887518",
+      "name": "phase",
+      "checked_at": "2026-10-12",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "phase — research dossier",
+        "facts": [
+          "The business is listed at Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/13282887518"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-13297115137": {
+      "lead_id": "osm-node-13297115137",
+      "name": "praguekabinet",
+      "checked_at": "2026-10-12",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "praguekabinet — research dossier",
+        "facts": [
+          "The business is listed at Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/13297115137"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-13360787701": {
+      "lead_id": "osm-node-13360787701",
+      "name": "Little Design Showroom",
+      "checked_at": "2026-10-12",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Little Design Showroom — research dossier",
+        "facts": [
+          "The business is listed at Pštrossova 1508/35, 11000, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/13360787701"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-13565432110": {
+      "lead_id": "osm-node-13565432110",
+      "name": "Atelier Pro Interier",
+      "checked_at": "2026-10-12",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Atelier Pro Interier — research dossier",
+        "facts": [
+          "The business is listed at Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/13565432110"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-13565433238": {
+      "lead_id": "osm-node-13565433238",
+      "name": "Nor Design",
+      "checked_at": "2026-10-12",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Nor Design — research dossier",
+        "facts": [
+          "The business is listed at Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/13565433238"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-1942510549": {
+      "lead_id": "osm-node-1942510549",
+      "name": "Showroom ASKO",
+      "checked_at": "2026-10-12",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Showroom ASKO — research dossier",
+        "facts": [
+          "The business is listed at Na Pankráci 30A, 14000, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/1942510549"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-2359929480": {
+      "lead_id": "osm-node-2359929480",
+      "name": "Kancelářské židle",
+      "checked_at": "2026-10-12",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Kancelářské židle — research dossier",
+        "facts": [
+          "The business is listed at Zdibská 229/2, 18200, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/2359929480"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-2927529601": {
+      "lead_id": "osm-node-2927529601",
+      "name": "Kubista",
+      "checked_at": "2026-10-12",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Kubista — research dossier",
+        "facts": [
+          "The business is listed at Ovocný trh 19, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/2927529601"
         ],
         "estimated_deal_czk": [
           30000,
