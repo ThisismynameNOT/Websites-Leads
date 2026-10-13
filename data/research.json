@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-12T16:29:46.018632+00:00",
+  "generated_at": "2026-10-13T14:50:37.160482+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -10613,27 +10613,96 @@
     "res-30061342": {
       "lead_id": "res-30061342",
       "name": "DEKO-REKon s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-13",
       "engine_version": 8,
-      "state": "researched",
+      "state": "audited",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "searched",
         "queries": [
           "\"DEKO-REKon s.r.o.\" IČO 30061342 web",
           "\"DEKO-REKon s.r.o.\" Praha Construction & property kontakt",
           "\"DEKO-REKon s.r.o.\" \"Chudenická 1059\" web",
           "\"DEKO-REKon s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30061342/deko-rekon-s-r-o",
+            "title": "DEKO-REKon s.r.o. - rizika, majitel, obchodní rejstřík",
+            "snippet": "DEKO-REKon s.r.o. Sídlo Praha. IČO: 30061342. Majitelé a statutární orgány. Obchodní rejstřík. Rok založení 2026. Rizikové signály firmy."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-deko-rekon-s-r-o-30061342/obory-cinnosti",
+            "title": "DEKO-REKon s.r.o. Praha 10 IČO: 30061342 - Finance.cz",
+            "snippet": "Podrobnosti o firmě DEKO-REKon s.r.o. Praha 10 IČO 30061342 kontakty 05.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Josef Sedláček Služby v oblasti vodo – topo – plyn tedy nabízíme hlavně v Karlovarském kraji. Vodoinstalace – kompletní rozvody vody v různých objektech, domovní vodárny, výměna vodoměrů, kanalizační a odpadní rozvody, další instalatérské práce i následný servis a pravidelná údržba."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
+            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+          },
+          {
+            "url": "https://profi-firmy.cz/",
+            "title": "Profi-firmy.cz – Databáze ověřených firem a řemeslníků po ...",
+            "snippet": "Najděte ověřeného profíka na cokoliv potřebujete Řemeslníci, dodavatelé a služby s reálnými hodnoceními. Pošlete jednu poptávku a vyberte si nejlepší nabídku — zdarma a bez závazku"
+          },
+          {
+            "url": "https://akcnitisk.cz/",
+            "title": "Akční Tisk - Zaručeně Spolehlivá Tiskárna",
+            "snippet": "Váš partner pro ofsetový a digitální tisk - tiskárna, která zvládne vše od brožur po personalizované tisky. Vyzkoušejte naše komplexní tiskové služby a užijte si bezproblémový servis."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "O projektu Projekt Poptávky.cz sdružuje 929 392 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
+          }
+        ],
         "errors": [
-          "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
-        "website": "",
-        "examined": [],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.chytryrejstrik.cz/ico-30061342/deko-rekon-s-r-o",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.chytryrejstrik.cz/ico-30061342/deko-rekon-s-r-o",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30061342/deko-rekon-s-r-o",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -10659,8 +10728,53 @@
         ]
       },
       "audit": {
-        "state": "not_run",
-        "reason": "No independently verified company website"
+        "state": "observed",
+        "checked_at": "2026-10-13",
+        "website": "https://www.chytryrejstrik.cz/ico-30061342/deko-rekon-s-r-o",
+        "devices": {
+          "desktop": {
+            "title": "DEKO-REKon s.r.o. - rizika, majitel, obchodní rejstřík",
+            "description": "DEKO-REKon s.r.o. Sídlo Praha. IČO: 30061342. Majitelé a statutární orgány. Obchodní rejstřík. Rok založení 2026. Rizikové signály firmy. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 170,
+            "small_text_elements": 2,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 45,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "DEKO-REKon s.r.o. - rizika, majitel, obchodní rejstřík",
+            "description": "DEKO-REKon s.r.o. Sídlo Praha. IČO: 30061342. Majitelé a statutární orgány. Obchodní rejstřík. Rok založení 2026. Rizikové signály firmy. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 133,
+            "small_text_elements": 10,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 45,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.chytryrejstrik.cz/ico-30061342/deko-rekon-s-r-o"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
       },
       "buying_signals": [
         {
@@ -10674,11 +10788,11 @@
         "title": "DEKO-REKon s.r.o. — research dossier",
         "facts": [
           "The business is listed at Chudenická 1059, Praha, 10200.",
-          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "An independently identity-matched business website was found: https://www.chytryrejstrik.cz/ico-30061342/deko-rekon-s-r-o.",
           "ARES confirms registration for IČO 30061342 dated 2026-09-23."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
         "observed_issues": [],
         "buying_signals": [
           {
@@ -10690,7 +10804,8 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30061342"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30061342",
+          "https://www.chytryrejstrik.cz/ico-30061342/deko-rekon-s-r-o"
         ],
         "estimated_deal_czk": [
           30000,
@@ -10710,11 +10825,24 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://www.chytryrejstrik.cz/ico-30061342/deko-rekon-s-r-o",
+        "https://rejstriky.finance.cz/firma-deko-rekon-s-r-o-30061342/obory-cinnosti",
+        "https://dodavatele.epoptavka.cz/",
+        "https://zakazky.epoptavka.cz/",
+        "https://www.epoptavka.cz/",
+        "https://www.poptavka.net/",
+        "https://profi-firmy.cz/"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {},
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.chytryrejstrik.cz/ico-30061342/deko-rekon-s-r-o",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
       "owner_verified": false,
       "buyer_interest_verified": false
     },
@@ -10781,27 +10909,155 @@
     "res-30061369": {
       "lead_id": "res-30061369",
       "name": "Nenačovické terasy s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-13",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "searched",
         "queries": [
           "\"Nenačovické terasy s.r.o.\" IČO 30061369 web",
           "\"Nenačovické terasy s.r.o.\" Praha Construction & property kontakt",
           "\"Nenačovické terasy s.r.o.\" \"Zakšínská 571\" web",
           "\"Nenačovické terasy s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/01465171/pilz-czech-sro/",
+            "title": "Pilz Czech s.r.o. , Praha IČO 01465171 - Obchodní rejstřík firemSkupina VCESE. Hála Laboratory of ThermodynamicsPracovní příležitosti v České republice | Personální agentura ...Glo",
+            "snippet": "Pilz Czech s.r.o., Jeremenkova, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní společnosti ... Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku. EXT"
+          },
+          {
+            "url": "https://www.eurobydleni.cz/prodej-rodinneho-domu-240-m-na-pozemku-1199-m-praha-horni-pocernice/detail/10203493/",
+            "title": "Prodej rodinného domu 240 m, na pozemku 1199 m, Praha - Horní ...",
+            "snippet": "Nabízíme k prodeji prostorný rodinný dům z roku 1977 s rovným pozemkem o výměře 1 199 m v atraktivní lokalitě Horní Počernice, Praha 9. Nemovitost disponuje garáží pro 6 vozů, bazénem, dílnou a množstvím velkých obytných místností. Veškeré inženýrské sítě jsou na pozemku, k dispozici je také studna. Dům je zcela podskl"
+          },
+          {
+            "url": "https://www.hochtief.com/",
+            "title": "Global Construction & Infrastructure Group – HOCHTIEF",
+            "snippet": "“The Big Picture” This film showcases what HOCHTIEF stands for: engineering excellence, strong local teams, and growth in the areas that will shape our future—from digitalization and AI to clean energy and critical minerals, and on to modern mobility and resilient infrastructure. Across continents, we build infrastruct"
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.icpf.cas.cz/cms-assets/documents/imported/2021_03_annual_report-2011.pdf",
+            "title": "E. Hála Laboratory of Thermodynamics",
+            "snippet": "EXTERNAL MEMBERS JOSEF KOUBEK (FACULTY OF CHEMICAL TECHNOLOGY, ICT, PRAGUE) JAROMÍR LEDERER (INSTITUTE OF INORGANIC CHEMISTRY, INC., LITVÍNOV) MILOŠ MAREK (FACULTY OF CHEMICAL ENGINEERING, ICT, PRAGUE) KAREL ULBRICH (IMC, PRAGUE) KAMIL WICHTERLE (FACULTY OF METALLURGY AND MATERIALS ENGINEERING, VSB-TU, OSTRAVA)"
+          },
+          {
+            "url": "https://www.hays.cz/",
+            "title": "Pracovní příležitosti v České republice | Personální agentura ...",
+            "snippet": "Jste připraveni získat novou, lepší práci? Nabízíme příležitosti na trvalý i dočasný pracovní poměr nebo na kontrakt po celé České republice. Využijte zkušeností a podpory našich odborných."
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Josef Sedláček Služby v oblasti vodo – topo – plyn tedy nabízíme hlavně v Karlovarském kraji. Vodoinstalace – kompletní rozvody vody v různých objektech, domovní vodárny, výměna vodoměrů, kanalizační a odpadní rozvody, další instalatérské práce i následný servis a pravidelná údržba."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://profi-firmy.cz/",
+            "title": "Profi-firmy.cz – Databáze ověřených firem a řemeslníků po ...",
+            "snippet": "Najděte ověřeného profíka na cokoliv potřebujete Řemeslníci, dodavatelé a služby s reálnými hodnoceními. Pošlete jednu poptávku a vyberte si nejlepší nabídku — zdarma a bez závazku"
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
+            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávám: zahradní práce a úprava terénu na zahradě, 200 m2 Služby Zahradnictví a zahradnické služby Stavebnictví Zemní práce okres Praha-západ 13. 10. 2026 (dnes)"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          }
+        ],
         "errors": [
-          "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
+        "state": "AMBIGUOUS",
         "website": "",
-        "examined": [],
+        "examined": [
+          {
+            "url": "https://www.eurobydleni.cz/prodej-rodinneho-domu-240-m-na-pozemku-1199-m-praha-horni-pocernice/detail/10203493/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.hochtief.com/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.icpf.cas.cz/cms-assets/documents/imported/2021_03_annual_report-2011.pdf",
+            "result": "unreachable",
+            "reason": "not_html"
+          },
+          {
+            "url": "https://www.hays.cz/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -10884,7 +11140,15 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/01465171/pilz-czech-sro/",
+        "https://www.eurobydleni.cz/prodej-rodinneho-domu-240-m-na-pozemku-1199-m-praha-horni-pocernice/detail/10203493/",
+        "https://www.hochtief.com/",
+        "https://www.skanska.com/cz/cs",
+        "https://vces.cz/",
+        "https://www.icpf.cas.cz/cms-assets/documents/imported/2021_03_annual_report-2011.pdf",
+        "https://www.hays.cz/"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -10955,27 +11219,106 @@
     "res-30062012": {
       "lead_id": "res-30062012",
       "name": "Oleksandr Patskan",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-13",
       "engine_version": 8,
-      "state": "researched",
+      "state": "audited",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "searched",
         "queries": [
           "\"Oleksandr Patskan\" IČO 30062012 web",
           "\"Oleksandr Patskan\" Praha Construction & property kontakt",
           "\"Oleksandr Patskan\" \"Benkova 1694\" web",
           "\"Oleksandr Patskan\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-oleksandr-patskan-30062012",
+            "title": "Oleksandr Patskan IČO 30062012 kontakty 30.09.2026 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Oleksandr Patskan, která sídlí v obci a bylo jí přiděleno IČO 30062012. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://www.finreg.sk/subjekt/18590009",
+            "title": "Oleksandr Patskan - finančný prehľad | FinReg.sk - finančný ...",
+            "snippet": "Finančné informácie o Oleksandr Patskan - (zisk, tržby, dlhy, daňové priznania a DPH) | FinReg.sk - finančný register"
+          },
+          {
+            "url": "https://firmastat.cz/firma/22447067",
+            "title": "Oleksandr Patskan (IČO 22447067) — Firmastat",
+            "snippet": "Oleksandr Patskan, IČO 22447067, Fyzická osoba podnikající dle živnostenského zákona, sídlo Klánova 506/9, 147 00 Praha. Aktivní subjekt — základní údaje, stat…"
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/oleksandr-patskan-88637620/",
+            "title": "Oleksandr Patskan - IČO 88637620 - Obchodní rejstřík na ...",
+            "snippet": "Podrobnosti o firmě Oleksandr Patskan - IČO 88637620 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/21488452-oleksandr-patskan",
+            "title": "Oleksandr Patskan, IČO: 21488452 - ARES - Finmag.cz",
+            "snippet": "Oleksandr Patskan, IČO: 21488452 - RES Obchodní firma Oleksandr Patskan se sídlem Praha - Řepy, Španielova 1315/25, 16300 a identifikačním číslem (IČO) 21488452."
+          },
+          {
+            "url": "https://findat.sk/firma/oleksandr-patskan/NDgyNzY5Mjk=",
+            "title": "Oleksandr Patskan, IČO: 53821262 - finančný report",
+            "snippet": "Oleksandr Patskan, Vrbová nad Váhom, IČO: 53821262, DIČ: . Tržby, zisk firmy Oleksandr Patskan a mnoho ďalších informácií. Databáza slovenských firiem…"
+          },
+          {
+            "url": "https://dlznik.zoznam.sk/rychle-vyhladavanie?q=oleksandr+patskan",
+            "title": "oleksandr patskan – Informácie o hľadanej firme alebo ...",
+            "snippet": "Aug 24, 2026 · Informácie o subjekte oleksandr patskan. Presná adresa, IČO, predmety podnikania, možnosť overenia zadlženosti a ďalšie užitočné informácie."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-oleksandr-patskan-30062012/kontakty",
+            "title": "Oleksandr Patskan IČO 30062012 kontakty 30.09.2026 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Oleksandr Patskan, která sídlí v obci a bylo jí přiděleno IČO 30062012. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/22447067-oleksandr-patskan",
+            "title": "Oleksandr Patskan, IČO: 22447067 - ARES - Finmag.cz",
+            "snippet": "Obchodní firma Oleksandr Patskan se sídlem Praha - Hodkovičky, Klánova 506/9, 14700 a identifikačním číslem (IČO) 22447067."
+          },
+          {
+            "url": "https://www.detail.cz/subjekt/21488452-oleksandr-patskan-spanielova-1315-25-praha/",
+            "title": "Subjekt Oleksandr Patskan | Detail.cz",
+            "snippet": "Subjekt Oleksandr Patskan (IČO: 21488452) vznikl dne 17. dubna 2024 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle subjektu."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/ares/21488452-oleksandr-patskan",
+            "title": "Oleksandr Patskan, Praha, IČO: 21488452 - ARES | Peníze.cz",
+            "snippet": "Registr ekonomických subjektů - Oleksandr Patskan, IČO: 21488452, sídlo firmy, předmět podnikání firmy Oleksandr Patskan."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          }
+        ],
         "errors": [
-          "DDGSException: No results found.",
-          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
-        "website": "",
-        "examined": [],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.finreg.sk/subjekt/18590009",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.finreg.sk/subjekt/18590009",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.finreg.sk/subjekt/18590009",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -10995,8 +11338,53 @@
         "director_lookup_status": "HTTPError"
       },
       "audit": {
-        "state": "not_run",
-        "reason": "No independently verified company website"
+        "state": "observed",
+        "checked_at": "2026-10-13",
+        "website": "https://www.finreg.sk/subjekt/18590009",
+        "devices": {
+          "desktop": {
+            "title": "Oleksandr Patskan - finančný prehľad | FinReg.sk - finančný register",
+            "description": "Finančné informácie o Oleksandr Patskan  - (zisk, tržby, dlhy, daňové priznania a DPH)\n | FinReg.sk - finančný register",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 16,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 5,
+            "images_count": 6,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Oleksandr Patskan - finančný prehľad | FinReg.sk - finančný register",
+            "description": "Finančné informácie o Oleksandr Patskan  - (zisk, tržby, dlhy, daňové priznania a DPH)\n | FinReg.sk - finančný register",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 16,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 5,
+            "images_count": 6,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.finreg.sk/subjekt/18590009"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
       },
       "buying_signals": [
         {
@@ -11010,11 +11398,11 @@
         "title": "Oleksandr Patskan — research dossier",
         "facts": [
           "The business is listed at Benkova 1694, Praha, 14900.",
-          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "An independently identity-matched business website was found: https://www.finreg.sk/subjekt/18590009.",
           "ARES confirms registration for IČO 30062012 dated 2026-09-23."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
         "observed_issues": [],
         "buying_signals": [
           {
@@ -11026,7 +11414,8 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30062012"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30062012",
+          "https://www.finreg.sk/subjekt/18590009"
         ],
         "estimated_deal_czk": [
           30000,
@@ -11046,11 +11435,24 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-oleksandr-patskan-30062012",
+        "https://www.finreg.sk/subjekt/18590009",
+        "https://firmastat.cz/firma/22447067",
+        "https://www.podnikatel.cz/rejstrik/oleksandr-patskan-88637620/",
+        "https://www.finmag.cz/obchodni-rejstrik/ares/21488452-oleksandr-patskan",
+        "https://findat.sk/firma/oleksandr-patskan/NDgyNzY5Mjk=",
+        "https://dlznik.zoznam.sk/rychle-vyhladavanie?q=oleksandr+patskan"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {},
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.finreg.sk/subjekt/18590009",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
       "owner_verified": false,
       "buyer_interest_verified": false
     },
@@ -11117,7 +11519,7 @@
     "res-30062276": {
       "lead_id": "res-30062276",
       "name": "TERRA EXREME s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-13",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -12791,27 +13193,114 @@
     "res-30063191": {
       "lead_id": "res-30063191",
       "name": "Milan Leva",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-13",
       "engine_version": 8,
-      "state": "researched",
+      "state": "audited",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "searched",
         "queries": [
           "\"Milan Leva\" IČO 30063191 web",
           "\"Milan Leva\" Praha Construction & property kontakt",
           "\"Milan Leva\" \"Davídkova 694\" web",
           "\"Milan Leva\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
-        "errors": [
-          "DDGSException: No results found.",
-          "DDGSException: No results found.",
-          "DDGSException: No results found."
+        "successful_queries": 4,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-milan-leva-30063191",
+            "title": "Milan Leva Praha IČO 30063191 kontakty 10.10.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Milan Leva Praha IČO 30063191 kontakty 10.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-milan-leva-30063191/kontakty",
+            "title": "Milan Leva IČO 30063191 kontakty 04.10.2026 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Milan Leva, která sídlí v obci a bylo jí přiděleno IČO 30063191. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://www.finreg.sk/subjekt/18589907",
+            "title": "Milan Leva - finančný prehľad | FinReg.sk - finančný register",
+            "snippet": "Finančné informácie o Milan Leva - (zisk, tržby, dlhy, daňové priznania a DPH) | FinReg.sk - finančný register"
+          },
+          {
+            "url": "https://ares.cz/obchodni-rejstrik/",
+            "title": "Obchodní rejstřík firem ČR — vyhledávání podle IČO | ARES.CZ",
+            "snippet": "Jul 2, 2026 · Najděte firmu v obchodním rejstříku podle IČO, obchodního jména nebo sídla — zdarma, bez registrace. ARES.CZ agreguje data z oficiálního obchodního rejstříku Ministerstva spravedlnosti (z. č. 304/2013 Sb.) a z navazujících veřejných registrů: živnostenský rejstřík (RŽP), registr ekonomických subjektů ČSÚ "
+          },
+          {
+            "url": "https://www.pleva.cz/en/our-team",
+            "title": "Our Team - Pleva",
+            "snippet": "We present the team of the Pleva Family Company. When Mr. and Mrs. Pleva set up the company in 1990, they started with two products. Now the family company Pleva has over 70 products in its product range."
+          },
+          {
+            "url": "https://ares.cz/",
+            "title": "Vyhledávání v ARES podle IČO a DIČ – firmy a OSVČ | ARES.CZ",
+            "snippet": "Ekonomické subjekty z ARES, obchodního a živnostenského rejstříku na jednom místě: firmy i fyzické osoby, ověření plátce DPH a DIČ, insolvence. Zdarma."
+          },
+          {
+            "url": "https://rzp.gov.cz/verejne-udaje/cs/udaje",
+            "title": "Vyhledání podnikatele - Vyhledání podle údajů subjektu",
+            "snippet": "Přístup k tomuto obsahu je omezený, před dalším zpracováním prosím obnovte relaci. Není dostupný odpovídající obsah. Máte dotaz? Napište nám."
+          },
+          {
+            "url": "https://m.estav.cz/zednickaremesla",
+            "title": "Milan Lev - m.estav.cz",
+            "snippet": "Firmy. Stavební databáze. Milan Lev (Hudlice). Lev, Zednické a stavební práce: obklady, dlažby, štuky, omítky, suché stavby, rekonstrukce, služby ..."
+          },
+          {
+            "url": "https://www.facebook.com/milan.leva/",
+            "title": "Milan Leva - Facebook",
+            "snippet": "Milan Leva is on Facebook. Join Facebook to connect with Milan Leva and others you may know. Facebook gives people the power to share and makes the world..."
+          },
+          {
+            "url": "https://www.linkedin.com/pub/dir/Milan/Lev",
+            "title": "2 \"Milan Lev\" profiles | LinkedIn",
+            "snippet": "View the profiles of professionals named \"Milan Lev\" on LinkedIn. There are 2 professionals named \"Milan Lev\", who use LinkedIn to exchange information, ideas, and opportunities."
+          },
+          {
+            "url": "https://www.yelp.com/biz/milan-horáček-praha-5",
+            "title": "MILAN HORÁČEK - Levá 391/21, Praha, Czech Republic - Yelp",
+            "snippet": "Milan Horáček in Praha, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Praha and beyond."
+          },
+          {
+            "url": "https://milanzahrady.cz/kontakt/",
+            "title": "Kontakt – Milan zahrady",
+            "snippet": "Kontakt na Milan Zahrady — napište nebo zavolejte pro nezávaznou konzultaci, zaměření a cenovou nabídku. Působíme v Praze, středních a východních Čechách."
+          },
+          {
+            "url": "https://www.borsaitaliana.it/",
+            "title": "Borsa Italiana: sito ufficiale della Borsa di Milano",
+            "snippet": "14 hours ago · Borsa Italiana: quotazioni in tempo reale, analisi, andamenti e ultime notizie della finanza su Azioni, Indici, ETF, ETC, CW, Fondi, Obbligazioni, Derivati."
+          },
+          {
+            "url": "https://it.jooble.org/jdp/-874517086911131041",
+            "title": "Cloud Operations Architect, ES - EMEA South - Italy",
+            "snippet": "Offerta di lavoro presso Amazon Web Services (AWS) per Cloud Operations Architect, ES - EMEA South - Italy a Milano. Scopri nuove opportunità di carriera con Jooble"
+          }
         ],
-        "state": "SEARCH_UNAVAILABLE",
-        "website": "",
-        "examined": [],
+        "errors": [],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.finreg.sk/subjekt/18589907",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.finreg.sk/subjekt/18589907",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.finreg.sk/subjekt/18589907",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -12831,8 +13320,53 @@
         "director_lookup_status": "HTTPError"
       },
       "audit": {
-        "state": "not_run",
-        "reason": "No independently verified company website"
+        "state": "observed",
+        "checked_at": "2026-10-13",
+        "website": "https://www.finreg.sk/subjekt/18589907",
+        "devices": {
+          "desktop": {
+            "title": "Milan Leva - finančný prehľad | FinReg.sk - finančný register",
+            "description": "Finančné informácie o Milan Leva  - (zisk, tržby, dlhy, daňové priznania a DPH)\n | FinReg.sk - finančný register",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 16,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 5,
+            "images_count": 6,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Milan Leva - finančný prehľad | FinReg.sk - finančný register",
+            "description": "Finančné informácie o Milan Leva  - (zisk, tržby, dlhy, daňové priznania a DPH)\n | FinReg.sk - finančný register",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 16,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 5,
+            "images_count": 6,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.finreg.sk/subjekt/18589907"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
       },
       "buying_signals": [
         {
@@ -12846,11 +13380,11 @@
         "title": "Milan Leva — research dossier",
         "facts": [
           "The business is listed at Davídkova 694, Praha, 18000.",
-          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "An independently identity-matched business website was found: https://www.finreg.sk/subjekt/18589907.",
           "ARES confirms registration for IČO 30063191 dated 2026-09-23."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
         "observed_issues": [],
         "buying_signals": [
           {
@@ -12862,7 +13396,8 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30063191"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30063191",
+          "https://www.finreg.sk/subjekt/18589907"
         ],
         "estimated_deal_czk": [
           30000,
@@ -12882,11 +13417,24 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-milan-leva-30063191",
+        "https://rejstriky.finance.cz/firma-milan-leva-30063191/kontakty",
+        "https://www.finreg.sk/subjekt/18589907",
+        "https://ares.cz/obchodni-rejstrik/",
+        "https://www.pleva.cz/en/our-team",
+        "https://ares.cz/",
+        "https://rzp.gov.cz/verejne-udaje/cs/udaje"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {},
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.finreg.sk/subjekt/18589907",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
       "owner_verified": false,
       "buyer_interest_verified": false
     },
@@ -13587,27 +14135,81 @@
     "res-30064074": {
       "lead_id": "res-30064074",
       "name": "Hasbay s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-13",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "partial_search",
         "queries": [
           "\"Hasbay s.r.o.\" IČO 30064074 web",
           "\"Hasbay s.r.o.\" Praha Construction & property kontakt",
           "\"Hasbay s.r.o.\" \"Stárkova 1166\" web",
           "\"Hasbay s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/05736218/has-business-sro/",
+            "title": "Has Business s.r.o. , Praha IČO 05736218 - Obchodní rejstřík ...",
+            "snippet": "Aug 26, 2026 · Kde je sídlo firmy Has Business s.r.o.? Sídlo firmy Has Business s.r.o. je Spálená 92/21, Nové Město (Praha 1), 110 00 Praha. Další firmy na této adrese."
+          },
+          {
+            "url": "https://en.firmy.cz/Trades-and-services/Construction/kraj-praha",
+            "title": "Construction Prague • Firmy.cz",
+            "snippet": "From the sale of land, purchase of an apartment, financing, to the actual construction or reconstruction of your property. We have interesting development projects that we build to fulfill your ideas of a new home."
+          },
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles.has_sof_-_cz_sro.7a0bdf16569bfeb2e80acfee9c6369c6.html",
+            "title": "HAS SOF - CZ, s.r.o. Company Profile | Praha 4 - Libuš ...",
+            "snippet": "Find company research, competitor information, contact details & financial data for HAS SOF - CZ, s.r.o. of Praha 4 - Libuš, Hlavní město Praha. Get the latest business insights from Dun & Bradstreet."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+            "title": "Construction & Property Management s.r.o. , Praha IČO ...",
+            "snippet": "May 12, 2026 · Kde je sídlo firmy Construction & Property Management s.r.o.? Sídlo firmy Construction & Property Management s.r.o. je Na příkopě 859/22, Nové Město (Praha 1), 110 00 Praha."
+          },
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles.abate_bay_sro.8cb1007d66ddb39d0a1adc4e962fc212.html",
+            "title": "ABATE BAY s.r.o. Company Profile | Praha, Hlavní město Praha ...",
+            "snippet": "Find company research, competitor information, contact details & financial data for ABATE BAY s.r.o. of Praha, Hlavní město Praha. Get the latest business insights from Dun & Bradstreet."
+          },
+          {
+            "url": "https://www.zlatestranky.cz/profil/H1824034",
+            "title": "HAS SOF - CZ, s.r.o., Praha-Libuš - ZlatéStránky.cz",
+            "snippet": "Kontakty Telefony ... Odkazy ... Kontakty Chladírenská 3/113, 142 00 Praha-Libuš-Libuš okres Hlavní město Praha, Hlavní město Praha http://www.hassof.cz IČ: 24120600"
+          },
+          {
+            "url": "https://www.hase.com/has-business",
+            "title": "HasBusiness",
+            "snippet": "Cubism, Art Deco, Functionalism, Mid-century, Contemporary. Custom Upholstered Furniture. A Czech manufacturer of handmade furniture providing maximum comfort."
+          }
+        ],
         "errors": [
           "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
+        "state": "AMBIGUOUS",
         "website": "",
-        "examined": [],
+        "examined": [
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles.has_sof_-_cz_sro.7a0bdf16569bfeb2e80acfee9c6369c6.html",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.zlatestranky.cz/profil/H1824034",
+            "result": "unreachable",
+            "reason": "ReadTimeout"
+          },
+          {
+            "url": "https://www.hase.com/has-business",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -13684,7 +14286,15 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/05736218/has-business-sro/",
+        "https://en.firmy.cz/Trades-and-services/Construction/kraj-praha",
+        "https://www.dnb.com/business-directory/company-profiles.has_sof_-_cz_sro.7a0bdf16569bfeb2e80acfee9c6369c6.html",
+        "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+        "https://www.dnb.com/business-directory/company-profiles.abate_bay_sro.8cb1007d66ddb39d0a1adc4e962fc212.html",
+        "https://www.zlatestranky.cz/profil/H1824034",
+        "https://www.hase.com/has-business"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -13801,27 +14411,100 @@
     "res-30064287": {
       "lead_id": "res-30064287",
       "name": "QUANTUM Engineering a.s.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-13",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "partial_search",
         "queries": [
           "\"QUANTUM Engineering a.s.\" IČO 30064287 web",
           "\"QUANTUM Engineering a.s.\" Praha Construction & property kontakt",
           "\"QUANTUM Engineering a.s.\" \"Korunní 2569\" web",
           "\"QUANTUM Engineering a.s.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://www.quantumresidential.com/contact/",
+            "title": "Contact - Quantum Residential",
+            "snippet": "Contact Us Today! Connect with us today to get more information about Quantum Residential, professionally managing communities for over 50 years."
+          },
+          {
+            "url": "https://propertysearch.grantcountywa.gov/propertyaccess/?cid=10",
+            "title": "Grant County Property SearchSeattle DJC.com local business news and data - Construction ...4050 Rd 7.4 NE, Moses Lake, WA 98837 | Zillow",
+            "snippet": "3 days ago · Enter a street name or a partial street name in this field to obtain a list of parcels containing the words you entered in their street name. Enter the City name to search on. Enter a parcel number in this field and press the parcel search button if you are searching for a particular parcel. Nov 16, 2010 ·"
+          },
+          {
+            "url": "https://www.djc.com/news/co/12023625.html",
+            "title": "Seattle DJC.com local business news and data - Construction ...",
+            "snippet": "Nov 16, 2010 · Quantum provides structural engineering, renovation, analysis, retrofit and repair to all building types."
+          },
+          {
+            "url": "https://www.quantumresidential.com/property-search/",
+            "title": "Property Search - Quantum Residential",
+            "snippet": "451 NE 75th Ave, Portland, OR. 97213 503-610-3654"
+          },
+          {
+            "url": "https://www.zillow.com/homedetails/4050-Road-7-4-NE-Moses-Lake-WA-98837/118443047_zpid/",
+            "title": "4050 Rd 7.4 NE, Moses Lake, WA 98837 | Zillow",
+            "snippet": "Sep 9, 2026 · 4050 Rd 7.4 NE, Moses Lake, WA 98837 is currently not for sale. The 2,960 Square Feet single family home is a 5 beds, 5 baths property. This home was built in 2015 and last sold on 2026-09-09 for $690,000. View more property details, sales history, and Zestimate data on Zillow."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          }
+        ],
         "errors": [
           "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
+        "state": "AMBIGUOUS",
         "website": "",
-        "examined": [],
+        "examined": [
+          {
+            "url": "https://www.quantumresidential.com/contact/",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://propertysearch.grantcountywa.gov/propertyaccess/?cid=10",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.djc.com/news/co/12023625.html",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching distinctive business-name words on website"
+            ]
+          },
+          {
+            "url": "https://www.zillow.com/homedetails/4050-Road-7-4-NE-Moses-Lake-WA-98837/118443047_zpid/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -13898,7 +14581,15 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://www.quantumresidential.com/contact/",
+        "https://propertysearch.grantcountywa.gov/propertyaccess/?cid=10",
+        "https://www.djc.com/news/co/12023625.html",
+        "https://www.quantumresidential.com/property-search/",
+        "https://www.zillow.com/homedetails/4050-Road-7-4-NE-Moses-Lake-WA-98837/118443047_zpid/",
+        "https://www.skanska.com/cz/cs",
+        "https://vces.cz/"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -14009,27 +14700,122 @@
     "res-30064465": {
       "lead_id": "res-30064465",
       "name": "Hana Pejchová",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-13",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "searched",
         "queries": [
           "\"Hana Pejchová\" IČO 30064465 web",
           "\"Hana Pejchová\" Praha Construction & property kontakt",
           "\"Hana Pejchová\" \"Augustinova 2076\" web",
           "\"Hana Pejchová\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-hana-pechova-00789178/kontakty",
+            "title": "Hana Pechová Praha 5 IČO 00789178 kontakty 15.08.2024 ...",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Hana Pechová, která sídlí v obci Praha 5 a bylo jí přiděleno IČO 00789178. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-hana-pejchova-30064465/kontakty",
+            "title": "Hana Pejchová IČO 30064465 kontakty 30.09.2026 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Hana Pejchová, která sídlí v obci a bylo jí přiděleno IČO 30064465. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://firmy.euro.cz/subjekt-hana-pechova-00789178",
+            "title": "Hana Pechová IČO: 00789178, Praha 5, výpis z rejstříku 04.12. ...",
+            "snippet": "Veřejně dostupné informace o firmě Hana Pechová IČO: 00789178 se sídlem Praha 5, V alejích"
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/hana-pechova-24444391/",
+            "title": "Hana Pechová - IČO 24444391 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Osoby stejného jména Hana Pechová Sídlo podnikání: V alejích 372, Praha, 155 31 Hana Pechová Sídlo podnikání: Police 96, 675 34, Česká republika Hana Pechová Sídlo podnikání: Hana Pechová Sídlo podnikání: Jiráskova 493, Jaroměř, 551 01"
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/hana-pechova-00789178/",
+            "title": "Hana Pechová - IČO 00789178 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Podrobnosti o firmě Hana Pechová - IČO 00789178 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://rejstrik.penize.cz/ares/23766298-hana-pechova",
+            "title": "Hana Pechová, Praha, IČO: 23766298 - ARES | Peníze.cz",
+            "snippet": "Registr ekonomických subjektů - Hana Pechová, IČO: 23766298, sídlo firmy, předmět podnikání firmy Hana Pechová."
+          },
+          {
+            "url": "https://jasnadata.cz/person/cb2a1c5de1f01236e5f1623e1b08f0ed8edaabd6",
+            "title": "Hana Pejchová - Jasnadata.cz",
+            "snippet": "Bezplatné firemní údaje pro Hana Pejchová. Základní informace, vlastnictví, ředitelé a další"
+          },
+          {
+            "url": "https://rejstrik.penize.cz/hana-pejchova",
+            "title": "Hana Pejchová - Obchodní rejstřík | Peníze.cz",
+            "snippet": "Hana Pejchová výpis firem z Obchodního rejstříku, IČO firmy, adresa sídla firmy, pozice ve firmě, související firmy, vztahy ve firmách."
+          },
+          {
+            "url": "https://www.epoptavka.cz/reference",
+            "title": "Reference | ePoptávka.cz",
+            "snippet": "Každý měsíc dostávám na e-mail přibližně 200 poptávek na naše služby. Provádím podrobný výběr a reaguji na cca 10 poptávek. Zrealizujeme tak 2-3 měsíčně. Vložená investice se nám vrátí již po 1-2 zakázkách. Za naši firmu mohu jenom doporučit."
+          },
+          {
+            "url": "https://registrdotaci.penize.cz/prijemce/d197751-hana-pejchova",
+            "title": "Poskytnuté dotace: Hana Pejchová | Peníze.cz",
+            "snippet": "Tento výpis z centrálního registru dotací obsahuje informace o schválených či vyplacených dotačních programech či projektech pro příjemce dotace Hana Pejchová s IČO ."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.poptavej.cz/",
+            "title": "Poptávky a veřejné zakázky | Poptávej.cz",
+            "snippet": "Poptávej.cz je poptávkový systém zaměřený na porovnání nabídky služeb a zboží z celé ČR, kde je zadání poptávky zcela zdarma. Každá poptávka zároveň slouží jako zdroj obchodních příležitostí pro firmy."
+          },
+          {
+            "url": "https://www.poptavej.cz/poptavky",
+            "title": "Poptávky | Poptávej.cz",
+            "snippet": "Ověřeno 12.10.2026 Odvoz zeminy a kamení z terasy u bytu, objem 5-7 m² Doprava a logistika Praha Ověřeno 12.10.2026 Zajištění tepování/vyčistění koberců v celém bytě"
+          }
+        ],
         "errors": [
-          "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
+        "state": "AMBIGUOUS",
         "website": "",
-        "examined": [],
+        "examined": [
+          {
+            "url": "https://firmy.euro.cz/subjekt-hana-pechova-00789178",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://jasnadata.cz/person/cb2a1c5de1f01236e5f1623e1b08f0ed8edaabd6",
+            "result": "unreachable",
+            "reason": "HTTP_502"
+          },
+          {
+            "url": "https://www.epoptavka.cz/reference",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavej.cz/",
+            "result": "unreachable",
+            "reason": "ConnectTimeout"
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -14100,7 +14886,15 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-hana-pechova-00789178/kontakty",
+        "https://rejstriky.finance.cz/firma-hana-pejchova-30064465/kontakty",
+        "https://firmy.euro.cz/subjekt-hana-pechova-00789178",
+        "https://www.podnikatel.cz/rejstrik/hana-pechova-24444391/",
+        "https://www.podnikatel.cz/rejstrik/hana-pechova-00789178/",
+        "https://rejstrik.penize.cz/ares/23766298-hana-pechova",
+        "https://jasnadata.cz/person/cb2a1c5de1f01236e5f1623e1b08f0ed8edaabd6"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -24625,6 +25419,696 @@
         "buying_signals": [],
         "sources": [
           "https://www.openstreetmap.org/node/2927529601"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-343686139": {
+      "lead_id": "osm-node-343686139",
+      "name": "JYSK",
+      "checked_at": "2026-10-13",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "JYSK — research dossier",
+        "facts": [
+          "The business is listed at Štúrova 1308/6, 14200, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/343686139"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-360013338": {
+      "lead_id": "osm-node-360013338",
+      "name": "JYSK",
+      "checked_at": "2026-10-13",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"JYSK\" IČO 26760746 web",
+          "\"JYSK\" Praha Construction & property kontakt",
+          "\"JYSK\" \"Vyžlovská 3130/1\" web",
+          "\"JYSK\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://jysk.cz/b2b/kontaktujte-nas",
+            "title": "Kontaktujte nás - JYSK",
+            "snippet": "Chcete-li kontaktovat náš B2B tým, vyberte jednu z níže uvedených možností kontaktu. Tato otázka slouží k ověření, zda jste člověk, a k zabránění automatickému odesílání spamu."
+          },
+          {
+            "url": "https://www.firmy.cz/detail/13104063-jysk-cz-praha-lhotka.html",
+            "title": "Jysk.cz (Praha, Lhotka), IČO 26760746, adresa a telefon ...JYSK centrála , Praha, Lhotka - Živéfirmy.czJYSK (Praha, Strašnice), IČO 26760746, adresa a telefon ...JYSK Praha , Praha",
+            "snippet": "Aktuální ověřené informace: adresa, IČO, telefon, e-mail, provozní hodiny a hodnocení Jysk.cz, Praha, Lhotka. Telefon: 228 884 … Formulář je určen výhradně k zasílání poptávek nebo dotazů souvisejících s činností vybrané firmy. Zprávy jsou redigovány našimi operátorkami. Po jejich schválení jsou odeslány adresátovi. Ak"
+          },
+          {
+            "url": "https://www.zivefirmy.cz/jysk-centrala_f1122721",
+            "title": "JYSK centrála , Praha, Lhotka - Živéfirmy.czJYSK (Praha, Strašnice), IČO 26760746, adresa a telefon ...JYSK Praha , Praha, Strašnice - Živéfirmy.czJYSK (Praha, Bohnice) • Firmy.czC",
+            "snippet": "Formulář je určen výhradně k zasílání poptávek nebo dotazů souvisejících s činností vybrané firmy. Zprávy jsou redigovány našimi operátorkami. Po jejich schválení jsou odeslány adresátovi. Aktuální ověřené informace: adresa, IČO, telefon, e-mail, otevírací hodiny a hodnocení JYSK, Praha, Strašnice. Telefon: 228 884 … F"
+          },
+          {
+            "url": "https://www.firmy.cz/detail/2429896-jysk-praha-strasnice.html",
+            "title": "JYSK (Praha, Strašnice), IČO 26760746, adresa a telefon ...JYSK Praha , Praha, Strašnice - Živéfirmy.czJYSK (Praha, Bohnice) • Firmy.czCustomer Service | JYSK",
+            "snippet": "Aktuální ověřené informace: adresa, IČO, telefon, e-mail, otevírací hodiny a hodnocení JYSK, Praha, Strašnice. Telefon: 228 884 … Formulář je určen výhradně k zasílání poptávek nebo dotazů souvisejících s činností vybrané firmy. Zprávy jsou redigovány našimi operátorkami. Po jejich schválení jsou odeslány adresátovi. U"
+          },
+          {
+            "url": "https://www.zivefirmy.cz/jysk-praha_f1122723",
+            "title": "JYSK Praha , Praha, Strašnice - Živéfirmy.czJYSK (Praha, Bohnice) • Firmy.czCustomer Service | JYSK",
+            "snippet": "Formulář je určen výhradně k zasílání poptávek nebo dotazů souvisejících s činností vybrané firmy. Zprávy jsou redigovány našimi operátorkami. Po jejich schválení jsou odeslány adresátovi. Up-to-date verified information: address, phone, e-mail, opening hours and reviews JYSK, Praha, Bohnice. Phone: 228 884 … Pokud inf"
+          },
+          {
+            "url": "https://en.firmy.cz/company/13217507-jysk-praha-bohnice.html",
+            "title": "JYSK (Praha, Bohnice) • Firmy.cz",
+            "snippet": "Up-to-date verified information: address, phone, e-mail, opening hours and reviews JYSK, Praha, Bohnice. Phone: 228 884 …"
+          },
+          {
+            "url": "https://jysk.cz/customer-service",
+            "title": "Customer Service | JYSK",
+            "snippet": "Pokud informaci, kterou hledáte, nevidíte na našem webu, kontaktujte prosím naše zákaznické centrum. Nejrychleji se vám odpovědi dostane prostřednictvím chatu nebo telefonu. Mimo otevírací dobu nás prosím kontaktujte přes e-mail. Věříme, že všechny vaše požadavky vyřídíme k vaší maximální spokojenosti. Kolik stojí dopr"
+          },
+          {
+            "url": "https://jysk.cz/",
+            "title": "JYSK | Nábytek do vašeho domova - Vždy skvělá nabídka",
+            "snippet": "Dostávejte marketingové informace od společnosti JYSK, včetně novinek, soutěží, inspirace a nabídek s personalizovaným obsahem na základě vašich osobních údajů."
+          },
+          {
+            "url": "https://www.zivefirmy.cz/jysk-praha_f1615227",
+            "title": "JYSK Praha , Praha, Horní Měcholupy - Živéfirmy.czPoptávky od veřejných subjektů | ePoptávka.czJysk.cz (Praha, Lhotka), IČO 26760746, adresa a telefon ...Customer Service | JYSK",
+            "snippet": "JYSK s.r.o. IČ 26760746 DIČ CZ26760746 Právní forma: Společnost s ručením omezeným Datová schránka: xqjem56 Zdroj: justice.cz Odeslat poptávku nebo dotaz firmě: JYSK Praha Váš e-mail: E-mail příjemce: zakaznik@jysk.com Kontrolní otázka: OSM + NULA = doplňte číslo, např.: 12 Poptávky od veřejných subjektů FAQ Poptávky o"
+          },
+          {
+            "url": "https://jysk.sk/customer-service",
+            "title": "Customer Service | JYSK",
+            "snippet": "Služby zákazníkom - Otázky a odpovede Potrebujete poradiť ohľadom vášho vysnívaného výrobku alebo pomoc s jeho objednaním? Hľadáte informácie o našich výrobkoch alebo službách? 80 % ZÁKAZNÍKOV NÁJDE ODPOVEĎ NA SVOJE OTÁZKY PRÁVE TU – V SEKCII ČASTO KLADENÉ OTÁZKY."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [
+            "zakaznik@jysk.com",
+            "b2b-cz@jysk.com"
+          ],
+          "phones": [
+            "+420228888350",
+            "+420228884565"
+          ],
+          "source": "https://jysk.cz/prodejny/praha-10/vyzlovska",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [
+          {
+            "method": "email_matches_business_website",
+            "value": "zakaznik@jysk.com",
+            "source": "https://jysk.cz/prodejny/praha-10/vyzlovska"
+          },
+          {
+            "method": "phone_matches_business_website",
+            "value": "+420 228 884 565",
+            "source": "https://jysk.cz/prodejny/praha-10/vyzlovska"
+          }
+        ],
+        "website": "https://jysk.cz/prodejny/praha-10/vyzlovska",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://jysk.cz/prodejny/praha-10/vyzlovska",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "26760746",
+        "legal_name": "JYSK s.r.o.",
+        "registered_at": "2003-02-19",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=26760746",
+        "decision_maker": {
+          "name": "RAMI JENSEN",
+          "role": "jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=26760746",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "RAMI JENSEN",
+            "role": "jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=26760746",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "SIGNE LIND JACOBSEN",
+            "role": "jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=26760746",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-13",
+        "website": "https://jysk.cz/prodejny/praha-10/vyzlovska",
+        "devices": {
+          "desktop": {
+            "title": "JYSK Praha 10 | Nakupte Nábytek - Matrace - Dekorace - Zahradní výrobky",
+            "description": "Navštivte nejbližší prodejnu JYSK Praha 10 a inspirujte se. Vybírejte nábytek, postele a matrace pro svůj domov.",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 250,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 5,
+            "contact_action": true,
+            "form_count": 3,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "JYSK Praha 10 | Nakupte Nábytek - Matrace - Dekorace - Zahradní výrobky",
+            "description": "Navštivte nejbližší prodejnu JYSK Praha 10 a inspirujte se. Vybírejte nábytek, postele a matrace pro svůj domov.",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 238,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 5,
+            "contact_action": true,
+            "form_count": 3,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://jysk.cz/prodejny/praha-10/vyzlovska"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "JYSK — research dossier",
+        "facts": [
+          "The business is listed at Vyžlovská 3130/1, 10000, Praha.",
+          "An independently identity-matched business website was found: https://jysk.cz/prodejny/praha-10/vyzlovska.",
+          "ARES confirms registration for IČO 26760746 dated 2003-02-19."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/360013338",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=26760746",
+          "https://jysk.cz/prodejny/praha-10/vyzlovska"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": {
+          "name": "RAMI JENSEN",
+          "role": "jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=26760746",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://jysk.cz/b2b/kontaktujte-nas",
+        "https://www.firmy.cz/detail/13104063-jysk-cz-praha-lhotka.html",
+        "https://www.zivefirmy.cz/jysk-centrala_f1122721",
+        "https://www.firmy.cz/detail/2429896-jysk-praha-strasnice.html",
+        "https://www.zivefirmy.cz/jysk-praha_f1122723",
+        "https://en.firmy.cz/company/13217507-jysk-praha-bohnice.html",
+        "https://jysk.cz/customer-service"
+      ],
+      "website_need_verified": false,
+      "contact_method": "matched_business_website",
+      "contact_evidence": [
+        {
+          "method": "email_matches_business_website",
+          "value": "zakaznik@jysk.com",
+          "source": "https://jysk.cz/prodejny/praha-10/vyzlovska"
+        },
+        {
+          "method": "phone_matches_business_website",
+          "value": "+420 228 884 565",
+          "source": "https://jysk.cz/prodejny/praha-10/vyzlovska"
+        }
+      ],
+      "verified_site_public_contacts": {
+        "emails": [
+          "zakaznik@jysk.com",
+          "b2b-cz@jysk.com"
+        ],
+        "phones": [
+          "+420228888350",
+          "+420228884565"
+        ],
+        "source": "https://jysk.cz/prodejny/praha-10/vyzlovska",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-3650150787": {
+      "lead_id": "osm-node-3650150787",
+      "name": "Yask",
+      "checked_at": "2026-10-13",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Yask — research dossier",
+        "facts": [
+          "The business is listed at Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/3650150787"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-3685099034": {
+      "lead_id": "osm-node-3685099034",
+      "name": "Siko",
+      "checked_at": "2026-10-13",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Siko — research dossier",
+        "facts": [
+          "The business is listed at Skorkovská 1310, 19800, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/3685099034"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-3861201621": {
+      "lead_id": "osm-node-3861201621",
+      "name": "ASKO Nábytek",
+      "checked_at": "2026-10-13",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "ASKO Nábytek — research dossier",
+        "facts": [
+          "The business is listed at Nákupní 444/6, 10200, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/3861201621"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-390368807": {
+      "lead_id": "osm-node-390368807",
+      "name": "Ton",
+      "checked_at": "2026-10-13",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Ton — research dossier",
+        "facts": [
+          "The business is listed at Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/390368807"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-4754172457": {
+      "lead_id": "osm-node-4754172457",
+      "name": "Levný nábytek Praha",
+      "checked_at": "2026-10-13",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Levný nábytek Praha — research dossier",
+        "facts": [
+          "The business is listed at Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/4754172457"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-4908906621": {
+      "lead_id": "osm-node-4908906621",
+      "name": "Komandor",
+      "checked_at": "2026-10-13",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Komandor — research dossier",
+        "facts": [
+          "The business is listed at Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/4908906621"
         ],
         "estimated_deal_czk": [
           30000,
