@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-13T14:50:37.160482+00:00",
+  "generated_at": "2026-10-14T12:41:58.580710+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -14965,27 +14965,152 @@
     "res-30064856": {
       "lead_id": "res-30064856",
       "name": "Tibor Samek",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-14",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "searched",
         "queries": [
           "\"Tibor Samek\" IČO 30064856 web",
           "\"Tibor Samek\" Praha Construction & property kontakt",
           "\"Tibor Samek\" \"Světova 523\" web",
           "\"Tibor Samek\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-tibor-samek-30064856/obory-cinnosti",
+            "title": "Tibor Samek Praha IČO 30064856 kontakty 10.10.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Tibor Samek Praha IČO 30064856 kontakty 10.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů…"
+          },
+          {
+            "url": "https://register.peniaze.sk/osoba/tibor-samek",
+            "title": "Tibor Samek - Obchodný register | Peniaze.sk",
+            "snippet": "Získajte podrobné informácie o osobe Tibor Samek a jeho podnikateľských aktivitách v obchodnom registri na Peniaze.sk. Prehľad firiem, v ktorých pôsobí, vrátane adries a funkcií."
+          },
+          {
+            "url": "https://ctp.eu/",
+            "title": "Parkmakers - Commercial Real Estate Developer And Manager",
+            "snippet": "CTP is Europe’s largest listed owner, developer, and manager of logistics and industrial real estate by gross lettable area across 11 countries. Full-service developer and property manager."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://www.facebook.com/DaramisGroup/",
+            "title": "Daramis | Prague - FacebookPracovní příležitosti v České republice | Personální agentura ...conference proceedings - flaw.uniba.sk",
+            "snippet": "Daramis, Prague. 5,981 followers · 11 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy. Jste připraveni získat novou, lepší práci? Nabízíme příležitosti na trvalý i dočasný pracovní poměr nebo na kontrakt po celé České republice. Využijte zkuš"
+          },
+          {
+            "url": "https://www.hays.cz/",
+            "title": "Pracovní příležitosti v České republice | Personální agentura ...",
+            "snippet": "Jste připraveni získat novou, lepší práci? Nabízíme příležitosti na trvalý i dočasný pracovní poměr nebo na kontrakt po celé České republice. Využijte zkušeností a podpory našich odborných."
+          },
+          {
+            "url": "https://www.flaw.uniba.sk/fileadmin/praf/Veda/Konferencie_a_podujatia/Milniky_zborniky/Comenius_Milestones_FINAL.pdf",
+            "title": "conference proceedings - flaw.uniba.sk",
+            "snippet": "The next two contributions consider the reform of established legal institutions. Dávid Maukš compares the regulation of wills in the V4 countries, highlighting the tension between giving effect to a testator’s true intentions and ensuring legal certainty through formal requirements. He also situates this comparison wi"
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.facebook.com/groups/bydleni.nabidka.poptavka/",
+            "title": "Praha - BYDLENÍ SPOLUBYDLENÍ NABÍDKA , POPTÁVKA - Facebook",
+            "snippet": "1 day ago · Skupina je určena pro NABÍDKU a POPTÁVKU bydlení či SPOLUBYDLENÍ v Praze a okolí. Skupinu pro Vás dlouhodobě spravuje Smart Homes a Expert Rent V případě..."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Sluneční náměstí 2583/11, Praha 13 IČO: 08320349 O projektu Projekt Poptávky.cz sdružuje 930 124 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          }
+        ],
         "errors": [
-          "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
+        "state": "AMBIGUOUS",
         "website": "",
-        "examined": [],
+        "examined": [
+          {
+            "url": "https://register.peniaze.sk/osoba/tibor-samek",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website"
+            ]
+          },
+          {
+            "url": "https://ctp.eu/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.hays.cz/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.flaw.uniba.sk/fileadmin/praf/Veda/Konferencie_a_podujatia/Milniky_zborniky/Comenius_Milestones_FINAL.pdf",
+            "result": "unreachable",
+            "reason": "SSLError"
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -15056,7 +15181,15 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-tibor-samek-30064856/obory-cinnosti",
+        "https://register.peniaze.sk/osoba/tibor-samek",
+        "https://ctp.eu/",
+        "https://www.skanska.com/cz/cs",
+        "https://www.facebook.com/DaramisGroup/",
+        "https://www.hays.cz/",
+        "https://www.flaw.uniba.sk/fileadmin/praf/Veda/Konferencie_a_podujatia/Milniky_zborniky/Comenius_Milestones_FINAL.pdf"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -15127,27 +15260,161 @@
     "res-30065097": {
       "lead_id": "res-30065097",
       "name": "Tridentstav stavební s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-14",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "searched",
         "queries": [
           "\"Tridentstav stavební s.r.o.\" IČO 30065097 web",
           "\"Tridentstav stavební s.r.o.\" Praha Construction & property kontakt",
           "\"Tridentstav stavební s.r.o.\" \"Kaprova 42\" web",
           "\"Tridentstav stavební s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/adresa-praha-kaprova-42-14-21715084",
+            "title": "Kaprova 42/14 Praha 11000 (11.10.2026) - Rejstříky.finance.cz",
+            "snippet": "Feb 11, 2017 · Kaprova 42/14 Praha 11000 – seznam všech firem a osob, které se na této adrese nachází a mají záznam ve veřejných rejstřících, mapa, GPS souřadnice"
+          },
+          {
+            "url": "https://www.facebook.com/digitonmarketing/",
+            "title": "Digiton Agency | Prague - FacebookElephants & Squirrels – FilmStarožitnosti Artek - výkup starožitností Praha, aukce, výkup ...Javier Comesaňa Piňeiro, Praha 1 (IČO 17252181) | IČO",
+            "snippet": "Digiton Agency, Prague. 1,066 followers · 3 talking about this · 36 were here. Digiton - Music Agency | Hudební Agentura | Record Label We live for music During her research in Swiss museums, Sri Lankan artist Deneth Piumakshi Veda Arachchige comes across a collection of human remains and cultural objects from the Wann"
+          },
+          {
+            "url": "https://fakturujzdarma.cz/firma/17252181-javier-comesana-pineiro",
+            "title": "Javier Comesaňa Piňeiro, Praha 1 (IČO 17252181) | IČO, DIČ ...",
+            "snippet": "Javier Comesaňa Piňeiro, IČO 17252181, DIČ CZ7806081668. Není plátce DPH (identifikovaná osoba), bez probíhající insolvence. Sídlo: Kaprova 42/14, 110 00 Praha 1, Česká republika. Vystavte této firmě fakturu zdarma online."
+          },
+          {
+            "url": "https://en.firmy.cz/company/12769378-marcela-svecova-kubova-praha-stare-mesto.html",
+            "title": "Marcela Švecová Kubová (Praha, Staré Město) • Firmy.cz",
+            "snippet": "Up-to-date verified information: address and phone Marcela Švecová Kubová, Praha, Staré Město. Phone: 724 721 …"
+          },
+          {
+            "url": "https://regiony.kurzy.cz/",
+            "title": "Města a obce v ČR - vyhledávání firem a osob na adrese ...",
+            "snippet": "Příbuzné stránky PHILIP MORRIS ČR A - Akcie PHILIP MORRIS ČR A aktuálně, kurzy Burza - akcie online Vyhledávání podle IČO - hledat IČO Nezaměstnanost v ČR, vývoj, rok 2020, Míra nezaměstnanosti v % Počasí - předpověď počasí pro ČR, Evropu a ve svět - yr.no na kurzy.cz HDP 2020, vývoj hdp v ČR, Vývoj HDP meziročně v % I"
+          },
+          {
+            "url": "https://www.elephants-squirrels.com/",
+            "title": "Elephants & Squirrels – Film",
+            "snippet": "During her research in Swiss museums, Sri Lankan artist Deneth Piumakshi Veda Arachchige comes across a collection of human remains and cultural objects from the Wanniyala-Aetto, an indigenous Sri Lankan Adivasi community. The objects were brought to Basel at the beginning of the 20th century by Swiss naturalists Paul "
+          },
+          {
+            "url": "https://starozitnostiartek.cz/",
+            "title": "Starožitnosti Artek - výkup starožitností Praha, aukce, výkup ...",
+            "snippet": "Starožitnosti Artek, Praha 7 – Holešovice: výkup starožitností, zlata, stříbra a zlatých šperků. Analýza drahých kovů spektrometrem, čištění šperků, zkouška pravosti diamantu. Aukce uměleckých předmětů."
+          },
+          {
+            "url": "https://www.facebook.com/groups/992561254672777/",
+            "title": "Poptávka-řemeslníci, zedníci, stavaři.. - Facebook",
+            "snippet": "8 hours ago · Naše firma ZIKA CZ s.r.o. z Vamberka vám od roku 2001 nabízí služby v oboru topenářství - instalatérství - tepelná čerpadla. Aktuálně máme nový profesionální stroj na čištění nejen podlahového topení. Můžete se podívat na krátkou prezentaci na odkaze."
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Sluneční náměstí 2583/11, Praha 13 IČO: 08320349 O projektu Projekt Poptávky.cz sdružuje 930 124 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu."
+          },
+          {
+            "url": "https://grandastav.cz/",
+            "title": "Granda Stav - GRANDASTAV - Rekonstrukce bytů, koupelen a ...",
+            "snippet": "GRANDASTAV – odborné rekonstrukce bytů a domů v Praze, kvalitně, spolehlivě a v dohodnutých termínech. Jediný dodavatel pro kompletní rekonstrukci."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          }
+        ],
         "errors": [
-          "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
+        "state": "AMBIGUOUS",
         "website": "",
-        "examined": [],
+        "examined": [
+          {
+            "url": "https://fakturujzdarma.cz/firma/17252181-javier-comesana-pineiro",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.elephants-squirrels.com/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://starozitnostiartek.cz/",
+            "result": "unreachable",
+            "reason": "HTTP_401"
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://grandastav.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -15207,7 +15474,15 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/adresa-praha-kaprova-42-14-21715084",
+        "https://www.facebook.com/digitonmarketing/",
+        "https://fakturujzdarma.cz/firma/17252181-javier-comesana-pineiro",
+        "https://en.firmy.cz/company/12769378-marcela-svecova-kubova-praha-stare-mesto.html",
+        "https://regiony.kurzy.cz/",
+        "https://www.elephants-squirrels.com/",
+        "https://starozitnostiartek.cz/"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -15278,27 +15553,104 @@
     "res-30065224": {
       "lead_id": "res-30065224",
       "name": "Adéla Klimešová",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-14",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "searched",
         "queries": [
           "\"Adéla Klimešová\" IČO 30065224 web",
           "\"Adéla Klimešová\" Praha Construction & property kontakt",
           "\"Adéla Klimešová\" \"Kurkova 1209\" web",
           "\"Adéla Klimešová\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://cz.linkedin.com/in/adéla-klimešová",
+            "title": "Adéla Klimešová – Hlavní město Praha, Česko | profesní profil ...",
+            "snippet": "Lokalita: Hlavní město Praha · 141 spojení na LinkedIn. Podívejte se na profil uživatele Adéla Klimešová na LinkedIn, komunitě profesionálů s miliardou členů."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-adela-klimesova-30065224/kontakty",
+            "title": "Adéla Klimešová IČO 30065224 kontakty 28.09.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Adéla Klimešová IČO 30065224 kontakty 28.09.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/adela-klimesova-17977185/",
+            "title": "Adéla Klimešová - IČO 17977185 - Obchodní rejstřík na ...",
+            "snippet": "Podrobnosti o firmě Adéla Klimešová - IČO 17977185 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/osoba-adela-klimesova",
+            "title": "Adéla Klimešová informace o Adéla Klimešová (01.09.2026 ...",
+            "snippet": "Adéla Klimešová - výpis všech osob se jménem Klimešová Adéla, které mají záznam ve veřejných rejstřících, IČO, kontakty a další informace"
+          },
+          {
+            "url": "https://www.linkedin.com/pub/dir/Adéla/Klimešová+",
+            "title": "4 \"Adéla Klimešová\" profiles | LinkedIn",
+            "snippet": "Adéla Klimešová Designér, grafik ve společnosti BEMETA design s.r.o. South Moravia, Czechia BEMETA design s.r.o."
+          },
+          {
+            "url": "https://cz.linkedin.com/pub/dir/Adéla/Klimešová/cz-0-Česko",
+            "title": "4 profily „Adéla Klimešová“ | LinkedIn",
+            "snippet": "Zobrazte si profily profesionálů na LinkedIn se jménem „Adéla Klimešová“. Na LinkedIn jsou 4 odborníci se jménem „Adéla Klimešová“ využívající LinkedIn k výměně informací, nápadů a příležitostí."
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/21869537-bc-adela-klimesova",
+            "title": "Bc. Adéla Klimešová, IČO: 21869537 - ARES - Finmag.cz",
+            "snippet": "Výpis z registru ekonomických subjektů (RES) - Bc. Adéla Klimešová, IČO: 21869537, obec: , klasifikace ekonomických činností. Aktuální data."
+          },
+          {
+            "url": "https://cz.linkedin.com/in/adéla-klimešová-1622b7289",
+            "title": "Adéla Klimešová – Transport Specialist ve společnosti BREMBO ...Profi-firmy.cz – Databáze ověřených firem a řemeslníků po ...Adéla Klimešová – Základní údaje | Masarykova univerzit",
+            "snippet": "Transport Specialist ve společnosti BREMBO CZECH s.r.o. · Pracovní zkušenosti: BREMBO CZECH s.r.o. · Vzdělání: Vysoká škola báňská - Technická univerzita Ostrava · Lokalita: Ostrava · 8 spojení na LinkedIn. Podívejte se na profil uživatele Adéla Klimešová na LinkedIn, komunitě profesionálů s miliardou členů. Poptávka z"
+          },
+          {
+            "url": "https://www.muni.cz/lide/522265-adela-klimesova",
+            "title": "Adéla Klimešová – Základní údaje | Masarykova univerzita | MUNI",
+            "snippet": "Adéla Klimešová e‑mail: 522265@mail.muni.cz Základní údaje Životopis Školitel Kvalifikace Publikace Projekty Výuka"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://profi-firmy.cz/",
+            "title": "Profi-firmy.cz – Databáze ověřených firem a řemeslníků po ...",
+            "snippet": "Poptávka zdarma Jedním formulářem oslovíte víc firem najednou. Bez registrace a poplatků."
+          }
+        ],
         "errors": [
-          "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
+        "state": "AMBIGUOUS",
         "website": "",
-        "examined": [],
+        "examined": [
+          {
+            "url": "https://www.muni.cz/lide/522265-adela-klimesova",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://profi-firmy.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -15369,7 +15721,15 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://cz.linkedin.com/in/adéla-klimešová",
+        "https://rejstriky.finance.cz/firma-adela-klimesova-30065224/kontakty",
+        "https://www.podnikatel.cz/rejstrik/adela-klimesova-17977185/",
+        "https://rejstriky.finance.cz/osoba-adela-klimesova",
+        "https://www.linkedin.com/pub/dir/Adéla/Klimešová+",
+        "https://cz.linkedin.com/pub/dir/Adéla/Klimešová/cz-0-Česko",
+        "https://www.finmag.cz/obchodni-rejstrik/ares/21869537-bc-adela-klimesova"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -15440,27 +15800,87 @@
     "res-30066131": {
       "lead_id": "res-30066131",
       "name": "G-STAK s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-14",
       "engine_version": 8,
-      "state": "researched",
+      "state": "audited",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "partial_search",
         "queries": [
           "\"G-STAK s.r.o.\" IČO 30066131 web",
           "\"G-STAK s.r.o.\" Praha Construction & property kontakt",
           "\"G-STAK s.r.o.\" \"U Klavírky 1501\" web",
           "\"G-STAK s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://www.detail.cz/firma/30066131-g-stak-sro-u-klavirky-1501-4-praha/",
+            "title": "Společnost G-STAK s.r.o. | Detail.cz",
+            "snippet": "Společnost G-STAK s.r.o. (IČO: 30066131) byla založena dne 23. září 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti."
+          },
+          {
+            "url": "https://www.facebook.com/groups/992561254672777/",
+            "title": "Poptávka-řemeslníci, zedníci, stavaři.. - Facebook",
+            "snippet": "8 hours ago · Naše firma ZIKA CZ s.r.o. z Vamberka vám od roku 2001 nabízí služby v oboru topenářství - instalatérství - tepelná čerpadla. Aktuálně máme nový profesionální stroj na čištění nejen podlahového topení. Můžete se podívat na krátkou prezentaci na odkaze."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://profi-firmy.cz/",
+            "title": "Profi-firmy.cz – Databáze ověřených firem a řemeslníků po ...",
+            "snippet": "Poptávka zdarma Jedním formulářem oslovíte víc firem najednou. Bez registrace a poplatků."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Sluneční náměstí 2583/11, Praha 13 IČO: 08320349 O projektu Projekt Poptávky.cz sdružuje 930 124 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          }
+        ],
         "errors": [
           "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
-        "website": "",
-        "examined": [],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.detail.cz/firma/30066131-g-stak-sro-u-klavirky-1501-4-praha/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.detail.cz/firma/30066131-g-stak-sro-u-klavirky-1501-4-praha/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.detail.cz/firma/30066131-g-stak-sro-u-klavirky-1501-4-praha/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -15486,8 +15906,53 @@
         ]
       },
       "audit": {
-        "state": "not_run",
-        "reason": "No independently verified company website"
+        "state": "observed",
+        "checked_at": "2026-10-14",
+        "website": "https://www.detail.cz/firma/30066131-g-stak-sro-u-klavirky-1501-4-praha/",
+        "devices": {
+          "desktop": {
+            "title": "Společnost G-STAK s.r.o. | Detail.cz",
+            "description": "Společnost G-STAK s.r.o. (IČO: 30066131) byla založena dne 23. září 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
+            "viewport_meta": true,
+            "h1_count": 16,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 58,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 14,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Společnost G-STAK s.r.o. | Detail.cz",
+            "description": "Společnost G-STAK s.r.o. (IČO: 30066131) byla založena dne 23. září 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
+            "viewport_meta": true,
+            "h1_count": 16,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 55,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 10,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.detail.cz/firma/30066131-g-stak-sro-u-klavirky-1501-4-praha/"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
       },
       "buying_signals": [
         {
@@ -15501,11 +15966,11 @@
         "title": "G-STAK s.r.o. — research dossier",
         "facts": [
           "The business is listed at U Klavírky 1501, Praha, 15000.",
-          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "An independently identity-matched business website was found: https://www.detail.cz/firma/30066131-g-stak-sro-u-klavirky-1501-4-praha/.",
           "ARES confirms registration for IČO 30066131 dated 2026-09-23."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
         "observed_issues": [],
         "buying_signals": [
           {
@@ -15517,7 +15982,8 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30066131"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30066131",
+          "https://www.detail.cz/firma/30066131-g-stak-sro-u-klavirky-1501-4-praha/"
         ],
         "estimated_deal_czk": [
           30000,
@@ -15537,11 +16003,24 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://www.detail.cz/firma/30066131-g-stak-sro-u-klavirky-1501-4-praha/",
+        "https://www.facebook.com/groups/992561254672777/",
+        "https://zakazky.epoptavka.cz/",
+        "https://www.epoptavka.cz/",
+        "https://profi-firmy.cz/",
+        "https://www.poptavky.cz/",
+        "https://poptavky.epoptavka.cz/"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {},
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.detail.cz/firma/30066131-g-stak-sro-u-klavirky-1501-4-praha/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
       "owner_verified": false,
       "buyer_interest_verified": false
     },
@@ -15900,27 +16379,67 @@
     "res-30066247": {
       "lead_id": "res-30066247",
       "name": "Ascenda Europe s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-14",
       "engine_version": 8,
-      "state": "researched",
+      "state": "audited",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "partial_search",
         "queries": [
           "\"Ascenda Europe s.r.o.\" IČO 30066247 web",
           "\"Ascenda Europe s.r.o.\" Praha Construction & property kontakt",
           "\"Ascenda Europe s.r.o.\" \"Vojtěšská 211\" web",
           "\"Ascenda Europe s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30066247/ascenda-europe-sro/",
+            "title": "Ascenda Europe s.r.o. , IČO 30066247 - Obchodní rejstřík ...",
+            "snippet": "Ascenda Europe s.r.o. – obchodní rejstřík, aktuální výpis Datum vzniku a zápisu 24. září 2026 Spisová značka C 456763/MSPH Městský soud v Praze Obchodní firma Ascenda Europe s.r.o. Sídlo Vojtěšská 211/6, Nové Město, 110 00 Praha 1 Identifikační číslo 30066247 Právní forma Společnost s r.o. Předmět podnikání pronájem ne"
+          },
+          {
+            "url": "https://www.detail.cz/firma/30066247-ascenda-europe-sro-vojtesska-211-6-praha/",
+            "title": "Společnost Ascenda Europe s.r.o. | Detail.cz",
+            "snippet": "Společnost Ascenda Europe s.r.o. (IČO: 30066247) byla založena dne 24. září 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30066247/ascenda-europe-sro/statisticky-urad/",
+            "title": "Ascenda Europe s.r.o. , IČO 30066247 - data ze statistického ...",
+            "snippet": "Data ze statistického úřadu ČR Název: Ascenda Europe s.r.o. IČO: 30066247 Právní forma: Společnost s ručením omezeným Adresa: Vojtěšská 211/6, Nové Město (Praha 1), 110 00 Praha Datum vzniku: 24. září 2026 Počet zaměstnanců: Neuvedeno"
+          }
+        ],
         "errors": [
           "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
-        "website": "",
-        "examined": [],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.detail.cz/firma/30066247-ascenda-europe-sro-vojtesska-211-6-praha/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.detail.cz/firma/30066247-ascenda-europe-sro-vojtesska-211-6-praha/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.detail.cz/firma/30066247-ascenda-europe-sro-vojtesska-211-6-praha/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -15946,8 +16465,53 @@
         ]
       },
       "audit": {
-        "state": "not_run",
-        "reason": "No independently verified company website"
+        "state": "observed",
+        "checked_at": "2026-10-14",
+        "website": "https://www.detail.cz/firma/30066247-ascenda-europe-sro-vojtesska-211-6-praha/",
+        "devices": {
+          "desktop": {
+            "title": "Společnost Ascenda Europe s.r.o. | Detail.cz",
+            "description": "Společnost Ascenda Europe s.r.o. (IČO: 30066247) byla založena dne 24. září 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
+            "viewport_meta": true,
+            "h1_count": 16,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 58,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 16,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Společnost Ascenda Europe s.r.o. | Detail.cz",
+            "description": "Společnost Ascenda Europe s.r.o. (IČO: 30066247) byla založena dne 24. září 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
+            "viewport_meta": true,
+            "h1_count": 16,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 55,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 10,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.detail.cz/firma/30066247-ascenda-europe-sro-vojtesska-211-6-praha/"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
       },
       "buying_signals": [
         {
@@ -15961,11 +16525,11 @@
         "title": "Ascenda Europe s.r.o. — research dossier",
         "facts": [
           "The business is listed at Vojtěšská 211, Praha, 11000.",
-          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "An independently identity-matched business website was found: https://www.detail.cz/firma/30066247-ascenda-europe-sro-vojtesska-211-6-praha/.",
           "ARES confirms registration for IČO 30066247 dated 2026-09-24."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
         "observed_issues": [],
         "buying_signals": [
           {
@@ -15977,7 +16541,8 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30066247"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30066247",
+          "https://www.detail.cz/firma/30066247-ascenda-europe-sro-vojtesska-211-6-praha/"
         ],
         "estimated_deal_czk": [
           30000,
@@ -15997,11 +16562,20 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30066247/ascenda-europe-sro/",
+        "https://www.detail.cz/firma/30066247-ascenda-europe-sro-vojtesska-211-6-praha/",
+        "https://rejstrik-firem.kurzy.cz/30066247/ascenda-europe-sro/statisticky-urad/"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {},
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.detail.cz/firma/30066247-ascenda-europe-sro-vojtesska-211-6-praha/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
       "owner_verified": false,
       "buyer_interest_verified": false
     },
@@ -16068,27 +16642,85 @@
     "res-30066301": {
       "lead_id": "res-30066301",
       "name": "Roman Varvarych",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-14",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "partial_search",
         "queries": [
           "\"Roman Varvarych\" IČO 30066301 web",
           "\"Roman Varvarych\" Praha Construction & property kontakt",
           "\"Roman Varvarych\" \"Socháňova 1126\" web",
           "\"Roman Varvarych\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-roman-varvarych-30066301/kontakty",
+            "title": "Roman Varvarych IČO 30066301 kontakty 29.09.2026 - Finance.cz",
+            "snippet": "Roman Varvarych je Fyzická osoba podnikající dle živnostenského zákona . Podniká od roku 2026 Společnost podniká v oboru Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona ."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-roman-varvarych-30066301/obory-cinnosti",
+            "title": "Roman Varvarych IČO 30066301 kontakty 30.09.2026 - Finance.cz",
+            "snippet": "Roman Varvarych je Fyzická osoba podnikající dle živnostenského zákona . Podniká od roku 2026 Společnost podniká v oboru Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona ."
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/osoba/roman-varvarych",
+            "title": "Roman Varvarych - obchodní rejstřík - Finmag.cz",
+            "snippet": "Roman Varvarych, výpis z obchodního i živnostenského rejstříků. Osoby a firmy - adresy, kontakty. Aktuální i historická data."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/roman-varvarych",
+            "title": "Roman Varvarych - Obchodní rejstřík | Peníze.cz",
+            "snippet": "Roman Varvarych výpis firem z Obchodního rejstříku, IČO firmy, adresa sídla firmy, pozice ve firmě, související firmy, vztahy ve firmách."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Sluneční náměstí 2583/11, Praha 13 IČO: 08320349 O projektu Projekt Poptávky.cz sdružuje 930 124 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          }
+        ],
         "errors": [
           "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
+        "state": "AMBIGUOUS",
         "website": "",
-        "examined": [],
+        "examined": [
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -16159,7 +16791,15 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-roman-varvarych-30066301/kontakty",
+        "https://rejstriky.finance.cz/firma-roman-varvarych-30066301/obory-cinnosti",
+        "https://www.finmag.cz/obchodni-rejstrik/osoba/roman-varvarych",
+        "https://rejstrik.penize.cz/roman-varvarych",
+        "https://zakazky.epoptavka.cz/",
+        "https://www.poptavky.cz/",
+        "https://poptavky.epoptavka.cz/"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -16230,27 +16870,148 @@
     "res-30066450": {
       "lead_id": "res-30066450",
       "name": "Kseniia Mykytych",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-14",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "searched",
         "queries": [
           "\"Kseniia Mykytych\" IČO 30066450 web",
           "\"Kseniia Mykytych\" Praha Construction & property kontakt",
           "\"Kseniia Mykytych\" \"Počernická 469\" web",
           "\"Kseniia Mykytych\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-kseniia-mykytych-30066450/kontakty",
+            "title": "Kseniia Mykytych Praha IČO 30066450 kontakty 10.10.2026 ...",
+            "snippet": "Podrobnosti o firmě Kseniia Mykytych Praha IČO 30066450 kontakty 10.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-kseniia-mykytych-30066450",
+            "title": "Kseniia Mykytych IČO 30066450 kontakty 03.10.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Kseniia Mykytych IČO 30066450 kontakty 03.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-kseniia-mykytych-30066450/obory-cinnosti",
+            "title": "Kseniia Mykytych Praha IČO 30066450 kontakty 11.10.2026 ...",
+            "snippet": "Podrobnosti o firmě Kseniia Mykytych Praha IČO 30066450 kontakty 11.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+            "title": "Construction & Property Management s.r.o. , Praha IČO ...",
+            "snippet": "May 12, 2026 · Construction & Property Management s.r.o., Na příkopě, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik ..."
+          },
+          {
+            "url": "https://www.expanzo.com/cs/firma/0270777279-kutsyn-construction-s-r-o-vosmikovych-praha",
+            "title": "Kutsyn Construction s.r.o. - expanzo.com",
+            "snippet": "Aktivní 🇨🇿Česká republika 🇨🇿Česká republika Hlavní město Praha Vosmíkových 930/12, 18000 Praha IČ:24384615 Kontakt Obchodní rejstřík Osoby a vklady Vývoj společnosti Obory a živnosti"
+          },
+          {
+            "url": "https://myconstruction.cz/kontakt/",
+            "title": "Kontakt – MyConstruction",
+            "snippet": "Kontakt my construction s.r.o. Na Spojce 610/6 Praha 10 – Vršovice, 101 00 email: info@myconstruction.cz IČ: 24266566 DIČ: CZ 24266566 číslo účtu: 2700306237/2010 vedený u FIO Banky"
+          },
+          {
+            "url": "https://www.vinci-construction.cz/kontakt",
+            "title": "Kontakt | VINCI Construction CS",
+            "snippet": "Kontakt VINCI Construction CS a.s. U Michelského lesa 1581/2 140 00 Praha 4 IČO: 14080672 DIČ: CZ699007986 Spisová značka B 27244 vedená u Městského soudu v Praze."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/ares/27163857-construction-property-management-s-r-o",
+            "title": "Construction & Property Management s.r.o., Praha, IČO ...",
+            "snippet": "Sídlo společnosti na mapě - Construction & Property Management s.r.o. Peníze.cz zobrazuje pouze údaje, které byly zveřejněny na základě zákona v různých rejstřících. Seznam odkazů na zdrojové informace naleznete na této stránce. Vydavatel tímto způsobem zpracovává osobní údaje v souladu s čl. 6 odst. 1 odst. f) Obecnéh"
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Sluneční náměstí 2583/11, Praha 13 IČO: 08320349 O projektu Projekt Poptávky.cz sdružuje 930 124 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          }
+        ],
         "errors": [
-          "DDGSException: No results found.",
-          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
+        "state": "AMBIGUOUS",
         "website": "",
-        "examined": [],
+        "examined": [
+          {
+            "url": "https://www.expanzo.com/cs/firma/0270777279-kutsyn-construction-s-r-o-vosmikovych-praha",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://myconstruction.cz/kontakt/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.vinci-construction.cz/kontakt",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -16321,7 +17082,15 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-kseniia-mykytych-30066450/kontakty",
+        "https://rejstriky.finance.cz/firma-kseniia-mykytych-30066450",
+        "https://rejstriky.finance.cz/firma-kseniia-mykytych-30066450/obory-cinnosti",
+        "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+        "https://www.expanzo.com/cs/firma/0270777279-kutsyn-construction-s-r-o-vosmikovych-praha",
+        "https://myconstruction.cz/kontakt/",
+        "https://www.vinci-construction.cz/kontakt"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -16392,19 +17161,25 @@
     "res-30066514": {
       "lead_id": "res-30066514",
       "name": "Kukleny Park s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-14",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "partial_search",
         "queries": [
           "\"Kukleny Park s.r.o.\" IČO 30066514 web",
           "\"Kukleny Park s.r.o.\" Praha Construction & property kontakt",
           "\"Kukleny Park s.r.o.\" \"Korunní 810\" web",
           "\"Kukleny Park s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30066514/kukleny-park-sro/",
+            "title": "Kukleny Park s.r.o. , IČO 30066514 - Obchodní rejstřík firem",
+            "snippet": "Kukleny Park s.r.o. – obchodní rejstřík, aktuální výpis Datum vzniku a zápisu 24. září 2026 Spisová značka C 456766/MSPH Městský soud v Praze Obchodní firma Kukleny Park s.r.o. Sídlo Korunní 810/104, Vinohrady, 101 00 Praha 10 Identifikační číslo 30066514 Právní forma Společnost s r.o. Předmět činnosti pronájem nemovit"
+          }
+        ],
         "errors": [
           "DDGSException: No results found.",
           "DDGSException: No results found.",
@@ -16501,7 +17276,9 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30066514/kukleny-park-sro/"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -26109,6 +26886,486 @@
         "buying_signals": [],
         "sources": [
           "https://www.openstreetmap.org/node/4908906621"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-5534490024": {
+      "lead_id": "osm-node-5534490024",
+      "name": "XXXLutz",
+      "checked_at": "2026-10-14",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "XXXLutz — research dossier",
+        "facts": [
+          "The business is listed at Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/5534490024"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-8300989624": {
+      "lead_id": "osm-node-8300989624",
+      "name": "Cre8",
+      "checked_at": "2026-10-14",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Cre8 — research dossier",
+        "facts": [
+          "The business is listed at Květinková 2592/12a, 13000, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/8300989624"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-way-1321653805": {
+      "lead_id": "osm-way-1321653805",
+      "name": "Ibis",
+      "checked_at": "2026-10-14",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Ibis — research dossier",
+        "facts": [
+          "The business is listed at Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/way/1321653805"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-way-16488701": {
+      "lead_id": "osm-way-16488701",
+      "name": "XXXLutz",
+      "checked_at": "2026-10-14",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "XXXLutz — research dossier",
+        "facts": [
+          "The business is listed at Chlumecká 8, 19800, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/way/16488701"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-way-16609451": {
+      "lead_id": "osm-way-16609451",
+      "name": "Sconto Nábytek",
+      "checked_at": "2026-10-14",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Sconto Nábytek — research dossier",
+        "facts": [
+          "The business is listed at Chlumecká 2420, 19800, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/way/16609451"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-way-27993273": {
+      "lead_id": "osm-way-27993273",
+      "name": "Möbelix",
+      "checked_at": "2026-10-14",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Möbelix — research dossier",
+        "facts": [
+          "The business is listed at Kolbenova 50, 19000, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/way/27993273"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-way-486551939": {
+      "lead_id": "osm-way-486551939",
+      "name": "Butlers",
+      "checked_at": "2026-10-14",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Butlers — research dossier",
+        "facts": [
+          "The business is listed at Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/way/486551939"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-way-487542170": {
+      "lead_id": "osm-way-487542170",
+      "name": "Kanape",
+      "checked_at": "2026-10-14",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "Kanape — research dossier",
+        "facts": [
+          "The business is listed at Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/way/487542170"
         ],
         "estimated_deal_czk": [
           30000,
