@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-14T12:41:58.580710+00:00",
+  "generated_at": "2026-10-15T12:27:11.911700+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -6058,7 +6058,7 @@
     "osm-node-10021452160": {
       "lead_id": "osm-node-10021452160",
       "name": "Truhlářství Marek",
-      "checked_at": "2026-10-08",
+      "checked_at": "2026-10-15",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -6386,7 +6386,7 @@
     "osm-node-10118560658": {
       "lead_id": "osm-node-10118560658",
       "name": "EUROCONT REALITY s.r.o.",
-      "checked_at": "2026-10-08",
+      "checked_at": "2026-10-15",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -6708,7 +6708,7 @@
     "osm-node-10118560659": {
       "lead_id": "osm-node-10118560659",
       "name": "EGYPT REALITY",
-      "checked_at": "2026-10-08",
+      "checked_at": "2026-10-15",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -6993,7 +6993,7 @@
     "osm-node-10927835114": {
       "lead_id": "osm-node-10927835114",
       "name": "Collcoll",
-      "checked_at": "2026-10-08",
+      "checked_at": "2026-10-15",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -7282,7 +7282,7 @@
     "osm-node-11041819250": {
       "lead_id": "osm-node-11041819250",
       "name": "de.fakto CZ, s.r.o.",
-      "checked_at": "2026-10-08",
+      "checked_at": "2026-10-15",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -7581,7 +7581,7 @@
     "osm-node-11047070938": {
       "lead_id": "osm-node-11047070938",
       "name": "AB Domus",
-      "checked_at": "2026-10-08",
+      "checked_at": "2026-10-15",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -7903,7 +7903,7 @@
     "osm-node-11065024432": {
       "lead_id": "osm-node-11065024432",
       "name": "100 klíčů",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-15",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -8211,7 +8211,7 @@
     "osm-node-11716231002": {
       "lead_id": "osm-node-11716231002",
       "name": "Polarita.cz",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-15",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -17349,27 +17349,72 @@
     "res-30067031": {
       "lead_id": "res-30067031",
       "name": "Double Progress s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-15",
       "engine_version": 8,
-      "state": "researched",
+      "state": "audited",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "partial_search",
         "queries": [
           "\"Double Progress s.r.o.\" IČO 30067031 web",
           "\"Double Progress s.r.o.\" Praha Construction & property kontakt",
           "\"Double Progress s.r.o.\" \"Chotěšovská 680\" web",
           "\"Double Progress s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30067031/double-progress-s-r-o",
+            "title": "Double Progress s.r.o. - rizika, majitelé, obchodní rejstřík",
+            "snippet": "Double Progress s.r.o. Sídlo Praha. IČO: 30067031. Majitelé a statutární orgány. Rejstřík firem. Rok založení 2026. Kontrola rizik firmy."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-double-progress-s-r-o-30067031/kontakty",
+            "title": "Double Progress s.r.o. Praha 9 IČO: 30067031",
+            "snippet": "Podrobnosti o firmě Double Progress s.r.o. Praha 9 IČO 30067031 kontakty 05.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-double-progress-s-r-o-30067031/vlastnici-firmy",
+            "title": "Double Progress s.r.o. IČO: 30067031 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Double Progress s.r.o. IČO 30067031 kontakty 03.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
+          },
+          {
+            "url": "https://www.finreg.sk/subjekt/18589567",
+            "title": "Double Progress s.r.o., Chotěšovská 680/1, Praha 9 - Letňany - finančný ...",
+            "snippet": "Finančné informácie o Double Progress s.r.o. - (zisk, tržby, dlhy, daňové priznania a DPH) | FinReg.sk - finančný register"
+          }
+        ],
         "errors": [
           "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
-        "website": "",
-        "examined": [],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.chytryrejstrik.cz/ico-30067031/double-progress-s-r-o",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.chytryrejstrik.cz/ico-30067031/double-progress-s-r-o",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30067031/double-progress-s-r-o",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -17395,8 +17440,53 @@
         ]
       },
       "audit": {
-        "state": "not_run",
-        "reason": "No independently verified company website"
+        "state": "observed",
+        "checked_at": "2026-10-15",
+        "website": "https://www.chytryrejstrik.cz/ico-30067031/double-progress-s-r-o",
+        "devices": {
+          "desktop": {
+            "title": "Double Progress s.r.o. - rizika, majitelé, obchodní rejstřík",
+            "description": "Double Progress s.r.o. Sídlo Praha. IČO: 30067031. Majitelé a statutární orgány. Rejstřík firem. Rok založení 2026. Kontrola rizik firmy. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 170,
+            "small_text_elements": 2,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 46,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Double Progress s.r.o. - rizika, majitelé, obchodní rejstřík",
+            "description": "Double Progress s.r.o. Sídlo Praha. IČO: 30067031. Majitelé a statutární orgány. Rejstřík firem. Rok založení 2026. Kontrola rizik firmy. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 133,
+            "small_text_elements": 10,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 46,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.chytryrejstrik.cz/ico-30067031/double-progress-s-r-o"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
       },
       "buying_signals": [
         {
@@ -17410,11 +17500,11 @@
         "title": "Double Progress s.r.o. — research dossier",
         "facts": [
           "The business is listed at Chotěšovská 680, Praha, 19000.",
-          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "An independently identity-matched business website was found: https://www.chytryrejstrik.cz/ico-30067031/double-progress-s-r-o.",
           "ARES confirms registration for IČO 30067031 dated 2026-09-23."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
         "observed_issues": [],
         "buying_signals": [
           {
@@ -17426,7 +17516,8 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30067031"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30067031",
+          "https://www.chytryrejstrik.cz/ico-30067031/double-progress-s-r-o"
         ],
         "estimated_deal_czk": [
           30000,
@@ -17446,11 +17537,21 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://www.chytryrejstrik.cz/ico-30067031/double-progress-s-r-o",
+        "https://rejstriky.finance.cz/firma-double-progress-s-r-o-30067031/kontakty",
+        "https://rejstriky.finance.cz/firma-double-progress-s-r-o-30067031/vlastnici-firmy",
+        "https://www.finreg.sk/subjekt/18589567"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {},
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.chytryrejstrik.cz/ico-30067031/double-progress-s-r-o",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
       "owner_verified": false,
       "buyer_interest_verified": false
     },
@@ -17517,27 +17618,123 @@
     "res-30067723": {
       "lead_id": "res-30067723",
       "name": "Adam Michał Ryngiel",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-15",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "searched",
         "queries": [
           "\"Adam Michał Ryngiel\" IČO 30067723 web",
           "\"Adam Michał Ryngiel\" Praha Construction & property kontakt",
           "\"Adam Michał Ryngiel\" \"Děčínská 552\" web",
           "\"Adam Michał Ryngiel\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/adam-michal-ryngiel-30067723/",
+            "title": "Adam Michał Ryngiel - IČO 30067723 - Obchodní rejstřík na ...",
+            "snippet": "Podrobnosti o firmě Adam Michał Ryngiel - IČO 30067723 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-adam-michal-ryngiel-30067723",
+            "title": "Adam Michał Ryngiel IČO: 30067723 - Finance.cz",
+            "snippet": "Výpis dat pro firmu Adam Michał Ryngiel obsahuje pouze taková data, která lze dle zákona č. 110/2019 Sb., o zpracování osobních údajů, zveřejňovat i bez souhlasu subjektu těchto údajů."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-adam-michal-ryngiel-30067723/kontakty",
+            "title": "Adam Michał Ryngiel Praha 8 IČO 30067723 kontakty 12.10.2026 ...",
+            "snippet": "Podrobnosti o firmě Adam Michał Ryngiel Praha 8 IČO 30067723 kontakty 12.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/ico/databaze/",
+            "title": "Databáze IČO, rejstřík IČO, registr IČO - Kurzy.cz",
+            "snippet": "Podle IČO zjistíte minimálně název subjektu a jeho sídlo, právní formu, předmět podnikání, datovou schránku, změny v rejstřících a další. Hledat podle IČO. Databáze IČO - spolehlivý registr RES (Registr ekonomických subjektů) ČSÚ."
+          },
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles.michał_rygiel.4f71d152214b3ec5987f3030d87b291f.html",
+            "title": "MICHAŁ RYGIEL Company Profile | Polkowice, dolnośląskie ...",
+            "snippet": "MICHAŁ RYGIEL Company Profile | Polkowice, dolnośląskie, Poland | Competitors, Financials & Contacts - Dun & Bradstreet"
+          },
+          {
+            "url": "https://www.linkedin.com/pub/dir/Adam/Michał+",
+            "title": "20+ \"Adam Michał\" profiles | LinkedIn",
+            "snippet": "View the profiles of professionals named \"Adam Michał\" on LinkedIn. There are 20+ professionals named \"Adam Michał\", who use LinkedIn to exchange information, ideas, and ..."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/",
+            "title": "Obchodní rejstřík firem - vazby a vztahy z justice.cz | Kurzy.cz",
+            "snippet": "Obchodní rejstřík umožňuje rychle nalézt libovolnou firmu, družstvo, osobu či jiný subjekt z veřejných rejstříků, zobrazit aktuální výpis z obchodního rejstříku, aktuální a historické vztahy."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+            "title": "Construction & Property Management s.r.o. , Praha IČO ...",
+            "snippet": "May 12, 2026 · Kde je sídlo firmy Construction & Property Management s.r.o.? Sídlo firmy Construction & Property Management s.r.o. je Na příkopě 859/22, Nové Město (Praha 1), 110 00 Praha."
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/zivnostensky-rejstrik/08353077-construction-group-s-r-o",
+            "title": "Construction Group s.r.o., IČO: 08353077 – RŽP - Finmag.cz",
+            "snippet": "Subjekt Construction Group s.r.o.. Finanční úřad společnosti Construction Group s.r.o. je Územní pracoviště pro Prahu 2. Společnost vznikla 19. 7. 2019 a sídlí na adrese Praha - Nové Město, Botičská 419/2, 12800. IČO společnosti je 08353077."
+          },
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles.construction_group_sro.3c1c011a7cf9dee558633bc891afad19.html",
+            "title": "Construction Group s.r.o. Company Profile | Praha, Hlavní ...",
+            "snippet": "Find company research, competitor information, contact details & financial data for Construction Group s.r.o. of Praha, Hlavní město Praha. Get the latest business insights from Dun & Bradstreet."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/ares/27163857-construction-property-management-s-r-o",
+            "title": "Construction & Property Management s.r.o., Praha, IČO ...",
+            "snippet": "Sídlo společnosti na mapě - Construction & Property Management s.r.o. Peníze.cz zobrazuje pouze údaje, které byly zveřejněny na základě zákona v různých rejstřících."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://profi-firmy.cz/",
+            "title": "Profi-firmy.cz – Databáze ověřených firem a řemeslníků po ...",
+            "snippet": "Poptávka zdarma Jedním formulářem oslovíte víc firem najednou. Bez registrace a poplatků."
+          }
+        ],
         "errors": [
-          "DDGSException: No results found.",
-          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
+        "state": "AMBIGUOUS",
         "website": "",
-        "examined": [],
+        "examined": [
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles.michał_rygiel.4f71d152214b3ec5987f3030d87b291f.html",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://profi-firmy.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -17598,7 +17795,15 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://www.podnikatel.cz/rejstrik/adam-michal-ryngiel-30067723/",
+        "https://rejstriky.finance.cz/firma-adam-michal-ryngiel-30067723",
+        "https://rejstriky.finance.cz/firma-adam-michal-ryngiel-30067723/kontakty",
+        "https://rejstrik-firem.kurzy.cz/ico/databaze/",
+        "https://www.dnb.com/business-directory/company-profiles.michał_rygiel.4f71d152214b3ec5987f3030d87b291f.html",
+        "https://www.linkedin.com/pub/dir/Adam/Michał+",
+        "https://rejstrik-firem.kurzy.cz/"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -17609,27 +17814,90 @@
     "res-30067766": {
       "lead_id": "res-30067766",
       "name": "Společenství vlastníků domu Thomasova č.p. 241",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-15",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "partial_search",
         "queries": [
           "\"Společenství vlastníků domu Thomasova č.p. 241\" IČO 30067766 web",
           "\"Společenství vlastníků domu Thomasova č.p. 241\" Praha Construction & property kontakt",
           "\"Společenství vlastníků domu Thomasova č.p. 241\" \"Thomasova 241\" web",
           "\"Společenství vlastníků domu Thomasova č.p. 241\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30067766/spolecenstvi-vlastniku-domu-thomasova-c-p-241/",
+            "title": "Společenství vlastníků domu Thomasova č.p. 241 , IČO 30067766 ...",
+            "snippet": "Sep 28, 2026 · Kde je sídlo firmy Společenství vlastníků domu Thomasova č.p. 241? Sídlo firmy Společenství vlastníků domu Thomasova č.p. 241 je Thomasova 241/10, 15500 Praha 5 - Třebonice, Česká republika."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-spolecenstvi-vlastniku-domu-thomasova-c-p-241-30067766",
+            "title": "Společenství vlastníků domu Thomasova č.p. 241 Praha 5 IČO ...",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Společenství vlastníků domu Thomasova č.p. 241, která sídlí v obci Praha 5 a bylo jí přiděleno IČO 30067766."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30067766/spolecenstvi-vlastniku-domu-thomasova-c-p-241/statisticky-urad/",
+            "title": "Společenství vlastníků domu Thomasova č.p. 241 , IČO 30067766 ...",
+            "snippet": "Společenství vlastníků domu Thomasova č.p. 241 , IČO 30067766 - data ze statistického úřadu"
+          },
+          {
+            "url": "https://www.eurobydleni.cz/prodej-rodinneho-domu-240-m-na-pozemku-1199-m-praha-horni-pocernice/detail/10203493/",
+            "title": "Prodej rodinného domu 240 m, na pozemku 1199 m, Praha - Horní ...",
+            "snippet": "Nabízíme k prodeji prostorný rodinný dům z roku 1977 s rovným pozemkem o výměře 1 199 m v atraktivní lokalitě Horní Počernice, Praha 9. Nemovitost disponuje garáží pro 6 vozů, bazénem, dílnou a množstvím velkých obytných místností. Veškeré inženýrské sítě jsou na pozemku, k dispozici je také studna. Dům je zcela podskl"
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://www.bloomberg.com/europe",
+            "title": "Bloomberg Europe",
+            "snippet": "Bloomberg delivers business and markets news, data, analysis, and video to the world, featuring stories from Businessweek and Bloomberg News"
+          }
+        ],
         "errors": [
           "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
+        "state": "AMBIGUOUS",
         "website": "",
-        "examined": [],
+        "examined": [
+          {
+            "url": "https://www.eurobydleni.cz/prodej-rodinneho-domu-240-m-na-pozemku-1199-m-praha-horni-pocernice/detail/10203493/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.bloomberg.com/europe",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -17689,7 +17957,15 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30067766/spolecenstvi-vlastniku-domu-thomasova-c-p-241/",
+        "https://rejstriky.finance.cz/firma-spolecenstvi-vlastniku-domu-thomasova-c-p-241-30067766",
+        "https://rejstrik-firem.kurzy.cz/30067766/spolecenstvi-vlastniku-domu-thomasova-c-p-241/statisticky-urad/",
+        "https://www.eurobydleni.cz/prodej-rodinneho-domu-240-m-na-pozemku-1199-m-praha-horni-pocernice/detail/10203493/",
+        "https://vces.cz/",
+        "https://www.skanska.com/cz/cs",
+        "https://www.bloomberg.com/europe"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -17860,27 +18136,117 @@
     "res-30067979": {
       "lead_id": "res-30067979",
       "name": "Tomáš Jáně",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-15",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "searched",
         "queries": [
           "\"Tomáš Jáně\" IČO 30067979 web",
           "\"Tomáš Jáně\" Praha Construction & property kontakt",
           "\"Tomáš Jáně\" \"Souběžná I 474\" web",
           "\"Tomáš Jáně\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-tomas-jane-30067979",
+            "title": "Tomáš Jáně IČO 30067979 kontakty 03.10.2026 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Tomáš Jáně, která sídlí v obci a bylo jí přiděleno IČO 30067979. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-tomas-jane-30067979/obory-cinnosti",
+            "title": "Tomáš Jáně Praha IČO 30067979 kontakty 12.10.2026 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Tomáš Jáně, která sídlí v obci Praha a bylo jí přiděleno IČO 30067979. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://ares.cz/",
+            "title": "Vyhledávání v ARES podle IČO a DIČ – firmy a OSVČ | ARES.CZ",
+            "snippet": "Oficiální portál ARES je dostupný na ares.gov.cz (dříve na doméně wwwinfo.mfcr.cz/ares, ta byla 2024 vyřazena). Webová stránka www.ares.cz, na které se právě nacházíte, není státní web — je to vyhledávač, který využívá veřejné webové služby ARES a souvisejících rejstříků."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/ico/databaze/",
+            "title": "Databáze IČO, rejstřík IČO, registr IČO - Kurzy.cz",
+            "snippet": "Vyhledávání v registrech a databázích podle IČO Pro vyhledání právnické osoby nebo fyzické osoby - podnikatele podle IČO v jednotlivých registrech a databázích vedených státními orgány je dobré znát rozdíly mezi těmito databázemi. Informace poskytované v nich se podstatně liší a některé subjekty nebo některé údaje najd"
+          },
+          {
+            "url": "https://ares.cz/obchodni-rejstrik/",
+            "title": "Obchodní rejstřík firem ČR — vyhledávání podle IČO | ARES.CZ",
+            "snippet": "Jul 2, 2026 · Bezplatné vyhledávání v obchodním rejstříku — firma podle IČO, názvu nebo sídla. Statutární orgány, sbírka listin, právní forma."
+          },
+          {
+            "url": "https://ares.gov.cz/",
+            "title": "ARES",
+            "snippet": "Administrativní registr ekonomických subjektů je informační systém, který umožňuje vyhledávání nad ekonomickými subjekty registrovanými v České republice. Zprostředkovává zobrazení údajů vedených v jednotlivých registrech státní správy, ze kterých čerpá data (tzv. zdrojové registry)."
+          },
+          {
+            "url": "https://rzp.gov.cz/verejne-udaje/cs/udaje",
+            "title": "Vyhledání podnikatele - Vyhledání podle údajů subjektu",
+            "snippet": "Přístup k tomuto obsahu je omezený, před dalším zpracováním prosím obnovte relaci. Není dostupný odpovídající obsah."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-tomas-jane-30067979/kontakty",
+            "title": "Tomáš Jáně Praha IČO 30067979 kontakty 12.10.2026 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Tomáš Jáně, která sídlí v obci Praha a bylo jí přiděleno IČO 30067979. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/tomas-jane-60971274/",
+            "title": "Tomáš Jáně - IČO 60971274 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Podrobnosti o firmě Tomáš Jáně - IČO 60971274 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního rejstříku…"
+          },
+          {
+            "url": "https://rejstrik.penize.cz/tomas-jane",
+            "title": "Tomáš Jáně - Obchodní rejstřík | Peníze.cz",
+            "snippet": "Tomáš Jáně výpis firem z Obchodního rejstříku, IČO firmy, adresa sídla firmy, pozice ve firmě, související firmy, vztahy ve firmách."
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/zivnostensky-rejstrik/60971274-tomas-jane",
+            "title": "Tomáš Jáně, IČO: 60971274 – RŽP - Finmag.cz",
+            "snippet": "Kompletní informace o živnosti – Tomáš Jáně. Výpis z živnostenského rejstříku, aktuální data, IČO: 60971274."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/dph/cz7509035754-tomas-jane",
+            "title": "Tomáš Jáně, DIČ: CZ7509035754 - Registr DPH | Peníze.cz",
+            "snippet": "Registr plátců DPH - Tomáš Jáně, DIČ: CZ7509035754, sídlo firmy, údaje o registraci DPH, údaje o nespolehlivém plátci DPH."
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/for-sale-commercial-praha-9-letnanska-4424291",
+            "title": "For sale commercial - Praha 9, Letňanská - REALCITY.cz",
+            "snippet": "6 days ago · For sale commercial 159 m² - Praha 9, Letňanská Other listings from this agency Last update09.10.2026 Contract ID547c52a9-b5ab-4f0f-ae40-3a2ba68fef79 Flooring159 m² Property dimensions723 m² Tenureprivate Construction typebrick Property conditiongood condition more information"
+          },
+          {
+            "url": "https://www.estav.cz/jane-tomas",
+            "title": "Jáně, Tomáš Jáně - ESTAV.cz",
+            "snippet": "Letošní 28. ročník festivalu DesignBlok má podtitul Světlo a probíhá od 7. do 11. října v několika lokacích Prahy."
+          }
+        ],
         "errors": [
-          "DDGSException: No results found.",
-          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
+        "state": "AMBIGUOUS",
         "website": "",
-        "examined": [],
+        "examined": [
+          {
+            "url": "https://ares.cz/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://rzp.gov.cz/verejne-udaje/cs/udaje",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/for-sale-commercial-praha-9-letnanska-4424291",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.estav.cz/jane-tomas",
+            "result": "unreachable",
+            "reason": "ConnectTimeout"
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -17951,7 +18317,15 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-tomas-jane-30067979",
+        "https://rejstriky.finance.cz/firma-tomas-jane-30067979/obory-cinnosti",
+        "https://ares.cz/",
+        "https://rejstrik-firem.kurzy.cz/ico/databaze/",
+        "https://ares.cz/obchodni-rejstrik/",
+        "https://ares.gov.cz/",
+        "https://rzp.gov.cz/verejne-udaje/cs/udaje"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -18050,7 +18424,7 @@
     "res-30068088": {
       "lead_id": "res-30068088",
       "name": "Matouš Plánička",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-15",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -18230,27 +18604,150 @@
     "res-30068321": {
       "lead_id": "res-30068321",
       "name": "NEXCORE s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-15",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "searched",
         "queries": [
           "\"NEXCORE s.r.o.\" IČO 30068321 web",
           "\"NEXCORE s.r.o.\" Praha Construction & property kontakt",
           "\"NEXCORE s.r.o.\" \"Chudenická 1059\" web",
           "\"NEXCORE s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30068321/nexcore-sro/",
+            "title": "NEXCORE s.r.o. , IČO 30068321 - Obchodní rejstřík firem",
+            "snippet": "Kde je sídlo firmy NEXCORE s.r.o.? Sídlo firmy NEXCORE s.r.o. je Chudenická 1059/30, Hostivař, 10200 Praha 10. Další firmy na této adrese. X Kurzy.cz > Obchodní rejstřík > NEXCORE s.r.o."
+          },
+          {
+            "url": "https://www.digireality.cz/inzerat/6ad0a48d5a5c25d95dbe5ee4",
+            "title": "Four-bedroom House Praha",
+            "snippet": "12 hours ago · Welcome to a newly built family home with a swimming pool in the sought-after location of Prague 6 - Nebušice. It is situated in a quiet street within walking distance to the International School of Prague in Nebušice (ISP). This property features a serviced 5+kk layout, 184 m² with a private maintained "
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/for-sale-apartment-2-1-praha-9-trinecka-4424898",
+            "title": "For sale apartment 2+1 - Praha 9, Třinecká - REALCITY.cz",
+            "snippet": "2 days ago · For sale apartment 2+1 55 m² - Praha 9, Třinecká Other listings from this agency Praha 9, 2+1 52 m² 8 300 000 CZK Praha 2, 2+1 104 m² 17 955 168 CZK"
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.hays.cz/",
+            "title": "Pracovní příležitosti v České republice | Personální agentura ...",
+            "snippet": "Jste připraveni získat novou, lepší práci? Nabízíme příležitosti na trvalý i dočasný pracovní poměr nebo na kontrakt po celé České republice. Využijte zkušeností a podpory našich odborných."
+          },
+          {
+            "url": "https://www.facebook.com/DaramisGroup/",
+            "title": "Daramis | Prague - Facebook",
+            "snippet": "Daramis, Prague. 5,981 followers · 11 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy."
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.facebook.com/groups/992561254672777/",
+            "title": "Poptávka-řemeslníci, zedníci, stavaři.. - Facebook",
+            "snippet": "5 hours ago · Vyberte si dodavatele podle hodnocení a referencí na facebooku,můžete si vybrat z nabídek na našich stránkách nebo poptat firmy/živnostníky dle požadavků.Kontaktovat vás mohou na telefonu nebo jestli jste časově zaneprázděný,přes zprávy."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: stříška pro venkovní výtah, Praha 2 Stavby (části) Vchodové stříšky okres Praha 15. 10. 2026 (dnes)"
+          },
+          {
+            "url": "https://profi-firmy.cz/",
+            "title": "Profi-firmy.cz – Databáze ověřených firem a řemeslníků po ...",
+            "snippet": "Poptávka zdarma Jedním formulářem oslovíte víc firem najednou. Bez registrace a poplatků."
+          }
+        ],
         "errors": [
-          "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
+        "state": "AMBIGUOUS",
         "website": "",
-        "examined": [],
+        "examined": [
+          {
+            "url": "https://www.digireality.cz/inzerat/6ad0a48d5a5c25d95dbe5ee4",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/for-sale-apartment-2-1-praha-9-trinecka-4424898",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.hays.cz/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -18333,7 +18830,15 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30068321/nexcore-sro/",
+        "https://www.digireality.cz/inzerat/6ad0a48d5a5c25d95dbe5ee4",
+        "https://www.realcity.cz/en/property/for-sale-apartment-2-1-praha-9-trinecka-4424898",
+        "https://www.skanska.com/cz/cs",
+        "https://vces.cz/",
+        "https://www.hays.cz/",
+        "https://www.facebook.com/DaramisGroup/"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -18438,27 +18943,104 @@
     "res-30068495": {
       "lead_id": "res-30068495",
       "name": "Denys Matviiuk",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-15",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "searched",
         "queries": [
           "\"Denys Matviiuk\" IČO 30068495 web",
           "\"Denys Matviiuk\" Praha Construction & property kontakt",
           "\"Denys Matviiuk\" \"Čimická 634\" web",
           "\"Denys Matviiuk\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-denys-matviiuk-23899026",
+            "title": "Denys Matviiuk IČO 23899026 kontakty 24.11.2025 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Denys Matviiuk, která sídlí v obci a bylo jí přiděleno IČO 23899026. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+            "title": "Construction & Property Management s.r.o. , Praha IČO ...",
+            "snippet": "May 12, 2026 · Kde je sídlo firmy Construction & Property Management s.r.o.? Sídlo firmy Construction & Property Management s.r.o. je Na příkopě 859/22, Nové Město (Praha 1), 110 00 Praha."
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/23899026-denys-matviiuk",
+            "title": "Denys Matviiuk, IČO: 23899026 - ARES - Finmag.cz",
+            "snippet": "Základní informace o Denys Matviiuk ... Informace o podnikání a činnosti Denys Matviiuk ... Kontaktní údaje Pro tento subjekt neevidujeme žádné kontaktní údaje. Přidat kontaktní údaje"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-denys-matviiuk-23899026/kontakty",
+            "title": "Denys Matviiuk Náchod IČO 23899026 kontakty 15.01.2026 ...",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Denys Matviiuk, která sídlí v obci Náchod a bylo jí přiděleno IČO 23899026. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://www.facebook.com/p/Denys-Matviiuk-100084768453856/",
+            "title": "Denys Matviiuk - Facebook",
+            "snippet": "Denys Matviiuk is on Facebook. Join Facebook to connect with Denys Matviiuk and others you may know. Facebook gives people the power to share and makes..."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/ares/23899026-denys-matviiuk",
+            "title": "Denys Matviiuk, Náchod, IČO: 23899026 - ARES | Peníze.cz",
+            "snippet": "Dec 5, 2025 · Registr ekonomických subjektů - Denys Matviiuk, IČO: 23899026, sídlo firmy, předmět podnikání firmy Denys Matviiuk."
+          },
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles.property_consult_spol_s_ro.b870d3d092f20d6a99ebeecbc7251fbb.html",
+            "title": "Property Consult, spol. s r.o., Company Profile | Praha ...",
+            "snippet": "Find company research, competitor information, contact details & financial data for Property Consult, spol. s r.o., of Praha, Hlavní město Praha. Get the latest business insights from Dun & Bradstreet."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: stříška pro venkovní výtah, Praha 2 Stavby (části) Vchodové stříšky okres Praha 15. 10. 2026 (dnes)"
+          }
+        ],
         "errors": [
-          "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
+        "state": "AMBIGUOUS",
         "website": "",
-        "examined": [],
+        "examined": [
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles.property_consult_spol_s_ro.b870d3d092f20d6a99ebeecbc7251fbb.html",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -18529,7 +19111,15 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-denys-matviiuk-23899026",
+        "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+        "https://www.finmag.cz/obchodni-rejstrik/ares/23899026-denys-matviiuk",
+        "https://rejstriky.finance.cz/firma-denys-matviiuk-23899026/kontakty",
+        "https://www.facebook.com/p/Denys-Matviiuk-100084768453856/",
+        "https://rejstrik.penize.cz/ares/23899026-denys-matviiuk",
+        "https://www.dnb.com/business-directory/company-profiles.property_consult_spol_s_ro.b870d3d092f20d6a99ebeecbc7251fbb.html"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -18634,19 +19224,30 @@
     "res-30068584": {
       "lead_id": "res-30068584",
       "name": "Yeva Sipailova",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-15",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "partial_search",
         "queries": [
           "\"Yeva Sipailova\" IČO 30068584 web",
           "\"Yeva Sipailova\" Praha Construction & property kontakt",
           "\"Yeva Sipailova\" \"Ďáblická 10\" web",
           "\"Yeva Sipailova\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-yeva-sipailova-30068584/kontakty",
+            "title": "Yeva Sipailova Praha IČO 30068584 kontakty 11.10.2026 ...",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Yeva Sipailova, která sídlí v obci Praha a bylo jí přiděleno IČO 30068584. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-yeva-sipailova-30068584",
+            "title": "Yeva Sipailova IČO 30068584 kontakty 04.10.2026 - Finance.cz",
+            "snippet": "Výpis dat pro firmu Yeva Sipailova obsahuje pouze taková data, která lze dle zákona č. 110/2019 Sb., o zpracování osobních údajů, zveřejňovat i bez souhlasu subjektu těchto údajů."
+          }
+        ],
         "errors": [
           "DDGSException: No results found.",
           "DDGSException: No results found.",
@@ -18715,7 +19316,10 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-yeva-sipailova-30068584/kontakty",
+        "https://rejstriky.finance.cz/firma-yeva-sipailova-30068584"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
