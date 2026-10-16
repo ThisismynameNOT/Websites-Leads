@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-15T12:27:11.911700+00:00",
+  "generated_at": "2026-10-16T12:10:35.859739+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -8456,7 +8456,7 @@
     "osm-node-11764459936": {
       "lead_id": "osm-node-11764459936",
       "name": "Malířské a natěračské práce Praha",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-16",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -8751,7 +8751,7 @@
     "osm-node-11782384941": {
       "lead_id": "osm-node-11782384941",
       "name": "WADE Atelier - design a realizace",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-16",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -9019,7 +9019,7 @@
     "osm-node-12278479101": {
       "lead_id": "osm-node-12278479101",
       "name": "Studio PHX s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-16",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -9258,7 +9258,7 @@
     "osm-node-13229923199": {
       "lead_id": "osm-node-13229923199",
       "name": "Depositum CZ s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-16",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -9539,7 +9539,7 @@
     "osm-node-13432491655": {
       "lead_id": "osm-node-13432491655",
       "name": "AltruLinea",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-16",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -9794,7 +9794,7 @@
     "osm-node-13565444642": {
       "lead_id": "osm-node-13565444642",
       "name": "Realitní Kancelář RNDr. Eva Pavlíková",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-16",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -10046,7 +10046,7 @@
     "osm-node-13997175495": {
       "lead_id": "osm-node-13997175495",
       "name": "ALLSAT, s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-16",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -27989,6 +27989,1859 @@
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
       "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30016541": {
+      "lead_id": "res-30016541",
+      "name": "COMESTA s.r.o.",
+      "checked_at": "2026-10-16",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"COMESTA s.r.o.\" IČO 30016541 web",
+          "\"COMESTA s.r.o.\" Praha Construction & property kontakt",
+          "\"COMESTA s.r.o.\" \"Jeremenkova 763\" web",
+          "\"COMESTA s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30016541/comesta-sro/",
+            "title": "COMESTA s.r.o. , IČO 30016541 - Obchodní rejstřík firem",
+            "snippet": "Tato stránka obsahuje aktuální výpis údajů firmy COMESTA s.r.o. Údaje byly staženy 12. října 2026 z datové služby justice.cz dle IČO 30016541 a údaje ve výpise nebyly dle systému ARES do dnešního dne změněny. Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob."
+          },
+          {
+            "url": "https://www.podnikani.cz/30016541/comesta-sro/",
+            "title": "COMESTA s.r.o. - obchodní rejstřík, vizualizace vztahů firem ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku COMESTA s.r.o. Jeremenkova 763/88, Podolí, 14000 Praha 4 , IČO: 30016541, Zákl. kapitál: 10 Kč"
+          },
+          {
+            "url": "https://www.adresarfiriem.sk/comesta-sro-bratislava-mestska-cast-stare-mesto/",
+            "title": "COMESTA, s.r.o., Bratislava - mestská časť Staré Mesto ...",
+            "snippet": "COMESTA, s.r.o., Bratislava - mestská časť Staré Mesto - Lízingové spoločnosti"
+          },
+          {
+            "url": "https://www.azet.sk/firma/1543105/comesta-sro/",
+            "title": "COMESTA, s.r.o. - Azet.sk",
+            "snippet": "Fakturačné údaje COMESTA, s.r.o. Názov:COMESTA, s.r.o. Sídlo:Landererova 8, 81109 Bratislava-Staré Mesto IČO:55104410"
+          },
+          {
+            "url": "https://dlznik.zoznam.sk/socialna-siet/spolocnost-comesta-sro",
+            "title": "COMESTA, s.r.o. – Výpis z obchodného registra a profil firmy",
+            "snippet": "Sep 7, 2024 · Profil subjektu COMESTA, s.r.o. v sociálnej sieti firiem Slovenska s možnosťou overenia zadlženosti. Vždy overené a spoľahlivé informácie."
+          },
+          {
+            "url": "https://ctp.eu/",
+            "title": "Parkmakers - Commercial Real Estate Developer And Manager",
+            "snippet": "CTP is Europe’s largest listed owner, developer, and manager of logistics and industrial real estate by gross lettable area across 11 countries. Full-service developer and property manager."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.hays.cz/",
+            "title": "Pracovní příležitosti v České republice | Personální agentura ...",
+            "snippet": "Jste připraveni získat novou, lepší práci? Nabízíme příležitosti na trvalý i dočasný pracovní poměr nebo na kontrakt po celé České republice. Využijte zkušeností a podpory našich odborných."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [
+            "info@aliaweb.cz"
+          ],
+          "phones": [],
+          "source": "https://www.podnikani.cz/30016541/comesta-sro/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.podnikani.cz/30016541/comesta-sro/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30016541/comesta-sro/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30016541",
+        "legal_name": "COMESTA s.r.o.",
+        "registered_at": "2026-10-09",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30016541",
+        "decision_maker": {
+          "name": "PETR HORÁČEK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30016541",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "PETR HORÁČEK",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30016541",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-16",
+        "website": "https://www.podnikani.cz/30016541/comesta-sro/",
+        "devices": {
+          "desktop": {
+            "title": "COMESTA s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
+            "description": "COMESTA s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě COMESTA s.r.o. z českého obchodního rejstříku a živnostenskéh",
+            "viewport_meta": true,
+            "h1_count": 5,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 40,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 3,
+            "images_count": 20,
+            "contact_action": true,
+            "form_count": 2,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "COMESTA s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
+            "description": "COMESTA s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě COMESTA s.r.o. z českého obchodního rejstříku a živnostenskéh",
+            "viewport_meta": true,
+            "h1_count": 5,
+            "horizontal_overflow_px": 486,
+            "visible_text_elements": 40,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 3,
+            "images_count": 20,
+            "contact_action": true,
+            "form_count": 2,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.podnikani.cz/30016541/comesta-sro/"
+        },
+        "objective_issues": [
+          {
+            "issue": "Measured mobile horizontal overflow",
+            "detail": "486 CSS pixels",
+            "method": "Playwright viewport 390px",
+            "url": "https://www.podnikani.cz/30016541/comesta-sro/"
+          }
+        ],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30016541",
+          "date": "2026-10-09",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "COMESTA s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Jeremenkova 763, Praha, 14000.",
+          "An independently identity-matched business website was found: https://www.podnikani.cz/30016541/comesta-sro/.",
+          "ARES confirms registration for IČO 30016541 dated 2026-10-09.",
+          "Browser-observed issue: Measured mobile horizontal overflow."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Show a measured measured mobile horizontal overflow fix in a private demo, and ask if improving enquiries is a priority.",
+        "observed_issues": [
+          {
+            "issue": "Measured mobile horizontal overflow",
+            "detail": "486 CSS pixels",
+            "method": "Playwright viewport 390px",
+            "url": "https://www.podnikani.cz/30016541/comesta-sro/"
+          }
+        ],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30016541",
+            "date": "2026-10-09",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30016541",
+          "https://www.podnikani.cz/30016541/comesta-sro/"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "PETR HORÁČEK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30016541",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30016541/comesta-sro/",
+        "https://www.podnikani.cz/30016541/comesta-sro/",
+        "https://www.adresarfiriem.sk/comesta-sro-bratislava-mestska-cast-stare-mesto/",
+        "https://www.azet.sk/firma/1543105/comesta-sro/",
+        "https://dlznik.zoznam.sk/socialna-siet/spolocnost-comesta-sro",
+        "https://ctp.eu/",
+        "https://www.skanska.com/cz/cs"
+      ],
+      "website_need_verified": true,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [
+          "info@aliaweb.cz"
+        ],
+        "phones": [],
+        "source": "https://www.podnikani.cz/30016541/comesta-sro/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "osm-node-296753227": {
+      "lead_id": "osm-node-296753227",
+      "name": "WOODWIN",
+      "checked_at": "2026-10-16",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "state": "SEARCH_UNAVAILABLE",
+        "status": "not_executed",
+        "reason": "Official company identity not confirmed with ARES; website research postponed",
+        "website": "",
+        "queries": [],
+        "candidates": [],
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "not_checked",
+        "reason": "No verified IČO in candidate data",
+        "decision_maker": null
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [],
+      "dossier": {
+        "title": "WOODWIN — research dossier",
+        "facts": [
+          "The business is listed at Frýdlantská 1312/19, 18200, Praha.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists."
+        ],
+        "offer": "Premium lead-generation website",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [],
+        "sources": [
+          "https://www.openstreetmap.org/node/296753227"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          85000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30086281": {
+      "lead_id": "res-30086281",
+      "name": "Nové klíče s.r.o.",
+      "checked_at": "2026-10-16",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Nové klíče s.r.o.\" IČO 30086281 web",
+          "\"Nové klíče s.r.o.\" Praha Construction & property kontakt",
+          "\"Nové klíče s.r.o.\" \"Revoluční 763\" web",
+          "\"Nové klíče s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
+            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+          },
+          {
+            "url": "https://www.poptavej.cz/",
+            "title": "Poptávky a veřejné zakázky | Poptávej.cz",
+            "snippet": "Poptávej.cz je poptávkový systém zaměřený na porovnání nabídky služeb a zboží z celé ČR, kde je zadání poptávky zcela zdarma. Každá poptávka zároveň slouží jako zdroj obchodních příležitostí pro firmy."
+          },
+          {
+            "url": "https://profi-firmy.cz/",
+            "title": "Profi-firmy.cz – Databáze ověřených firem a řemeslníků po ...",
+            "snippet": "Poptávka zdarma Jedním formulářem oslovíte víc firem najednou. Bez registrace a poplatků."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Monitorujeme pro Vás a kategorizujeme poptávky a veřejné zakázky z nejvýznamnějších zdrojů."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching distinctive business-name words on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavej.cz/",
+            "result": "unreachable",
+            "reason": "ConnectTimeout"
+          },
+          {
+            "url": "https://profi-firmy.cz/",
+            "result": "unreachable",
+            "reason": "HTTP_500"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30086281",
+        "legal_name": "Nové klíče s.r.o.",
+        "registered_at": "2026-10-10",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30086281",
+        "decision_maker": {
+          "name": "LUKÁŠ KOSINSKÝ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30086281",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "LUKÁŠ KOSINSKÝ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30086281",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30086281",
+          "date": "2026-10-10",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Nové klíče s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Revoluční 763, Praha, 11000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30086281 dated 2026-10-10."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30086281",
+            "date": "2026-10-10",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30086281"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "LUKÁŠ KOSINSKÝ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30086281",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://zakazky.epoptavka.cz/",
+        "https://www.epoptavka.cz/",
+        "https://www.poptavka.net/",
+        "https://www.poptavej.cz/",
+        "https://profi-firmy.cz/",
+        "https://poptavky.epoptavka.cz/",
+        "https://www.poptavky.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30116783": {
+      "lead_id": "res-30116783",
+      "name": "DoBo Jizera s.r.o.",
+      "checked_at": "2026-10-16",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"DoBo Jizera s.r.o.\" IČO 30116783 web",
+          "\"DoBo Jizera s.r.o.\" Praha Construction & property kontakt",
+          "\"DoBo Jizera s.r.o.\" \"Dlouhá 715\" web",
+          "\"DoBo Jizera s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30116783/dobo-jizera-sro/",
+            "title": "DoBo Jizera s.r.o. , IČO 30116783 - Obchodní rejstřík firem",
+            "snippet": "DoBo Jizera s.r.o. – obchodní rejstřík, aktuální výpis Datum vzniku a zápisu 8. říjen 2026 Spisová značka C 457483/MSPH Městský soud v Praze Obchodní firma DoBo Jizera s.r.o. Sídlo Dlouhá 715/38, Staré Město, 110 00 Praha 1 Identifikační číslo 30116783 Právní forma Společnost s r.o. Předmět činnosti pronájem nemovitost"
+          },
+          {
+            "url": "https://www.podnikani.cz/30116783/dobo-jizera-sro/",
+            "title": "DoBo Jizera s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
+            "snippet": "DoBo Jizera s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. Vizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě DoBo Jizera s.r.o. z českého obchodního rejstříku a živnostenského rejstříku v přehledné grafické podobě."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://www.hays.cz/",
+            "title": "Pracovní příležitosti v České republice | Personální agentura ...",
+            "snippet": "Jste připraveni získat novou, lepší práci? Nabízíme příležitosti na trvalý i dočasný pracovní poměr nebo na kontrakt po celé České republice. Využijte zkušeností a podpory našich odborných."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/06264808/alu-casting-sro/",
+            "title": "Alu - casting s.r.o. , Nový Bor IČO 06264808 - Obchodní ...",
+            "snippet": "Oct 3, 2026 · Alu - casting s.r.o., Železná, Nový Bor, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní ..."
+          },
+          {
+            "url": "https://www.expats.cz/",
+            "title": "Expats.cz for news, jobs and real estate in Prague and the ...",
+            "snippet": "12 hours ago · We are the Czech Republic's leading English-language media supporting English speakers with helpful services such as latest news, job offers, real estate listings and more."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30116783/dobo-jizera-sro/zivnosti/",
+            "title": "DoBo Jizera s.r.o. - Živnostenský rejstřík | Kurzy.cz",
+            "snippet": "DoBo Jizera s.r.o., firma – kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
+            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+          },
+          {
+            "url": "https://www.poptavej.cz/",
+            "title": "Poptávky a veřejné zakázky | Poptávej.cz",
+            "snippet": "Poptávej.cz je poptávkový systém zaměřený na porovnání nabídky služeb a zboží z celé ČR, kde je zadání poptávky zcela zdarma. Každá poptávka zároveň slouží jako zdroj obchodních příležitostí pro firmy."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "O projektu Projekt Poptávky.cz sdružuje 931 481 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [
+            "info@aliaweb.cz"
+          ],
+          "phones": [],
+          "source": "https://www.podnikani.cz/30116783/dobo-jizera-sro/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.podnikani.cz/30116783/dobo-jizera-sro/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30116783/dobo-jizera-sro/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30116783",
+        "legal_name": "DoBo Jizera s.r.o.",
+        "registered_at": "2026-10-08",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30116783",
+        "decision_maker": {
+          "name": "JAN DOČEKAL",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30116783",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "JAN DOČEKAL",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30116783",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "DAVID BORSUK",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30116783",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-16",
+        "website": "https://www.podnikani.cz/30116783/dobo-jizera-sro/",
+        "devices": {
+          "desktop": {
+            "title": "DoBo Jizera s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
+            "description": "DoBo Jizera s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě DoBo Jizera s.r.o. z českého obchodního rejstříku a živno",
+            "viewport_meta": true,
+            "h1_count": 5,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 40,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 5,
+            "images_count": 22,
+            "contact_action": true,
+            "form_count": 2,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "DoBo Jizera s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
+            "description": "DoBo Jizera s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě DoBo Jizera s.r.o. z českého obchodního rejstříku a živno",
+            "viewport_meta": true,
+            "h1_count": 5,
+            "horizontal_overflow_px": 486,
+            "visible_text_elements": 40,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 5,
+            "images_count": 22,
+            "contact_action": true,
+            "form_count": 2,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.podnikani.cz/30116783/dobo-jizera-sro/"
+        },
+        "objective_issues": [
+          {
+            "issue": "Measured mobile horizontal overflow",
+            "detail": "486 CSS pixels",
+            "method": "Playwright viewport 390px",
+            "url": "https://www.podnikani.cz/30116783/dobo-jizera-sro/"
+          }
+        ],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30116783",
+          "date": "2026-10-08",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "DoBo Jizera s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Dlouhá 715, Praha, 11000.",
+          "An independently identity-matched business website was found: https://www.podnikani.cz/30116783/dobo-jizera-sro/.",
+          "ARES confirms registration for IČO 30116783 dated 2026-10-08.",
+          "Browser-observed issue: Measured mobile horizontal overflow."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Show a measured measured mobile horizontal overflow fix in a private demo, and ask if improving enquiries is a priority.",
+        "observed_issues": [
+          {
+            "issue": "Measured mobile horizontal overflow",
+            "detail": "486 CSS pixels",
+            "method": "Playwright viewport 390px",
+            "url": "https://www.podnikani.cz/30116783/dobo-jizera-sro/"
+          }
+        ],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30116783",
+            "date": "2026-10-08",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30116783",
+          "https://www.podnikani.cz/30116783/dobo-jizera-sro/"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "JAN DOČEKAL",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30116783",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30116783/dobo-jizera-sro/",
+        "https://www.podnikani.cz/30116783/dobo-jizera-sro/",
+        "https://www.skanska.com/cz/cs",
+        "https://www.hays.cz/",
+        "https://vces.cz/",
+        "https://rejstrik-firem.kurzy.cz/06264808/alu-casting-sro/",
+        "https://www.expats.cz/"
+      ],
+      "website_need_verified": true,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [
+          "info@aliaweb.cz"
+        ],
+        "phones": [],
+        "source": "https://www.podnikani.cz/30116783/dobo-jizera-sro/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30120659": {
+      "lead_id": "res-30120659",
+      "name": "Vaši Výškaři s.r.o.",
+      "checked_at": "2026-10-16",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Vaši Výškaři s.r.o.\" IČO 30120659 web",
+          "\"Vaši Výškaři s.r.o.\" Praha Construction & property kontakt",
+          "\"Vaši Výškaři s.r.o.\" \"Plzeňská 3352\" web",
+          "\"Vaši Výškaři s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.facebook.com/groups/992561254672777/",
+            "title": "Poptávka-řemeslníci, zedníci, stavaři.. - Facebook",
+            "snippet": "1 day ago · Vyberte si dodavatele podle hodnocení a referencí na facebooku,můžete si vybrat z nabídek na našich stránkách nebo poptat firmy/živnostníky dle požadavků.Kontaktovat vás mohou na telefonu nebo jestli jste časově zaneprázděný,přes zprávy."
+          },
+          {
+            "url": "https://profi-firmy.cz/",
+            "title": "Profi-firmy.cz – Databáze ověřených firem a řemeslníků po ...",
+            "snippet": "Poptávka zdarma Jedním formulářem oslovíte víc firem najednou. Bez registrace a poplatků."
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
+            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+          },
+          {
+            "url": "https://www.poptavej.cz/",
+            "title": "Poptávky a veřejné zakázky | Poptávej.cz",
+            "snippet": "Poptávej.cz je poptávkový systém zaměřený na porovnání nabídky služeb a zboží z celé ČR, kde je zadání poptávky zcela zdarma. Každá poptávka zároveň slouží jako zdroj obchodních příležitostí pro firmy."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Monitorujeme pro Vás a kategorizujeme poptávky a veřejné zakázky z nejvýznamnějších zdrojů."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://profi-firmy.cz/",
+            "result": "unreachable",
+            "reason": "HTTP_500"
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavej.cz/",
+            "result": "unreachable",
+            "reason": "ConnectTimeout"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30120659",
+        "legal_name": "Vaši Výškaři s.r.o.",
+        "registered_at": "2026-10-10",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30120659",
+        "decision_maker": {
+          "name": "JÁN ČEKAŇÁK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30120659",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "JÁN ČEKAŇÁK",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30120659",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30120659",
+          "date": "2026-10-10",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Vaši Výškaři s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Plzeňská 3352, Praha, 15000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30120659 dated 2026-10-10."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30120659",
+            "date": "2026-10-10",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30120659"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "JÁN ČEKAŇÁK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30120659",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.epoptavka.cz/",
+        "https://www.facebook.com/groups/992561254672777/",
+        "https://profi-firmy.cz/",
+        "https://www.poptavka.net/",
+        "https://www.poptavej.cz/",
+        "https://poptavky.epoptavka.cz/",
+        "https://www.poptavky.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30120730": {
+      "lead_id": "res-30120730",
+      "name": "Chabry Landbank s.r.o.",
+      "checked_at": "2026-10-16",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Chabry Landbank s.r.o.\" IČO 30120730 web",
+          "\"Chabry Landbank s.r.o.\" Praha Construction & property kontakt",
+          "\"Chabry Landbank s.r.o.\" \"Generála Píky 430\" web",
+          "\"Chabry Landbank s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30120730/chabry-landbank-sro/",
+            "title": "Chabry Landbank s.r.o. , IČO 30120730 - Obchodní rejstřík firem",
+            "snippet": "Tato stránka obsahuje aktuální výpis údajů firmy Chabry Landbank s.r.o. Údaje byly staženy 12. října 2026 z datové služby justice.cz dle IČO 30120730 a údaje ve výpise nebyly dle systému ARES do dnešního dne změněny. Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob."
+          },
+          {
+            "url": "https://www.detail.cz/firma/30120730-chabry-landbank-sro-generala-piky-430-26-praha/",
+            "title": "Společnost Chabry Landbank s.r.o. | Detail.cz",
+            "snippet": "Společnost Chabry Landbank s.r.o. (IČO: 30120730) byla založena dne 9. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti."
+          },
+          {
+            "url": "https://www.podnikani.cz/30120730/chabry-landbank-sro/",
+            "title": "Chabry Landbank s.r.o. - obchodní rejstřík, vizualizace ...",
+            "snippet": "Hledej Chabry Landbank s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. * Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku Chabry Landbank s.r.o. Generála Píky 430/26, Dejvice, 16000 Praha 6 , IČO: 30120730, Zákl. kapitál: 20000 Kč"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30120730/chabry-landbank-sro/zivnosti/",
+            "title": "Chabry Landbank s.r.o. - Živnostenský rejstřík | Kurzy.cz",
+            "snippet": "Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob. Kompletní výpis včetně dat narození a adres naleznete v originálním výpisu živnostenského rejstříku získáte po zadání IČO 30120730 na stránkách www.rzp.cz."
+          },
+          {
+            "url": "https://www.dnb.com/business-directory/company-information.construction.cz.na.praha_8_-_dolni_chabry.html",
+            "title": "Find Construction Companies in Praha 8 - Dolni Chabry - Dun ...",
+            "snippet": "Find info on Construction companies in Praha 8 - Dolni Chabry, including financial statements, sales and marketing contacts, top competitors, and firmographic insights."
+          },
+          {
+            "url": "https://www.dnb.com/business-directory/company-information.residential_building_construction.cz.na.praha_8_-_dolní_chabry.html",
+            "title": "Residential Building Construction Companies in Praha 8 ...",
+            "snippet": "Find info on Residential Building Construction companies in Praha 8 - Dolní Chabry, including financial statements, sales and marketing contacts, top competitors, and firmographic insights."
+          },
+          {
+            "url": "https://www.novechabry.cz/en",
+            "title": "New flats Prague 8 - accessibility, attractive location",
+            "snippet": "Nové Chabry family apartments Prague 8 - perfect amenities, excellent public transport, school, kindergarten, shops, future tram stop"
+          },
+          {
+            "url": "https://www.stargroup.cz/en",
+            "title": "Star Group",
+            "snippet": "We have just launched sales of the last apartments in Nove Chabry in the phase called Gemini. It consists of two organic apartment buildings with receding floors and smart layouts. There are a total of 62 apartments on offer, from studios to family 3- and 4-bedroom units with terraces. All apartments have a beautiful v"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.detail.cz/firma/30120730-chabry-landbank-sro-generala-piky-430-26-praha/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.detail.cz/firma/30120730-chabry-landbank-sro-generala-piky-430-26-praha/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.detail.cz/firma/30120730-chabry-landbank-sro-generala-piky-430-26-praha/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30120730",
+        "legal_name": "Chabry Landbank s.r.o.",
+        "registered_at": "2026-10-09",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30120730",
+        "decision_maker": {
+          "name": "MAREK LOKAJ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30120730",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "MAREK LOKAJ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30120730",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "ĽUBOMÍR DRENČAK",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30120730",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-16",
+        "website": "https://www.detail.cz/firma/30120730-chabry-landbank-sro-generala-piky-430-26-praha/",
+        "devices": {
+          "desktop": {
+            "title": "Společnost Chabry Landbank s.r.o. | Detail.cz",
+            "description": "Společnost Chabry Landbank s.r.o. (IČO: 30120730) byla založena dne 9. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
+            "viewport_meta": true,
+            "h1_count": 15,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 57,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 10,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Společnost Chabry Landbank s.r.o. | Detail.cz",
+            "description": "Společnost Chabry Landbank s.r.o. (IČO: 30120730) byla založena dne 9. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
+            "viewport_meta": true,
+            "h1_count": 15,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 54,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 8,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.detail.cz/firma/30120730-chabry-landbank-sro-generala-piky-430-26-praha/"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30120730",
+          "date": "2026-10-09",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Chabry Landbank s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Generála Píky 430, Praha, 16000.",
+          "An independently identity-matched business website was found: https://www.detail.cz/firma/30120730-chabry-landbank-sro-generala-piky-430-26-praha/.",
+          "ARES confirms registration for IČO 30120730 dated 2026-10-09."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30120730",
+            "date": "2026-10-09",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30120730",
+          "https://www.detail.cz/firma/30120730-chabry-landbank-sro-generala-piky-430-26-praha/"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "MAREK LOKAJ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30120730",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30120730/chabry-landbank-sro/",
+        "https://www.detail.cz/firma/30120730-chabry-landbank-sro-generala-piky-430-26-praha/",
+        "https://www.podnikani.cz/30120730/chabry-landbank-sro/",
+        "https://rejstrik-firem.kurzy.cz/30120730/chabry-landbank-sro/zivnosti/",
+        "https://www.dnb.com/business-directory/company-information.construction.cz.na.praha_8_-_dolni_chabry.html",
+        "https://www.dnb.com/business-directory/company-information.residential_building_construction.cz.na.praha_8_-_dolní_chabry.html",
+        "https://www.novechabry.cz/en"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.detail.cz/firma/30120730-chabry-landbank-sro-generala-piky-430-26-praha/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30122139": {
+      "lead_id": "res-30122139",
+      "name": "Sandra Mužíková Group s.r.o.",
+      "checked_at": "2026-10-16",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Sandra Mužíková Group s.r.o.\" IČO 30122139 web",
+          "\"Sandra Mužíková Group s.r.o.\" Praha Construction & property kontakt",
+          "\"Sandra Mužíková Group s.r.o.\" \"Varšavská 715\" web",
+          "\"Sandra Mužíková Group s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30122139",
+        "legal_name": "Sandra Mužíková Group s.r.o.",
+        "registered_at": "2026-10-10",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30122139",
+        "decision_maker": {
+          "name": "SANDRA MUŽÍKOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30122139",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "SANDRA MUŽÍKOVÁ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30122139",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30122139",
+          "date": "2026-10-10",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Sandra Mužíková Group s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Varšavská 715, Praha, 12000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30122139 dated 2026-10-10."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30122139",
+            "date": "2026-10-10",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30122139"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "SANDRA MUŽÍKOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30122139",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30122716": {
+      "lead_id": "res-30122716",
+      "name": "LS Safety s.r.o.",
+      "checked_at": "2026-10-16",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"LS Safety s.r.o.\" IČO 30122716 web",
+          "\"LS Safety s.r.o.\" Praha Construction & property kontakt",
+          "\"LS Safety s.r.o.\" \"Rybná 716\" web",
+          "\"LS Safety s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30122716/ls-safety-sro/",
+            "title": "LS Safety s.r.o. , IČO 30122716 - Obchodní rejstřík firem",
+            "snippet": "LS Safety s.r.o. – obchodní rejstřík, aktuální výpis Datum vzniku a zápisu 8. říjen 2026 Spisová značka C 457581/MSPH Městský soud v Praze Obchodní firma LS Safety s.r.o. Sídlo Rybná 716/24, Staré Město, 110 00 Praha 1 Identifikační číslo 30122716 Právní forma Společnost s r.o. Předmět podnikání pronájem nemovitostí, b"
+          },
+          {
+            "url": "https://www.podnikani.cz/30122716/ls-safety-sro/",
+            "title": "LS Safety s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku LS Safety s.r.o. Rybná 716/24, Staré Město, 11000 Praha 1 , IČO: 30122716, Zákl. kapitál: 20000 Kč"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30122716/ls-safety-sro/sbirka-listin/",
+            "title": "LS Safety s.r.o. - Sbírka listin - Kurzy.cz",
+            "snippet": "Sbírka listin - LS Safety s.r.o. Zdroje dat a ochrana osobních údajů Kurzy.cz zobrazují pouze údaje z otevřených dat, z informací zveřejněných orgány veřejné správy nebo z databází, které zpracováváme jako zpracovatel na základě smlouvy s jiným správcem (např. ŽivéFirmy.cz). Osobní údaje jsou zveřejňovány v souladu s N"
+          },
+          {
+            "url": "https://www.sreality.cz/en/project-detail/villa-frame/39659",
+            "title": "VILLA FRAME • Sreality.cz",
+            "snippet": "1 property in the current offer of properties in the development project VILLA FRAME The largest offer of real estate in the Czech Republic (110,226 estates) with search on the map and filtering with dozens of parameters"
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://www.hays.cz/",
+            "title": "Pracovní příležitosti v České republice | Personální agentura ...",
+            "snippet": "Jste připraveni získat novou, lepší práci? Nabízíme příležitosti na trvalý i dočasný pracovní poměr nebo na kontrakt po celé České republice. Využijte zkušeností a podpory našich odborných."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/adresa-praha-rybna-716-24-21723613",
+            "title": "Rybná 716/24 Praha 11000 (16.10.2026) - Rejstříky.finance.cz",
+            "snippet": "Feb 9, 2017 · Rybná 716/24 Praha 11000 – seznam všech firem a osob, které se na této adrese nachází a mají záznam ve veřejných rejstřících, mapa, GPS souřadnice"
+          },
+          {
+            "url": "https://alogator.com/ochrana-sukromia?locale=en",
+            "title": "Privacy Policy - Alogator",
+            "snippet": "02 Controller Identification Alogator s.r.o. Rybná 716/24, Staré Město, 110 00 Prague 1 Company ID: 24026573 VAT ID: CZ24026573 E-mail: info@alogator.com Registered under file number C 437197 at the Municipal Court in Prague The Controller is responsible for the processing of personal data in accordance with applicable"
+          },
+          {
+            "url": "https://www.ransomware.live/activity/Energy+&+Utilities",
+            "title": "Energy & Utilities",
+            "snippet": "Jun 2, 2025 · Ransomware.live tracks ransomware groups and their activity. It was created by Julien Mousqueton, a security researcher. The website provides information on the groups' infrastructure, victims, and payment demands. It also includes a live map that shows the latest ransomware attacks."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/osoby/53701/",
+            "title": "MILAN EDELMANN - rejstříky, události | Kurzy.cz",
+            "snippet": "Jan 7, 2020 · Statistické údaje o jméně Milan Edelmann v rejstřících V existujících společnostech je zapsáno 9 různých osob. Jméno bylo nebo je zapsáno v 1464 existujících společnostech a má celkem 1506 aktuálních záznamů a celkem 3017 historických záznamů. Jméno bylo zapsáno v 2878 zaniklých společnostech. Jméno Milan"
+          },
+          {
+            "url": "https://healthexchange.ca.gov/regulations/PDFs/2018-0810-04C_Final.pdf",
+            "title": "State of California Office of Administrative Law",
+            "snippet": "This certificate of compliance makes permanent emergency regulations adopted pursuant to Government Code section 100504(a)(6). In compliance with state and federal laws, these. regulations provide definitions,..abbreviations, standards fornotice, standards for eligibility determination and redetermination. for qualifie"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [
+            "info@aliaweb.cz"
+          ],
+          "phones": [],
+          "source": "https://www.podnikani.cz/30122716/ls-safety-sro/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.podnikani.cz/30122716/ls-safety-sro/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30122716/ls-safety-sro/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30122716",
+        "legal_name": "LS Safety s.r.o.",
+        "registered_at": "2026-10-08",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30122716",
+        "decision_maker": {
+          "name": "MICHAL MATĚJKA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30122716",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "MICHAL MATĚJKA",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30122716",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "LENKA MATĚJKOVÁ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30122716",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-16",
+        "website": "https://www.podnikani.cz/30122716/ls-safety-sro/",
+        "devices": {
+          "desktop": {
+            "title": "LS Safety s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
+            "description": "LS Safety s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě LS Safety s.r.o. z českého obchodního rejstříku a živnosten",
+            "viewport_meta": true,
+            "h1_count": 5,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 40,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 4,
+            "images_count": 21,
+            "contact_action": true,
+            "form_count": 2,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "LS Safety s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
+            "description": "LS Safety s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě LS Safety s.r.o. z českého obchodního rejstříku a živnosten",
+            "viewport_meta": true,
+            "h1_count": 5,
+            "horizontal_overflow_px": 486,
+            "visible_text_elements": 40,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 4,
+            "images_count": 21,
+            "contact_action": true,
+            "form_count": 2,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.podnikani.cz/30122716/ls-safety-sro/"
+        },
+        "objective_issues": [
+          {
+            "issue": "Measured mobile horizontal overflow",
+            "detail": "486 CSS pixels",
+            "method": "Playwright viewport 390px",
+            "url": "https://www.podnikani.cz/30122716/ls-safety-sro/"
+          }
+        ],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30122716",
+          "date": "2026-10-08",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "LS Safety s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Rybná 716, Praha, 11000.",
+          "An independently identity-matched business website was found: https://www.podnikani.cz/30122716/ls-safety-sro/.",
+          "ARES confirms registration for IČO 30122716 dated 2026-10-08.",
+          "Browser-observed issue: Measured mobile horizontal overflow."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Show a measured measured mobile horizontal overflow fix in a private demo, and ask if improving enquiries is a priority.",
+        "observed_issues": [
+          {
+            "issue": "Measured mobile horizontal overflow",
+            "detail": "486 CSS pixels",
+            "method": "Playwright viewport 390px",
+            "url": "https://www.podnikani.cz/30122716/ls-safety-sro/"
+          }
+        ],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30122716",
+            "date": "2026-10-08",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30122716",
+          "https://www.podnikani.cz/30122716/ls-safety-sro/"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "MICHAL MATĚJKA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30122716",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30122716/ls-safety-sro/",
+        "https://www.podnikani.cz/30122716/ls-safety-sro/",
+        "https://rejstrik-firem.kurzy.cz/30122716/ls-safety-sro/sbirka-listin/",
+        "https://www.sreality.cz/en/project-detail/villa-frame/39659",
+        "https://www.skanska.com/cz/cs",
+        "https://www.hays.cz/",
+        "https://vces.cz/"
+      ],
+      "website_need_verified": true,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [
+          "info@aliaweb.cz"
+        ],
+        "phones": [],
+        "source": "https://www.podnikani.cz/30122716/ls-safety-sro/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30123445": {
+      "lead_id": "res-30123445",
+      "name": "Residence Josefov s.r.o.",
+      "checked_at": "2026-10-16",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Residence Josefov s.r.o.\" IČO 30123445 web",
+          "\"Residence Josefov s.r.o.\" Praha Construction & property kontakt",
+          "\"Residence Josefov s.r.o.\" \"Dušní 928\" web",
+          "\"Residence Josefov s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30123445/residence-josefov-sro/",
+            "title": "Residence Josefov s.r.o. , IČO 30123445 - Obchodní rejstřík ...",
+            "snippet": "Residence Josefov s.r.o. – obchodní rejstřík, aktuální výpis Datum vzniku a zápisu 8. říjen 2026 Spisová značka C 457597/MSPH Městský soud v Praze Obchodní firma Residence Josefov s.r.o. Sídlo Dušní 928/1, Staré Město, 110 00 Praha 1 Identifikační číslo 30123445 Právní forma Společnost s r.o. Předmět podnikání pronájem"
+          },
+          {
+            "url": "https://www.podnikani.cz/30123445/residence-josefov-sro/",
+            "title": "Residence Josefov s.r.o. - obchodní rejstřík, vizualizace ...",
+            "snippet": "Hledej Residence Josefov s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. * Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku Residence Josefov s.r.o. Dušní 928/1, Staré Město, 11000 Praha 1 , IČO: 30123445, Zákl. kapitál: 5000 Kč"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30123445/residence-josefov-sro/zivnosti/",
+            "title": "Residence Josefov s.r.o. - Živnostenský rejstřík | Kurzy.cz",
+            "snippet": "Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob. Kompletní výpis včetně dat narození a adres naleznete v originálním výpisu živnostenského rejstříku získáte po zadání IČO 30123445 na stránkách www.rzp.cz."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
+            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+          },
+          {
+            "url": "https://profi-firmy.cz/",
+            "title": "Profi-firmy.cz – Databáze ověřených firem a řemeslníků po ...",
+            "snippet": "Poptávka zdarma Jedním formulářem oslovíte víc firem najednou. Bez registrace a poplatků."
+          },
+          {
+            "url": "https://msp.gov.cz/",
+            "title": "Ministerstvo spravedlnosti České republiky - Aktuality",
+            "snippet": "2 days ago · Ministerstvo spravedlnosti zajistilo výrazné navýšení prostředků na služby pro oběti trestných činů 09.10.2026 Pro rok 2027 se podařilo i díky změnám legislativy schválené v minulém volebním období zajistit výrazné navýšení finančních prostředků určených na služby pro oběti trestných činů."
+          },
+          {
+            "url": "https://www.poptavej.cz/",
+            "title": "Poptávky a veřejné zakázky | Poptávej.cz",
+            "snippet": "Poptávej.cz je poptávkový systém zaměřený na porovnání nabídky služeb a zboží z celé ČR, kde je zadání poptávky zcela zdarma. Každá poptávka zároveň slouží jako zdroj obchodních příležitostí pro firmy."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [
+            "info@aliaweb.cz"
+          ],
+          "phones": [],
+          "source": "https://www.podnikani.cz/30123445/residence-josefov-sro/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.podnikani.cz/30123445/residence-josefov-sro/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30123445/residence-josefov-sro/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30123445",
+        "legal_name": "Residence Josefov s.r.o.",
+        "registered_at": "2026-10-08",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30123445",
+        "decision_maker": {
+          "name": "JANA FÁBRY PAYNE",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30123445",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "JANA FÁBRY PAYNE",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30123445",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-16",
+        "website": "https://www.podnikani.cz/30123445/residence-josefov-sro/",
+        "devices": {
+          "desktop": {
+            "title": "Residence Josefov s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
+            "description": "Residence Josefov s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě Residence Josefov s.r.o. z českého obchodního rejst",
+            "viewport_meta": true,
+            "h1_count": 5,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 40,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 3,
+            "images_count": 20,
+            "contact_action": true,
+            "form_count": 2,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Residence Josefov s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
+            "description": "Residence Josefov s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě Residence Josefov s.r.o. z českého obchodního rejst",
+            "viewport_meta": true,
+            "h1_count": 5,
+            "horizontal_overflow_px": 486,
+            "visible_text_elements": 40,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 3,
+            "images_count": 20,
+            "contact_action": true,
+            "form_count": 2,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.podnikani.cz/30123445/residence-josefov-sro/"
+        },
+        "objective_issues": [
+          {
+            "issue": "Measured mobile horizontal overflow",
+            "detail": "486 CSS pixels",
+            "method": "Playwright viewport 390px",
+            "url": "https://www.podnikani.cz/30123445/residence-josefov-sro/"
+          }
+        ],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30123445",
+          "date": "2026-10-08",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Residence Josefov s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Dušní 928, Praha, 11000.",
+          "An independently identity-matched business website was found: https://www.podnikani.cz/30123445/residence-josefov-sro/.",
+          "ARES confirms registration for IČO 30123445 dated 2026-10-08.",
+          "Browser-observed issue: Measured mobile horizontal overflow."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Show a measured measured mobile horizontal overflow fix in a private demo, and ask if improving enquiries is a priority.",
+        "observed_issues": [
+          {
+            "issue": "Measured mobile horizontal overflow",
+            "detail": "486 CSS pixels",
+            "method": "Playwright viewport 390px",
+            "url": "https://www.podnikani.cz/30123445/residence-josefov-sro/"
+          }
+        ],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30123445",
+            "date": "2026-10-08",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30123445",
+          "https://www.podnikani.cz/30123445/residence-josefov-sro/"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "JANA FÁBRY PAYNE",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30123445",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30123445/residence-josefov-sro/",
+        "https://www.podnikani.cz/30123445/residence-josefov-sro/",
+        "https://rejstrik-firem.kurzy.cz/30123445/residence-josefov-sro/zivnosti/",
+        "https://www.epoptavka.cz/",
+        "https://www.poptavka.net/",
+        "https://profi-firmy.cz/",
+        "https://msp.gov.cz/"
+      ],
+      "website_need_verified": true,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [
+          "info@aliaweb.cz"
+        ],
+        "phones": [],
+        "source": "https://www.podnikani.cz/30123445/residence-josefov-sro/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
       "owner_verified": false,
       "buyer_interest_verified": false
     }
