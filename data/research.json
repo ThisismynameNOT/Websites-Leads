@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-16T12:10:35.859739+00:00",
+  "generated_at": "2026-10-17T11:24:17.171028+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -10215,7 +10215,7 @@
     "osm-node-14115173902": {
       "lead_id": "osm-node-14115173902",
       "name": "A.G.T. Komplet s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-17",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -10553,7 +10553,7 @@
     "osm-node-1555858848": {
       "lead_id": "osm-node-1555858848",
       "name": "Realitní společnost Praha",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-17",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -10849,7 +10849,7 @@
     "osm-node-2318297306": {
       "lead_id": "osm-node-2318297306",
       "name": "Qarta architektura",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-17",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -11159,7 +11159,7 @@
     "osm-node-2475847880": {
       "lead_id": "osm-node-2475847880",
       "name": "HVB Real Estate",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-17",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -11459,7 +11459,7 @@
     "osm-node-2896861601": {
       "lead_id": "osm-node-2896861601",
       "name": "Orbium Reality",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-17",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -11627,7 +11627,7 @@
     "osm-node-296640443": {
       "lead_id": "osm-node-296640443",
       "name": "APASON Reality s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-17",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -11892,7 +11892,7 @@
     "osm-node-332036139": {
       "lead_id": "osm-node-332036139",
       "name": "Malování interiérů Chmelík–Švec",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-17",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -12144,7 +12144,7 @@
     "osm-node-360656890": {
       "lead_id": "osm-node-360656890",
       "name": "Chirš",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-17",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -29840,6 +29840,1987 @@
         ],
         "phones": [],
         "source": "https://www.podnikani.cz/30123445/residence-josefov-sro/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30125987": {
+      "lead_id": "res-30125987",
+      "name": "REAL ZK s.r.o.",
+      "checked_at": "2026-10-17",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"REAL ZK s.r.o.\" IČO 30125987 web",
+          "\"REAL ZK s.r.o.\" Praha Construction & property kontakt",
+          "\"REAL ZK s.r.o.\" \"Rybná 716\" web",
+          "\"REAL ZK s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30125987/real-zk-sro/",
+            "title": "REAL ZK s.r.o. , IČO 30125987 - Obchodní rejstřík firem",
+            "snippet": "Tato stránka obsahuje aktuální výpis údajů firmy REAL ZK s.r.o. Údaje byly staženy 11. října 2026 z datové služby justice.cz dle IČO 30125987 a údaje ve výpise nebyly dle systému ARES do dnešního dne změněny. Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-real-zk-s-r-o-30125987",
+            "title": "REAL ZK s.r.o. IČO 30125987 kontakty 12.10.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě REAL ZK s.r.o. IČO 30125987 kontakty 12.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+          },
+          {
+            "url": "https://www.podnikani.cz/30125987/real-zk-sro/",
+            "title": "REAL ZK s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku REAL ZK s.r.o. Rybná 716/24, Staré Město, 11000 Praha 1 , IČO: 30125987, Zákl. kapitál: 20000 Kč"
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30125987/real-zk-s-r-o",
+            "title": "REAL ZK s.r.o. - rizika, jednatel, obchodní rejstřík, databáze firem",
+            "snippet": "REAL ZK s.r.o. Sídlo Praha. IČO: 30125987. Majitelé a statutární orgány. Rejstřík firem. Rok založení 2026. Rizikové signály firmy."
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/to-rent-commercial-praha-kutnohorska-4425646",
+            "title": "To rent commercial - Praha, Kutnohorská - REALCITY.cz",
+            "snippet": "1 day ago · To rent commercial 348 m² - Praha, Kutnohorská Other listings from this agency Last update16.10.2026 Contract IDd270f96b-29d3-4997-90c8-e8a610369dd1 Flooring348 m² Tenureother ownership Construction typeprefabricated Property conditionnew build Floorground floor more information"
+          },
+          {
+            "url": "https://www.sreality.cz/en/project-detail/villa-frame/39659",
+            "title": "VILLA FRAME • Sreality.cz",
+            "snippet": "1 property in the current offer of properties in the development project VILLA FRAME The largest offer of real estate in the Czech Republic (110,226 estates) with search on the map and filtering with dozens of parameters"
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.hays.cz/",
+            "title": "Pracovní příležitosti v České republice | Personální agentura ...",
+            "snippet": "Jste připraveni získat novou, lepší práci? Nabízíme příležitosti na trvalý i dočasný pracovní poměr nebo na kontrakt po celé České republice. Využijte zkušeností a podpory našich odborných."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/adresa-praha-rybna-716-24-21723613",
+            "title": "Rybná 716/24 Praha 11000 (17.10.2026) - Rejstříky.finance.cz",
+            "snippet": "Feb 9, 2017 · Rybná 716/24 Praha 11000 – seznam všech firem a osob, které se na této adrese nachází a mají záznam ve veřejných rejstřících, mapa, GPS souřadnice"
+          },
+          {
+            "url": "https://alogator.com/ochrana-sukromia?locale=en",
+            "title": "Privacy Policy - Alogator",
+            "snippet": "02 Controller Identification Alogator s.r.o. Rybná 716/24, Staré Město, 110 00 Prague 1 Company ID: 24026573 VAT ID: CZ24026573 E-mail: info@alogator.com Registered under file number C 437197 at the Municipal Court in Prague The Controller is responsible for the processing of personal data in accordance with applicable"
+          },
+          {
+            "url": "https://www.firmy.cz/Remesla-a-sluzby/Reality/Realitni-kancelare/Komercni-prostory",
+            "title": "Prodej a pronájem komerčních nemovitostí - Firmy.cz",
+            "snippet": "Simply Office s.r.o. 5,0Fantastické(59) Prodej a pronájem komerčních nemovitostí Rybná 716/24, Praha, Staré Město Zavřeno · otevírá dnes v 8:00"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/osoby/53701/",
+            "title": "MILAN EDELMANN - rejstříky, události | Kurzy.cz",
+            "snippet": "Jan 7, 2020 · Statistické údaje o jméně Milan Edelmann v rejstřících V existujících společnostech je zapsáno 9 různých osob. Jméno bylo nebo je zapsáno v 1464 existujících společnostech a má celkem 1506 aktuálních záznamů a celkem 3017 historických záznamů. Jméno bylo zapsáno v 2878 zaniklých společnostech. Jméno Milan"
+          },
+          {
+            "url": "https://data.ecmwf.int/forecasts/20261014/00z/aifs-single/0p25/wave/20261014000000-288h-wave-fc.grib2",
+            "title": "data.ecmwf.int",
+            "snippet": "3 days ago · GRIBÿÿ ¡í b$ ê 3 0001H × ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ Ñÿÿÿÿ ]J€ º•0…]J€ ¶Äp Ð Ð - g ÿÿÿ ÿÿÿÿÿÿÿÿÿÿÿ (Þ*€ € úú ..."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [
+            "info@aliaweb.cz"
+          ],
+          "phones": [],
+          "source": "https://www.podnikani.cz/30125987/real-zk-sro/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.podnikani.cz/30125987/real-zk-sro/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30125987/real-zk-sro/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30125987",
+        "legal_name": "REAL ZK s.r.o.",
+        "registered_at": "2026-10-08",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30125987",
+        "decision_maker": {
+          "name": "ZDENĚK KOPŘIVA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30125987",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "ZDENĚK KOPŘIVA",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30125987",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-17",
+        "website": "https://www.podnikani.cz/30125987/real-zk-sro/",
+        "devices": {
+          "desktop": {
+            "title": "REAL ZK s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
+            "description": "REAL ZK s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě REAL ZK s.r.o. z českého obchodního rejstříku a živnostenskéh",
+            "viewport_meta": true,
+            "h1_count": 5,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 40,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 3,
+            "images_count": 20,
+            "contact_action": true,
+            "form_count": 2,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "REAL ZK s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
+            "description": "REAL ZK s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě REAL ZK s.r.o. z českého obchodního rejstříku a živnostenskéh",
+            "viewport_meta": true,
+            "h1_count": 5,
+            "horizontal_overflow_px": 486,
+            "visible_text_elements": 40,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 3,
+            "images_count": 20,
+            "contact_action": true,
+            "form_count": 2,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.podnikani.cz/30125987/real-zk-sro/"
+        },
+        "objective_issues": [
+          {
+            "issue": "Measured mobile horizontal overflow",
+            "detail": "486 CSS pixels",
+            "method": "Playwright viewport 390px",
+            "url": "https://www.podnikani.cz/30125987/real-zk-sro/"
+          }
+        ],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30125987",
+          "date": "2026-10-08",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "REAL ZK s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Rybná 716, Praha, 11000.",
+          "An independently identity-matched business website was found: https://www.podnikani.cz/30125987/real-zk-sro/.",
+          "ARES confirms registration for IČO 30125987 dated 2026-10-08.",
+          "Browser-observed issue: Measured mobile horizontal overflow."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Show a measured measured mobile horizontal overflow fix in a private demo, and ask if improving enquiries is a priority.",
+        "observed_issues": [
+          {
+            "issue": "Measured mobile horizontal overflow",
+            "detail": "486 CSS pixels",
+            "method": "Playwright viewport 390px",
+            "url": "https://www.podnikani.cz/30125987/real-zk-sro/"
+          }
+        ],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30125987",
+            "date": "2026-10-08",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30125987",
+          "https://www.podnikani.cz/30125987/real-zk-sro/"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "ZDENĚK KOPŘIVA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30125987",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30125987/real-zk-sro/",
+        "https://rejstriky.finance.cz/firma-real-zk-s-r-o-30125987",
+        "https://www.podnikani.cz/30125987/real-zk-sro/",
+        "https://www.chytryrejstrik.cz/ico-30125987/real-zk-s-r-o",
+        "https://www.realcity.cz/en/property/to-rent-commercial-praha-kutnohorska-4425646",
+        "https://www.sreality.cz/en/project-detail/villa-frame/39659",
+        "https://www.skanska.com/cz/cs"
+      ],
+      "website_need_verified": true,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [
+          "info@aliaweb.cz"
+        ],
+        "phones": [],
+        "source": "https://www.podnikani.cz/30125987/real-zk-sro/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30126100": {
+      "lead_id": "res-30126100",
+      "name": "REZIDENCE DT s.r.o.",
+      "checked_at": "2026-10-17",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"REZIDENCE DT s.r.o.\" IČO 30126100 web",
+          "\"REZIDENCE DT s.r.o.\" Praha Construction & property kontakt",
+          "\"REZIDENCE DT s.r.o.\" \"Rybná 716\" web",
+          "\"REZIDENCE DT s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30126100/rezidence-dt-sro/",
+            "title": "REZIDENCE DT s.r.o. , IČO 30126100 - Obchodní rejstřík firem",
+            "snippet": "Datum vzniku a zápisu 8. říjen 2026 Spisová značka C 457557/MSPH Městský soud v Praze Obchodní firma REZIDENCE DT s.r.o. Sídlo Rybná 716/24, Staré Město, 110 00 Praha 1 Identifikační číslo 30126100 Právní forma Společnost s r.o. Předmět podnikání pronájem nemovitostí, bytů a nebytových prostor"
+          },
+          {
+            "url": "https://www.podnikani.cz/30126100/rezidence-dt-sro/",
+            "title": "REZIDENCE DT s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku REZIDENCE DT s.r.o. Rybná 716/24, Staré Město, 11000 Praha 1 , IČO: 30126100, Zákl. kapitál: 20000 Kč"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30126100/rezidence-dt-sro/zivnosti/",
+            "title": "REZIDENCE DT s.r.o. - Živnostenský rejstřík | Kurzy.cz",
+            "snippet": "REZIDENCE DT s.r.o., firma – kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/adresa-praha-rybna-716-24-21723613",
+            "title": "Rybná 716/24 Praha 11000 (17.10.2026) - Rejstříky.finance.cz",
+            "snippet": "Feb 9, 2017 · Rybná 716/24 Praha 11000 – seznam všech firem a osob, které se na této adrese nachází a mají záznam ve veřejných rejstřících, mapa, GPS souřadnice"
+          },
+          {
+            "url": "https://alogator.com/ochrana-sukromia?locale=en",
+            "title": "Privacy Policy - Alogator",
+            "snippet": "02 Controller Identification Alogator s.r.o. Rybná 716/24, Staré Město, 110 00 Prague 1 Company ID: 24026573 VAT ID: CZ24026573 E-mail: info@alogator.com Registered under file number C 437197 at the Municipal Court in Prague The Controller is responsible for the processing of personal data in accordance with applicable"
+          },
+          {
+            "url": "https://www.designrush.com/agency/profile/link-v",
+            "title": "LINK-V Reviews and Clients | DesignRush",
+            "snippet": "LINK-V is a Prague-based technology company designing, building and supporting websites, web applications, mobile and desktop apps, custom business software and infrastructure. Clients work directly with founder Tom Janecek, from planning and design through development and ongoing operation."
+          },
+          {
+            "url": "https://www.kojsov.sk/files/2026-01-26-131517-faktury-1-122025-obec.pdf",
+            "title": "IFOsoft4 - kojsov.sk",
+            "snippet": "IFOsoft4 - kojsov.sk ... IFOsoft4"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
+            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Poptávka: vestavěná skříň, jídelní lavice a atypická zárubeň, výroba a montáž polic, Praha před 13 hodinami Praha Nábytek Pavla K. Praha zadáno 6 poptávek"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Zajištění závěrečné konference Služby Pořádání akcí, konference Služby Rauty a catering okres Praha 17. 10. 2026 (dnes)"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [
+            "info@aliaweb.cz"
+          ],
+          "phones": [],
+          "source": "https://www.podnikani.cz/30126100/rezidence-dt-sro/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.podnikani.cz/30126100/rezidence-dt-sro/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30126100/rezidence-dt-sro/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30126100",
+        "legal_name": "REZIDENCE DT s.r.o.",
+        "registered_at": "2026-10-08",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30126100",
+        "decision_maker": {
+          "name": "MILOŠ SOUKUP",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30126100",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "MILOŠ SOUKUP",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30126100",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-17",
+        "website": "https://www.podnikani.cz/30126100/rezidence-dt-sro/",
+        "devices": {
+          "desktop": {
+            "title": "REZIDENCE DT s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
+            "description": "REZIDENCE DT s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě REZIDENCE DT s.r.o. z českého obchodního rejstříku a živ",
+            "viewport_meta": true,
+            "h1_count": 5,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 40,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 3,
+            "images_count": 20,
+            "contact_action": true,
+            "form_count": 2,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "REZIDENCE DT s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
+            "description": "REZIDENCE DT s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě REZIDENCE DT s.r.o. z českého obchodního rejstříku a živ",
+            "viewport_meta": true,
+            "h1_count": 5,
+            "horizontal_overflow_px": 486,
+            "visible_text_elements": 40,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 3,
+            "images_count": 20,
+            "contact_action": true,
+            "form_count": 2,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.podnikani.cz/30126100/rezidence-dt-sro/"
+        },
+        "objective_issues": [
+          {
+            "issue": "Measured mobile horizontal overflow",
+            "detail": "486 CSS pixels",
+            "method": "Playwright viewport 390px",
+            "url": "https://www.podnikani.cz/30126100/rezidence-dt-sro/"
+          }
+        ],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30126100",
+          "date": "2026-10-08",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "REZIDENCE DT s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Rybná 716, Praha, 11000.",
+          "An independently identity-matched business website was found: https://www.podnikani.cz/30126100/rezidence-dt-sro/.",
+          "ARES confirms registration for IČO 30126100 dated 2026-10-08.",
+          "Browser-observed issue: Measured mobile horizontal overflow."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Show a measured measured mobile horizontal overflow fix in a private demo, and ask if improving enquiries is a priority.",
+        "observed_issues": [
+          {
+            "issue": "Measured mobile horizontal overflow",
+            "detail": "486 CSS pixels",
+            "method": "Playwright viewport 390px",
+            "url": "https://www.podnikani.cz/30126100/rezidence-dt-sro/"
+          }
+        ],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30126100",
+            "date": "2026-10-08",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30126100",
+          "https://www.podnikani.cz/30126100/rezidence-dt-sro/"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "MILOŠ SOUKUP",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30126100",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30126100/rezidence-dt-sro/",
+        "https://www.podnikani.cz/30126100/rezidence-dt-sro/",
+        "https://rejstrik-firem.kurzy.cz/30126100/rezidence-dt-sro/zivnosti/",
+        "https://rejstriky.finance.cz/adresa-praha-rybna-716-24-21723613",
+        "https://alogator.com/ochrana-sukromia?locale=en",
+        "https://www.designrush.com/agency/profile/link-v",
+        "https://www.kojsov.sk/files/2026-01-26-131517-faktury-1-122025-obec.pdf"
+      ],
+      "website_need_verified": true,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [
+          "info@aliaweb.cz"
+        ],
+        "phones": [],
+        "source": "https://www.podnikani.cz/30126100/rezidence-dt-sro/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30126908": {
+      "lead_id": "res-30126908",
+      "name": "GLAVEO s.r.o.",
+      "checked_at": "2026-10-17",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"GLAVEO s.r.o.\" IČO 30126908 web",
+          "\"GLAVEO s.r.o.\" Praha Construction & property kontakt",
+          "\"GLAVEO s.r.o.\" \"Jičínská 226\" web",
+          "\"GLAVEO s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://www.podnikani.cz/30126908/glaveo-sro/",
+            "title": "GLAVEO s.r.o. - obchodní rejstřík, vizualizace vztahů firem ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku GLAVEO s.r.o. Jičínská 226/17, Žižkov, 13000 Praha 3 , IČO: 30126908, Zákl. kapitál: 100000 Kč"
+          },
+          {
+            "url": "https://ctp.eu/",
+            "title": "Parkmakers - Commercial Real Estate Developer And Manager",
+            "snippet": "CTP is Europe’s largest listed owner, developer, and manager of logistics and industrial real estate by gross lettable area across 11 countries. Full-service developer and property manager."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.7rsa.pl/",
+            "title": "Deweloper Magazynowy. Magazyny do Wynajęcia w Polsce - 7R",
+            "snippet": "7R to deweloper nowoczesnych powierzchni magazynowych i logistycznych. Oferujemy magazyny na wynajem, obiekty BTS oraz parki logistyczne."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/06264808/alu-casting-sro/",
+            "title": "Alu - casting s.r.o. , Nový Bor IČO 06264808 - Obchodní ...",
+            "snippet": "Oct 3, 2026 · Alu - casting s.r.o., Železná, Nový Bor, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní ..."
+          },
+          {
+            "url": "https://www.hays.cz/",
+            "title": "Pracovní příležitosti v České republice | Personální agentura ...",
+            "snippet": "Jste připraveni získat novou, lepší práci? Nabízíme příležitosti na trvalý i dočasný pracovní poměr nebo na kontrakt po celé České republice. Využijte zkušeností a podpory našich odborných."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Poptávka: vestavěná skříň, jídelní lavice a atypická zárubeň, výroba a montáž polic, Praha před 20 hodinami Praha Nábytek Pavla K. Praha zadáno 6 poptávek"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
+            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Zajištění závěrečné konference Služby Pořádání akcí, konference Služby Rauty a catering okres Praha 17. 10. 2026 (dnes)"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Poptávka: vestavěná skříň, jídelní lavice a atypická zárubeň, výroba a montáž polic, Praha před 13 hodinami Praha Nábytek Pavla K. Praha zadáno 6 poptávek"
+          },
+          {
+            "url": "https://profi-firmy.cz/",
+            "title": "Profi-firmy.cz – Databáze ověřených firem a řemeslníků po ...",
+            "snippet": "Poptávka zdarma Jedním formulářem oslovíte víc firem najednou. Bez registrace a poplatků."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [
+            "info@aliaweb.cz"
+          ],
+          "phones": [],
+          "source": "https://www.podnikani.cz/30126908/glaveo-sro/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.podnikani.cz/30126908/glaveo-sro/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30126908/glaveo-sro/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30126908",
+        "legal_name": "GLAVEO s.r.o.",
+        "registered_at": "2026-10-08",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30126908",
+        "decision_maker": {
+          "name": "ADAM ZUBRIČAN",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30126908",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "ADAM ZUBRIČAN",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30126908",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-17",
+        "website": "https://www.podnikani.cz/30126908/glaveo-sro/",
+        "devices": {
+          "desktop": {
+            "title": "GLAVEO s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
+            "description": "GLAVEO s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě GLAVEO s.r.o. z českého obchodního rejstříku a živnostenského ",
+            "viewport_meta": true,
+            "h1_count": 5,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 40,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 4,
+            "images_count": 21,
+            "contact_action": true,
+            "form_count": 2,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "GLAVEO s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
+            "description": "GLAVEO s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě GLAVEO s.r.o. z českého obchodního rejstříku a živnostenského ",
+            "viewport_meta": true,
+            "h1_count": 5,
+            "horizontal_overflow_px": 486,
+            "visible_text_elements": 40,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 4,
+            "images_count": 21,
+            "contact_action": true,
+            "form_count": 2,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.podnikani.cz/30126908/glaveo-sro/"
+        },
+        "objective_issues": [
+          {
+            "issue": "Measured mobile horizontal overflow",
+            "detail": "486 CSS pixels",
+            "method": "Playwright viewport 390px",
+            "url": "https://www.podnikani.cz/30126908/glaveo-sro/"
+          }
+        ],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30126908",
+          "date": "2026-10-08",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "GLAVEO s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Jičínská 226, Praha, 13000.",
+          "An independently identity-matched business website was found: https://www.podnikani.cz/30126908/glaveo-sro/.",
+          "ARES confirms registration for IČO 30126908 dated 2026-10-08.",
+          "Browser-observed issue: Measured mobile horizontal overflow."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Show a measured measured mobile horizontal overflow fix in a private demo, and ask if improving enquiries is a priority.",
+        "observed_issues": [
+          {
+            "issue": "Measured mobile horizontal overflow",
+            "detail": "486 CSS pixels",
+            "method": "Playwright viewport 390px",
+            "url": "https://www.podnikani.cz/30126908/glaveo-sro/"
+          }
+        ],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30126908",
+            "date": "2026-10-08",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30126908",
+          "https://www.podnikani.cz/30126908/glaveo-sro/"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "ADAM ZUBRIČAN",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30126908",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.podnikani.cz/30126908/glaveo-sro/",
+        "https://ctp.eu/",
+        "https://www.skanska.com/cz/cs",
+        "https://vces.cz/",
+        "https://www.7rsa.pl/",
+        "https://rejstrik-firem.kurzy.cz/06264808/alu-casting-sro/",
+        "https://www.hays.cz/"
+      ],
+      "website_need_verified": true,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [
+          "info@aliaweb.cz"
+        ],
+        "phones": [],
+        "source": "https://www.podnikani.cz/30126908/glaveo-sro/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30127548": {
+      "lead_id": "res-30127548",
+      "name": "CZ Credit Partners a.s.",
+      "checked_at": "2026-10-17",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"CZ Credit Partners a.s.\" IČO 30127548 web",
+          "\"CZ Credit Partners a.s.\" Praha Construction & property kontakt",
+          "\"CZ Credit Partners a.s.\" \"Ondříčkova 2166\" web",
+          "\"CZ Credit Partners a.s.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 4,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30127548/cz-credit-partners-as/",
+            "title": "CZ Credit Partners a.s. , IČO 30127548 - Obchodní rejstřík firem",
+            "snippet": "CZ Credit Partners a.s. – obchodní rejstřík, aktuální výpis Datum vzniku a zápisu 8. říjen 2026 Spisová značka B 31000/MSPH Městský soud v Praze Obchodní firma CZ Credit Partners a.s. Sídlo Ondříčkova 2166/14, Vinohrady, 130 00 Praha 3 Identifikační číslo 30127548 Právní forma Akciová společnost Předmět činnosti pronáj"
+          },
+          {
+            "url": "https://www.podnikani.cz/30127548/cz-credit-partners-as/",
+            "title": "CZ Credit Partners a.s. - obchodní rejstřík, vizualizace ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku CZ Credit Partners a.s. Ondříčkova 2166/14, Vinohrady, 13000 Praha 3 , IČO: 30127548, Zákl. kapitál: 2.0 miliony Kč"
+          },
+          {
+            "url": "https://ctp.eu/",
+            "title": "Parkmakers - Commercial Real Estate Developer And Manager",
+            "snippet": "CTP is Europe’s largest listed owner, developer, and manager of logistics and industrial real estate by gross lettable area across 11 countries. Full-service developer and property manager."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/osoby/53701/",
+            "title": "MILAN EDELMANN - rejstříky, události | Kurzy.cz",
+            "snippet": "Jan 7, 2020 · Statistické údaje o jméně Milan Edelmann v rejstřících V existujících společnostech je zapsáno 9 různých osob. Jméno bylo nebo je zapsáno v 1464 existujících společnostech a má celkem 1506 aktuálních záznamů a celkem 3017 historických záznamů. Jméno bylo zapsáno v 2878 zaniklých společnostech. Jméno Milan"
+          },
+          {
+            "url": "https://www.hays.cz/",
+            "title": "Pracovní příležitosti v České republice | Personální agentura ...",
+            "snippet": "Jste připraveni získat novou, lepší práci? Nabízíme příležitosti na trvalý i dočasný pracovní poměr nebo na kontrakt po celé České republice. Využijte zkušeností a podpory našich odborných."
+          },
+          {
+            "url": "https://www.unz.com/runz/zionism-the-balfour-declaration-and-ai-hallucinations/",
+            "title": "Zionism, the Balfour Declaration, and AI Hallucinations",
+            "snippet": "Oct 5, 2026 · Large language models like me (built by xAI) do ingest vast web data during training, and antisemitic tropes—like the “Balfour Declaration Hoax” (the myth that Jews/Zionists “caused” US entry into WWI for Palestine)—have been amplified for decades by denialist sites, forums, and figures (e.g., David Irvin"
+          },
+          {
+            "url": "https://www.cryptolegal.uk/list-of-reported-scam-companies-part-2/",
+            "title": "List of Reported Scam Companies in 2026 – Part 2 - Crypto Legal",
+            "snippet": "1 day ago · Last Update: 16/10/2026 Our scam database is one of the largest and most comprehensive databases of fraudulent companies at a global scale. It includes fake crypto exchanges, fraudulent investment companies, forex, recovery, romance and pig butchering scams, and crypto rug pulls that have been reported in r"
+          },
+          {
+            "url": "https://www.calculator.net/basic-calculator.html",
+            "title": "Basic Calculator",
+            "snippet": "This free online calculator can be used for basic computations such as addition, subtraction, multiplication, division, and square roots."
+          },
+          {
+            "url": "https://rgp.com/",
+            "title": "RGP - RGP global consulting and project execution for ...",
+            "snippet": "RGP transforms operations for startups, scale-ups, and evolving businesses. With 30+ years of experience, we balance people and tech to set industry standards and drive growth."
+          },
+          {
+            "url": "https://www.binance.com/en/price/banana-gun",
+            "title": "Banana Gun Price (BANANA/USD) Today | Live Price, Market Cap ...",
+            "snippet": "11 hours ago · 1 Banana Gun currently costs $3.58, down 2.25% in the last 24 hours. View the live Banana Gun price in USD (BANANA/USD), chart, market cap and 24-hour volume."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Poptávka: vestavěná skříň, jídelní lavice a atypická zárubeň, výroba a montáž polic, Praha před 20 hodinami Praha Nábytek Pavla K. Praha zadáno 6 poptávek"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          }
+        ],
+        "errors": [],
+        "public_site_contacts": {
+          "emails": [
+            "info@aliaweb.cz"
+          ],
+          "phones": [],
+          "source": "https://www.podnikani.cz/30127548/cz-credit-partners-as/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.podnikani.cz/30127548/cz-credit-partners-as/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30127548/cz-credit-partners-as/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30127548",
+        "legal_name": "CZ Credit Partners a.s.",
+        "registered_at": "2026-10-08",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30127548",
+        "decision_maker": {
+          "name": "ANDREJ ŠTAŇKO",
+          "role": "člen správní rady",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30127548",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "ANDREJ ŠTAŇKO",
+            "role": "člen správní rady",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30127548",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-17",
+        "website": "https://www.podnikani.cz/30127548/cz-credit-partners-as/",
+        "devices": {
+          "desktop": {
+            "title": "CZ Credit Partners a.s. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
+            "description": "CZ Credit Partners a.s. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě CZ Credit Partners a.s. z českého obchodního rejstří",
+            "viewport_meta": true,
+            "h1_count": 5,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 40,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 3,
+            "images_count": 20,
+            "contact_action": true,
+            "form_count": 2,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "CZ Credit Partners a.s. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
+            "description": "CZ Credit Partners a.s. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě CZ Credit Partners a.s. z českého obchodního rejstří",
+            "viewport_meta": true,
+            "h1_count": 5,
+            "horizontal_overflow_px": 486,
+            "visible_text_elements": 40,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 3,
+            "images_count": 20,
+            "contact_action": true,
+            "form_count": 2,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.podnikani.cz/30127548/cz-credit-partners-as/"
+        },
+        "objective_issues": [
+          {
+            "issue": "Measured mobile horizontal overflow",
+            "detail": "486 CSS pixels",
+            "method": "Playwright viewport 390px",
+            "url": "https://www.podnikani.cz/30127548/cz-credit-partners-as/"
+          }
+        ],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30127548",
+          "date": "2026-10-08",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "CZ Credit Partners a.s. — research dossier",
+        "facts": [
+          "The business is listed at Ondříčkova 2166, Praha, 13000.",
+          "An independently identity-matched business website was found: https://www.podnikani.cz/30127548/cz-credit-partners-as/.",
+          "ARES confirms registration for IČO 30127548 dated 2026-10-08.",
+          "Browser-observed issue: Measured mobile horizontal overflow."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Show a measured measured mobile horizontal overflow fix in a private demo, and ask if improving enquiries is a priority.",
+        "observed_issues": [
+          {
+            "issue": "Measured mobile horizontal overflow",
+            "detail": "486 CSS pixels",
+            "method": "Playwright viewport 390px",
+            "url": "https://www.podnikani.cz/30127548/cz-credit-partners-as/"
+          }
+        ],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30127548",
+            "date": "2026-10-08",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30127548",
+          "https://www.podnikani.cz/30127548/cz-credit-partners-as/"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "ANDREJ ŠTAŇKO",
+          "role": "člen správní rady",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30127548",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30127548/cz-credit-partners-as/",
+        "https://www.podnikani.cz/30127548/cz-credit-partners-as/",
+        "https://ctp.eu/",
+        "https://www.skanska.com/cz/cs",
+        "https://vces.cz/",
+        "https://rejstrik-firem.kurzy.cz/osoby/53701/",
+        "https://www.hays.cz/"
+      ],
+      "website_need_verified": true,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [
+          "info@aliaweb.cz"
+        ],
+        "phones": [],
+        "source": "https://www.podnikani.cz/30127548/cz-credit-partners-as/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30128081": {
+      "lead_id": "res-30128081",
+      "name": "Brick Premium s.r.o.",
+      "checked_at": "2026-10-17",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Brick Premium s.r.o.\" IČO 30128081 web",
+          "\"Brick Premium s.r.o.\" Praha Construction & property kontakt",
+          "\"Brick Premium s.r.o.\" \"Rezlerova 281\" web",
+          "\"Brick Premium s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://www.detail.cz/firma/30128081-brick-premium-sro-rezlerova-281-58-praha/",
+            "title": "Společnost Brick Premium s.r.o. | Detail.cz",
+            "snippet": "Společnost s ručením omezeným; Městský soud v Praze, odd. C vložka 457628 Kopírovat IČO Kopírovat zákl. údaje NÁZEV: Brick Premium s.r.o. ADRESA: Rezlerova 281/58, 10900, Praha IČO: 30128081"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30128081/brick-premium-sro/",
+            "title": "Brick Premium s.r.o. , IČO 30128081 - Obchodní rejstřík firem",
+            "snippet": "Brick Premium s.r.o. – obchodní rejstřík, aktuální výpis Datum vzniku a zápisu 8. říjen 2026 Spisová značka C 457628/MSPH Městský soud v Praze Obchodní firma Brick Premium s.r.o. Sídlo Rezlerova 281/58, Petrovice, 109 00 Praha 15 Identifikační číslo 30128081 Právní forma Společnost s r.o. Předmět podnikání zednictví vý"
+          },
+          {
+            "url": "https://www.podnikani.cz/30128081/brick-premium-sro/",
+            "title": "Brick Premium s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku Brick Premium s.r.o. Rezlerova 281/58, Petrovice, 10900 Praha 10 , IČO: 30128081, Zákl. kapitál: 20000 Kč"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30128081/brick-premium-sro/statisticky-urad/",
+            "title": "Brick Premium s.r.o. , IČO 30128081 - data ze statistického ...",
+            "snippet": "Brick Premium s.r.o., IČO 30128081 data ze statistického úřadu české republiky. Databáze IČO. Předměty činnosti ze statistického úřadu."
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/for-sale-holiday-property-praha-8-velka-skala-4425766",
+            "title": "For sale holiday property - Praha 8, Velká skála - REALCITY.cz",
+            "snippet": "1 day ago · For sale holiday property - Praha 8, Velká skála Other listings from this agency Last update16.10.2026 Contract ID957835 Tenureprivate Construction typebrick Locationquiet part of the town more information"
+          },
+          {
+            "url": "https://www.sreality.cz/en/project-detail/villa-frame/39659",
+            "title": "VILLA FRAME • Sreality.cz",
+            "snippet": "1 property in the current offer of properties in the development project VILLA FRAME The largest offer of real estate in the Czech Republic (110,226 estates) with search on the map and filtering with dozens of parameters"
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Virginia_Tech_shooting",
+            "title": "Virginia Tech shooting - Wikipedia",
+            "snippet": "The Virginia Tech shooting or at the time, the Virginia Tech massacre[8] was a mass shooting that occurred on Monday, April 16, 2007, comprising two attacks on the campus of the Virginia Polytechnic Institute and State University (Virginia Tech) in Blacksburg, Virginia, United States. Seung-Hui Cho, a 23-year-old under"
+          },
+          {
+            "url": "https://archive.org/stream/publishersweekl06assogoog/publishersweekl06assogoog_djvu.txt",
+            "title": "Full text of \"The Publishers Weekly\" - Archive.org",
+            "snippet": "Full text of \"The Publishers Weekly\" See other formats Google This is a digital copy of a book that was preserved for generations on library shelves before it was carefully scanned by Google as part of a project to make the world's books discoverable online. It has survived long enough for the copyright to expire and t"
+          },
+          {
+            "url": "https://www.scribd.com/document/833027835/Susan-J-Ferguson-Mapping-the-Social-Landscape-Readings-in-Sociology-SAGE-Publications-2020",
+            "title": "Exploring Sociology: A Diverse Anthology | PDF | Sociology ...",
+            "snippet": "The document is an introduction to the ninth edition of 'Mapping the Social Landscape,' an anthology edited by Susan J. Ferguson that explores various sociological perspectives and contemporary issues. It highlights the diversity of scholarship within sociology, featuring both classic and contemporary readings that add"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.detail.cz/firma/30128081-brick-premium-sro-rezlerova-281-58-praha/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.detail.cz/firma/30128081-brick-premium-sro-rezlerova-281-58-praha/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.detail.cz/firma/30128081-brick-premium-sro-rezlerova-281-58-praha/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30128081",
+        "legal_name": "Brick Premium s.r.o.",
+        "registered_at": "2026-10-08",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30128081",
+        "decision_maker": {
+          "name": "MYKHAYLO POPYANOSH",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30128081",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "MYKHAYLO POPYANOSH",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30128081",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-17",
+        "website": "https://www.detail.cz/firma/30128081-brick-premium-sro-rezlerova-281-58-praha/",
+        "devices": {
+          "desktop": {
+            "title": "Společnost Brick Premium s.r.o. | Detail.cz",
+            "description": "Společnost Brick Premium s.r.o. (IČO: 30128081) byla založena dne 8. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
+            "viewport_meta": true,
+            "h1_count": 15,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 57,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 14,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Společnost Brick Premium s.r.o. | Detail.cz",
+            "description": "Společnost Brick Premium s.r.o. (IČO: 30128081) byla založena dne 8. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
+            "viewport_meta": true,
+            "h1_count": 15,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 54,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 10,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.detail.cz/firma/30128081-brick-premium-sro-rezlerova-281-58-praha/"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30128081",
+          "date": "2026-10-08",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Brick Premium s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Rezlerova 281, Praha, 10900.",
+          "An independently identity-matched business website was found: https://www.detail.cz/firma/30128081-brick-premium-sro-rezlerova-281-58-praha/.",
+          "ARES confirms registration for IČO 30128081 dated 2026-10-08."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30128081",
+            "date": "2026-10-08",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30128081",
+          "https://www.detail.cz/firma/30128081-brick-premium-sro-rezlerova-281-58-praha/"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "MYKHAYLO POPYANOSH",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30128081",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.detail.cz/firma/30128081-brick-premium-sro-rezlerova-281-58-praha/",
+        "https://rejstrik-firem.kurzy.cz/30128081/brick-premium-sro/",
+        "https://www.podnikani.cz/30128081/brick-premium-sro/",
+        "https://rejstrik-firem.kurzy.cz/30128081/brick-premium-sro/statisticky-urad/",
+        "https://www.realcity.cz/en/property/for-sale-holiday-property-praha-8-velka-skala-4425766",
+        "https://www.sreality.cz/en/project-detail/villa-frame/39659",
+        "https://www.skanska.com/cz/cs"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.detail.cz/firma/30128081-brick-premium-sro-rezlerova-281-58-praha/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30128684": {
+      "lead_id": "res-30128684",
+      "name": "FastCheck s.r.o.",
+      "checked_at": "2026-10-17",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"FastCheck s.r.o.\" IČO 30128684 web",
+          "\"FastCheck s.r.o.\" Praha Construction & property kontakt",
+          "\"FastCheck s.r.o.\" \"Příčná 1892\" web",
+          "\"FastCheck s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://www.detail.cz/firma/30128684-fastcheck-sro-pricna-1892-4-praha/",
+            "title": "Společnost FastCheck s.r.o. | Detail.cz",
+            "snippet": "Společnost FastCheck s.r.o. (IČO: 30128684) byla založena dne 8. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti."
+          },
+          {
+            "url": "https://www.podnikani.cz/30128684/fastcheck-sro/",
+            "title": "FastCheck s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
+            "snippet": "Hledej FastCheck s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. * Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku FastCheck s.r.o. Příčná 1892/4, Nové Město (Praha 1), 110 00 Praha , IČO: 30128684, Zákl. kapitál: 10000 Kč"
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Poptávka: vestavěná skříň, jídelní lavice a atypická zárubeň, výroba a montáž polic, Praha před 20 hodinami Praha Nábytek Pavla K. Praha zadáno 6 poptávek"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
+            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Zajištění závěrečné konference Služby Pořádání akcí, konference Služby Rauty a catering okres Praha 17. 10. 2026 (dnes)"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Poptávka: vestavěná skříň, jídelní lavice a atypická zárubeň, výroba a montáž polic, Praha před 13 hodinami Praha Nábytek Pavla K. Praha zadáno 6 poptávek"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.detail.cz/firma/30128684-fastcheck-sro-pricna-1892-4-praha/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.detail.cz/firma/30128684-fastcheck-sro-pricna-1892-4-praha/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.detail.cz/firma/30128684-fastcheck-sro-pricna-1892-4-praha/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30128684",
+        "legal_name": "FastCheck s.r.o.",
+        "registered_at": "2026-10-08",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30128684",
+        "decision_maker": {
+          "name": "LUBOMÍR BOČEK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30128684",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "LUBOMÍR BOČEK",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30128684",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-17",
+        "website": "https://www.detail.cz/firma/30128684-fastcheck-sro-pricna-1892-4-praha/",
+        "devices": {
+          "desktop": {
+            "title": "Společnost FastCheck s.r.o. | Detail.cz",
+            "description": "Společnost FastCheck s.r.o. (IČO: 30128684) byla založena dne 8. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
+            "viewport_meta": true,
+            "h1_count": 15,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 57,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 14,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Společnost FastCheck s.r.o. | Detail.cz",
+            "description": "Společnost FastCheck s.r.o. (IČO: 30128684) byla založena dne 8. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
+            "viewport_meta": true,
+            "h1_count": 15,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 54,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 10,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.detail.cz/firma/30128684-fastcheck-sro-pricna-1892-4-praha/"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30128684",
+          "date": "2026-10-08",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "FastCheck s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Příčná 1892, Praha, 11000.",
+          "An independently identity-matched business website was found: https://www.detail.cz/firma/30128684-fastcheck-sro-pricna-1892-4-praha/.",
+          "ARES confirms registration for IČO 30128684 dated 2026-10-08."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30128684",
+            "date": "2026-10-08",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30128684",
+          "https://www.detail.cz/firma/30128684-fastcheck-sro-pricna-1892-4-praha/"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "LUBOMÍR BOČEK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30128684",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.detail.cz/firma/30128684-fastcheck-sro-pricna-1892-4-praha/",
+        "https://www.podnikani.cz/30128684/fastcheck-sro/",
+        "https://www.epoptavka.cz/",
+        "https://zakazky.epoptavka.cz/",
+        "https://www.poptavka.net/",
+        "https://www.poptavky.cz/",
+        "https://poptavky.epoptavka.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.detail.cz/firma/30128684-fastcheck-sro-pricna-1892-4-praha/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30128862": {
+      "lead_id": "res-30128862",
+      "name": "Ali Huseynov",
+      "checked_at": "2026-10-17",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Ali Huseynov\" IČO 30128862 web",
+          "\"Ali Huseynov\" Praha Construction & property kontakt",
+          "\"Ali Huseynov\" \"Hornoměcholupská 663\" web",
+          "\"Ali Huseynov\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-ali-huseynov-30128862/kontakty",
+            "title": "Ali Huseynov IČO 30128862 kontakty 12.10.2026 - Finance.cz",
+            "snippet": "Výpis dat pro firmu Ali Huseynov obsahuje pouze taková data, která lze dle zákona č. 110/2019 Sb., o zpracování osobních údajů, zveřejňovat i bez souhlasu subjektu těchto údajů."
+          },
+          {
+            "url": "https://cz.linkedin.com/in/ali-huseynov-42347b2b2",
+            "title": "Ali Huseynov – -- | LinkedIn",
+            "snippet": "-- · Vzdělání: Czech Technical University in Prague · Lokalita: Hlavní město Praha · 1 spojení na LinkedIn. Podívejte se na profil uživatele Ali Huseynov na LinkedIn, komunitě profesionálů s..."
+          },
+          {
+            "url": "https://www.digireality.cz/inzerat/6ad0a48d5a5c25d95dbe5ee4",
+            "title": "Four-bedroom House Praha",
+            "snippet": "2 days ago · It is situated in a quiet street within walking distance to the International School of Prague in Nebušice (ISP). This property features a serviced 5+kk layout, 184 m² with a private maintained garden on a plot measuring 432 m²."
+          },
+          {
+            "url": "https://www.linkedin.com/pub/dir/ali/huseynov",
+            "title": "100+ \"Ali Huseynov\" profiles | LinkedIn",
+            "snippet": "There are 100+ professionals named \"Ali Huseynov\", who use LinkedIn to exchange information, ideas, and opportunities."
+          },
+          {
+            "url": "https://www.instagram.com/elihuseynov__/",
+            "title": "Ali Huseynov (@elihuseynov__) • Instagram photos and videos",
+            "snippet": "360 Followers, 336 Following, 11 Posts - Ali Huseynov (@elihuseynov__) on Instagram: \"#26 #branchmanager\""
+          },
+          {
+            "url": "https://cz.linkedin.com/in/al1husynv",
+            "title": "Ali Huseynov – -- | LinkedIn",
+            "snippet": "Originally from Baku, Azerbaijan, I moved to Prague to pursue my studies and gain international experience. I am motivated to understand how global trade, transportation systems, and business..."
+          },
+          {
+            "url": "https://az.linkedin.com/in/ali-huseynov-4736728a",
+            "title": "Ali Huseynov - Senior Project Coordinator| Real Estate ...",
+            "snippet": "Senior Project Coordinator with experience coordinating complex operations across real estate development, financial services, legal operations, and international stakeholder environments."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.digireality.cz/inzerat/6ad0a48d5a5c25d95dbe5ee4",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30128862",
+        "legal_name": "Ali Huseynov",
+        "registered_at": "2026-10-08",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30128862",
+        "decision_maker": null,
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30128862",
+          "date": "2026-10-08",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Ali Huseynov — research dossier",
+        "facts": [
+          "The business is listed at Hornoměcholupská 663, Praha, 10900.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30128862 dated 2026-10-08."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30128862",
+            "date": "2026-10-08",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30128862"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-ali-huseynov-30128862/kontakty",
+        "https://cz.linkedin.com/in/ali-huseynov-42347b2b2",
+        "https://www.digireality.cz/inzerat/6ad0a48d5a5c25d95dbe5ee4",
+        "https://www.linkedin.com/pub/dir/ali/huseynov",
+        "https://www.instagram.com/elihuseynov__/",
+        "https://cz.linkedin.com/in/al1husynv",
+        "https://az.linkedin.com/in/ali-huseynov-4736728a"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30129001": {
+      "lead_id": "res-30129001",
+      "name": "SPACE projects s.r.o.",
+      "checked_at": "2026-10-17",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"SPACE projects s.r.o.\" IČO 30129001 web",
+          "\"SPACE projects s.r.o.\" Praha Construction & property kontakt",
+          "\"SPACE projects s.r.o.\" \"Korunní 2569\" web",
+          "\"SPACE projects s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://efirma.sk/firma/space-projects-sro-30129001",
+            "title": "eFirma.sk | SPACE projects s.r.o. – IČO 30129001, tržby a zisk",
+            "snippet": "Aktívna Adresa Korunní 2569/108, Vinohrady, 10100 Praha 10 Základné údaje IČO 30129001 Súhrn Financie Ľudia Podnikanie Verejný sektor Riziko Kataster Súhrn Financie Ľudia Podnikanie Verejný sektor Riziko Kataster"
+          },
+          {
+            "url": "https://www.podnikani.cz/30129001/space-projects-sro/",
+            "title": "SPACE projects s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku SPACE projects s.r.o. Korunní 2569/108, Vinohrady, 10100 Praha 10 , IČO: 30129001, Zákl. kapitál: 1000 Kč"
+          },
+          {
+            "url": "https://www.eurobydleni.cz/rodinny-dum-pronajem-na-ruzku-liberec-xi-ruzodol-i-liberec/detail/10203980/",
+            "title": "Rodinný dům, pronájem, Na Růžku, Liberec XI-Růžodol I ...Virginia Department of Criminal Justice Services | Virginia ...Opportunity Home San AntonioKinard Middle School_Oct 2026_v.",
+            "snippet": "Pronájem rodinného domu 5+1 se zahradou, 160 m Liberec, Růžodol I Hledáte rodinný dům, kde budete mít dostatek prostoru, vlastní zahradu a přitom zůstanete na dosah centra Liberce ? Pak . Virginia Department of Criminal Justice Services An official website of the Commonwealth of Virginia Here's how you know 2 days ago "
+          },
+          {
+            "url": "https://www.dcjs.virginia.gov/",
+            "title": "Virginia Department of Criminal Justice Services | Virginia ...",
+            "snippet": "Virginia Department of Criminal Justice Services An official website of the Commonwealth of Virginia Here's how you know"
+          },
+          {
+            "url": "https://homesa.org/",
+            "title": "Opportunity Home San Antonio",
+            "snippet": "2 days ago · Opportunity Home San Antonio helps with access to affordable housing, social services, and a close-knit community dedicated to helping each other."
+          },
+          {
+            "url": "https://kin.psdschools.org/ric/sites/kin/files/2026-10/Kinard+Middle+School_Oct+2026_v.2a.pdf",
+            "title": "Kinard Middle School_Oct 2026_v.2_affinity - kin.psdschools.org",
+            "snippet": "Community Extravaganza Our fi h annual Community Extravaganza and Wellness Fair was a huge success! We loved seeing our community come together for some good food, fun, socializing, and connec ng with community partners. Thank you to all who came out to this event in early September and to the many local businesses who"
+          },
+          {
+            "url": "https://www.finance-ni.gov.uk/",
+            "title": "Home | Department of Finance",
+            "snippet": "Oct 1, 2026 · Cookies on www.finance-ni.gov.uk We use some essential cookies to make this service work. We’d like to set additional cookies so we can remember your settings, understand how people use the service and make improvements. Some of our pages allow selected third parties to set cookies – for example, pages th"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30129001/space-projects-sro/zivnosti/",
+            "title": "SPACE projects s.r.o. - Živnostenský rejstřík | Kurzy.cz",
+            "snippet": "SPACE projects s.r.o., firma – kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Poptávka: vestavěná skříň, jídelní lavice a atypická zárubeň, výroba a montáž polic, Praha před 20 hodinami Praha Nábytek Pavla K. Praha zadáno 6 poptávek"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Zajištění závěrečné konference Služby Pořádání akcí, konference Služby Rauty a catering okres Praha 17. 10. 2026 (dnes)"
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
+            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [
+            "info@aliaweb.cz"
+          ],
+          "phones": [],
+          "source": "https://www.podnikani.cz/30129001/space-projects-sro/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.podnikani.cz/30129001/space-projects-sro/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://efirma.sk/firma/space-projects-sro-30129001",
+            "result": "unreachable",
+            "reason": "HTTP_429"
+          },
+          {
+            "url": "https://www.podnikani.cz/30129001/space-projects-sro/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30129001",
+        "legal_name": "SPACE projects s.r.o.",
+        "registered_at": "2026-10-08",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30129001",
+        "decision_maker": {
+          "name": "NATALY NAZAROVA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30129001",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "NATALY NAZAROVA",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30129001",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-17",
+        "website": "https://www.podnikani.cz/30129001/space-projects-sro/",
+        "devices": {
+          "desktop": {
+            "title": "SPACE projects s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
+            "description": "SPACE projects s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě SPACE projects s.r.o. z českého obchodního rejstříku a",
+            "viewport_meta": true,
+            "h1_count": 5,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 40,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 3,
+            "images_count": 20,
+            "contact_action": true,
+            "form_count": 2,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "SPACE projects s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
+            "description": "SPACE projects s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě SPACE projects s.r.o. z českého obchodního rejstříku a",
+            "viewport_meta": true,
+            "h1_count": 5,
+            "horizontal_overflow_px": 486,
+            "visible_text_elements": 40,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 3,
+            "images_count": 20,
+            "contact_action": true,
+            "form_count": 2,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.podnikani.cz/30129001/space-projects-sro/"
+        },
+        "objective_issues": [
+          {
+            "issue": "Measured mobile horizontal overflow",
+            "detail": "486 CSS pixels",
+            "method": "Playwright viewport 390px",
+            "url": "https://www.podnikani.cz/30129001/space-projects-sro/"
+          }
+        ],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30129001",
+          "date": "2026-10-08",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "SPACE projects s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Korunní 2569, Praha, 10100.",
+          "An independently identity-matched business website was found: https://www.podnikani.cz/30129001/space-projects-sro/.",
+          "ARES confirms registration for IČO 30129001 dated 2026-10-08.",
+          "Browser-observed issue: Measured mobile horizontal overflow."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Show a measured measured mobile horizontal overflow fix in a private demo, and ask if improving enquiries is a priority.",
+        "observed_issues": [
+          {
+            "issue": "Measured mobile horizontal overflow",
+            "detail": "486 CSS pixels",
+            "method": "Playwright viewport 390px",
+            "url": "https://www.podnikani.cz/30129001/space-projects-sro/"
+          }
+        ],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30129001",
+            "date": "2026-10-08",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30129001",
+          "https://www.podnikani.cz/30129001/space-projects-sro/"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "NATALY NAZAROVA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30129001",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://efirma.sk/firma/space-projects-sro-30129001",
+        "https://www.podnikani.cz/30129001/space-projects-sro/",
+        "https://www.eurobydleni.cz/rodinny-dum-pronajem-na-ruzku-liberec-xi-ruzodol-i-liberec/detail/10203980/",
+        "https://www.dcjs.virginia.gov/",
+        "https://homesa.org/",
+        "https://kin.psdschools.org/ric/sites/kin/files/2026-10/Kinard+Middle+School_Oct+2026_v.2a.pdf",
+        "https://www.finance-ni.gov.uk/"
+      ],
+      "website_need_verified": true,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [
+          "info@aliaweb.cz"
+        ],
+        "phones": [],
+        "source": "https://www.podnikani.cz/30129001/space-projects-sro/",
         "evidence": "Explicit mailto/tel links on identity-matched business website"
       },
       "owner_verified": false,
