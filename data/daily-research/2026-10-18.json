@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "review_date": "2026-10-18",
+  "market": "Czech Republic — Prague priority",
+  "classification": "RESEARCH ONLY — no outreach",
+  "source_policy": "Official Czech Statistical Office RES data catalogue and public commercial-register filings searched. This was targeted discovery, not a complete RES CSV ingest. Public records are not evidence of external customers, available budget, or missing websites.",
+  "registry_snapshot": "Latest explicitly dated open-data catalogue entry located: RES 2026-09-30, published 2026-10-05. 2026-10-15 snapshot publication not verified.",
+  "summary": {
+    "new_entities_screened": 4,
+    "verified_standalone_public_brands": 0,
+    "verified_direct_external_customer_operations": 0,
+    "verified_missing_first_party_sites": 0,
+    "qualified_first_website": 0,
+    "qualified_redesign": 0,
+    "outreach_ready": 0,
+    "corporate_parent_excluded": 1,
+    "research_holds": 3
+  },
+  "records": [
+    {
+      "company": "Build Pact s.r.o.",
+      "ico": "30146771",
+      "registration_date": "2026-10-14",
+      "age_bucket": "0-6 months",
+      "status": "EXCLUDE — confirmed corporate parent",
+      "ownership": "FIRMIN Praha s.r.o., IČO 24209198, 100% shareholder in initial filing",
+      "offer": "Registered construction-related categories; no standalone commercial offering proven",
+      "external_customers_verified": false,
+      "company_public_contact": null,
+      "official_website": "UNKNOWN — not verified",
+      "website_opportunity": "NONE UNDER INDEPENDENCE POLICY",
+      "commercial_capacity_verified": false,
+      "blockers": [
+        "Corporate parent confirmed — hard exclusion"
+      ],
+      "sources": [
+        "https://ov.ihned.cz/zapis/25391659"
+      ]
+    },
+    {
+      "company": "STAVOKONT KV s.r.o.",
+      "ico": "30150981",
+      "registration_date": "2026-10-14",
+      "age_bucket": "0-6 months",
+      "status": "HOLD/QA — not outreach ready",
+      "ownership": "Jan Jedlička listed as 100% individual shareholder/director; this does not establish operational independence",
+      "offer": "Name suggests construction; initial filing lists broad activities, not an attributable marketed service offer",
+      "founder_history": "Matching founder Jan Jedlička appears to operate earlier sole trade IČO 74460854 (registered 2007; active construction-site preparation category). Earlier registration is NOT proof of outside customer projects for either entity.",
+      "external_customers_verified": false,
+      "company_public_contact": null,
+      "official_website": "UNKNOWN — exact-IČO and associated-brand checks inconclusive",
+      "website_opportunity": "Unverified; potential pre-launch service site only if the new company confirms independently marketed operations",
+      "commercial_capacity_verified": false,
+      "blockers": [
+        "No externally attributable projects/contracts",
+        "No company-specific enquiry channel",
+        "No positively verified separate marketed brand",
+        "Exact first-party site status unresolved",
+        "No independent capacity/budget proof",
+        "Prague registered office does not establish operating market"
+      ],
+      "sources": [
+        "https://ov.ihned.cz/zapis/25391528",
+        "https://www.podnikatel.cz/rejstrik/jan-jedlicka-74460854/",
+        "https://www.finmag.cz/obchodni-rejstrik/dph/cz8704179462-jan-jedlicka"
+      ]
+    },
+    {
+      "company": "Autonomia Build s.r.o.",
+      "ico": "30150957",
+      "registration_date": "2026-10-14",
+      "age_bucket": "0-6 months",
+      "status": "HOLD/QA — not outreach ready",
+      "ownership": "Ing. arch. Jan Komrska listed as 100% individual shareholder/director; no corporate parent in initial filing, but market independence not established",
+      "offer": "Construction/design categories licensed; no specific independently marketed customer offer demonstrated",
+      "founder_history": "A sole-trader registration for Ing. arch. Jan Komrska (IČO 13152122) at matching Roztoky address dates from 1990; historical contracts and relationship to new entity unverified. Do not conflate same-name architects from other countries.",
+      "external_customers_verified": false,
+      "company_public_contact": null,
+      "official_website": "UNKNOWN — no attributable company domain established",
+      "website_opportunity": "Unverified; no-site status, buyer need and launch strategy unresolved",
+      "commercial_capacity_verified": false,
+      "blockers": [
+        "No external clients/projects attributable to new entity",
+        "No dedicated company-specific enquiry channel",
+        "No distinct operating brand evidence",
+        "No definitive first-party website check",
+        "No financial capacity evidence"
+      ],
+      "sources": [
+        "https://ov.ihned.cz/zapis/25391658",
+        "https://rejstriky.finance.cz/firma-ing-arch-jan-komrska-13152122/kontakty"
+      ]
+    },
+    {
+      "company": "ROZKLAD s.r.o.",
+      "ico": "30154413",
+      "registration_date": "2026-10-14",
+      "age_bucket": "0-6 months",
+      "status": "HOLD/QA — outside preferred trades and no verified market operations",
+      "ownership": "MgA. Mirko Neckář 100% individual shareholder in initial filing; Tereza Frimlová co-director",
+      "offer": "Mixed licensed food, hospitality, sports, educational and project/design categories; actual brand/service unconfirmed",
+      "external_customers_verified": false,
+      "company_public_contact": null,
+      "official_website": "UNKNOWN",
+      "website_opportunity": "Unverified",
+      "commercial_capacity_verified": false,
+      "blockers": [
+        "No independent customer-facing offering identified",
+        "No verified outside customers",
+        "No dedicated company enquiry channel",
+        "No confirmed domain status",
+        "Sector fit unresolved"
+      ],
+      "sources": [
+        "https://ov.gov.cz/zapis/25390623"
+      ]
+    }
+  ],
+  "historical_cohort": {
+    "window": "2026-10-03 to 2026-10-06",
+    "screened": 24,
+    "verified_standalone_brands": 0,
+    "outreach_ready": 0,
+    "status": "UNCHANGED — all QA/hold/excluded",
+    "no_recommendation_without_new_evidence": [
+      "Orvex Construction",
+      "TMZ Air Solutions",
+      "D&L BUILD MONT",
+      "Lupawood"
+    ],
+    "confirmed_parent_exclusion": "ROBET design Group: 100% Oil Energy-owned",
+    "unresolved_relationships": [
+      "RONDON",
+      "PWB"
+    ]
+  },
+  "validation": {
+    "first_party_website_absence_not_proven": true,
+    "founder_history_not_equivalent_to_new_company_customers": true,
+    "registered_trade_not_equivalent_to_market_offer": true,
+    "claimed_website_prices_or_interest": false
+  },
+  "sources": [
+    "https://csu.gov.cz/produkty/registr-ekonomickych-subjektu-otevrena-data",
+    "https://csu.gov.cz/statistiky-z-registru-ekonomickych-subjektu"
+  ]
+}
