@@ -149,5 +149,27 @@
     "financials": "No independent current liquidity/profit/budget evidence; share capital and old customer job value are not appropriate substitutes.",
     "qualified_outreach": false,
     "status": "HOLD / INACTIVE RESEARCH — NO-GO for sales development"
+  },
+  "go_no_go_2026_10_19": {
+    "decision": "NO_GO_CUSTOM_DEMO_OR_SALES_PITCH_NOW",
+    "research_status": "HOLD/QA — monitor without further speculative production",
+    "scope": "Do not count as approved sales lead or price as booked pipeline.",
+    "evidence_positive": [
+      "Official company filing: IČO 30157587, individual 100% founder, formed 2026-10-15",
+      "Exact owner name and address aligns to older sole trader IČO 08248583",
+      "Founder has one verified independent customer review for Prague 8 plumbing 2025 (prior trade, not s.r.o.)"
+    ],
+    "unresolved": [
+      "No evidence company-specific sales phone/email or independently marketed s.r.o. accepting outside customers",
+      "No first-party website positively attributed; searches/open failures do not prove absence",
+      "No buying interest, website budget or audited technical defect"
+    ],
+    "promotion_trigger": "Only reopen for sales if an attributable direct business contact and independently public marketed operation are discovered and website existence or substantial defect is independently verified.",
+    "outreach_guidance": "Do not use contractor quote platforms for unsolicited web-design offers unless the platform explicitly permits them. Do not solicit through personal contact records.",
+    "sources": [
+      "https://ov.gov.cz/zapis/25396637?query=&resultsPage=106",
+      "https://www.podnikatel.cz/rejstrik/mykhailo-prokop-08248583/",
+      "https://www.nejremeslnici.cz/reference/871870-vymena-stoupacek-v-radovem-dome"
+    ]
   }
 }
