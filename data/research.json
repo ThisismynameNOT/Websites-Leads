@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-18T11:57:29.517651+00:00",
+  "generated_at": "2026-10-19T14:20:51.137676+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -15200,7 +15200,7 @@
     "osm-node-7837764654": {
       "lead_id": "osm-node-7837764654",
       "name": "Ateliér Emil",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-19",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -15493,7 +15493,7 @@
     "osm-node-9920800818": {
       "lead_id": "osm-node-9920800818",
       "name": "Maxxus Realty",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-19",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -15740,7 +15740,7 @@
     "osm-node-9991267555": {
       "lead_id": "osm-node-9991267555",
       "name": "RAMSS spol. s r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-19",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -25202,7 +25202,7 @@
     "osm-node-10994350329": {
       "lead_id": "osm-node-10994350329",
       "name": "Bytcentrum",
-      "checked_at": "2026-10-11",
+      "checked_at": "2026-10-19",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -25502,7 +25502,7 @@
     "osm-node-11225321358": {
       "lead_id": "osm-node-11225321358",
       "name": "Collection MSJ",
-      "checked_at": "2026-10-11",
+      "checked_at": "2026-10-19",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -25769,7 +25769,7 @@
     "osm-node-11227630032": {
       "lead_id": "osm-node-11227630032",
       "name": "Horus Trade",
-      "checked_at": "2026-10-11",
+      "checked_at": "2026-10-19",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -25937,7 +25937,7 @@
     "osm-node-11227630033": {
       "lead_id": "osm-node-11227630033",
       "name": "domark",
-      "checked_at": "2026-10-11",
+      "checked_at": "2026-10-19",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -26105,7 +26105,7 @@
     "osm-node-11750596391": {
       "lead_id": "osm-node-11750596391",
       "name": "Brik kremnica",
-      "checked_at": "2026-10-11",
+      "checked_at": "2026-10-19",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -33771,6 +33771,1672 @@
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
       "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30130948": {
+      "lead_id": "res-30130948",
+      "name": "Rehwaldt Landscape Architects s.r.o.",
+      "checked_at": "2026-10-19",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Rehwaldt Landscape Architects s.r.o.\" IČO 30130948 web",
+          "\"Rehwaldt Landscape Architects s.r.o.\" Praha Construction & property kontakt",
+          "\"Rehwaldt Landscape Architects s.r.o.\" \"Janáčkovo nábřeží 1211\" web",
+          "\"Rehwaldt Landscape Architects s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30130948/rehwaldt-landscape-architects-sro/",
+            "title": "Rehwaldt Landscape Architects s.r.o. , IČO 30130948 - Kurzy.cz",
+            "snippet": "Rehwaldt Landscape Architects s.r.o., , , výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní společnosti ..."
+          },
+          {
+            "url": "https://www.podnikani.cz/30130948/rehwaldt-landscape-architects-sro/",
+            "title": "Rehwaldt Landscape Architects s.r.o. - obchodní rejstřík, vizualizace ...",
+            "snippet": "Rehwaldt Landscape Architects s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku Rehwaldt Landscape Architects s.r.o. Janáčkovo nábřeží 1211/11, Smíchov, 15000 Praha 5 , IČO: 30130948, Zákl. kapitál ..."
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30130948/rehwaldt-landscape-architects-s-r-o",
+            "title": "Rehwaldt Landscape Architects s.r.o. - jednatel, obchodní rejstřík ...",
+            "snippet": "Rehwaldt Landscape Architects s.r.o. Sídlo Praha. IČO: 30130948. Majitelé a statutární orgány. Registr firem. Rok založení 2026. Kontrola rizik firmy."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30130948/rehwaldt-landscape-architects-sro/zivnosti/",
+            "title": "Rehwaldt Landscape Architects s.r.o. - Živnostenský rejstřík",
+            "snippet": "Rehwaldt Landscape Architects s.r.o., firma - kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
+          },
+          {
+            "url": "https://www.sreality.cz/en/project-detail/villa-frame/39659",
+            "title": "VILLA FRAME • Sreality.cz",
+            "snippet": "1 property in the current offer of properties in the development project VILLA FRAME The largest offer of real estate in the Czech Republic (110,226 estates) with search on the map and filtering with dozens of parameters"
+          },
+          {
+            "url": "https://www.generalirealestate.com/",
+            "title": "Home - Generali Real Estate",
+            "snippet": "190 years of experience managing the real estate portfolio of the Generali Group"
+          },
+          {
+            "url": "https://www.generali.com/",
+            "title": "Generali Group",
+            "snippet": "3 days ago · Visit the corporate website of Assicurazioni Generali Group: you can find, in addition to the storytelling on topics of general interest, information about our activities, financial data, news, CSR, career opportunities, and history."
+          },
+          {
+            "url": "https://www.lasalle.com/",
+            "title": "Homepage - LaSalle Investment Management",
+            "snippet": "Discover premier real estate investment opportunities with LaSalle Investment Management. Explore our global portfolio and insights. Investing today. For tomorrow."
+          },
+          {
+            "url": "https://autoservistrnka.cz/sluzba/nase-sluzby/",
+            "title": "Naše služby – TrnCar",
+            "snippet": "Poptávkový formulář Navigace Autoservis Naše služby Reference Kontakty Poptávka Kontaktujte nás autoservis.trnka@email.cz +420 737 650 151 Pod Harfou 3/3, 190 00 Praha"
+          },
+          {
+            "url": "https://rytinafacility.cz/",
+            "title": "RYTINA – Malířské a úklidové služby Praha",
+            "snippet": "Malířské práce a úklidové služby pro domácnosti, firmy a SVJ v Praze a okolí. Malování bytů, kanceláří, společných prostor a profesionální úklid."
+          },
+          {
+            "url": "https://www.luxent.cz/",
+            "title": "Luxent – Realitní kancelář Praha",
+            "snippet": "Prodej a pronájem bytů, luxusních rodinných domů a moderních kanceláří v Praze a okolí od pražské realitní kanceláře Luxent – Exclusive Properties."
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
+            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.chytryrejstrik.cz/ico-30130948/rehwaldt-landscape-architects-s-r-o",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.chytryrejstrik.cz/ico-30130948/rehwaldt-landscape-architects-s-r-o",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30130948/rehwaldt-landscape-architects-sro/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30130948/rehwaldt-landscape-architects-s-r-o",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30130948",
+        "legal_name": "Rehwaldt Landscape Architects s.r.o.",
+        "registered_at": "2026-10-08",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30130948",
+        "decision_maker": {
+          "name": "TILL REHWALDT",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30130948",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "TILL REHWALDT",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30130948",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-19",
+        "website": "https://www.chytryrejstrik.cz/ico-30130948/rehwaldt-landscape-architects-s-r-o",
+        "devices": {
+          "desktop": {
+            "title": "Rehwaldt Landscape Architects s.r.o. - jednatel, obchodní rejstřík, databáze firem",
+            "description": "Rehwaldt Landscape Architects s.r.o. Sídlo Praha. IČO: 30130948. Majitelé a statutární orgány. Registr firem. Rok založení 2026. Kontrola rizik firmy. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 164,
+            "small_text_elements": 2,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 44,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Rehwaldt Landscape Architects s.r.o. - jednatel, obchodní rejstřík, databáze firem",
+            "description": "Rehwaldt Landscape Architects s.r.o. Sídlo Praha. IČO: 30130948. Majitelé a statutární orgány. Registr firem. Rok založení 2026. Kontrola rizik firmy. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 127,
+            "small_text_elements": 8,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 44,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.chytryrejstrik.cz/ico-30130948/rehwaldt-landscape-architects-s-r-o"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30130948",
+          "date": "2026-10-08",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Rehwaldt Landscape Architects s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Janáčkovo nábřeží 1211, Praha, 15000.",
+          "An independently identity-matched business website was found: https://www.chytryrejstrik.cz/ico-30130948/rehwaldt-landscape-architects-s-r-o.",
+          "ARES confirms registration for IČO 30130948 dated 2026-10-08."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30130948",
+            "date": "2026-10-08",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30130948",
+          "https://www.chytryrejstrik.cz/ico-30130948/rehwaldt-landscape-architects-s-r-o"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "TILL REHWALDT",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30130948",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30130948/rehwaldt-landscape-architects-sro/",
+        "https://www.podnikani.cz/30130948/rehwaldt-landscape-architects-sro/",
+        "https://www.chytryrejstrik.cz/ico-30130948/rehwaldt-landscape-architects-s-r-o",
+        "https://rejstrik-firem.kurzy.cz/30130948/rehwaldt-landscape-architects-sro/zivnosti/",
+        "https://www.sreality.cz/en/project-detail/villa-frame/39659",
+        "https://www.generalirealestate.com/",
+        "https://www.generali.com/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.chytryrejstrik.cz/ico-30130948/rehwaldt-landscape-architects-s-r-o",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30131219": {
+      "lead_id": "res-30131219",
+      "name": "ALWI Management s.r.o.",
+      "checked_at": "2026-10-19",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"ALWI Management s.r.o.\" IČO 30131219 web",
+          "\"ALWI Management s.r.o.\" Praha Construction & property kontakt",
+          "\"ALWI Management s.r.o.\" \"Pod Drinopolem 1455\" web",
+          "\"ALWI Management s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://www.detail.cz/firma/30131219-alwi-management-sro-pod-drinopolem-1455-6-praha/",
+            "title": "Společnost ALWI Management s.r.o. | Detail.cz",
+            "snippet": "Společnost ALWI Management s.r.o. (IČO: 30131219) byla založena dne 8. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti."
+          },
+          {
+            "url": "https://www.digireality.cz/inzerat/6ad0a48d5a5c25d95dbe5ee4",
+            "title": "Four-bedroom House Praha",
+            "snippet": "4 days ago · Welcome to a newly built family home with a swimming pool in the sought-after location of Prague 6 - Nebušice. It is situated in a quiet street within walking distance to the International School of Prague in Nebušice (ISP). This property features a serviced 5+kk layout, 184 m² with a private maintained ga"
+          },
+          {
+            "url": "https://www.facebook.com/DaramisGroup/",
+            "title": "Daramis | Prague - FacebookSkupina VCESVILLA FRAME • Sreality.czParkmakers - Commercial Real Estate Developer And ManagerGenerali Group",
+            "snippet": "4 days ago · Daramis, Prague. 5,985 followers · 23 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy. Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republi"
+          },
+          {
+            "url": "https://www.sreality.cz/en/project-detail/villa-frame/39659",
+            "title": "VILLA FRAME • Sreality.cz",
+            "snippet": "1 property in the current offer of properties in the development project VILLA FRAME The largest offer of real estate in the Czech Republic (110,226 estates) with search on the map and filtering with dozens of parameters"
+          },
+          {
+            "url": "https://ctp.eu/",
+            "title": "Parkmakers - Commercial Real Estate Developer And Manager",
+            "snippet": "From landbank to permitting and construction to property management, our full-service business model provides global best practices with local know-how. Manufacturing, logistics, high-tech, automotive, security—our experienced team will custom-design a facility to meet the most demanding requirements."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.generali.com/",
+            "title": "Generali Group",
+            "snippet": "3 days ago · Visit the corporate website of Assicurazioni Generali Group: you can find, in addition to the storytelling on topics of general interest, information about our activities, financial data, news, CSR, career opportunities, and history."
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30131227/alwi-prague-development-s-r-o",
+            "title": "ALWI Prague Development s.r.o. - majitel, obchodní rejstřík ...",
+            "snippet": "Kde sídlí ALWI Prague Development s.r.o. Sídlo firmy je Pod Drinopolem 1455, 16900 Praha."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-alwi-management-s-r-o-30131219",
+            "title": "ALWI Management s.r.o. IČO 30131219 kontakty 12.10.2026 ...",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu ALWI Management s.r.o., která sídlí v obci a bylo jí přiděleno IČO 30131219."
+          },
+          {
+            "url": "https://novostavby.com/property/pod-drinopolem/",
+            "title": "Pod Drinopolem",
+            "snippet": "Developerský projekt Pod Drinopolem od developerské společnosti ️ v lokalitě Břevnov, Praha 6 ️ Nové byty v novostavbě Pod Drinopolem. Stav developerského projektu: V prodeji."
+          },
+          {
+            "url": "https://regiony.kurzy.cz/praha/pod-drinopolem/1455-6/",
+            "title": "Pod Drinopolem 1455/6, Břevnov, 169 00 Praha 6, adresa ...",
+            "snippet": "Dec 16, 1990 · Pod Drinopolem 1455/6, Břevnov, 169 00 Praha 6 - informace o poště a PSČ, údaje z katastru nemovitostí a katastrální mapa, statistické údaje o objektu, GPS pozice pro navigaci, informace o firmách, osobách a živnostech z veřejného rejstříku."
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/osoby/halim-al-azawi-3513178/",
+            "title": "Ing. Halim Al-Azawi, Pod Drinopolem 1455/6 v obchodním ...",
+            "snippet": "Ing. Halim Al-Azawi, Pod Drinopolem 1455/6, Praha, 169 00, Česká republika v obchodním rejstříku. Adresa sídla, pozice ve firmě, vztahy mezi…"
+          },
+          {
+            "url": "https://psn.cz/projekt/pod-drinopolem",
+            "title": "Pod Drinopolem - psn.cz",
+            "snippet": "Komorní projekt s wellness zázemím a citlivě obnovenou architekturou. Byty ve fit-out standardu, sklepní kóje, terasy i tiché společné prostory – to vše v oblíbené rezidenční čtvrti Břevnov."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.detail.cz/firma/30131219-alwi-management-sro-pod-drinopolem-1455-6-praha/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.detail.cz/firma/30131219-alwi-management-sro-pod-drinopolem-1455-6-praha/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.detail.cz/firma/30131219-alwi-management-sro-pod-drinopolem-1455-6-praha/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30131219",
+        "legal_name": "ALWI Management s.r.o.",
+        "registered_at": "2026-10-08",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30131219",
+        "decision_maker": {
+          "name": "PATRIK AL-AZAWI",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30131219",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "PATRIK AL-AZAWI",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30131219",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-19",
+        "website": "https://www.detail.cz/firma/30131219-alwi-management-sro-pod-drinopolem-1455-6-praha/",
+        "devices": {
+          "desktop": {
+            "title": "Společnost ALWI Management s.r.o. | Detail.cz",
+            "description": "Společnost ALWI Management s.r.o. (IČO: 30131219) byla založena dne 8. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
+            "viewport_meta": true,
+            "h1_count": 15,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 57,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 16,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Společnost ALWI Management s.r.o. | Detail.cz",
+            "description": "Společnost ALWI Management s.r.o. (IČO: 30131219) byla založena dne 8. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
+            "viewport_meta": true,
+            "h1_count": 15,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 54,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 10,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.detail.cz/firma/30131219-alwi-management-sro-pod-drinopolem-1455-6-praha/"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30131219",
+          "date": "2026-10-08",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "ALWI Management s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Pod Drinopolem 1455, Praha, 16900.",
+          "An independently identity-matched business website was found: https://www.detail.cz/firma/30131219-alwi-management-sro-pod-drinopolem-1455-6-praha/.",
+          "ARES confirms registration for IČO 30131219 dated 2026-10-08."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30131219",
+            "date": "2026-10-08",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30131219",
+          "https://www.detail.cz/firma/30131219-alwi-management-sro-pod-drinopolem-1455-6-praha/"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "PATRIK AL-AZAWI",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30131219",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.detail.cz/firma/30131219-alwi-management-sro-pod-drinopolem-1455-6-praha/",
+        "https://www.digireality.cz/inzerat/6ad0a48d5a5c25d95dbe5ee4",
+        "https://www.facebook.com/DaramisGroup/",
+        "https://www.sreality.cz/en/project-detail/villa-frame/39659",
+        "https://ctp.eu/",
+        "https://vces.cz/",
+        "https://www.generali.com/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.detail.cz/firma/30131219-alwi-management-sro-pod-drinopolem-1455-6-praha/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30131227": {
+      "lead_id": "res-30131227",
+      "name": "ALWI Prague Development s.r.o.",
+      "checked_at": "2026-10-19",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"ALWI Prague Development s.r.o.\" IČO 30131227 web",
+          "\"ALWI Prague Development s.r.o.\" Praha Construction & property kontakt",
+          "\"ALWI Prague Development s.r.o.\" \"Pod Drinopolem 1455\" web",
+          "\"ALWI Prague Development s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30131227/alwi-prague-development-sro/",
+            "title": "ALWI Prague Development s.r.o. , IČO 30131227 - Obchodní ...",
+            "snippet": "ALWI Prague Development s.r.o., , , výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní společnosti ..."
+          },
+          {
+            "url": "https://www.detail.cz/firma/30131227-alwi-prague-development-sro-pod-drinopolem-1455-6-praha/",
+            "title": "Společnost ALWI Prague Development s.r.o. | Detail.cz",
+            "snippet": "Společnost ALWI Prague Development s.r.o. (IČO: 30131227) byla založena dne 8. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti."
+          },
+          {
+            "url": "https://www.digireality.cz/inzerat/6ad5e6f2415bfb75c4839ff3",
+            "title": "Other commercial property for rent, 162m 2 Praha",
+            "snippet": "14 hours ago · Kontakt a info 6-month rental with the possibility of extension - family house 5+1 (162 sqm) with cellar (32 sqm), parking, and garden (584 sqm). We offer for rent a family house with a layout of 5+1 and a usable area of 162 sqm including a cellar, garden, and the possibility of parking several vehicles "
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/to-rent-commercial-praha-kutnohorska-4425646",
+            "title": "To rent commercial - Praha, Kutnohorská - REALCITY.cz",
+            "snippet": "3 days ago · To rent commercial 348 m² - Praha, Kutnohorská Other listings from this agency Last update16.10.2026 Contract IDd270f96b-29d3-4997-90c8-e8a610369dd1 Flooring348 m² Tenureother ownership Construction typeprefabricated Property conditionnew build Floorground floor more information"
+          },
+          {
+            "url": "https://www.facebook.com/DaramisGroup/",
+            "title": "Daramis | Prague - FacebookParkmakers - Commercial Real Estate Developer And ManagerHome - Generali Real Estate",
+            "snippet": "4 days ago · Daramis, Prague. 5,985 followers · 23 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy. CTP is Europe’s largest listed owner, developer, and manager of logistics and industrial real estate by gross lettable area across 11 countrie"
+          },
+          {
+            "url": "https://ctp.eu/",
+            "title": "Parkmakers - Commercial Real Estate Developer And Manager",
+            "snippet": "CTP is Europe’s largest listed owner, developer, and manager of logistics and industrial real estate by gross lettable area across 11 countries. Full-service developer and property manager."
+          },
+          {
+            "url": "https://www.generalirealestate.com/",
+            "title": "Home - Generali Real Estate",
+            "snippet": "190 years of experience managing the real estate portfolio of the Generali Group"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.detail.cz/firma/30131227-alwi-prague-development-sro-pod-drinopolem-1455-6-praha/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.detail.cz/firma/30131227-alwi-prague-development-sro-pod-drinopolem-1455-6-praha/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.detail.cz/firma/30131227-alwi-prague-development-sro-pod-drinopolem-1455-6-praha/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30131227",
+        "legal_name": "ALWI Prague Development s.r.o.",
+        "registered_at": "2026-10-08",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30131227",
+        "decision_maker": {
+          "name": "PATRIK AL-AZAWI",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30131227",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "PATRIK AL-AZAWI",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30131227",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-19",
+        "website": "https://www.detail.cz/firma/30131227-alwi-prague-development-sro-pod-drinopolem-1455-6-praha/",
+        "devices": {
+          "desktop": {
+            "title": "Společnost ALWI Prague Development s.r.o. | Detail.cz",
+            "description": "Společnost ALWI Prague Development s.r.o. (IČO: 30131227) byla založena dne 8. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
+            "viewport_meta": true,
+            "h1_count": 15,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 57,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 16,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Společnost ALWI Prague Development s.r.o. | Detail.cz",
+            "description": "Společnost ALWI Prague Development s.r.o. (IČO: 30131227) byla založena dne 8. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
+            "viewport_meta": true,
+            "h1_count": 15,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 54,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 10,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.detail.cz/firma/30131227-alwi-prague-development-sro-pod-drinopolem-1455-6-praha/"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30131227",
+          "date": "2026-10-08",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "ALWI Prague Development s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Pod Drinopolem 1455, Praha, 16900.",
+          "An independently identity-matched business website was found: https://www.detail.cz/firma/30131227-alwi-prague-development-sro-pod-drinopolem-1455-6-praha/.",
+          "ARES confirms registration for IČO 30131227 dated 2026-10-08."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30131227",
+            "date": "2026-10-08",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30131227",
+          "https://www.detail.cz/firma/30131227-alwi-prague-development-sro-pod-drinopolem-1455-6-praha/"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "PATRIK AL-AZAWI",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30131227",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30131227/alwi-prague-development-sro/",
+        "https://www.detail.cz/firma/30131227-alwi-prague-development-sro-pod-drinopolem-1455-6-praha/",
+        "https://www.digireality.cz/inzerat/6ad5e6f2415bfb75c4839ff3",
+        "https://www.realcity.cz/en/property/to-rent-commercial-praha-kutnohorska-4425646",
+        "https://www.facebook.com/DaramisGroup/",
+        "https://ctp.eu/",
+        "https://www.generalirealestate.com/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.detail.cz/firma/30131227-alwi-prague-development-sro-pod-drinopolem-1455-6-praha/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30132240": {
+      "lead_id": "res-30132240",
+      "name": "Eco Fleet DDD s.r.o.",
+      "checked_at": "2026-10-19",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Eco Fleet DDD s.r.o.\" IČO 30132240 web",
+          "\"Eco Fleet DDD s.r.o.\" Praha Construction & property kontakt",
+          "\"Eco Fleet DDD s.r.o.\" \"Kurzova 2222\" web",
+          "\"Eco Fleet DDD s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Poptávka: vestavěná skříň, jídelní lavice a atypická zárubeň, výroba a montáž polic, Praha před 2 dny Praha Nábytek Pavla K. Praha zadáno 6 poptávek Zobrazit všechny poptávky +420 251 510 908"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.facebook.com/groups/bydleni.nabidka.poptavka/",
+            "title": "Praha - BYDLENÍ SPOLUBYDLENÍ NABÍDKA , POPTÁVKA - Facebook",
+            "snippet": "14 hours ago · Skupina je určena pro NABÍDKU a POPTÁVKU bydlení či SPOLUBYDLENÍ v Praze a okolí. Skupinu pro Vás dlouhodobě spravuje Smart Homes a Expert Rent V případě..."
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
+            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: výměna akvárií 1000l, Svídnice u Chrudimi Služby Služby Ostatní okres Chrudim 19. 10. 2026 (dnes)"
+          },
+          {
+            "url": "https://profi-firmy.cz/",
+            "title": "Profi-firmy.cz – Databáze ověřených firem a řemeslníků po ...",
+            "snippet": "Poptávka zdarma Jedním formulářem oslovíte víc firem najednou. Bez registrace a poplatků."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://profi-firmy.cz/",
+            "result": "unreachable",
+            "reason": "HTTP_500"
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30132240",
+        "legal_name": "Eco Fleet DDD s.r.o.",
+        "registered_at": "2026-10-09",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132240",
+        "decision_maker": {
+          "name": "LENKA HESSOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132240",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "LENKA HESSOVÁ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132240",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132240",
+          "date": "2026-10-09",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Eco Fleet DDD s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Kurzova 2222, Praha, 15500.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30132240 dated 2026-10-09."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132240",
+            "date": "2026-10-09",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30132240"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "LENKA HESSOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132240",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://dodavatele.epoptavka.cz/",
+        "https://www.epoptavka.cz/",
+        "https://zakazky.epoptavka.cz/",
+        "https://www.facebook.com/groups/bydleni.nabidka.poptavka/",
+        "https://www.poptavka.net/",
+        "https://www.poptavky.cz/",
+        "https://profi-firmy.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30132282": {
+      "lead_id": "res-30132282",
+      "name": "Eco Fleet EEE s.r.o.",
+      "checked_at": "2026-10-19",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Eco Fleet EEE s.r.o.\" IČO 30132282 web",
+          "\"Eco Fleet EEE s.r.o.\" Praha Construction & property kontakt",
+          "\"Eco Fleet EEE s.r.o.\" \"Kurzova 2222\" web",
+          "\"Eco Fleet EEE s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://www.digireality.cz/inzerat/6ad0a48d5a5c25d95dbe5ee4",
+            "title": "Four-bedroom House Praha",
+            "snippet": "4 days ago · Welcome to a newly built family home with a swimming pool in the sought-after location of Prague 6 - Nebušice. It is situated in a quiet street within walking distance to the International School of Prague in Nebušice (ISP). This property features a serviced 5+kk layout, 184 m² with a private maintained ga"
+          },
+          {
+            "url": "https://www.facebook.com/DaramisGroup/",
+            "title": "Daramis | Prague - FacebookVILLA FRAME • Sreality.czLinkedInAKADÉMIA POLICAJNÉHO ZBORU V BRATISLAVEHomepage - LaSalle Investment ManagementSkanska v České republice",
+            "snippet": "4 days ago · Daramis, Prague. 5,985 followers · 23 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy. 1 property in the current offer of properties in the development project VILLA FRAME The largest offer of real estate in the Czech Republic (1"
+          },
+          {
+            "url": "https://www.sreality.cz/en/project-detail/villa-frame/39659",
+            "title": "VILLA FRAME • Sreality.cz",
+            "snippet": "1 property in the current offer of properties in the development project VILLA FRAME The largest offer of real estate in the Czech Republic (110,226 estates) with search on the map and filtering with dozens of parameters"
+          },
+          {
+            "url": "https://proflib.akademiapz.sk/webisnt/fulltext/publikacie/2026/{4C2E6511-DADB-48EB-A91C-B2BB2369832F}.pdf",
+            "title": "AKADÉMIA POLICAJNÉHO ZBORU V BRATISLAVE",
+            "snippet": "Kontaktná adresa Katedra vyšetrovania Akadémia Policajného zboru v Bratislave Sklabinská 1 835 17 Bratislava Slovenská republika"
+          },
+          {
+            "url": "https://www.linkedin.com/search/results/all/",
+            "title": "LinkedIn",
+            "snippet": "We would like to show you a description here but the site won’t allow us."
+          },
+          {
+            "url": "https://www.lasalle.com/",
+            "title": "Homepage - LaSalle Investment Management",
+            "snippet": "Discover premier real estate investment opportunities with LaSalle Investment Management. Explore our global portfolio and insights. Investing today. For tomorrow."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.digireality.cz/inzerat/6ad0a48d5a5c25d95dbe5ee4",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.sreality.cz/en/project-detail/villa-frame/39659",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://proflib.akademiapz.sk/webisnt/fulltext/publikacie/2026/{4C2E6511-DADB-48EB-A91C-B2BB2369832F}.pdf",
+            "result": "unreachable",
+            "reason": "SSLError"
+          },
+          {
+            "url": "https://www.lasalle.com/",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30132282",
+        "legal_name": "Eco Fleet EEE s.r.o.",
+        "registered_at": "2026-10-09",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132282",
+        "decision_maker": {
+          "name": "LENKA HESSOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132282",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "LENKA HESSOVÁ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132282",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132282",
+          "date": "2026-10-09",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Eco Fleet EEE s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Kurzova 2222, Praha, 15500.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30132282 dated 2026-10-09."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132282",
+            "date": "2026-10-09",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30132282"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "LENKA HESSOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132282",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.digireality.cz/inzerat/6ad0a48d5a5c25d95dbe5ee4",
+        "https://www.facebook.com/DaramisGroup/",
+        "https://www.sreality.cz/en/project-detail/villa-frame/39659",
+        "https://proflib.akademiapz.sk/webisnt/fulltext/publikacie/2026/{4C2E6511-DADB-48EB-A91C-B2BB2369832F}.pdf",
+        "https://www.linkedin.com/search/results/all/",
+        "https://www.lasalle.com/",
+        "https://www.skanska.com/cz/cs"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30132541": {
+      "lead_id": "res-30132541",
+      "name": "Mykhailo Arovych",
+      "checked_at": "2026-10-19",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Mykhailo Arovych\" IČO 30132541 web",
+          "\"Mykhailo Arovych\" Praha Construction & property kontakt",
+          "\"Mykhailo Arovych\" \"Děčínská 552\" web",
+          "\"Mykhailo Arovych\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-mykhailo-arovych-30132541/obory-cinnosti",
+            "title": "Mykhailo Arovych IČO 30132541 kontakty 18.10.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Mykhailo Arovych IČO 30132541 kontakty 18.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+          },
+          {
+            "url": "https://www.facebook.com/mykhailo.arovych/",
+            "title": "Mykhailo Arovych (@mykhailo.arovych) - Facebook",
+            "snippet": "Mykhailo Arovych is on Facebook. Join Facebook to connect with Mykhailo Arovych and others you may know. Facebook gives people the power to share and makes the world more open and connected."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30132541",
+        "legal_name": "Mykhailo Arovych",
+        "registered_at": "2026-10-08",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132541",
+        "decision_maker": {
+          "name": "Mykhailo Arovych",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132541",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132541",
+          "date": "2026-10-08",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Mykhailo Arovych — research dossier",
+        "facts": [
+          "The business is listed at Děčínská 552, Praha, 18000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30132541 dated 2026-10-08."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132541",
+            "date": "2026-10-08",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30132541"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Mykhailo Arovych",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132541",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-mykhailo-arovych-30132541/obory-cinnosti",
+        "https://www.facebook.com/mykhailo.arovych/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30132711": {
+      "lead_id": "res-30132711",
+      "name": "Michal Klačko",
+      "checked_at": "2026-10-19",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Michal Klačko\" IČO 30132711 web",
+          "\"Michal Klačko\" Praha Construction & property kontakt",
+          "\"Michal Klačko\" \"Černokostelecká 974\" web",
+          "\"Michal Klačko\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-michal-klacko-30132711/kontakty",
+            "title": "Michal Klačko IČO 30132711 kontakty 18.10.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Michal Klačko IČO 30132711 kontakty 18.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/osoba-michal-klacko",
+            "title": "Michal Klačko informace o Michal Klačko (23.01.2026 ...",
+            "snippet": "Michal Klačko - výpis všech osob se jménem Klačko Michal, které mají záznam ve veřejných rejstřících, IČO, kontakty a další informace"
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/osoba/michal-klacko",
+            "title": "Michal Klačko - obchodní rejstřík - Finmag.cz",
+            "snippet": "Michal Klačko, výpis z obchodního i živnostenského rejstříků. Osoby a firmy - adresy, kontakty. Aktuální i historická data."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/michal-klacko",
+            "title": "Michal Klačko - Obchodní rejstřík | Peníze.cz",
+            "snippet": "Michal Klačko výpis firem z Obchodního rejstříku, IČO firmy, adresa sídla firmy, pozice ve firmě, související firmy, vztahy ve firmách."
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/michal-klacko-04021223/",
+            "title": "Michal Klačko - IČO 04021223 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Podrobnosti o firmě Michal Klačko - IČO 04021223 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/osoby/michal-klacko-2007435/",
+            "title": "Michal Klačko, Ortútska cesta 331/22 v obchodním rejstříku ...",
+            "snippet": "Michal Klačko, Ortútska cesta 331/22, Malachov, 974 05, Slovenská republika v obchodním rejstříku. Adresa sídla, pozice ve firmě, vztahy mezi…"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/zivnostnik/Z2yRpZWYk6Y=",
+            "title": "Michal Klačko okres Hlavní město Praha - Živnostenský ...",
+            "snippet": "Michal Klačko, podnikatel okres Hlavní město Praha – kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-michal-klacko-04021223",
+            "title": "Michal Klačko Praha IČO: 04021223 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Michal Klačko Praha IČO 04021223 kontakty 27.05.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-michal-klacko-04021223/vedeni-firmy",
+            "title": "Michal Klačko Praha IČO: 04021223 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Michal Klačko Praha IČO 04021223 kontakty 11.05.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
+          },
+          {
+            "url": "https://www.mesec.cz/rejstrik-firem/firma-michal-klacko-04021223",
+            "title": "Michal Klačko, IČO: (04021223), výpis z rejstříků firem a ...",
+            "snippet": "Michal Klačko, IČO (04021223), sídlo Praha Základní informace ... Aktuální kontaktní údaje Michal Klačko platný telefon e-mailové adresy webové stránky kontaktní osoby Ukázat vše"
+          },
+          {
+            "url": "https://firmy.euro.cz/subjekt-michal-klacko-04021223",
+            "title": "Michal Klačko IČO: 04021223, Praha, výpis z rejstříku 31.12. ...",
+            "snippet": "Veřejně dostupné informace o firmě Michal Klačko IČO: 04021223 se sídlem Praha, Svitákova"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.mesec.cz/rejstrik-firem/firma-michal-klacko-04021223",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://firmy.euro.cz/subjekt-michal-klacko-04021223",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30132711",
+        "legal_name": "Michal Klačko",
+        "registered_at": "2026-10-08",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132711",
+        "decision_maker": {
+          "name": "Michal Klačko",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132711",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132711",
+          "date": "2026-10-08",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Michal Klačko — research dossier",
+        "facts": [
+          "The business is listed at Černokostelecká 974, Praha, 10000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30132711 dated 2026-10-08."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132711",
+            "date": "2026-10-08",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30132711"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Michal Klačko",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132711",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-michal-klacko-30132711/kontakty",
+        "https://rejstriky.finance.cz/osoba-michal-klacko",
+        "https://www.finmag.cz/obchodni-rejstrik/osoba/michal-klacko",
+        "https://rejstrik.penize.cz/michal-klacko",
+        "https://www.podnikatel.cz/rejstrik/michal-klacko-04021223/",
+        "https://www.podnikatel.cz/rejstrik/osoby/michal-klacko-2007435/",
+        "https://rejstrik-firem.kurzy.cz/zivnostnik/Z2yRpZWYk6Y="
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30132720": {
+      "lead_id": "res-30132720",
+      "name": "PROFFERIDO s.r.o.",
+      "checked_at": "2026-10-19",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"PROFFERIDO s.r.o.\" IČO 30132720 web",
+          "\"PROFFERIDO s.r.o.\" Praha Construction & property kontakt",
+          "\"PROFFERIDO s.r.o.\" \"Chotěšovská 680\" web",
+          "\"PROFFERIDO s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30132720/profferido-sro/",
+            "title": "PROFFERIDO s.r.o. , IČO 30132720 - Obchodní rejstřík firem",
+            "snippet": "PROFFERIDO s.r.o. – obchodní rejstřík, aktuální výpis Datum vzniku a zápisu 9. říjen 2026 Spisová značka C 457720/MSPH Městský soud v Praze Obchodní firma PROFFERIDO s.r.o. Sídlo Chotěšovská 680/1, Letňany, 190 00 Praha 18 Identifikační číslo 30132720 Právní forma Společnost s r.o. Předmět podnikání zprostředkování obc"
+          },
+          {
+            "url": "https://www.podnikani.cz/30132720/profferido-sro/",
+            "title": "PROFFERIDO s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
+            "snippet": "PROFFERIDO s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. Vizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě PROFFERIDO s.r.o. z českého obchodního rejstříku a živnostenského rejstříku v přehledné grafické podobě."
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30132720/profferido-s-r-o",
+            "title": "PROFFERIDO s.r.o. - rizika, jednatel, obchodní rejstřík",
+            "snippet": "PROFFERIDO s.r.o. Sídlo Praha. IČO: 30132720. Majitelé a statutární orgány. Firemní rejstřík. Rok založení 2026. Rizikové signály firmy."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+            "title": "Construction & Property Management s.r.o. , Praha IČO ...",
+            "snippet": "May 12, 2026 · Construction & Property Management s.r.o., Na příkopě, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik ..."
+          },
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles.construction__property_management_sro.1bdc8fee497d5e456c7c635e948146f0.html",
+            "title": "Construction & Property Management s.r.o. Company Profile ...",
+            "snippet": "Construction & Property Management s.r.o. Company Profile | Praha 1 - Nové Město, Hlavní město Praha, Czech Republic | Competitors, Financials & Contacts - Dun & Bradstreet"
+          },
+          {
+            "url": "https://www.propertymaps.cz/cz12/kontakt-sklady",
+            "title": "www.propertymaps.cz",
+            "snippet": "www.propertymaps.cz"
+          },
+          {
+            "url": "https://www.porr.cz/",
+            "title": "PORR - Home of Construction - PORR Česká republika",
+            "snippet": "PORR Česká republika – stavíme budoucnost s respektem k lidem i planetě. Jsme synonymem udržitelného stavebnictví, technologických inovací a férového partnerství. Naše projekty propojují kvalitu s efektivitou a vytvářejí hodnoty, které přetrvají – pro města, komunity i budoucí generace. Vítejte u PORRu v České republic"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
+            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: výměna akvárií 1000l, Svídnice u Chrudimi Služby Služby Ostatní okres Chrudim 19. 10. 2026 (dnes)"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.chytryrejstrik.cz/ico-30132720/profferido-s-r-o",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.chytryrejstrik.cz/ico-30132720/profferido-s-r-o",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30132720/profferido-sro/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30132720/profferido-s-r-o",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30132720",
+        "legal_name": "PROFFERIDO s.r.o.",
+        "registered_at": "2026-10-09",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132720",
+        "decision_maker": {
+          "name": "OLEKSANDR IHOR KOVAL",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132720",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "OLEKSANDR IHOR KOVAL",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132720",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-19",
+        "website": "https://www.chytryrejstrik.cz/ico-30132720/profferido-s-r-o",
+        "devices": {
+          "desktop": {
+            "title": "PROFFERIDO s.r.o. - rizika, jednatel, obchodní rejstřík",
+            "description": "PROFFERIDO s.r.o. Sídlo Praha. IČO: 30132720. Majitelé a statutární orgány. Firemní rejstřík. Rok založení 2026. Rizikové signály firmy. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 164,
+            "small_text_elements": 2,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 44,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "PROFFERIDO s.r.o. - rizika, jednatel, obchodní rejstřík",
+            "description": "PROFFERIDO s.r.o. Sídlo Praha. IČO: 30132720. Majitelé a statutární orgány. Firemní rejstřík. Rok založení 2026. Rizikové signály firmy. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 127,
+            "small_text_elements": 8,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 44,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.chytryrejstrik.cz/ico-30132720/profferido-s-r-o"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132720",
+          "date": "2026-10-09",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "PROFFERIDO s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Chotěšovská 680, Praha, 19000.",
+          "An independently identity-matched business website was found: https://www.chytryrejstrik.cz/ico-30132720/profferido-s-r-o.",
+          "ARES confirms registration for IČO 30132720 dated 2026-10-09."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132720",
+            "date": "2026-10-09",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30132720",
+          "https://www.chytryrejstrik.cz/ico-30132720/profferido-s-r-o"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "OLEKSANDR IHOR KOVAL",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30132720",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30132720/profferido-sro/",
+        "https://www.podnikani.cz/30132720/profferido-sro/",
+        "https://www.chytryrejstrik.cz/ico-30132720/profferido-s-r-o",
+        "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+        "https://www.dnb.com/business-directory/company-profiles.construction__property_management_sro.1bdc8fee497d5e456c7c635e948146f0.html",
+        "https://www.propertymaps.cz/cz12/kontakt-sklady",
+        "https://www.porr.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.chytryrejstrik.cz/ico-30132720/profferido-s-r-o",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
       "owner_verified": false,
       "buyer_interest_verified": false
     }
