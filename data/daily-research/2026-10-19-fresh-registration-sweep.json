@@ -43,6 +43,23 @@
         ],
         "review_date": "2026-10-19",
         "qualifies_both": false
+      },
+      "deep_verification": {
+        "conclusion": "HOLD/QA — experienced architecture founder linked to older company in liquidation; no independently evidenced current outside-customer service/website need",
+        "independent_brand_gate": "NOT PASSED — founder individually owns new s.r.o.; association with older architecture firm not parent control, actual independent new-company market and client projects unproven",
+        "registration_ownership": "Martin Vránek 100% individual shareholder/director, formed 2026-10-15 Prague 3",
+        "owner_business_connection": "Founder Martin Vránek also director/majority shareholder in ACS - Architecture Consulting & Services s.r.o. (IČO 25596501), now in liquidation per ministry public register; court liquidation decision effective 2026-01-14. Relationship may be transition; not confirmed.",
+        "external_customer": "No independently attributable new-company customer contract or architectural portfolio verified; old legal company tenure not client proof",
+        "contact": "New-company direct sales phone/email NOT VERIFIED",
+        "first_party_website": "UNKNOWN — no exact new IČO site attributed, older company aliases unresolved",
+        "website_quality": "No inspected technical flaw",
+        "next_action": "Resolve reason for new entity, any inherited ACS brand/domains and independently marketed customer architecture portfolio; then decide whether website fit exists",
+        "sources": [
+          "https://ov.ihned.cz/zapis/25396763",
+          "https://verejnerejstriky.msp.gov.cz/vypis/374982",
+          "https://www.cka.cz/komora/autorizovani-architekti/seznam-autorizovanych-architektu/?page=209-246"
+        ],
+        "date": "2026-10-19"
       }
     },
     {
@@ -79,6 +96,23 @@
         ],
         "review_date": "2026-10-19",
         "qualifies_both": false
+      },
+      "deep_verification": {
+        "conclusion": "HOLD/QA — strongest founder-level external-customer evidence; new s.r.o. customer/contact/website still unverified",
+        "independent_brand_gate": "NOT PASSED — sole natural-person shareholder, strong founder trade/client history, but no independently marketed s.r.o. sales identity and no new-entity public contact",
+        "registration_ownership": "Mykhailo Prokop is 100% individual owner/director, registered 2026-10-15 in Prague 9; no corporate shareholder listed (not full ultimate control audit)",
+        "owner_business_connection": "Strong name/address/trade match to sole trader Mykhailo Prokop IČO 08248583 (first registered 2019-06-11), independent plumbing/masonry advertisement",
+        "external_customer": "VERIFIED FOUNDER WORK ONLY: NejŘemeslníci verified client review for replacement of pipes in Prague 8, request 2025-04-24; platform shows CZK 145,000 project price; NOT sales/revenue/budget of Miokalfi.Pro and NOT a new-company project",
+        "contact": "Founder sole-trader NejŘemeslníci marketplace enquiry supported; NO company-specific public telephone, email or owned enquiry channel verified for new s.r.o.",
+        "first_party_website": "UNKNOWN / no website attributable to new s.r.o. found in exact IČO/name/founder/alias search; this does NOT establish no site",
+        "website_quality": "No attributable first-party website available for manual inspection; no verified flaw",
+        "next_action": "Identify any new s.r.o. public-facing sales contact or company-linked domain; confirm founder business is transitioning to Miokalfi.Pro and taking independent external commissions; check domain aliases. Only then treat as static-site sale hypothesis.",
+        "sources": [
+          "https://ov.gov.cz/zapis/25396637",
+          "https://www.podnikatel.cz/rejstrik/mykhailo-prokop-08248583/",
+          "https://www.nejremeslnici.cz/reference/871870-vymena-stoupacek-v-radovem-dome"
+        ],
+        "date": "2026-10-19"
       }
     },
     {
@@ -113,6 +147,25 @@
         ],
         "review_date": "2026-10-19",
         "qualifies_both": false
+      },
+      "deep_verification": {
+        "conclusion": "DEPRIORITIZE / NOT A WEBSITE BUYER — existing Abrova-branded career website and founder-controlled web development services already online",
+        "independent_brand_gate": "PARTIAL — new company 50/50 owned by individual founders; Abrova-branded public B2B agency/recruitment website exists; not a verified parent-owned company, but closely associated with founder's Revify s.r.o. (IČO 23002891) and Dapnia Group s.r.o. and related B2B brands",
+        "registration_ownership": "Dominik Pavel Abraham and Denis Pavel Abraham own 50/50 (2026-10-15 Prague 5), with no corporate shareholder in founding register; current ultimate control beyond legal shareholding not audited",
+        "owner_business_connection": "Founder Dominik Pavel Abraham owns Revify s.r.o. IČO 23002891, which provides website/ecommerce/marketing through WebZaDen, EcomLevně and dailyads. First-party legal terms on WebZaDen link those brands to Revify; Abrova career site was redirected from kariera.revifylabs.com to kariera.abrovagroup.com.",
+        "external_customer": "Abrova career site advertises B2B customers and work, without independently attributable completed Abrova s.r.o. client contract; Revify commercial site directly markets outside buyers under legally identified entity.",
+        "contact": "Existing group/associated public sales: info@webzaden.cz, +420 739 628 018 expressly belongs to Revify s.r.o., NOT confirmed contact for Abrova s.r.o.",
+        "first_party_website": "PRESENT as publicly branded business site: https://kariera.abrovagroup.com/ (direct Abrova brand, copyright ©2026 Abrova Group s.r.o., active B2B agency/recruitment offer); does not establish main marketing domain or exact IČO footer, but rules out defensible blanket 'no web presence' classification",
+        "website_quality": "Site retrieved, real sections/navigation/projects/recruitment. No independently observed serious functional/mobile/HTTP problem; no redesign claim.",
+        "next_action": "Remove from no-site and redesign prospecting. Different opportunity class: potential subcontractor/competitor only, not a website-buyer lead; do not falsely classify parent-owned.",
+        "sources": [
+          "https://ov.ihned.cz/zapis/25395988",
+          "https://kariera.abrovagroup.com/",
+          "https://webzaden.cz/cs/obchodni-podminky/",
+          "https://ares.gov.cz/ekonomicke-subjekty/res/23002891",
+          "https://cz.linkedin.com/in/dominik-pavel-abraham-662a861a7"
+        ],
+        "date": "2026-10-19"
       }
     },
     {
@@ -146,6 +199,23 @@
         ],
         "review_date": "2026-10-19",
         "qualifies_both": false
+      },
+      "deep_verification": {
+        "conclusion": "HOLD/QA — relevant founder trade licence dating 2018, but actual new workshop/customers/booking absent",
+        "independent_brand_gate": "NOT PASSED — 50/50 individual shareholders and founder professional authorizations; no verifiable public new-company workshop or booking/sales channel",
+        "registration_ownership": "Filip Janáček and David Doležal each hold 50%, registered 2026-09-25, Praha 3 seat (not proved operating workshop)",
+        "owner_business_connection": "Strong match: founder Filip Janáček sole trader IČO 06824781 at his founding-filing address, vehicle repairs/body repair trades since 2018-01-31; no independently verified finished customer repair",
+        "external_customer": "No attributable completed outside-customer work established for the s.r.o. or its matching founder trade; licence alone insufficient",
+        "contact": "Company-specific phone/email/bookings NOT VERIFIED",
+        "first_party_website": "UNKNOWN — FDF Autoservis exact-IČO domain or alias not attributed. Do not conflate with similarly named Autoservis DDF.",
+        "website_quality": "No attributable website inspected. No functional/mobile/HTTP flaw substantiated.",
+        "next_action": "Identify a real operating workshop/service booking channel for FDF; independently verify customers or jobs; run domain aliases and ownership check prior to selling static site",
+        "sources": [
+          "https://ov.ihned.cz/zapis/25333061",
+          "https://www.podnikatel.cz/rejstrik/filip-janacek-06824781/",
+          "https://www.firmy.cz/neoverena-firma/100083493-filip-janacek-ricany.html"
+        ],
+        "date": "2026-10-19"
       }
     },
     {
@@ -179,6 +249,23 @@
         ],
         "review_date": "2026-10-19",
         "qualifies_both": false
+      },
+      "deep_verification": {
+        "conclusion": "HOLD/QA — established matching-name founder trade in Hlinsko, but independent new-company operations unverified and Prague seat not actual work location",
+        "independent_brand_gate": "NOT PASSED — individually held shareholder registration, founder prior trade credible; s.r.o. direct outside-customer operation unconfirmed",
+        "registration_ownership": "Jaromír Kadlec 100% owner/director of 2026-09-17 Prague 10 registration, director resides Hlinsko",
+        "owner_business_connection": "High-confidence founder identity match to Hlinsko sole trader Jaromír Kadlec IČO 65704738, operating since 1997-04-07 in roof/metal/construction trades; registry address differs, formal owner transition not established",
+        "external_customer": "No individually attributable external contract, independent project review or direct sales evidence verified for the s.r.o.; older sole trader licences/VAT are not proof of clients",
+        "contact": "No company-specific phone/email/enquiry channel positively established",
+        "first_party_website": "UNKNOWN — no exact IČO-owned site identified; search ambiguity around other KA-mont brands unresolved",
+        "website_quality": "No attributable owned site audited or evidenced defect",
+        "next_action": "Confirm real operating territory/workshop, whether long-running Hlinsko business migrated into KA-mont system and company-specific sales, then first-party domain and client reference",
+        "sources": [
+          "https://ov.gov.cz/zapis/25309212",
+          "https://www.podnikatel.cz/rejstrik/jaromir-kadlec-65704738/",
+          "https://www.finmag.cz/obchodni-rejstrik/ares/65704738-jaromir-kadlec"
+        ],
+        "date": "2026-10-19"
       }
     },
     {
@@ -206,6 +293,17 @@
         ],
         "review_date": "2026-10-19",
         "qualifies_both": false
+      },
+      "deep_verification": {
+        "conclusion": "EXCLUDED — founding corporate shareholder LevelBlue, LLC holds 100%; no standalone gate",
+        "independent_brand_gate": "FAIL — 100% subsidiary of LevelBlue LLC",
+        "registration_ownership": "LevelBlue LLC USA 100% founding shareholder 2026-10-15",
+        "first_party_website": "Not relevant after parent exclusion",
+        "website_quality": "Not relevant",
+        "sources": [
+          "https://ov.ihned.cz/zapis/25395982"
+        ],
+        "date": "2026-10-19"
       }
     },
     {
@@ -235,6 +333,18 @@
         ],
         "review_date": "2026-10-19",
         "qualifies_both": false
+      },
+      "deep_verification": {
+        "conclusion": "EXCLUDED — corporate owned ready-made shelf company on shareholder's sale catalogue; not actual demonstrated operating brand",
+        "independent_brand_gate": "FAIL — Společnosti pro Vás SE 100% founding shareholder, listed as shelf/ready-made company for sale",
+        "registration_ownership": "100% Společnosti pro Vás SE IČO 24137154 since 2026-10-13 founding filing",
+        "first_party_website": "Not relevant after corporate ownership/shelf company exclusion",
+        "website_quality": "Not relevant",
+        "sources": [
+          "https://ov.gov.cz/zapis/25386213",
+          "https://www.spolecnostiprovas.cz/en/spv/sro?order=desc&sort=nazev"
+        ],
+        "date": "2026-10-19"
       }
     }
   ],
@@ -272,5 +382,18 @@
       "Do not confuse KA-mont system with other KA-mont/Kavamont/Kapamont operations.",
       "Do not infer absence of website from a fruitless search or inaccessibility."
     ]
+  },
+  "deep_verification_summary": {
+    "reviewed": 7,
+    "new_companies_with_independently_attributed_external_contracts": 0,
+    "founders_with_independently_documented_customer_work": 1,
+    "older_founder_trade_matches": 3,
+    "definite_corporate_exclusions": 2,
+    "existing_branded_websites_identified": 1,
+    "technical_website_flaws_verified": 0,
+    "no_site_assertions_verified": 0,
+    "qualified_two_filter_prospects": 0,
+    "disqualified_from_sales_fit": 1,
+    "qualification_note": "No qualified sales lead. Miokalfi.Pro strongest HOLD due founder customer project; FDF/KA-mont founder trade experience unproven outside customers; MV unresolved; Abrova existing developer website and related brands; LevelBlue/ZELVERON corporate-controlled."
   }
 }
