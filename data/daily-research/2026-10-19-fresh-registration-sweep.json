@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-10-19",
+  "scope": "Prague-first recently registered standalone public-facing brands, 0-6 months",
+  "sources_official": [
+    "https://csu.gov.cz/produkty/registr-ekonomickych-subjektu-otevrena-data",
+    "https://csu.gov.cz/produkty/newsletter-41-kalendarni-tyden-2026"
+  ],
+  "res_snapshot": "2026-10-15 (released 2026-10-16 per ČSÚ newsletter); full CSV not processed",
+  "method": "Targeted indexed commercial-register notices plus registry-derived founder checks and first-party name/IČO/domain searches; direct ARES API and full live browser testing unavailable. Absence of found contact/site is NOT proof of absence.",
+  "records": [
+    {
+      "name": "MV Architecture Engineering s.r.o.",
+      "ico": "30158427",
+      "registered": "2026-10-15",
+      "location": "Praha 3 (registered office only)",
+      "owners": "Martin Vránek: individual shareholder 100%, director",
+      "marketed_offer": "Architecture/building project services suggested by name and licensed construction/project activities; independent public offer not proven",
+      "founder_or_external_customers": "No independently attributable completed projects/contracts verified",
+      "direct_contact": "No company-specific public phone/email found",
+      "first_party_website": "UNKNOWN — first-party ownership and no-site checks unresolved",
+      "status": "HOLD/QA",
+      "blockers": [
+        "public outside-customer project",
+        "company-specific enquiry channel",
+        "independent marketed brand",
+        "operating location beyond registered seat",
+        "associated-brand and website attribution",
+        "current beneficial control",
+        "economic capacity"
+      ],
+      "sources": [
+        "https://ov.ihned.cz/zapis/25396763"
+      ]
+    },
+    {
+      "name": "Miokalfi.Pro s.r.o.",
+      "ico": "30157587",
+      "registered": "2026-10-15",
+      "location": "Praha 9 (registered office only)",
+      "owners": "Mykhailo Prokop: individual shareholder 100%, director",
+      "marketed_offer": "Registered masonry, plumbing/heating and construction activities; active s.r.o. customer-facing offering unverified",
+      "founder_or_external_customers": "Potentially related sole trader Mykhailo Prokop IČO 08248583 (2019; same address; construction/masonry licenses), but matching legal person and external customer projects not independently established",
+      "direct_contact": "No company-specific public phone/email found",
+      "first_party_website": "UNKNOWN — no attributable owned domain demonstrated; failure to find one is not proof of absence",
+      "status": "HOLD/QA",
+      "blockers": [
+        "external customer evidence",
+        "sales contact for new IČO",
+        "founder-to-company relationship and external projects",
+        "first-party alias and domain checks",
+        "full independence/non-SPV confirmation",
+        "economic capacity"
+      ],
+      "sources": [
+        "https://ov.gov.cz/zapis/25396637",
+        "https://www.finmag.cz/obchodni-rejstrik/zivnostensky-rejstrik/08248583-mykhailo-prokop",
+        "https://rejstrik.penize.cz/ares/08248583-mykhailo-prokop"
+      ]
+    },
+    {
+      "name": "Abrova Group s.r.o.",
+      "ico": "30159326",
+      "registered": "2026-10-15",
+      "location": "Praha 5 (registered office only)",
+      "owners": "Dominik Pavel Abraham 50%; Denis Pavel Abraham 50%; both directors in founding filing",
+      "marketed_offer": "Broad construction, media, software, consultancy registrations; particular actual branded offering not demonstrated",
+      "founder_or_external_customers": "No independently documented external customers or contracts verified",
+      "direct_contact": "No company-specific public phone/email found",
+      "first_party_website": "UNKNOWN",
+      "status": "HOLD/QA",
+      "blockers": [
+        "specific independent public brand",
+        "external customer jobs",
+        "public enquiry channel",
+        "actual operational activity",
+        "associated brands/non-captive purpose",
+        "website identity",
+        "capacity"
+      ],
+      "sources": [
+        "https://ov.ihned.cz/zapis/25395988"
+      ]
+    },
+    {
+      "name": "FDF Autoservis s.r.o.",
+      "ico": "30074011",
+      "registered": "2026-09-25",
+      "location": "Praha 3 (registered office; workshop not verified)",
+      "owners": "Filip Janáček 50%; David Doležal 50%; both directors",
+      "marketed_offer": "Motor vehicle repair, bodywork and electrical repair legally licensed; active externally marketed workshop not verified",
+      "founder_or_external_customers": "No independently verified completed external service jobs/contracts for exact new company",
+      "direct_contact": "No company-specific public phone/email independently established",
+      "first_party_website": "UNKNOWN — company/brand and site aliases not positively resolved",
+      "status": "HOLD/QA",
+      "blockers": [
+        "workshop/operating address",
+        "customers and public brand",
+        "dedicated booking/enquiry channel",
+        "domain attribution",
+        "economic capacity"
+      ],
+      "sources": [
+        "https://ov.ihned.cz/zapis/25333061",
+        "https://www.podnikatel.cz/rejstrik/fdf-autoservis-s-r-o-30074011/"
+      ]
+    },
+    {
+      "name": "KA-mont system s.r.o.",
+      "ico": "30044910",
+      "registered": "2026-09-17",
+      "location": "Praha 10 (registered seat; director based Hlinsko)",
+      "owners": "Jaromír Kadlec: individual shareholder 100%, director",
+      "marketed_offer": "Registered roofing, carpentry, metal construction and construction work; public offer not independently established",
+      "founder_or_external_customers": "No attributable outside-customer completed contracts or independently verified founder reference",
+      "direct_contact": "No company-specific public enquiry channel found",
+      "first_party_website": "UNKNOWN",
+      "status": "HOLD/QA",
+      "blockers": [
+        "actual Prague operations",
+        "external projects",
+        "company-specific contact",
+        "site aliases",
+        "beneficial control/non-captive role",
+        "capacity"
+      ],
+      "sources": [
+        "https://ov.ihned.cz/zapis/25309212"
+      ]
+    },
+    {
+      "name": "LevelBlue Czech Republic, s.r.o.",
+      "ico": "30158991",
+      "registered": "2026-10-15",
+      "location": "Praha 4 (registered office)",
+      "owners": "LevelBlue, LLC (USA): 100% corporate shareholder",
+      "marketed_offer": "IT/software activities in filing; irrelevant after corporate control exclusion",
+      "founder_or_external_customers": "Not assessed once parent-control exclusion established",
+      "direct_contact": "Not assessed",
+      "first_party_website": "Not assessed — excluded on independent ownership gate",
+      "status": "EXCLUDED — corporate parent 100%",
+      "blockers": [
+        "100% subsidiary of LevelBlue, LLC"
+      ],
+      "sources": [
+        "https://ov.ihned.cz/zapis/25395982"
+      ]
+    },
+    {
+      "name": "ZELVERON House s.r.o.",
+      "ico": "30119928",
+      "registered": "2026-10-13",
+      "location": "Praha 8 (registered office)",
+      "owners": "Společnosti pro Vás SE (IČO 24137154): 100% corporate shareholder in published filing",
+      "marketed_offer": "Property rental/own-asset management and broad unspecified trades; no autonomous commercial brand evidenced",
+      "founder_or_external_customers": "Not verified",
+      "direct_contact": "Not verified",
+      "first_party_website": "Unknown — exclusion based on corporate ownership not site",
+      "status": "EXCLUDED — corporate shareholder 100%",
+      "blockers": [
+        "corporate-controlled as recorded",
+        "operating purpose/asset nature not established; do not call proven SPV"
+      ],
+      "sources": [
+        "https://ov.gov.cz/zapis/25386213"
+      ]
+    }
+  ],
+  "summary": {
+    "investigated": 7,
+    "outreach_ready": 0,
+    "verified_no_site": 0,
+    "verified_redesign_defects": 0,
+    "hold": 5,
+    "excluded_corporate_control": 2,
+    "independently_verified_new_company_external_clients": 0
+  },
+  "historical_cohort_note": "October 3-6 original 24 remain 0 qualified; do not promote previous holds/exclusions without new affirmative proof",
+  "policy": "No speculative scores, prices, buyer intent or financial evidence. This file is research only; does not grant outreach eligibility."
+}
