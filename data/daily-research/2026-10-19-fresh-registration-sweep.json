@@ -31,7 +31,19 @@
       ],
       "sources": [
         "https://ov.ihned.cz/zapis/25396763"
-      ]
+      ],
+      "two_filter_review": {
+        "filter_1": "HOLD — individual 100% founder, but whether independently markets architectural projects is unknown; prior company ACS - Architecture Consulting & Services s.r.o. (IČO 25596501), linked to same founder, is in liquidation according to current government register; not a parent-company proof",
+        "filter_2": "UNKNOWN — no exact-IČO-owned first-party website attributable and no inspected site defects",
+        "next_check": "Determine new company customer-facing architecture/design services, client projects and independent contact; distinguish from older ACS company and any inherited domain",
+        "additional_sources": [
+          "https://ov.ihned.cz/zapis/25396763",
+          "https://verejnerejstriky.msp.gov.cz/vypis/374982",
+          "https://www.cka.cz/komora/autorizovani-architekti/seznam-autorizovanych-architektu/?page=209-246"
+        ],
+        "review_date": "2026-10-19",
+        "qualifies_both": false
+      }
     },
     {
       "name": "Miokalfi.Pro s.r.o.",
@@ -56,7 +68,18 @@
         "https://ov.gov.cz/zapis/25396637",
         "https://www.finmag.cz/obchodni-rejstrik/zivnostensky-rejstrik/08248583-mykhailo-prokop",
         "https://rejstrik.penize.cz/ares/08248583-mykhailo-prokop"
-      ]
+      ],
+      "two_filter_review": {
+        "filter_1": "HOLD — individual 100% founder; possible same-name/same-address earlier sole trader, but independently marketed s.r.o. services and outside customer intake unverified",
+        "filter_2": "UNKNOWN — no exact-IČO-owned website attributable; absence not conclusively verified; no site defect observed",
+        "next_check": "Confirm new company directly advertises masonry/plumbing to outside customers, identify its own sales contact, resolve founder IČO 08248583 transition, verify associated-domain ownership",
+        "additional_sources": [
+          "https://ov.gov.cz/zapis/25396637",
+          "https://www.podnikatel.cz/rejstrik/mykhailo-prokop-08248583/"
+        ],
+        "review_date": "2026-10-19",
+        "qualifies_both": false
+      }
     },
     {
       "name": "Abrova Group s.r.o.",
@@ -80,7 +103,17 @@
       ],
       "sources": [
         "https://ov.ihned.cz/zapis/25395988"
-      ]
+      ],
+      "two_filter_review": {
+        "filter_1": "HOLD — individual shareholders 50/50 but broad unrelated activities, no independently identifiable active external-customer offer",
+        "filter_2": "UNKNOWN — exact-IČO owned website not attributable, no examined technical defect",
+        "next_check": "Find actual operating brand, products/services for outside customers, company-specific sales channel before website assessment",
+        "additional_sources": [
+          "https://ov.ihned.cz/zapis/25395988"
+        ],
+        "review_date": "2026-10-19",
+        "qualifies_both": false
+      }
     },
     {
       "name": "FDF Autoservis s.r.o.",
@@ -103,7 +136,17 @@
       "sources": [
         "https://ov.ihned.cz/zapis/25333061",
         "https://www.podnikatel.cz/rejstrik/fdf-autoservis-s-r-o-30074011/"
-      ]
+      ],
+      "two_filter_review": {
+        "filter_1": "HOLD — individual shareholders 50/50, licensed auto repair, but no verified public workshop, independent external bookings or new-company customer-facing offer",
+        "filter_2": "UNKNOWN — no exact-IČO-owned site attributable; no defect observed",
+        "next_check": "Verify operating workshop and direct booking/contact, avoid unrelated 'Autoservis DDF' in Všejany; then perform independent domain search",
+        "additional_sources": [
+          "https://ov.ihned.cz/zapis/25333061"
+        ],
+        "review_date": "2026-10-19",
+        "qualifies_both": false
+      }
     },
     {
       "name": "KA-mont system s.r.o.",
@@ -126,7 +169,17 @@
       ],
       "sources": [
         "https://ov.ihned.cz/zapis/25309212"
-      ]
+      ],
+      "two_filter_review": {
+        "filter_1": "HOLD — individual 100% founder and licensed roofing/metalwork; no verified Prague operating workshop, public customers or standalone brand",
+        "filter_2": "UNKNOWN — no attributable first-party site or audited serious problem",
+        "next_check": "Confirm operating region, actual external project/customer-facing services and contact, then domain attribution",
+        "additional_sources": [
+          "https://ov.ihned.cz/zapis/25309212"
+        ],
+        "review_date": "2026-10-19",
+        "qualifies_both": false
+      }
     },
     {
       "name": "LevelBlue Czech Republic, s.r.o.",
@@ -144,7 +197,16 @@
       ],
       "sources": [
         "https://ov.ihned.cz/zapis/25395982"
-      ]
+      ],
+      "two_filter_review": {
+        "filter_1": "FAIL — LevelBlue LLC corporate shareholder 100%, confirmed by founding register",
+        "filter_2": "NOT ASSESSED — hard exclusion on ownership",
+        "additional_sources": [
+          "https://ov.ihned.cz/zapis/25395982"
+        ],
+        "review_date": "2026-10-19",
+        "qualifies_both": false
+      }
     },
     {
       "name": "ZELVERON House s.r.o.",
@@ -163,7 +225,17 @@
       ],
       "sources": [
         "https://ov.gov.cz/zapis/25386213"
-      ]
+      ],
+      "two_filter_review": {
+        "filter_1": "FAIL — Společnosti pro Vás SE corporate shareholder 100%, and exact IČO currently advertised by shareholder's ready-made company vendor. Exclusion without implying proven real-estate SPV.",
+        "filter_2": "NOT ASSESSED — hard exclusion on ownership/shelf-company status",
+        "additional_sources": [
+          "https://ov.gov.cz/zapis/25386213",
+          "https://www.spolecnostiprovas.cz/en/spv/sro?order=asc&sort=ic"
+        ],
+        "review_date": "2026-10-19",
+        "qualifies_both": false
+      }
     }
   ],
   "summary": {
@@ -173,8 +245,32 @@
     "verified_redesign_defects": 0,
     "hold": 5,
     "excluded_corporate_control": 2,
-    "independently_verified_new_company_external_clients": 0
+    "independently_verified_new_company_external_clients": 0,
+    "two_filter_pass": 0,
+    "existing_sites_audited_for_defects": 0,
+    "brand_customer_gate_pass": 0
   },
   "historical_cohort_note": "October 3-6 original 24 remain 0 qualified; do not promote previous holds/exclusions without new affirmative proof",
-  "policy": "No speculative scores, prices, buyer intent or financial evidence. This file is research only; does not grant outreach eligibility."
+  "policy": "No speculative scores, prices, buyer intent or financial evidence. This file is research only; does not grant outreach eligibility.",
+  "filter_review": {
+    "reviewed_at": "2026-10-19",
+    "requested_filters": [
+      "Independently operating public/outside-customer-facing brand with no controlling corporate parent",
+      "Verified no first-party website after exact-IČO alias search, OR independently observed substantial website flaws"
+    ],
+    "conclusion": "No companies passed BOTH filters. Five individual-shareholder founding records are not equivalent to verified independent customer-facing business; both corporate-controlled entities excluded. No existing attributable site was available for a technical redesign audit.",
+    "no_site_claims": "None. Searches are not enough to certify absence; no browser-observed critical functional, mobile, or HTTPS defects verified.",
+    "website_queries_checked": [
+      "Exact business names and eight-digit IČOs with contact/website/web keywords",
+      "Founder and associated legal-entity names",
+      "Likely no-space or hyphenated name .cz/.pro spellings",
+      "Directory and social-platform name matches; no exact-IČO site substantiated"
+    ],
+    "cautions": [
+      "Do not confuse FDF Autoservis with similarly named Autoservis DDF, a different operator/location.",
+      "Do not conflate Abrova Group with Abrovia or Abbreva, both different entities.",
+      "Do not confuse KA-mont system with other KA-mont/Kavamont/Kapamont operations.",
+      "Do not infer absence of website from a fruitless search or inaccessibility."
+    ]
+  }
 }
