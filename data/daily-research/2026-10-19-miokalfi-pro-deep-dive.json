@@ -108,12 +108,46 @@
     "Confirm no corporate/affiliate control beyond initial ownership, and whether new company has a separate brand and sales operation",
     "Only then consider optional nonbinding discovery/demo; do not show as qualified, score financial capacity or infer purchase interest"
   ],
-  "decision": "HOLD/QA — credible founder, new s.r.o. not yet outreach-ready",
+  "decision": "NO-GO now for demo/outreach; hold only for new affirmative evidence",
   "checked_sources": [
     "https://ov.gov.cz/zapis/25396637",
     "https://www.podnikatel.cz/rejstrik/mykhailo-prokop-08248583/",
     "https://firmy.euro.cz/subjekt-mykhailo-prokop-08248583",
     "https://www.nejremeslnici.cz/reference/871870-vymena-stoupacek-v-radovem-dome",
     "https://www.finmag.cz/obchodni-rejstrik/ares/08248583-mykhailo-prokop"
-  ]
+  ],
+  "final_decision_2026_10_19": {
+    "sales_decision": "NO_GO_NOW",
+    "explanation": "Do not invest in a dedicated demo, priced sales proposal or broad outreach: newly incorporated IČO lacks a company-specific verified direct customer enquiry channel, independent current operation, and verified absent/defective first-party site. Founder credibility is established but is not a proxy for current s.r.o. buyer eligibility.",
+    "cheap_validation": "Only revisit if a publicly attributable business contact or official company-owned marketing channel emerges. Do not misuse NejŘemeslníci project-quotation forms for unsolicited web design marketing.",
+    "follow_up_triggers": [
+      "Miokalfi.Pro or founder openly identifies the new IČO as the external-services operating brand, with a dedicated public sales contact",
+      "Exact-IČO first-party domain ownership and quality/absence can be independently checked",
+      "No associated existing site already meets its needs; optional nonbinding discovery confirms interest"
+    ],
+    "evidence_checked": [
+      {
+        "source": "https://ov.gov.cz/zapis/25396637",
+        "finding": "15 October 2026 incorporation, 100% individual registered shareholder, company activities"
+      },
+      {
+        "source": "https://www.podnikatel.cz/rejstrik/mykhailo-prokop-08248583/",
+        "finding": "2019 sole trader, exact registered office and construction/masonry business"
+      },
+      {
+        "source": "https://www.nejremeslnici.cz/reference/871870-vymena-stoupacek-v-radovem-dome",
+        "finding": "Verified outside customer review 2025; price 145,000 CZK attributed to founder's prior activities, not new s.r.o."
+      }
+    ],
+    "domain_variants_attempted": [
+      "miokalfi.pro",
+      "miokalfi.cz",
+      "miokalfipro.cz",
+      "miokalfi-pro.cz"
+    ],
+    "domain_result": "No attributable accessible site verified; direct URL fetch failures are inconclusive, not proof of unused domain or site absence.",
+    "financials": "No independent current liquidity/profit/budget evidence; share capital and old customer job value are not appropriate substitutes.",
+    "qualified_outreach": false,
+    "status": "HOLD / INACTIVE RESEARCH — NO-GO for sales development"
+  }
 }
