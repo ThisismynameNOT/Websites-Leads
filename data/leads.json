@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-19T14:16:27Z",
+  "generated_at": "2026-10-20T12:29:07Z",
   "collector": {
     "name": "ČSÚ RES primary + OSM supplemental + Kurzy.cz reviewed leads + ARES verification",
-    "segment": "beauty",
+    "segment": "food",
     "kurzy_crosschecks": 10,
     "kurzy_scope": "small public manually reviewed sample, not a complete licensed daily export",
     "res_candidates_loaded": 562,
     "res_added_this_run": 0,
     "res_snapshot_at": "2026-10-17T11:20:56.095767+00:00",
-    "discovered_this_run": 230,
-    "listings_examined": 943,
+    "discovered_this_run": 0,
+    "listings_examined": 0,
     "notes": "No-website tag denotes a missing directory URL, not independently verified absence of a website. Scores are preliminary."
   },
   "leads": [
@@ -29523,7 +29523,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 53,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 5/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 5/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-360639054",
@@ -29556,7 +29557,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 53,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 15/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 15/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-5969424092",
@@ -29589,7 +29591,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 53,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 15/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 15/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-9920809022",
@@ -29622,7 +29625,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 53,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 15/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 15/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-11341001715",
@@ -29655,7 +29659,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 53,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 15/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 15/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-11407096763",
@@ -29688,7 +29693,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 53,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 15/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 15/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12031564422",
@@ -29721,7 +29727,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 53,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 15/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 15/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-13418357634",
@@ -29754,7 +29761,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 53,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 15/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 15/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-13713626901",
@@ -29787,7 +29795,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 53,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 15/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 15/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-way-486402767",
@@ -29820,7 +29829,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 53,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 15/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 15/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-way-1374481513",
@@ -29853,7 +29863,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 53,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 15/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 15/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-296767083",
@@ -29886,7 +29897,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-296789927",
@@ -29919,7 +29931,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-330200830",
@@ -29952,7 +29965,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-360673849",
@@ -29985,7 +29999,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-734637058",
@@ -30018,7 +30033,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-1425698739",
@@ -30051,7 +30067,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-1968472102",
@@ -30084,7 +30101,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-2343343315",
@@ -30117,7 +30135,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-2408146799",
@@ -30150,7 +30169,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-2409213393",
@@ -30183,7 +30203,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-3237674272",
@@ -30216,7 +30237,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-3393533161",
@@ -30249,7 +30271,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-3538045299",
@@ -30282,7 +30305,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-3968941760",
@@ -30315,7 +30339,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-4167223994",
@@ -30348,7 +30373,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-4175304555",
@@ -30381,7 +30407,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-4342247850",
@@ -30414,7 +30441,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-4460856115",
@@ -30447,7 +30475,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-4509345489",
@@ -30480,7 +30509,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-4679976262",
@@ -30513,7 +30543,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-4679977626",
@@ -30546,7 +30577,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-4679977916",
@@ -30579,7 +30611,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-4759365861",
@@ -30612,7 +30645,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-4771268088",
@@ -30645,7 +30679,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-4781920937",
@@ -30678,7 +30713,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-4801719222",
@@ -30711,7 +30747,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-4820908914",
@@ -30744,7 +30781,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-5035800774",
@@ -30777,7 +30815,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-5119361624",
@@ -30810,7 +30849,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-5185664166",
@@ -30843,7 +30883,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-5243064264",
@@ -30876,7 +30917,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-5344574323",
@@ -30909,7 +30951,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-5958947287",
@@ -30942,7 +30985,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-6466554105",
@@ -30975,7 +31019,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-6507806382",
@@ -31008,7 +31053,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-7138719087",
@@ -31041,7 +31087,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-7196002376",
@@ -31074,7 +31121,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-7650634643",
@@ -31107,7 +31155,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-7772607985",
@@ -31140,7 +31189,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-8048956529",
@@ -31173,7 +31223,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-8411169690",
@@ -31206,7 +31257,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-8653521621",
@@ -31239,7 +31291,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-8653521623",
@@ -31272,7 +31325,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-8945426791",
@@ -31305,7 +31359,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-9084070227",
@@ -31338,7 +31393,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-9128157469",
@@ -31371,7 +31427,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-9279283879",
@@ -31404,7 +31461,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-9279283880",
@@ -31437,7 +31495,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-9572721871",
@@ -31470,7 +31529,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-9597830235",
@@ -31503,7 +31563,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-9605938160",
@@ -31536,7 +31597,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-9620548290",
@@ -31569,7 +31631,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-9620568999",
@@ -31602,7 +31665,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-9621130227",
@@ -31635,7 +31699,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-9629385881",
@@ -31668,7 +31733,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-9646103594",
@@ -31701,7 +31767,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-9677659309",
@@ -31734,7 +31801,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-9726203340",
@@ -31767,7 +31835,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-9727478117",
@@ -31800,7 +31869,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-9727478218",
@@ -31833,7 +31903,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-9758369218",
@@ -31866,7 +31937,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-9863824801",
@@ -31899,7 +31971,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-9973063709",
@@ -31932,7 +32005,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-10049078818",
@@ -31965,7 +32039,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-10114105484",
@@ -31998,7 +32073,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-10316785105",
@@ -32031,7 +32107,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-10744790010",
@@ -32064,7 +32141,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-10840005240",
@@ -32097,7 +32175,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-10856030789",
@@ -32130,7 +32209,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-10883966946",
@@ -32163,7 +32243,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-10941965099",
@@ -32196,7 +32277,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-11046966731",
@@ -32229,7 +32311,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-11076615783",
@@ -32262,7 +32345,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-11348908025",
@@ -32295,7 +32379,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-11397928618",
@@ -32328,7 +32413,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-11411654589",
@@ -32361,7 +32447,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-11930299769",
@@ -32394,7 +32481,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-11937202781",
@@ -32427,7 +32515,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12026026032",
@@ -32460,7 +32549,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12155145132",
@@ -32493,7 +32583,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12155188344",
@@ -32526,7 +32617,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12160520197",
@@ -32559,7 +32651,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12160523456",
@@ -32592,7 +32685,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12161764073",
@@ -32625,7 +32719,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12161822723",
@@ -32658,7 +32753,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12161897089",
@@ -32691,7 +32787,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12168802883",
@@ -32724,7 +32821,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12182517789",
@@ -32757,7 +32855,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12291860956",
@@ -32790,7 +32889,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12391324201",
@@ -32823,7 +32923,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12526716369",
@@ -32856,7 +32957,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12565546595",
@@ -32889,7 +32991,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12626094096",
@@ -32922,7 +33025,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12643056708",
@@ -32955,7 +33059,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12645904073",
@@ -32988,7 +33093,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12660359135",
@@ -33021,7 +33127,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12770663383",
@@ -33054,7 +33161,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12778872891",
@@ -33087,7 +33195,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12857236219",
@@ -33120,7 +33229,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12923541216",
@@ -33153,7 +33263,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-12923612598",
@@ -33186,7 +33297,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-13031343504",
@@ -33219,7 +33331,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-13084132503",
@@ -33252,7 +33365,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-13186144560",
@@ -33285,7 +33399,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-13299368938",
@@ -33318,7 +33433,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-13317799919",
@@ -33351,7 +33467,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-13332628858",
@@ -33384,7 +33501,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-13426507365",
@@ -33417,7 +33535,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-13432491654",
@@ -33450,7 +33569,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-13432491656",
@@ -33483,7 +33603,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-13474199981",
@@ -33516,7 +33637,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-13537576511",
@@ -33549,7 +33671,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-13555908134",
@@ -33582,7 +33705,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-13565391744",
@@ -33615,7 +33739,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-14133073401",
@@ -33648,7 +33773,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-14256068213",
@@ -33681,7 +33807,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-way-487542173",
@@ -33714,7 +33841,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-way-1318160805",
@@ -33747,7 +33875,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-way-1318195341",
@@ -33780,7 +33909,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-way-1319907781",
@@ -33813,7 +33943,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-way-1319907786",
@@ -33846,7 +33977,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-way-1319907790",
@@ -33879,7 +34011,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-way-1321660042",
@@ -33912,7 +34045,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-way-1434149139",
@@ -33945,7 +34079,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 48,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 13/20, public contactability 10/15, listing gap 10/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-1493287827",
@@ -34013,7 +34148,8 @@
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 38,
-      "score_reason": "Preliminary evidence-only score: website evidence 5/30, registered business age 5/20, sector value 13/20, public contactability 15/15, listing gap 0/15. No visual website audit performed."
+      "score_reason": "Preliminary evidence-only score: website evidence 5/30, registered business age 5/20, sector value 13/20, public contactability 15/15, listing gap 0/15. No visual website audit performed.",
+      "source_registry_urls": []
     },
     {
       "id": "osm-node-6061244178",
