@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-10-19",
+  "subject": {
+    "legal_name": "Miokalfi.Pro s.r.o.",
+    "ico": "30157587",
+    "registration_date": "2026-10-15",
+    "age_bucket": "0-6 months",
+    "registered_office": "Vysočanská 553/71, Prosek, Praha 9, 190 00",
+    "court_filing": "C 458179",
+    "official_filing_url": "https://ov.gov.cz/zapis/25396637",
+    "registered_business_activities": [
+      "masonry",
+      "plumbing and heating",
+      "preparatory and finishing construction",
+      "specialised construction",
+      "other broad free-trade scopes"
+    ],
+    "founding_shareholders": [
+      {
+        "name": "Mykhailo Prokop",
+        "holding_percent": 100,
+        "type": "natural_person"
+      }
+    ],
+    "managing_directors": [
+      "Mykhailo Prokop"
+    ],
+    "paid_in_capital_czk": 1000,
+    "capital_warning": "Registered capital is not cash, profits, operating capacity or website budget."
+  },
+  "founder_prior_trade": {
+    "name": "Mykhailo Prokop",
+    "ico": "08248583",
+    "started": "2019-06-11",
+    "registered_location": "Vysočanská 553/71, Praha 9",
+    "independent_public_trade": "Named trade profile marketing apartment/house renovations and plumbing/masonry service through NejŘemeslníci",
+    "identity_attribution": "High confidence connection from same name, exact registered address, same construction trade, and founder/director of new s.r.o.; sole-trader founder link not independent proof of a new-company client contract.",
+    "registered_licenses_note": "Trade-register excerpt explicitly lists masonry and broad finishing/construction activities for older IČO; do not silently assume all company plumbing licences apply to the older IČO.",
+    "proof_urls": [
+      "https://www.podnikatel.cz/rejstrik/mykhailo-prokop-08248583/",
+      "https://firmy.euro.cz/subjekt-mykhailo-prokop-08248583",
+      "https://www.nejremeslnici.cz/reference/871870-vymena-stoupacek-v-radovem-dome"
+    ]
+  },
+  "external_customer_case": {
+    "source": "https://www.nejremeslnici.cz/reference/871870-vymena-stoupacek-v-radovem-dome",
+    "customer": "An outside homeowner identified with abbreviated first name on independent trade-review platform",
+    "request_date": "2025-04-24",
+    "place": "Prague 8",
+    "scope": "Replacement of riser and waste pipes in a three-storey terraced home, plus related masonry work",
+    "platform_verified_review": true,
+    "rating": 5,
+    "listed_job_value_czk": 145000,
+    "critical_attribution": "Review names Mykhailo Prokop of Prague 9, and is before incorporation of IČO 30157587. It is evidence for founder's prior trade activity only, not revenue, profit, client project or budget of Miokalfi.Pro s.r.o.",
+    "other_confirmed_reviews": 0
+  },
+  "filter_1": {
+    "status": "HOLD / not passed",
+    "legal_corporate_ownership": "100% individual shareholder and own managing director at incorporation; no corporate shareholder recorded in founding filing",
+    "positive_evidence": "Founder operates named trade advertising services to outside customers, and has one externally verified completed project",
+    "not_yet_verified": [
+      "new company itself directly markets services to outside customers",
+      "new company independently accepts contracts and invoices customers",
+      "dedicated s.r.o.-specific phone, email or booking method",
+      "beneficial ownership beyond founding shareholder snapshot",
+      "no captive/SPV or other group-control relationship beyond founding filing"
+    ],
+    "associated_entities": "Other individuals named Mykhailo Prokop appear in registries, including a separate IČO 24574597 in Frýdlant nad Ostravicí and a differently addressed SoyTruong associated person. No legal identity match is supported: do not attribute these records as founder-controlled companies."
+  },
+  "filter_2": {
+    "status": "UNKNOWN / not passed",
+    "site_verified_absent": false,
+    "redesign_defect_verified": false,
+    "first_party_site": null,
+    "aliases_and_checks": [
+      "Miokalfi.Pro s.r.o. exact name",
+      "IČO 30157587 plus website, web, kontakt and email terms",
+      "Miokalfi, miokalfipro, miokalfi-pro spellings",
+      "miokalfi.pro, miokalfi.cz, miokalfipro.cz, miokalfi-pro.cz direct opening attempts",
+      "Founder Mykhailo Prokop + Prague 9 masonry/plumbing and IČO 08248583",
+      "Directory, social and contractor marketplace identity checks"
+    ],
+    "results": "No site positively linked to new exact IČO. Direct URL tests unavailable/inconclusive through web fetch; local resolver gave no addresses for four plausible names in this environment but no registrant / global DNS conclusion can be made. No first-party live site available for real mobile/HTTP/UX audit.",
+    "important_note": "A dot in the legal name is not proof that miokalfi.pro is owned, registered, reachable or intended as its website. No search hit or failed fetch cannot establish absence."
+  },
+  "contacts": {
+    "company_phone": null,
+    "company_email": null,
+    "company_owned_enquiry": null,
+    "founder_prior_business_platform": "NejŘemeslníci allows enquiries to named supplier through its own platform; this is NOT a company-specific direct sales channel. No publicly attributable company phone/email independently confirmed.",
+    "platform_reference_url": "https://www.nejremeslnici.cz/reference/871870-vymena-stoupacek-v-radovem-dome"
+  },
+  "commercial": {
+    "classification": "PRE-LAUNCH / HOLD-QA research hypothesis",
+    "possible_static_scope": "1-3 page Czech mobile-first brochure for plumbing/masonry/renovation with owner-approved service list, actual work photos, direct tel/mailto, IČO/legal block, and source-cleared founder references",
+    "confirmed_need": false,
+    "confirmed_budget": false,
+    "verified_financial_capacity": false,
+    "approved_buyer": false,
+    "deal_price_czk": null,
+    "benchmark_job_not_website_budget_czk": 145000
+  },
+  "next_actions": [
+    "Find explicit s.r.o.-specific marketed service and direct customer enquiry contact, or owner confirmation of switch from IČO 08248583",
+    "Attribute any active/owned domain including .pro variants; only then classify no-site or audit defects",
+    "Identify independent new-company customer project, while avoiding impossible expectation that a four-day-old entity already has completed contracts; accept clear affirmative current external service/booking proof",
+    "Confirm no corporate/affiliate control beyond initial ownership, and whether new company has a separate brand and sales operation",
+    "Only then consider optional nonbinding discovery/demo; do not show as qualified, score financial capacity or infer purchase interest"
+  ],
+  "decision": "NO-GO now for demo/outreach; hold only for new affirmative evidence",
+  "checked_sources": [
+    "https://ov.gov.cz/zapis/25396637",
+    "https://www.podnikatel.cz/rejstrik/mykhailo-prokop-08248583/",
+    "https://firmy.euro.cz/subjekt-mykhailo-prokop-08248583",
+    "https://www.nejremeslnici.cz/reference/871870-vymena-stoupacek-v-radovem-dome",
+    "https://www.finmag.cz/obchodni-rejstrik/ares/08248583-mykhailo-prokop"
+  ],
+  "final_decision_2026_10_19": {
+    "sales_decision": "NO_GO_NOW",
+    "explanation": "Do not invest in a dedicated demo, priced sales proposal or broad outreach: newly incorporated IČO lacks a company-specific verified direct customer enquiry channel, independent current operation, and verified absent/defective first-party site. Founder credibility is established but is not a proxy for current s.r.o. buyer eligibility.",
+    "cheap_validation": "Only revisit if a publicly attributable business contact or official company-owned marketing channel emerges. Do not misuse NejŘemeslníci project-quotation forms for unsolicited web design marketing.",
+    "follow_up_triggers": [
+      "Miokalfi.Pro or founder openly identifies the new IČO as the external-services operating brand, with a dedicated public sales contact",
+      "Exact-IČO first-party domain ownership and quality/absence can be independently checked",
+      "No associated existing site already meets its needs; optional nonbinding discovery confirms interest"
+    ],
+    "evidence_checked": [
+      {
+        "source": "https://ov.gov.cz/zapis/25396637",
+        "finding": "15 October 2026 incorporation, 100% individual registered shareholder, company activities"
+      },
+      {
+        "source": "https://www.podnikatel.cz/rejstrik/mykhailo-prokop-08248583/",
+        "finding": "2019 sole trader, exact registered office and construction/masonry business"
+      },
+      {
+        "source": "https://www.nejremeslnici.cz/reference/871870-vymena-stoupacek-v-radovem-dome",
+        "finding": "Verified outside customer review 2025; price 145,000 CZK attributed to founder's prior activities, not new s.r.o."
+      }
+    ],
+    "domain_variants_attempted": [
+      "miokalfi.pro",
+      "miokalfi.cz",
+      "miokalfipro.cz",
+      "miokalfi-pro.cz"
+    ],
+    "domain_result": "No attributable accessible site verified; direct URL fetch failures are inconclusive, not proof of unused domain or site absence.",
+    "financials": "No independent current liquidity/profit/budget evidence; share capital and old customer job value are not appropriate substitutes.",
+    "qualified_outreach": false,
+    "status": "HOLD / INACTIVE RESEARCH — NO-GO for sales development"
+  },
+  "go_no_go_2026_10_19": {
+    "decision": "NO_GO_CUSTOM_DEMO_OR_SALES_PITCH_NOW",
+    "research_status": "HOLD/QA — monitor without further speculative production",
+    "scope": "Do not count as approved sales lead or price as booked pipeline.",
+    "evidence_positive": [
+      "Official company filing: IČO 30157587, individual 100% founder, formed 2026-10-15",
+      "Exact owner name and address aligns to older sole trader IČO 08248583",
+      "Founder has one verified independent customer review for Prague 8 plumbing 2025 (prior trade, not s.r.o.)"
+    ],
+    "unresolved": [
+      "No evidence company-specific sales phone/email or independently marketed s.r.o. accepting outside customers",
+      "No first-party website positively attributed; searches/open failures do not prove absence",
+      "No buying interest, website budget or audited technical defect"
+    ],
+    "promotion_trigger": "Only reopen for sales if an attributable direct business contact and independently public marketed operation are discovered and website existence or substantial defect is independently verified.",
+    "outreach_guidance": "Do not use contractor quote platforms for unsolicited web-design offers unless the platform explicitly permits them. Do not solicit through personal contact records.",
+    "sources": [
+      "https://ov.gov.cz/zapis/25396637?query=&resultsPage=106",
+      "https://www.podnikatel.cz/rejstrik/mykhailo-prokop-08248583/",
+      "https://www.nejremeslnici.cz/reference/871870-vymena-stoupacek-v-radovem-dome"
+    ]
+  }
+}
