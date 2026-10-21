@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-20T12:33:34.244966+00:00",
+  "generated_at": "2026-10-21T12:44:45.334808+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -26525,7 +26525,7 @@
     "osm-node-13565432110": {
       "lead_id": "osm-node-13565432110",
       "name": "Atelier Pro Interier",
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-21",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -26585,7 +26585,7 @@
     "osm-node-13565433238": {
       "lead_id": "osm-node-13565433238",
       "name": "Nor Design",
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-21",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -26645,7 +26645,7 @@
     "osm-node-1942510549": {
       "lead_id": "osm-node-1942510549",
       "name": "Showroom ASKO",
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-21",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -26705,7 +26705,7 @@
     "osm-node-2359929480": {
       "lead_id": "osm-node-2359929480",
       "name": "Kancelářské židle",
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-21",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -26765,7 +26765,7 @@
     "osm-node-2927529601": {
       "lead_id": "osm-node-2927529601",
       "name": "Kubista",
-      "checked_at": "2026-10-12",
+      "checked_at": "2026-10-21",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -26825,7 +26825,7 @@
     "osm-node-343686139": {
       "lead_id": "osm-node-343686139",
       "name": "JYSK",
-      "checked_at": "2026-10-13",
+      "checked_at": "2026-10-21",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -27155,7 +27155,7 @@
     "osm-node-3650150787": {
       "lead_id": "osm-node-3650150787",
       "name": "Yask",
-      "checked_at": "2026-10-13",
+      "checked_at": "2026-10-21",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -27215,7 +27215,7 @@
     "osm-node-3685099034": {
       "lead_id": "osm-node-3685099034",
       "name": "Siko",
-      "checked_at": "2026-10-13",
+      "checked_at": "2026-10-21",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -37307,6 +37307,1791 @@
         "source": "https://fakturujzdarma.cz/firma/30133289-eco-fleet-fff-s-r-o",
         "evidence": "Explicit mailto/tel links on identity-matched business website"
       },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30133297": {
+      "lead_id": "res-30133297",
+      "name": "M-Jay sales & management s.r.o.",
+      "checked_at": "2026-10-21",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"M-Jay sales & management s.r.o.\" IČO 30133297 web",
+          "\"M-Jay sales & management s.r.o.\" Praha Construction & property kontakt",
+          "\"M-Jay sales & management s.r.o.\" \"Sokolská 1883\" web",
+          "\"M-Jay sales & management s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30133297/m-jay-sales-management-sro/",
+            "title": "M-Jay sales & management s.r.o. , IČO 30133297 - Kurzy.cz",
+            "snippet": "Tato stránka obsahuje aktuální výpis údajů firmy M-Jay sales & management s.r.o. Údaje byly staženy 12. října 2026 z datové služby justice.cz dle IČO 30133297 a údaje ve výpise nebyly dle systému ARES do dnešního dne změněny. Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob."
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30133297/m-jay-sales-management-s-r-o",
+            "title": "M-Jay sales & management s.r.o. - rizika, majitel, obchodní rejstřík",
+            "snippet": "M-Jay sales & management s.r.o. Sídlo Praha. IČO: 30133297. Majitelé a statutární orgány. Rejstřík podnikatelů. Rok založení 2026."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-m-jay-sales-management-s-r-o-30133297",
+            "title": "M-Jay sales & management s.r.o. IČO: 30133297",
+            "snippet": "Podrobnosti o firmě M-Jay sales & management s.r.o. IČO 30133297 kontakty 19.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru…"
+          },
+          {
+            "url": "https://www.jenfirmy.cz/firma/30133297-m-jay-sales-management-s-r-o",
+            "title": "M-Jay sales & management s.r.o. ⭐ Profil firmy | ⭐ JenFirmy.cz",
+            "snippet": "Prohlédněte si profil M-Jay sales & management s.r.o. a zjistěte vše, co potřebujete vědět. Místo, kontakty i prověřené recenze zaměstnanců."
+          },
+          {
+            "url": "https://www.jenprace.cz/firmy/30133297-m-jay-sales-management-s-r-o",
+            "title": "Práce v M-Jay sales & management s.r.o. Zaměstnání, volná místa",
+            "snippet": "JenPráce.cz — každý den aktuální nabídky práce a brigád v České republice i zahraničí"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia",
+            "title": "Communist Party of Bohemia and Moravia - Wikipedia",
+            "snippet": "The Communist Party of Bohemia and Moravia (Czech: Komunistická strana Čech a Moravy, KSČM) is a communist party [25] in the Czech Republic. [26] Sources variously describe the party as either left-wing [31] or far-left [38] on the political spectrum. [39] It is one of the few former ruling parties in post-Communist Ce"
+          },
+          {
+            "url": "https://www.facebook.com/DaramisGroup/",
+            "title": "Daramis | Prague - FacebookSkupina VCESReal Estate Management - Volná místa v Hlavní město Praha 21 ...033AV2309C - Manuals+Communist Party of Bohemia and Moravia - Wikipedia",
+            "snippet": "6 days ago · Daramis, Prague. 5,984 followers · 21 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy. Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republi"
+          },
+          {
+            "url": "https://cz.indeed.com/q-real-estate-management-l-hlavní-město-praha-nabídky-práce.html",
+            "title": "Real Estate Management - Volná místa v Hlavní město Praha 21 ...",
+            "snippet": "10 nabídky práce Real Estate Management dostupných v lokalitě Hlavní město Praha. - Hledejte na Indeed.com, světově nejpoužívanějším vyhledávači práce."
+          },
+          {
+            "url": "https://rentero.cz/",
+            "title": "Rentero, Vaše nemovitosti, naše starosti",
+            "snippet": "Vaše nemovitosti, naše starosti. Domovům vracíme smysl, majitelům čas a výnos. Komplexní péče o nemovitost od přípravy po každodenní provoz."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://manuals.plus/m/094874f71fca743aa377b0b95c3b0a0280c1b9f1c74bef5b8c7385dfd236828e",
+            "title": "033AV2309C - Manuals+",
+            "snippet": "Denon AVR-2309CI owner's manual Denon AVR-2309CI Home theater receiver with HDMI switching and video upconversion at Crutchfield"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.chytryrejstrik.cz/ico-30133297/m-jay-sales-management-s-r-o",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.chytryrejstrik.cz/ico-30133297/m-jay-sales-management-s-r-o",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30133297/m-jay-sales-management-s-r-o",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30133297",
+        "legal_name": "M-Jay sales & management s.r.o.",
+        "registered_at": "2026-10-09",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133297",
+        "decision_maker": {
+          "name": "MONIKA SOJKOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133297",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "MONIKA SOJKOVÁ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133297",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-21",
+        "website": "https://www.chytryrejstrik.cz/ico-30133297/m-jay-sales-management-s-r-o",
+        "devices": {
+          "desktop": {
+            "title": "M-Jay sales & management s.r.o. - rizika, majitel, obchodní rejstřík",
+            "description": "M-Jay sales & management s.r.o. Sídlo Praha. IČO: 30133297. Majitelé a statutární orgány. Rejstřík podnikatelů. Rok založení 2026. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 168,
+            "small_text_elements": 2,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 44,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "M-Jay sales & management s.r.o. - rizika, majitel, obchodní rejstřík",
+            "description": "M-Jay sales & management s.r.o. Sídlo Praha. IČO: 30133297. Majitelé a statutární orgány. Rejstřík podnikatelů. Rok založení 2026. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 131,
+            "small_text_elements": 10,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 44,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.chytryrejstrik.cz/ico-30133297/m-jay-sales-management-s-r-o"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133297",
+          "date": "2026-10-09",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "M-Jay sales & management s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Sokolská 1883, Praha, 12000.",
+          "An independently identity-matched business website was found: https://www.chytryrejstrik.cz/ico-30133297/m-jay-sales-management-s-r-o.",
+          "ARES confirms registration for IČO 30133297 dated 2026-10-09."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133297",
+            "date": "2026-10-09",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30133297",
+          "https://www.chytryrejstrik.cz/ico-30133297/m-jay-sales-management-s-r-o"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "MONIKA SOJKOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133297",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30133297/m-jay-sales-management-sro/",
+        "https://www.chytryrejstrik.cz/ico-30133297/m-jay-sales-management-s-r-o",
+        "https://rejstriky.finance.cz/firma-m-jay-sales-management-s-r-o-30133297",
+        "https://www.jenfirmy.cz/firma/30133297-m-jay-sales-management-s-r-o",
+        "https://www.jenprace.cz/firmy/30133297-m-jay-sales-management-s-r-o",
+        "https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia",
+        "https://www.facebook.com/DaramisGroup/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.chytryrejstrik.cz/ico-30133297/m-jay-sales-management-s-r-o",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30133319": {
+      "lead_id": "res-30133319",
+      "name": "M-Jay services s.r.o.",
+      "checked_at": "2026-10-21",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"M-Jay services s.r.o.\" IČO 30133319 web",
+          "\"M-Jay services s.r.o.\" Praha Construction & property kontakt",
+          "\"M-Jay services s.r.o.\" \"Sokolská 1883\" web",
+          "\"M-Jay services s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://www.podnikani.cz/30133319/m-jay-services-sro/",
+            "title": "M-Jay services s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku M-Jay services s.r.o. Sokolská 1883/8, Nové Město, 12000 Praha 2 , IČO: 30133319, Zákl. kapitál: 10000 Kč"
+          },
+          {
+            "url": "https://www.digireality.cz/inzerat/6ad5e6f2415bfb75c4839ff3",
+            "title": "Other commercial property for rent, 162m 2 Praha",
+            "snippet": "2 days ago · Kontakt a info 6-month rental with the possibility of extension - family house 5+1 (162 sqm) with cellar (32 sqm), parking, and garden (584 sqm). We offer for rent a family house with a layout of 5+1 and a usable area of 162 sqm including a cellar, garden, and the possibility of parking several vehicles in"
+          },
+          {
+            "url": "https://www.facebook.com/DaramisGroup/",
+            "title": "Daramis | Prague - FacebookTo rent commercial - Praha, Kutnohorská - REALCITY.czSkupina VCESAKADÉMIA POLICAJNÉHO ZBORU V BRATISLAVE",
+            "snippet": "6 days ago · Daramis, Prague. 5,984 followers · 21 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy. 5 days ago · To rent commercial 348 m² - Praha, Kutnohorská Other listings from this agency Last update16.10.2026 Contract IDd270f96b-29d3-499"
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/to-rent-commercial-praha-kutnohorska-4425646",
+            "title": "To rent commercial - Praha, Kutnohorská - REALCITY.cz",
+            "snippet": "5 days ago · To rent commercial 348 m² - Praha, Kutnohorská Other listings from this agency Last update16.10.2026 Contract IDd270f96b-29d3-4997-90c8-e8a610369dd1 Flooring348 m² Tenureother ownership Construction typeprefabricated Property conditionnew build Floorground floor more information"
+          },
+          {
+            "url": "https://proflib.akademiapz.sk/webisnt/fulltext/publikacie/2026/{4C2E6511-DADB-48EB-A91C-B2BB2369832F}.pdf",
+            "title": "AKADÉMIA POLICAJNÉHO ZBORU V BRATISLAVE",
+            "snippet": "Kontaktná adresa Katedra vyšetrovania Akadémia Policajného zboru v Bratislave Sklabinská 1 835 17 Bratislava Slovenská republika"
+          },
+          {
+            "url": "https://rentero.cz/",
+            "title": "Rentero, Vaše nemovitosti, naše starosti",
+            "snippet": "Vaše nemovitosti, naše starosti. Domovům vracíme smysl, majitelům čas a výnos. Komplexní péče o nemovitost od přípravy po každodenní provoz."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30133319/m-jay-services-sro/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.digireality.cz/inzerat/6ad5e6f2415bfb75c4839ff3",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/to-rent-commercial-praha-kutnohorska-4425646",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://proflib.akademiapz.sk/webisnt/fulltext/publikacie/2026/{4C2E6511-DADB-48EB-A91C-B2BB2369832F}.pdf",
+            "result": "unreachable",
+            "reason": "ConnectTimeout"
+          },
+          {
+            "url": "https://rentero.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30133319",
+        "legal_name": "M-Jay services s.r.o.",
+        "registered_at": "2026-10-09",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133319",
+        "decision_maker": {
+          "name": "MONIKA SOJKOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133319",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "MONIKA SOJKOVÁ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133319",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133319",
+          "date": "2026-10-09",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "M-Jay services s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Sokolská 1883, Praha, 12000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30133319 dated 2026-10-09."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133319",
+            "date": "2026-10-09",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30133319"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "MONIKA SOJKOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133319",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.podnikani.cz/30133319/m-jay-services-sro/",
+        "https://www.digireality.cz/inzerat/6ad5e6f2415bfb75c4839ff3",
+        "https://www.facebook.com/DaramisGroup/",
+        "https://www.realcity.cz/en/property/to-rent-commercial-praha-kutnohorska-4425646",
+        "https://proflib.akademiapz.sk/webisnt/fulltext/publikacie/2026/{4C2E6511-DADB-48EB-A91C-B2BB2369832F}.pdf",
+        "https://rentero.cz/",
+        "https://vces.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30133505": {
+      "lead_id": "res-30133505",
+      "name": "ŠábyStav s.r.o.",
+      "checked_at": "2026-10-21",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"ŠábyStav s.r.o.\" IČO 30133505 web",
+          "\"ŠábyStav s.r.o.\" Praha Construction & property kontakt",
+          "\"ŠábyStav s.r.o.\" \"Bílkova 855\" web",
+          "\"ŠábyStav s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rentero.cz/",
+            "title": "Rentero, Vaše nemovitosti, naše starosti",
+            "snippet": "Vaše nemovitosti, naše starosti. Domovům vracíme smysl, majitelům čas a výnos. Komplexní péče o nemovitost od přípravy po každodenní provoz."
+          },
+          {
+            "url": "https://www.facebook.com/DaramisGroup/",
+            "title": "Daramis | Prague - FacebookHjem | MiljøfyrtårnSkanska v České republiceSkupina VCESLinkedInDeweloper Magazynowy. Magazyny do Wynajęcia w Polsce - 7R",
+            "snippet": "6 days ago · Daramis, Prague. 5,984 followers · 21 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy. Miljøfyrtårn er Norges ledende miljøsertifisering. Kom i gang med sertifisering og miljøledelse i LUMA – et verktøy som gjør arbeidet enkelt o"
+          },
+          {
+            "url": "https://www.miljofyrtarn.no/",
+            "title": "Hjem | Miljøfyrtårn",
+            "snippet": "Miljøfyrtårn er Norges ledende miljøsertifisering. Kom i gang med sertifisering og miljøledelse i LUMA – et verktøy som gjør arbeidet enkelt og effektivt"
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.linkedin.com/search/results/all/",
+            "title": "LinkedIn",
+            "snippet": "We would like to show you a description here but the site won’t allow us."
+          },
+          {
+            "url": "https://www.7rsa.pl/",
+            "title": "Deweloper Magazynowy. Magazyny do Wynajęcia w Polsce - 7R",
+            "snippet": "7R to deweloper nowoczesnych powierzchni magazynowych i logistycznych. Oferujemy magazyny na wynajem, obiekty BTS oraz parki logistyczne."
+          },
+          {
+            "url": "https://www.votocekteam.com/kontakt/",
+            "title": "Kontakt a nezávazná poptávka stavby | VOTOČEK team",
+            "snippet": "Pošlete nezávaznou poptávku na stavbu domu, bazénu, dlažby nebo oplocení. Ota Votoček +420 731 549 746, ota@votocek.com, Tálínská 1005, Praha 9."
+          },
+          {
+            "url": "https://www.aaapoptavka.cz/zadat-poptavku/0",
+            "title": "Zadání poptávky | AAAPoptávka.cz",
+            "snippet": "Zadejte si poptávku ZDARMA. Vaše poptávka bude rozeslána ověřeným dodavatelům z celé ČR. První reakce na poptávky obdržíte již do několika hodin. Vyzkoušejte největší poptávkový systém."
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Poptávám: mezistátní přepravu, Dilovası, Kocaeli (Turecko) - Pelhřimov před 1 hodinou Asie Doprava Firma Praha 5 Stodůlky zadáno 28 poptávek"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: vyvíječ vůně s montáží, Praha, 700 m² Úklid Drogerie, kosmetika, parfémy okres Praha 21. 10. 2026 (dnes)"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://rentero.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.miljofyrtarn.no/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.7rsa.pl/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.votocekteam.com/kontakt/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.aaapoptavka.cz/zadat-poptavku/0",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30133505",
+        "legal_name": "ŠábyStav s.r.o.",
+        "registered_at": "2026-10-09",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133505",
+        "decision_maker": {
+          "name": "MAREK ŠARBOCH",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133505",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "MAREK ŠARBOCH",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133505",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133505",
+          "date": "2026-10-09",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "ŠábyStav s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Bílkova 855, Praha, 11000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30133505 dated 2026-10-09."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133505",
+            "date": "2026-10-09",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30133505"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "MAREK ŠARBOCH",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133505",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rentero.cz/",
+        "https://www.facebook.com/DaramisGroup/",
+        "https://www.miljofyrtarn.no/",
+        "https://www.skanska.com/cz/cs",
+        "https://vces.cz/",
+        "https://www.linkedin.com/search/results/all/",
+        "https://www.7rsa.pl/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30133564": {
+      "lead_id": "res-30133564",
+      "name": "TOP ONE Corp s.r.o.",
+      "checked_at": "2026-10-21",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"TOP ONE Corp s.r.o.\" IČO 30133564 web",
+          "\"TOP ONE Corp s.r.o.\" Praha Construction & property kontakt",
+          "\"TOP ONE Corp s.r.o.\" \"Korunní 2569\" web",
+          "\"TOP ONE Corp s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 4,
+        "candidates": [
+          {
+            "url": "https://www.podnikani.cz/30133564/top-one-corp-sro/",
+            "title": "TOP ONE Corp s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku TOP ONE Corp s.r.o. Korunní 2569/108, Vinohrady, 10100 Praha 10 , IČO: 30133564, Zákl. kapitál: 100 Kč"
+          },
+          {
+            "url": "https://www.facebook.com/DaramisGroup/",
+            "title": "Daramis | Prague - FacebookSkupina VCESHjem | MiljøfyrtårnSkanska v České republice:ةيبرعلا 153Real Estate Management - Volná místa v Hlavní město Praha 21 ...",
+            "snippet": "6 days ago · Daramis, Prague. 5,984 followers · 21 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy. Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republi"
+          },
+          {
+            "url": "https://cz.indeed.com/q-real-estate-management-l-hlavní-město-praha-nabídky-práce.html",
+            "title": "Real Estate Management - Volná místa v Hlavní město Praha 21 ...",
+            "snippet": "10 nabídky práce Real Estate Management dostupných v lokalitě Hlavní město Praha. - Hledejte na Indeed.com, světově nejpoužívanějším vyhledávači práce."
+          },
+          {
+            "url": "https://rentero.cz/",
+            "title": "Rentero, Vaše nemovitosti, naše starosti",
+            "snippet": "Vaše nemovitosti, naše starosti. Domovům vracíme smysl, majitelům čas a výnos. Komplexní péče o nemovitost od přípravy po každodenní provoz."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.miljofyrtarn.no/",
+            "title": "Hjem | Miljøfyrtårn",
+            "snippet": "Miljøfyrtårn er Norges ledende miljøsertifisering. Kom i gang med sertifisering og miljøledelse i LUMA – et verktøy som gjør arbeidet enkelt og effektivt"
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://m.media-amazon.com/images/I/C15Tq-DbxGL.pdf?ref=dp_product_quick_view",
+            "title": ":ةيبرعلا 153",
+            "snippet": "Product Emission Data (PED): Information about Noise, Vibration and Dust (not applicable for all products)"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Egyptian_National_Railways",
+            "title": "Egyptian National Railways - Wikipedia",
+            "snippet": "Egyptian National Railways (ENR; Egyptian Arabic: السكك الحديدية المصرية, romanized: Al-Sikak al-Ḥadīdiyyah al-Miṣriyyah) is the national railway network of Egypt. [2] Founded in 1854, it is the oldest railway system in Africa and the Middle East, and the second oldest in the world. [3][4] The railway network is manage"
+          },
+          {
+            "url": "https://www.eurobydleni.cz/obchodni-prostor-pronajem-pstruzi-frydek-mistek/detail/10208058/",
+            "title": "Obchodní prostor, pronájem, Pstruží, Frýdek-MístekFrutcha, Korunní 2569/108, Praha (2026) - globuya.comPráca ŽILINA a okolie - Facebook2026 - 2027MadragGreentime systems CZ s.r.o. ",
+            "snippet": "V nově vniklém retail parku OC Nákupák je nyní možnost pronajmout si poslední volnou jednotku k Vašemu podnikání. Jedná se o prostor o rozloze 160 m. Obrovskou výhodou je samozřejmě lokalita, protože okolo Frutcha – Přírodní energie, která funguje. Bez cukru. Bez kompromisů. Pro mysl i tělo. 3 hours ago · Hľadáte prácu"
+          },
+          {
+            "url": "https://www.globuya.com/CZ/Praha/415859971599862/Frutcha",
+            "title": "Frutcha, Korunní 2569/108, Praha (2026) - globuya.com",
+            "snippet": "Frutcha – Přírodní energie, která funguje. Bez cukru. Bez kompromisů. Pro mysl i tělo."
+          },
+          {
+            "url": "https://madrag.com/",
+            "title": "Madrag",
+            "snippet": "By using our website, you agree to our use of cookies. We use cookies to provide you with a great experience and to help our website run effectively."
+          },
+          {
+            "url": "https://www.facebook.com/groups/pracazilinaokolie/",
+            "title": "Práca ŽILINA a okolie - Facebook",
+            "snippet": "3 hours ago · Hľadáte prácu alebo zamestnancov? Tu nájdete pracovné ponuky a brigády z okresov ŽILINA, Bytča a regiónu KYSUCE - Čadca, Kysucké Nové Mesto a okolie. Pravidlá: - možné pridať iba pracovné ponuky, nie dopyty po práci, ani iné inzeráty - pri inzeráte musí byť uvedená výška mzdy - v inzeráte musí byť uvedené"
+          },
+          {
+            "url": "https://orientation.hbku.edu.qa/student-handbook-2026-2027.pdf",
+            "title": "2026 - 2027",
+            "snippet": "Excellence Commit to the highest standards of quality of delivery, and innovation, continuously striving for impactful results, ethical leadership, and meaningful contributions to societies at national, regional, and global levels."
+          }
+        ],
+        "errors": [],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30133564/top-one-corp-sro/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://cz.indeed.com/q-real-estate-management-l-hlavní-město-praha-nabídky-práce.html",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://rentero.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.miljofyrtarn.no/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://m.media-amazon.com/images/I/C15Tq-DbxGL.pdf?ref=dp_product_quick_view",
+            "result": "unreachable",
+            "reason": "not_html"
+          },
+          {
+            "url": "https://www.eurobydleni.cz/obchodni-prostor-pronajem-pstruzi-frydek-mistek/detail/10208058/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.globuya.com/CZ/Praha/415859971599862/Frutcha",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30133564",
+        "legal_name": "TOP ONE Corp s.r.o.",
+        "registered_at": "2026-10-09",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133564",
+        "decision_maker": {
+          "name": "XÉNIA BUTYKOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133564",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "XÉNIA BUTYKOVÁ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133564",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133564",
+          "date": "2026-10-09",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "TOP ONE Corp s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Korunní 2569, Praha, 10100.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30133564 dated 2026-10-09."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133564",
+            "date": "2026-10-09",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30133564"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "XÉNIA BUTYKOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133564",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.podnikani.cz/30133564/top-one-corp-sro/",
+        "https://www.facebook.com/DaramisGroup/",
+        "https://cz.indeed.com/q-real-estate-management-l-hlavní-město-praha-nabídky-práce.html",
+        "https://rentero.cz/",
+        "https://vces.cz/",
+        "https://www.miljofyrtarn.no/",
+        "https://www.skanska.com/cz/cs"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30133602": {
+      "lead_id": "res-30133602",
+      "name": "HRYCHKA STAV s.r.o.",
+      "checked_at": "2026-10-21",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"HRYCHKA STAV s.r.o.\" IČO 30133602 web",
+          "\"HRYCHKA STAV s.r.o.\" Praha Construction & property kontakt",
+          "\"HRYCHKA STAV s.r.o.\" \"Rybná 716\" web",
+          "\"HRYCHKA STAV s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://www.digireality.cz/inzerat/6ad5e6f2415bfb75c4839ff3",
+            "title": "Other commercial property for rent, 162m 2 Praha",
+            "snippet": "2 days ago · Kontakt a info 6-month rental with the possibility of extension - family house 5+1 (162 sqm) with cellar (32 sqm), parking, and garden (584 sqm). We offer for rent a family house with a layout of 5+1 and a usable area of 162 sqm including a cellar, garden, and the possibility of parking several vehicles in"
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/for-sale-holiday-property-praha-8-velka-skala-4425766",
+            "title": "For sale holiday property - Praha 8, Velká skála - REALCITY.cz",
+            "snippet": "5 days ago · For sale holiday property - Praha 8, Velká skála Other listings from this agency Last update16.10.2026 Contract ID957835 Tenureprivate Construction typebrick Locationquiet part of the town more information"
+          },
+          {
+            "url": "https://www.facebook.com/DaramisGroup/",
+            "title": "Daramis | Prague - FacebookSkupina VCESLinkedInSkanska v České republice",
+            "snippet": "6 days ago · Daramis, Prague. 5,984 followers · 21 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy. Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republi"
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://rentero.cz/",
+            "title": "Rentero, Vaše nemovitosti, naše starosti",
+            "snippet": "Vaše nemovitosti, naše starosti. Domovům vracíme smysl, majitelům čas a výnos. Komplexní péče o nemovitost od přípravy po každodenní provoz."
+          },
+          {
+            "url": "https://www.linkedin.com/search/results/all/",
+            "title": "LinkedIn",
+            "snippet": "We would like to show you a description here but the site won’t allow us."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/adresa-praha-rybna-716-24-21723613",
+            "title": "Rybná 716/24 Praha 11000 (17.10.2026) - Rejstříky.finance.cz",
+            "snippet": "Feb 9, 2017 · Rybná 716/24 Praha 11000 – seznam všech firem a osob, které se na této adrese nachází a mají záznam ve veřejných rejstřících, mapa, GPS souřadnice"
+          },
+          {
+            "url": "https://hypestat.com/info/bsstyl.cz",
+            "title": "Bsstyl.cz BSSTYL - HypeStat",
+            "snippet": "An SSL (Secure Sockets Layer) certificate is a digital certificate that establishes a secure encrypted connection between a web server and a user's browser. It provides authentication and encryption, ensuring that data transmitted between the server and the browser remains private and protected. bsstyl.cz supports HTTP"
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/quatao-s-r-o-v-likvidaci-26198533/",
+            "title": "quatao, s.r.o. v likvidaci - IČO 26198533 - Obchodní rejstřík ...",
+            "snippet": "Podrobnosti o firmě quatao, s.r.o. v likvidaci - IČO 26198533 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů,…"
+          },
+          {
+            "url": "https://www.zivefirmy.cz/bezpecnost_t912/privory_b136379",
+            "title": "Bezpečnost - Živéfirmy.cz",
+            "snippet": "Firma VENAMO s.r.o. se sídlem ve Veselí nad Moravou provozuje autoservis a pneuservis pro osobní a lehká užitková vozidla (opravy, diagnostika, geometrie, servis klimatizace, dekarbonizace motorů, Common Rail, příprava na STK, měření emisí). Dále prodává autodíly a příslušenství, půjčuje střešní nosiče, zajišťuje vnitr"
+          },
+          {
+            "url": "https://www.hlidacstatu.cz/Detail/31712000",
+            "title": "Učebnice DUKO - Hlídač státu.",
+            "snippet": "Smlouva mezi Základní škola Ostrava-Výškovice, Srbská 2, příspěvková a DUKO s.r.o. a 1 dalším. Hodnota smlouvy je 79 827,00 Kč, Žádné nedostatky u smlouvy jsme nenalezli."
+          },
+          {
+            "url": "https://pzmk.cz/",
+            "title": "Katastrální mapa: prodeje, kolaudace, povodně | PZMK | PZMK",
+            "snippet": "Katastrální mapa a katastr nemovitostí na jednom místě: vyhledání podle adresy/parcely, prodeje za 10 let, kolaudace a povodňové mapy."
+          },
+          {
+            "url": "https://financialfilings.com/filings/vianet-group-plc/annual-report/2026/49455223/",
+            "title": "VIANET GROUP PLC - Annual Report 2026 | FinancialFilings",
+            "snippet": "Jul 15, 2026 · CONSOLIDATED ANNUAL REPORT & ACCOUNTS YEAR ENDED 31 MARCH 2026 VIANET GROUP PLC WEDNESDAY A01 01/07/2026 67 COMPANIES HOUSE CONTENTS"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.digireality.cz/inzerat/6ad5e6f2415bfb75c4839ff3",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/for-sale-holiday-property-praha-8-velka-skala-4425766",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://rentero.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://hypestat.com/info/bsstyl.cz",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.hlidacstatu.cz/Detail/31712000",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://pzmk.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://financialfilings.com/filings/vianet-group-plc/annual-report/2026/49455223/",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30133602",
+        "legal_name": "HRYCHKA STAV s.r.o.",
+        "registered_at": "2026-10-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133602",
+        "decision_maker": {
+          "name": "VASYL HRYCHKA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133602",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "VASYL HRYCHKA",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133602",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133602",
+          "date": "2026-10-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "HRYCHKA STAV s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Rybná 716, Praha, 11000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30133602 dated 2026-10-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133602",
+            "date": "2026-10-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30133602"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "VASYL HRYCHKA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133602",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.digireality.cz/inzerat/6ad5e6f2415bfb75c4839ff3",
+        "https://www.realcity.cz/en/property/for-sale-holiday-property-praha-8-velka-skala-4425766",
+        "https://www.facebook.com/DaramisGroup/",
+        "https://vces.cz/",
+        "https://www.skanska.com/cz/cs",
+        "https://rentero.cz/",
+        "https://www.linkedin.com/search/results/all/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30133718": {
+      "lead_id": "res-30133718",
+      "name": "Filipa STAV, s.r.o.",
+      "checked_at": "2026-10-21",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Filipa STAV, s.r.o.\" IČO 30133718 web",
+          "\"Filipa STAV, s.r.o.\" Praha Construction & property kontakt",
+          "\"Filipa STAV, s.r.o.\" \"Na Větrově 271\" web",
+          "\"Filipa STAV, s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30133718/filipa-stav-sro/",
+            "title": "Filipa STAV, s.r.o. , IČO 30133718 - Obchodní rejstřík firem",
+            "snippet": "Kde je sídlo firmy Filipa STAV, s.r.o.? Sídlo firmy Filipa STAV, s.r.o. je Na Větrově 271/35, Lhotka, 14200 Praha 4. Další firmy na této adrese. X Kurzy.cz > Obchodní rejstřík > Filipa STAV, s.r.o."
+          },
+          {
+            "url": "https://www.podnikani.cz/30133718/filipa-stav-sro/",
+            "title": "Filipa STAV, s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku Filipa STAV, s.r.o. Na Větrově 271/35, Lhotka, 14200 Praha 4 , IČO: 30133718, Zákl. kapitál: 1000 Kč"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30133718/filipa-stav-sro/zivnosti/",
+            "title": "Filipa STAV, s.r.o. - Živnostenský rejstřík | Kurzy.cz",
+            "snippet": "Filipa STAV, s.r.o., firma – kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
+          },
+          {
+            "url": "https://www.digireality.cz/inzerat/6ad5e6f2415bfb75c4839ff3",
+            "title": "Other commercial property for rent, 162m 2 Praha",
+            "snippet": "2 days ago · Kontakt a info 6-month rental with the possibility of extension - family house 5+1 (162 sqm) with cellar (32 sqm), parking, and garden (584 sqm). We offer for rent a family house with a layout of 5+1 and a usable area of 162 sqm including a cellar, garden, and the possibility of parking several vehicles in"
+          },
+          {
+            "url": "https://rentero.cz/",
+            "title": "Rentero, Vaše nemovitosti, naše starosti",
+            "snippet": "Vaše nemovitosti, naše starosti. Domovům vracíme smysl, majitelům čas a výnos. Komplexní péče o nemovitost od přípravy po každodenní provoz."
+          },
+          {
+            "url": "https://www.profesia.sk/praca/okres-poprad/zoznam-spolocnosti/",
+            "title": "PROFESIA.SK | Práca a Ponuky práce",
+            "snippet": "Práca si vás teraz nájde sama. Nepremeškajte najnovšie ponuky práce. Získajte denne aktualizovaný zoznam pre voľné pracovné miesta a ponuky na zamestnanie."
+          },
+          {
+            "url": "https://www.facebook.com/DaramisGroup/",
+            "title": "Daramis | Prague - Facebook",
+            "snippet": "6 days ago · Daramis, Prague. 5,984 followers · 21 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30133718/filipa-stav-sro/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.digireality.cz/inzerat/6ad5e6f2415bfb75c4839ff3",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://rentero.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.profesia.sk/praca/okres-poprad/zoznam-spolocnosti/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30133718",
+        "legal_name": "Filipa STAV, s.r.o.",
+        "registered_at": "2026-10-09",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133718",
+        "decision_maker": {
+          "name": "MICHAEL PÍPAL",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133718",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "MICHAEL PÍPAL",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133718",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "FRANTIŠEK FRANCL",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133718",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "PAVEL FABIČOVIC",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133718",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133718",
+          "date": "2026-10-09",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Filipa STAV, s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Na Větrově 271, Praha, 14200.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30133718 dated 2026-10-09."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133718",
+            "date": "2026-10-09",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30133718"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "MICHAEL PÍPAL",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30133718",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30133718/filipa-stav-sro/",
+        "https://www.podnikani.cz/30133718/filipa-stav-sro/",
+        "https://rejstrik-firem.kurzy.cz/30133718/filipa-stav-sro/zivnosti/",
+        "https://www.digireality.cz/inzerat/6ad5e6f2415bfb75c4839ff3",
+        "https://rentero.cz/",
+        "https://www.profesia.sk/praca/okres-poprad/zoznam-spolocnosti/",
+        "https://www.facebook.com/DaramisGroup/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30134765": {
+      "lead_id": "res-30134765",
+      "name": "OkenTech ServisOk s.r.o.",
+      "checked_at": "2026-10-21",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"OkenTech ServisOk s.r.o.\" IČO 30134765 web",
+          "\"OkenTech ServisOk s.r.o.\" Praha Construction & property kontakt",
+          "\"OkenTech ServisOk s.r.o.\" \"Jaurisova 515\" web",
+          "\"OkenTech ServisOk s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://fakturujzdarma.cz/firma/27603881-nta-praha-s-r-o-v-likvidaci",
+            "title": "NTA PRAHA s.r.o. v likvidaci, Praha 4 (IČO 27603881 ...",
+            "snippet": "NTA PRAHA s.r.o. v likvidaci, IČO 27603881. Firma je v likvidaci, bez probíhající insolvence. Společnost s ručením omezeným. Sídlo: Jaurisova 515/4, 140 00 Praha 4, Česká republika. Obor: osobní služby. Statutární zástupce: Markéta Čermáková. Základní kapitál 200 000 Kč. Vystavte této firmě fakturu zdarma online."
+          },
+          {
+            "url": "https://www.eurobydleni.cz/pronajem-prostoru-26-m2-metro-praha-7-holesovice-ul-plynarni/detail/10207541/",
+            "title": "Pronájem prostoru, 26 m2, metro, Praha 7 - Holešovice, ul ...Obchodní podmínky - OknamistrMastet.com Unusual czech teen spreads her spread slit to the ...JISTAVBY, s.r.o. v likvida",
+            "snippet": "Pronájem prostoru k bydlení o velikosti 26 m2 se nachází v polosuterénu cihlového domu na dobré adrese jednu minutu od metra Nádraží Holešovice. Skládá se ze dvou místností, z nichž větší obsahuje kuchyňský kout, koupelny se sprchovým koutem a toaletou. V případě zájmu více informací, nebo prohlídky, kontaktujte prosím"
+          },
+          {
+            "url": "https://oknamistr.cz/obchodni-podminky/",
+            "title": "Obchodní podmínky - Oknamistr",
+            "snippet": "1. Úvodní ustanovení 1.1 Tyto obchodní podmínky upravují práva a povinnosti mezi společností Endrych s.r.o., IČO 21635943, DIČ CZ21635943, se sídlem Jaurisova 515/4, 140 00 Praha 4, zapsanou v obchodním rejstříku vedeném Městským soudem v Praze, oddíl C, vložka 404285 (dále „zhotovitel“), vystupující pod značkou Oknami"
+          },
+          {
+            "url": "https://getproofanchor.com/dpa",
+            "title": "Data Processing Agreement (GDPR Art. 28) · GetProofAnchor",
+            "snippet": "1 day ago · 1. Parties and scope 1.1 This Data Processing Agreement (\"DPA\") is concluded between the business customer using GetProofAnchor (the \"Controller\") and forehead s.r.o., Jaurisova 515/4, Michle, 140 00 Praha 4, Czech Republic, Company ID 21908117, VAT ID CZ21908117, registered in the Commercial Register kept "
+          },
+          {
+            "url": "https://regiony.kurzy.cz/",
+            "title": "Města a obce v ČR - vyhledávání firem a osob na adrese ...",
+            "snippet": "Města a obce v ČR - vyhledávání firem a osob na adrese, zajímavosti - Města a obce"
+          },
+          {
+            "url": "https://hypestat.com/info/mastet.com",
+            "title": "Mastet.com Unusual czech teen spreads her spread slit to the ...",
+            "snippet": "Unusual czech teen spreads her spread slit to the extreme — Mastet.com stats: ~10 visits/day, hosted by Hetzner Online GmbH (Germany), technologies and safety."
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/jistavby-s-r-o-v-likvidaci-08516405/",
+            "title": "JISTAVBY, s.r.o. v likvidaci - IČO 08516405 - Obchodní ...",
+            "snippet": "Podrobnosti o firmě JISTAVBY, s.r.o. v likvidaci - IČO 08516405 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů,…"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://fakturujzdarma.cz/firma/27603881-nta-praha-s-r-o-v-likvidaci",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.eurobydleni.cz/pronajem-prostoru-26-m2-metro-praha-7-holesovice-ul-plynarni/detail/10207541/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://oknamistr.cz/obchodni-podminky/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://getproofanchor.com/dpa",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://hypestat.com/info/mastet.com",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30134765",
+        "legal_name": "OkenTech ServisOk s.r.o.",
+        "registered_at": "2026-10-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30134765",
+        "decision_maker": {
+          "name": "NATALIIA CHEPRASOVA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30134765",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "NATALIIA CHEPRASOVA",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30134765",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30134765",
+          "date": "2026-10-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "OkenTech ServisOk s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Jaurisova 515, Praha, 14000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30134765 dated 2026-10-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30134765",
+            "date": "2026-10-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30134765"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "NATALIIA CHEPRASOVA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30134765",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://fakturujzdarma.cz/firma/27603881-nta-praha-s-r-o-v-likvidaci",
+        "https://www.eurobydleni.cz/pronajem-prostoru-26-m2-metro-praha-7-holesovice-ul-plynarni/detail/10207541/",
+        "https://oknamistr.cz/obchodni-podminky/",
+        "https://getproofanchor.com/dpa",
+        "https://regiony.kurzy.cz/",
+        "https://hypestat.com/info/mastet.com",
+        "https://www.podnikatel.cz/rejstrik/jistavby-s-r-o-v-likvidaci-08516405/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30135672": {
+      "lead_id": "res-30135672",
+      "name": "DC Alfa s.r.o.",
+      "checked_at": "2026-10-21",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"DC Alfa s.r.o.\" IČO 30135672 web",
+          "\"DC Alfa s.r.o.\" Praha Construction & property kontakt",
+          "\"DC Alfa s.r.o.\" \"U výstavby 488\" web",
+          "\"DC Alfa s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://www.facebook.com/DaramisGroup/",
+            "title": "Daramis | Prague - FacebookSkanska v České republiceSkupina VCES033AV2309C - Manuals+Česko - GLP EuropeGlobal Construction & Infrastructure Group – HOCHTIEF",
+            "snippet": "6 days ago · Daramis, Prague. 5,984 followers · 21 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy. Skanska je jedna z největších stavebních a developerských společností na světě. Zaměřujeme se na generální dodávky staveb a komplexní developm"
+          },
+          {
+            "url": "https://www.hochtief.com/",
+            "title": "Global Construction & Infrastructure Group – HOCHTIEF",
+            "snippet": "“The Big Picture” This film showcases what HOCHTIEF stands for: engineering excellence, strong local teams, and growth in the areas that will shape our future—from digitalization and AI to clean energy and critical minerals, and on to modern mobility and resilient infrastructure. Across continents, we build infrastruct"
+          },
+          {
+            "url": "https://www.profesia.sk/praca/okres-poprad/zoznam-spolocnosti/",
+            "title": "PROFESIA.SK | Práca a Ponuky práce",
+            "snippet": "Práca si vás teraz nájde sama. Nepremeškajte najnovšie ponuky práce. Získajte denne aktualizovaný zoznam pre voľné pracovné miesta a ponuky na zamestnanie."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://manuals.plus/m/094874f71fca743aa377b0b95c3b0a0280c1b9f1c74bef5b8c7385dfd236828e",
+            "title": "033AV2309C - Manuals+",
+            "snippet": "Denon AVR-2309CI owner's manual Denon AVR-2309CI Home theater receiver with HDMI switching and video upconversion at Crutchfield"
+          },
+          {
+            "url": "https://eu.glp.com/cs/o-nas/zeme/cesko/",
+            "title": "Česko - GLP Europe",
+            "snippet": "Globální značka GLP (mimo území Číny) nyní nese název Marq Logistics a je světovým lídrem v developmentu a provozování moderních logistických nemovistostí. Posláním společnosti Marq Logistics je poskytovat logistická zařízení institucionální kvality a konzistentní, prvotřídní služby nájemcům po celém světě."
+          },
+          {
+            "url": "https://www.aaapoptavka.cz/zadat-poptavku/0",
+            "title": "Zadání poptávky | AAAPoptávka.cz",
+            "snippet": "Zadejte si poptávku ZDARMA. Vaše poptávka bude rozeslána ověřeným dodavatelům z celé ČR. První reakce na poptávky obdržíte již do několika hodin. Vyzkoušejte největší poptávkový systém."
+          },
+          {
+            "url": "https://dohledano.cz/",
+            "title": "Dohledávání informací (OSINT) | Lukáš Jelšina – Praha & okolí",
+            "snippet": "Diskrétní dohledávání informací a ověřování faktů z veřejných zdrojů (OSINT). Rychlá domluva, férová cena. Praha a okolí."
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Poptávám: mezistátní přepravu, Dilovası, Kocaeli (Turecko) - Pelhřimov před 1 hodinou Asie Doprava Firma Praha 5 Stodůlky zadáno 28 poptávek"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: vyvíječ vůně s montáží, Praha, 700 m² Úklid Drogerie, kosmetika, parfémy okres Praha 21. 10. 2026 (dnes)"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.hochtief.com/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.profesia.sk/praca/okres-poprad/zoznam-spolocnosti/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://manuals.plus/m/094874f71fca743aa377b0b95c3b0a0280c1b9f1c74bef5b8c7385dfd236828e",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://eu.glp.com/cs/o-nas/zeme/cesko/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.aaapoptavka.cz/zadat-poptavku/0",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://dohledano.cz/",
+            "result": "unreachable",
+            "reason": "HTTP_401"
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30135672",
+        "legal_name": "DC Alfa s.r.o.",
+        "registered_at": "2026-10-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30135672",
+        "decision_maker": {
+          "name": "PETR VAVREČKA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30135672",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "PETR VAVREČKA",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30135672",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30135672",
+          "date": "2026-10-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "DC Alfa s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at U výstavby 488, Praha, 11101.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30135672 dated 2026-10-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30135672",
+            "date": "2026-10-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30135672"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "PETR VAVREČKA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30135672",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.facebook.com/DaramisGroup/",
+        "https://www.hochtief.com/",
+        "https://www.profesia.sk/praca/okres-poprad/zoznam-spolocnosti/",
+        "https://www.skanska.com/cz/cs",
+        "https://vces.cz/",
+        "https://manuals.plus/m/094874f71fca743aa377b0b95c3b0a0280c1b9f1c74bef5b8c7385dfd236828e",
+        "https://eu.glp.com/cs/o-nas/zeme/cesko/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
       "owner_verified": false,
       "buyer_interest_verified": false
     }
