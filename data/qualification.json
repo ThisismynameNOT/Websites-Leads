@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-21T12:44:53.465936+00:00",
+  "generated_at": "2026-10-22T12:58:29.885611+00:00",
   "scoring_model": {
     "website_opportunity": 25,
     "financial_capacity": 25,
@@ -41,11 +41,11 @@
       "verified_ares": true
     },
     "manual-kolos-praha-building": {
-      "score": 33,
+      "score": 36,
       "score_breakdown": {
         "website_opportunity": 0,
         "financial_capacity": 0,
-        "business_activity": 12,
+        "business_activity": 15,
         "lead_generation_value": 12,
         "accessible_contact": 6,
         "cms_suitability": 3
@@ -58,11 +58,10 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "AMBIGUOUS",
+      "website_classification": "VERIFIED_WEBSITE",
       "registered_at": "2006-07-26",
       "source_type": "Manual curation",
       "outstanding_checks": [
-        "Company website identity ambiguous",
         "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
@@ -2086,13 +2085,13 @@
       "verified_ares": false
     },
     "res-30138051": {
-      "score": 15,
+      "score": 28,
       "score_breakdown": {
         "website_opportunity": 0,
         "financial_capacity": 0,
-        "business_activity": 0,
+        "business_activity": 10,
         "lead_generation_value": 12,
-        "accessible_contact": 0,
+        "accessible_contact": 3,
         "cms_suitability": 3
       },
       "priority": "low",
@@ -2103,30 +2102,28 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "SEARCH_UNAVAILABLE",
+      "website_classification": "AMBIGUOUS",
       "registered_at": "2026-10-12",
       "source_type": "csu_res",
       "outstanding_checks": [
-        "ARES identity and active legal status not verified",
         "Registered HQ is not evidence of trading premises",
-        "Website search incomplete or unavailable",
+        "Company website identity ambiguous",
         "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
         "Buyer interest and budget not confirmed"
       ],
       "tier": 1,
-      "verified_ares": false
+      "verified_ares": true
     },
     "res-30137977": {
-      "score": 15,
+      "score": 28,
       "score_breakdown": {
         "website_opportunity": 0,
         "financial_capacity": 0,
-        "business_activity": 0,
+        "business_activity": 10,
         "lead_generation_value": 12,
-        "accessible_contact": 0,
+        "accessible_contact": 3,
         "cms_suitability": 3
       },
       "priority": "low",
@@ -2137,30 +2134,28 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "SEARCH_UNAVAILABLE",
+      "website_classification": "AMBIGUOUS",
       "registered_at": "2026-10-12",
       "source_type": "csu_res",
       "outstanding_checks": [
-        "ARES identity and active legal status not verified",
         "Registered HQ is not evidence of trading premises",
-        "Website search incomplete or unavailable",
+        "Company website identity ambiguous",
         "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
         "Buyer interest and budget not confirmed"
       ],
       "tier": 1,
-      "verified_ares": false
+      "verified_ares": true
     },
     "res-30137942": {
-      "score": 15,
+      "score": 28,
       "score_breakdown": {
         "website_opportunity": 0,
         "financial_capacity": 0,
-        "business_activity": 0,
+        "business_activity": 10,
         "lead_generation_value": 12,
-        "accessible_contact": 0,
+        "accessible_contact": 3,
         "cms_suitability": 3
       },
       "priority": "low",
@@ -2171,30 +2166,28 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "SEARCH_UNAVAILABLE",
+      "website_classification": "AMBIGUOUS",
       "registered_at": "2026-10-12",
       "source_type": "csu_res",
       "outstanding_checks": [
-        "ARES identity and active legal status not verified",
         "Registered HQ is not evidence of trading premises",
-        "Website search incomplete or unavailable",
+        "Company website identity ambiguous",
         "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
         "Buyer interest and budget not confirmed"
       ],
       "tier": 1,
-      "verified_ares": false
+      "verified_ares": true
     },
     "res-30137756": {
-      "score": 15,
+      "score": 28,
       "score_breakdown": {
         "website_opportunity": 0,
         "financial_capacity": 0,
-        "business_activity": 0,
+        "business_activity": 10,
         "lead_generation_value": 12,
-        "accessible_contact": 0,
+        "accessible_contact": 3,
         "cms_suitability": 3
       },
       "priority": "low",
@@ -2205,30 +2198,28 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "SEARCH_UNAVAILABLE",
+      "website_classification": "AMBIGUOUS",
       "registered_at": "2026-10-12",
       "source_type": "csu_res",
       "outstanding_checks": [
-        "ARES identity and active legal status not verified",
         "Registered HQ is not evidence of trading premises",
-        "Website search incomplete or unavailable",
+        "Company website identity ambiguous",
         "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
         "Buyer interest and budget not confirmed"
       ],
       "tier": 1,
-      "verified_ares": false
+      "verified_ares": true
     },
     "res-30137713": {
-      "score": 15,
+      "score": 28,
       "score_breakdown": {
         "website_opportunity": 0,
         "financial_capacity": 0,
-        "business_activity": 0,
+        "business_activity": 10,
         "lead_generation_value": 12,
-        "accessible_contact": 0,
+        "accessible_contact": 3,
         "cms_suitability": 3
       },
       "priority": "low",
@@ -2239,30 +2230,28 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "SEARCH_UNAVAILABLE",
+      "website_classification": "AMBIGUOUS",
       "registered_at": "2026-10-12",
       "source_type": "csu_res",
       "outstanding_checks": [
-        "ARES identity and active legal status not verified",
         "Registered HQ is not evidence of trading premises",
-        "Website search incomplete or unavailable",
+        "Company website identity ambiguous",
         "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
         "Buyer interest and budget not confirmed"
       ],
       "tier": 1,
-      "verified_ares": false
+      "verified_ares": true
     },
     "res-30137314": {
-      "score": 15,
+      "score": 28,
       "score_breakdown": {
         "website_opportunity": 0,
         "financial_capacity": 0,
-        "business_activity": 0,
+        "business_activity": 10,
         "lead_generation_value": 12,
-        "accessible_contact": 0,
+        "accessible_contact": 3,
         "cms_suitability": 3
       },
       "priority": "low",
@@ -2273,30 +2262,28 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "SEARCH_UNAVAILABLE",
+      "website_classification": "AMBIGUOUS",
       "registered_at": "2026-10-12",
       "source_type": "csu_res",
       "outstanding_checks": [
-        "ARES identity and active legal status not verified",
         "Registered HQ is not evidence of trading premises",
-        "Website search incomplete or unavailable",
+        "Company website identity ambiguous",
         "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
         "Buyer interest and budget not confirmed"
       ],
       "tier": 1,
-      "verified_ares": false
+      "verified_ares": true
     },
     "res-30137098": {
-      "score": 15,
+      "score": 28,
       "score_breakdown": {
         "website_opportunity": 0,
         "financial_capacity": 0,
-        "business_activity": 0,
+        "business_activity": 10,
         "lead_generation_value": 12,
-        "accessible_contact": 0,
+        "accessible_contact": 3,
         "cms_suitability": 3
       },
       "priority": "low",
@@ -2307,30 +2294,28 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "SEARCH_UNAVAILABLE",
+      "website_classification": "AMBIGUOUS",
       "registered_at": "2026-10-12",
       "source_type": "csu_res",
       "outstanding_checks": [
-        "ARES identity and active legal status not verified",
         "Registered HQ is not evidence of trading premises",
-        "Website search incomplete or unavailable",
+        "Company website identity ambiguous",
         "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
         "Buyer interest and budget not confirmed"
       ],
       "tier": 1,
-      "verified_ares": false
+      "verified_ares": true
     },
     "res-30136636": {
-      "score": 15,
+      "score": 31,
       "score_breakdown": {
         "website_opportunity": 0,
         "financial_capacity": 0,
-        "business_activity": 0,
+        "business_activity": 13,
         "lead_generation_value": 12,
-        "accessible_contact": 0,
+        "accessible_contact": 3,
         "cms_suitability": 3
       },
       "priority": "low",
@@ -2341,21 +2326,18 @@
         "facts": [],
         "confirmed_budget": null
       },
-      "website_classification": "SEARCH_UNAVAILABLE",
+      "website_classification": "VERIFIED_WEBSITE",
       "registered_at": "2026-10-12",
       "source_type": "csu_res",
       "outstanding_checks": [
-        "ARES identity and active legal status not verified",
         "Registered HQ is not evidence of trading premises",
-        "Website search incomplete or unavailable",
         "Concrete website development need not independently verified",
         "Financial capacity not verified",
         "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
         "Buyer interest and budget not confirmed"
       ],
       "tier": 1,
-      "verified_ares": false
+      "verified_ares": true
     },
     "res-30135672": {
       "score": 28,
@@ -19363,6 +19345,1519 @@
         "Buyer interest and budget not confirmed"
       ],
       "tier": 2,
+      "verified_ares": false
+    },
+    "osm-node-12104340701": {
+      "score": 22,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 3,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-3800058086": {
+      "score": 22,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 3,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-4330936992": {
+      "score": 22,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 3,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-way-1319907782": {
+      "score": 22,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 3,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-3566722399": {
+      "score": 18,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 9,
+        "accessible_contact": 3,
+        "cms_suitability": 2
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "search_unavailable",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 2,
+      "verified_ares": false
+    },
+    "osm-node-13322225548": {
+      "score": 18,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 9,
+        "accessible_contact": 3,
+        "cms_suitability": 2
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 2,
+      "verified_ares": false
+    },
+    "osm-node-296587406": {
+      "score": 19,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 0,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-449791156": {
+      "score": 19,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 0,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-2737439732": {
+      "score": 19,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 0,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-4111466820": {
+      "score": 19,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 0,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-8677897741": {
+      "score": 19,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 0,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-9646139981": {
+      "score": 19,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 0,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-9727477017": {
+      "score": 19,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 0,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-10025977005": {
+      "score": 19,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 0,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-10096134055": {
+      "score": 19,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 0,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-10096134061": {
+      "score": 19,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 0,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-10223400059": {
+      "score": 19,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 0,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-11333385967": {
+      "score": 19,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 0,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-11418657901": {
+      "score": 19,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 0,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-11543226059": {
+      "score": 19,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 0,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-12117207735": {
+      "score": 19,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 0,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-13071088011": {
+      "score": 63,
+      "score_breakdown": {
+        "website_opportunity": 22,
+        "financial_capacity": 0,
+        "business_activity": 15,
+        "lead_generation_value": 15,
+        "accessible_contact": 6,
+        "cms_suitability": 5
+      },
+      "priority": "further_qualification",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "VERIFIED_WEBSITE",
+      "registered_at": "2012-06-13",
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": true
+    },
+    "osm-node-332036139": {
+      "score": 22,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 3,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-3840397768": {
+      "score": 22,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 3,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-5188088452": {
+      "score": 22,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 3,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-11716231002": {
+      "score": 22,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 3,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-11764459936": {
+      "score": 22,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 3,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-13997175495": {
+      "score": 22,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 3,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-14115173902": {
+      "score": 22,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 3,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-296753227": {
+      "score": 22,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 3,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-3617050377": {
+      "score": 15,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 9,
+        "accessible_contact": 0,
+        "cms_suitability": 2
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 2,
+      "verified_ares": false
+    },
+    "osm-node-5612300989": {
+      "score": 15,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 9,
+        "accessible_contact": 0,
+        "cms_suitability": 2
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 2,
+      "verified_ares": false
+    },
+    "osm-node-6466508783": {
+      "score": 15,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 9,
+        "accessible_contact": 0,
+        "cms_suitability": 2
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 2,
+      "verified_ares": false
+    },
+    "osm-node-4201850290": {
+      "score": 22,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 3,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-10021452160": {
+      "score": 22,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 3,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-2260242086": {
+      "score": 11,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 6,
+        "accessible_contact": 0,
+        "cms_suitability": 1
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 3,
+      "verified_ares": false
+    },
+    "osm-node-296465405": {
+      "score": 18,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 9,
+        "accessible_contact": 3,
+        "cms_suitability": 2
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 2,
+      "verified_ares": false
+    },
+    "osm-node-1336753550": {
+      "score": 18,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 9,
+        "accessible_contact": 3,
+        "cms_suitability": 2
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 2,
+      "verified_ares": false
+    },
+    "osm-node-10815170094": {
+      "score": 18,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 9,
+        "accessible_contact": 3,
+        "cms_suitability": 2
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 2,
+      "verified_ares": false
+    },
+    "osm-node-9804659264": {
+      "score": 14,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 6,
+        "accessible_contact": 3,
+        "cms_suitability": 1
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 3,
+      "verified_ares": false
+    },
+    "osm-node-10929744187": {
+      "score": 18,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 9,
+        "accessible_contact": 3,
+        "cms_suitability": 2
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 2,
+      "verified_ares": false
+    },
+    "osm-node-6539370798": {
+      "score": 19,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 0,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-7777461115": {
+      "score": 19,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 0,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-8117122489": {
+      "score": 19,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 0,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-11218573386": {
+      "score": 19,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 0,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
+      "verified_ares": false
+    },
+    "osm-node-12229345860": {
+      "score": 19,
+      "score_breakdown": {
+        "website_opportunity": 0,
+        "financial_capacity": 0,
+        "business_activity": 4,
+        "lead_generation_value": 12,
+        "accessible_contact": 0,
+        "cms_suitability": 3
+      },
+      "priority": "low",
+      "qualification_status": "research_required",
+      "discovery_pipeline": "established",
+      "financial": {
+        "status": "not_verified",
+        "facts": [],
+        "confirmed_budget": null
+      },
+      "website_classification": "SEARCH_UNAVAILABLE",
+      "registered_at": null,
+      "source_type": "OpenStreetMap",
+      "outstanding_checks": [
+        "ARES identity and active legal status not verified",
+        "Website search incomplete or unavailable",
+        "Concrete website development need not independently verified",
+        "Financial capacity not verified",
+        "Public contact not independently cross-verified",
+        "Purchasing decision-maker not verified",
+        "Buyer interest and budget not confirmed"
+      ],
+      "tier": 1,
       "verified_ares": false
     },
     "osm-node-449771792": {
@@ -45424,1288 +46919,6 @@
       "tier": 2,
       "verified_ares": false
     },
-    "osm-node-12104340701": {
-      "score": 22,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 3,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-3800058086": {
-      "score": 22,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 3,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-4330936992": {
-      "score": 22,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 3,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-way-1319907782": {
-      "score": 22,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 3,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-3566722399": {
-      "score": 18,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 9,
-        "accessible_contact": 3,
-        "cms_suitability": 2
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "search_unavailable",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 2,
-      "verified_ares": false
-    },
-    "osm-node-13322225548": {
-      "score": 18,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 9,
-        "accessible_contact": 3,
-        "cms_suitability": 2
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 2,
-      "verified_ares": false
-    },
-    "osm-node-296587406": {
-      "score": 19,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 0,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-449791156": {
-      "score": 19,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 0,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-2737439732": {
-      "score": 19,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 0,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-4111466820": {
-      "score": 19,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 0,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-8677897741": {
-      "score": 19,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 0,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-9646139981": {
-      "score": 19,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 0,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-9727477017": {
-      "score": 19,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 0,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-10025977005": {
-      "score": 19,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 0,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-10096134055": {
-      "score": 19,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 0,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-10096134061": {
-      "score": 19,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 0,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-10223400059": {
-      "score": 19,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 0,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-11333385967": {
-      "score": 19,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 0,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-11418657901": {
-      "score": 19,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 0,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-11543226059": {
-      "score": 19,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 0,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-12117207735": {
-      "score": 19,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 0,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-13071088011": {
-      "score": 63,
-      "score_breakdown": {
-        "website_opportunity": 22,
-        "financial_capacity": 0,
-        "business_activity": 15,
-        "lead_generation_value": 15,
-        "accessible_contact": 6,
-        "cms_suitability": 5
-      },
-      "priority": "further_qualification",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "VERIFIED_WEBSITE",
-      "registered_at": "2012-06-13",
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": true
-    },
-    "osm-node-332036139": {
-      "score": 22,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 3,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-3840397768": {
-      "score": 22,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 3,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-5188088452": {
-      "score": 22,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 3,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-11716231002": {
-      "score": 22,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 3,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-11764459936": {
-      "score": 22,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 3,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-13997175495": {
-      "score": 22,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 3,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-14115173902": {
-      "score": 22,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 3,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-296753227": {
-      "score": 22,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 3,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-3617050377": {
-      "score": 15,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 9,
-        "accessible_contact": 0,
-        "cms_suitability": 2
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 2,
-      "verified_ares": false
-    },
-    "osm-node-5612300989": {
-      "score": 15,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 9,
-        "accessible_contact": 0,
-        "cms_suitability": 2
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 2,
-      "verified_ares": false
-    },
-    "osm-node-6466508783": {
-      "score": 15,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 9,
-        "accessible_contact": 0,
-        "cms_suitability": 2
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 2,
-      "verified_ares": false
-    },
-    "osm-node-4201850290": {
-      "score": 22,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 3,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-10021452160": {
-      "score": 22,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 12,
-        "accessible_contact": 3,
-        "cms_suitability": 3
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 1,
-      "verified_ares": false
-    },
-    "osm-node-2260242086": {
-      "score": 11,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 6,
-        "accessible_contact": 0,
-        "cms_suitability": 1
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 3,
-      "verified_ares": false
-    },
-    "osm-node-296465405": {
-      "score": 18,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 9,
-        "accessible_contact": 3,
-        "cms_suitability": 2
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 2,
-      "verified_ares": false
-    },
-    "osm-node-1336753550": {
-      "score": 18,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 9,
-        "accessible_contact": 3,
-        "cms_suitability": 2
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 2,
-      "verified_ares": false
-    },
-    "osm-node-10815170094": {
-      "score": 18,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 9,
-        "accessible_contact": 3,
-        "cms_suitability": 2
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 2,
-      "verified_ares": false
-    },
     "osm-node-304155378": {
       "score": 14,
       "score_breakdown": {
@@ -47136,39 +47349,6 @@
       "verified_ares": false
     },
     "osm-way-485838889": {
-      "score": 14,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 6,
-        "accessible_contact": 3,
-        "cms_suitability": 1
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 3,
-      "verified_ares": false
-    },
-    "osm-node-9804659264": {
       "score": 14,
       "score_breakdown": {
         "website_opportunity": 0,
@@ -59327,204 +59507,6 @@
       "verified_ares": false
     },
     "osm-node-536286751": {
-      "score": 11,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 6,
-        "accessible_contact": 0,
-        "cms_suitability": 1
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 3,
-      "verified_ares": false
-    },
-    "osm-node-539781377": {
-      "score": 11,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 6,
-        "accessible_contact": 0,
-        "cms_suitability": 1
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 3,
-      "verified_ares": false
-    },
-    "osm-node-552405514": {
-      "score": 11,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 6,
-        "accessible_contact": 0,
-        "cms_suitability": 1
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 3,
-      "verified_ares": false
-    },
-    "osm-node-566395679": {
-      "score": 11,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 6,
-        "accessible_contact": 0,
-        "cms_suitability": 1
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 3,
-      "verified_ares": false
-    },
-    "osm-node-569118002": {
-      "score": 11,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 6,
-        "accessible_contact": 0,
-        "cms_suitability": 1
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 3,
-      "verified_ares": false
-    },
-    "osm-node-569122167": {
-      "score": 11,
-      "score_breakdown": {
-        "website_opportunity": 0,
-        "financial_capacity": 0,
-        "business_activity": 4,
-        "lead_generation_value": 6,
-        "accessible_contact": 0,
-        "cms_suitability": 1
-      },
-      "priority": "low",
-      "qualification_status": "research_required",
-      "discovery_pipeline": "established",
-      "financial": {
-        "status": "not_verified",
-        "facts": [],
-        "confirmed_budget": null
-      },
-      "website_classification": "SEARCH_UNAVAILABLE",
-      "registered_at": null,
-      "source_type": "OpenStreetMap",
-      "outstanding_checks": [
-        "ARES identity and active legal status not verified",
-        "Website search incomplete or unavailable",
-        "Concrete website development need not independently verified",
-        "Financial capacity not verified",
-        "Public contact not independently cross-verified",
-        "Purchasing decision-maker not verified",
-        "Buyer interest and budget not confirmed"
-      ],
-      "tier": 3,
-      "verified_ares": false
-    },
-    "osm-node-575173347": {
       "score": 11,
       "score_breakdown": {
         "website_opportunity": 0,
