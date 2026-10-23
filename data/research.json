@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-22T12:58:20.656823+00:00",
+  "generated_at": "2026-10-23T12:28:57.027850+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -916,21 +916,91 @@
     "osm-node-13071088011": {
       "lead_id": "osm-node-13071088011",
       "name": "Snížek",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-23",
       "engine_version": 8,
       "state": "audited",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "searched",
         "queries": [
           "\"Snížek\" IČO 24316237 web",
           "\"Snížek\" Praha Construction & property kontakt",
           "\"Snížek\" \"Komornická 1394/1\" web",
           "\"Snížek\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://firmastat.cz/firma/24316237",
+            "title": "Snížek CZ spol. s r.o. (IČO 24316237) — Firmastat",
+            "snippet": "Snížek CZ spol. s r.o., IČO 24316237, Společnost s ručením omezeným, sídlo Dolany 54, 273 51 Dolany. Aktivní subjekt — základní údaje, statutární orgán, společ…"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/24316237/snizek-cz-sro/",
+            "title": "Snížek CZ spol. s r.o. , Dolany IČO 24316237 - Obchodní ...",
+            "snippet": "Tato stránka obsahuje aktuální výpis údajů firmy Snížek CZ spol. s r.o. Údaje byly staženy 4. března 2022 z datové služby justice.cz dle IČO 24316237 a údaje ve výpise nebyly dle systému ARES do dnešního dne změněny. Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob. Kompletn"
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/24316237-snizek-cz-spol-s-r-o",
+            "title": "Snížek CZ spol. s r.o., IČO: 24316237 - rejstřík firem ...",
+            "snippet": "Kompletní informace o subjektu Snížek CZ spol. s r.o., IČO: 24316237. Výpis z různých rejstříků, aktuální data. Sídlo, vedení, majitelé, předmět ..."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/ares/24316237-snizek-cz-spol-s-r-o",
+            "title": "Snížek CZ spol. s r.o., Dolany, IČO: 24316237 - RES",
+            "snippet": "Aug 25, 2025 · Tento výpis z RES obsahuje údaje o společnosti Snížek CZ spol. s r.o.. Údaje byly staženy 2. 10. 2024 z datové služby dle IČO 24316237. Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob."
+          },
+          {
+            "url": "https://www.detail.cz/firma/24316237-snizek-cz-spol-s-ro-dolany-54-dolany/",
+            "title": "Společnost Snížek CZ spol. s r.o. | Detail.cz",
+            "snippet": "Jun 13, 2012 · Společnost Snížek CZ spol. s r.o. (IČO: 24316237) byla založena dne 13. června 2012 ve Středočeském kraji. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti."
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/24316237-snizek-cz-spol-s-r-o",
+            "title": "Snížek CZ spol. s r.o., IČO: 24316237 - ARES - Finmag.cz",
+            "snippet": "Údaje o Snížek CZ spol. s r.o., Dolany 54, 27351, IČO: 24316237 byly staženy 7. 2. 2026 z webové stránky justice.cz a služby RES, která sdružuje několik veřejných rejstříků včetně obchodního rejstříku. Zobrazujeme pouze údaje, které byly zveřejněny na základě zákona v různých rejstřících. Seznam odkazů na zdrojové info"
+          },
+          {
+            "url": "https://rejstrik.penize.cz/24316237-snizek-cz-spol-s-r-o",
+            "title": "Snížek CZ spol. s r.o., Dolany, IČO: 24316237 - Obchodní ...",
+            "snippet": "Snížek CZ spol. s r.o., IČO: 24316237, sídlo firmy, předmět podnikání firmy. Aktuální i úplný výpis firmy Snížek CZ spol. s r.o. z Obchodního ..."
+          },
+          {
+            "url": "https://www.snizek.cz/",
+            "title": "Snížek sro – Komplexní služby pro technická zařízení budov",
+            "snippet": "CO NABÍZÍME Komplexní služby pro technická zařízení budov Stále přinášíme svým zákazníkům nejnovější technologie v oblasti tepelné techniky. Naším krédem je pečlivá příprava zakázky, odborná montáž za použití nejmodernějších technologií a servis s důrazem na dlouhou životnost zařízení."
+          },
+          {
+            "url": "https://www.votocekteam.com/kontakt/",
+            "title": "Kontakt a nezávazná poptávka stavby | VOTOČEK team",
+            "snippet": "Pošlete nezávaznou poptávku na stavbu domu, bazénu, dlažby nebo oplocení. Ota Votoček +420 731 549 746, ota@votocek.com, Tálínská 1005, Praha 9."
+          },
+          {
+            "url": "https://www.zivefirmy.cz/snizek-cz_f1900097",
+            "title": "SNÍŽEK CZ spol. s r.o., Praha, Dejvice - Živéfirmy.cz",
+            "snippet": "Kompexní služby v oboru topných systémů, klimatizace a chlazení. Dále nabízíme kompletní realizaci rozvodů plynu, vody a kanalizace včetně elektro rozvodů a zednických prací."
+          },
+          {
+            "url": "https://rytinafacility.cz/",
+            "title": "RYTINA – Malířské a úklidové služby Praha",
+            "snippet": "Malířské práce a úklidové služby pro domácnosti, firmy a SVJ v Praze a okolí. Malování bytů, kanceláří, společných prostor a profesionální úklid."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: výměna hlavního uzávěru vody, Praha-Vysočany Řemeslné práce Instalatéři Řemeslné práce Plyn, voda, topení okres Praha 23. 10. 2026 (dnes)"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          }
+        ],
         "errors": [
-          "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
@@ -991,7 +1061,7 @@
       },
       "audit": {
         "state": "observed",
-        "checked_at": "2026-10-09",
+        "checked_at": "2026-10-23",
         "website": "https://www.snizek.cz/",
         "devices": {
           "desktop": {
@@ -1000,8 +1070,8 @@
             "viewport_meta": true,
             "h1_count": 0,
             "horizontal_overflow_px": 174,
-            "visible_text_elements": 44,
-            "small_text_elements": 1,
+            "visible_text_elements": 46,
+            "small_text_elements": 0,
             "broken_images": 0,
             "images_missing_alt": 0,
             "images_count": 25,
@@ -1100,7 +1170,15 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://firmastat.cz/firma/24316237",
+        "https://rejstrik-firem.kurzy.cz/24316237/snizek-cz-sro/",
+        "https://www.finmag.cz/obchodni-rejstrik/24316237-snizek-cz-spol-s-r-o",
+        "https://rejstrik.penize.cz/ares/24316237-snizek-cz-spol-s-r-o",
+        "https://www.detail.cz/firma/24316237-snizek-cz-spol-s-ro-dolany-54-dolany/",
+        "https://www.finmag.cz/obchodni-rejstrik/ares/24316237-snizek-cz-spol-s-r-o",
+        "https://rejstrik.penize.cz/24316237-snizek-cz-spol-s-r-o"
+      ],
       "website_need_verified": true,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -14172,31 +14250,112 @@
     "manual-strecha-servis-zbiral": {
       "lead_id": "manual-strecha-servis-zbiral",
       "name": "Střecha servis – Zbíral",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-23",
       "engine_version": 8,
-      "state": "researched",
+      "state": "audited",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "searched",
         "queries": [
           "\"Střecha servis – Zbíral\" IČO 65384628 web",
           "\"Střecha servis – Zbíral\" Praha Construction & property kontakt",
           "\"Střecha servis – Zbíral\" \"Branická 213/53\" web",
           "\"Střecha servis – Zbíral\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://en.firmy.cz/company/846854-strecha-servis-zbiral-praha-branik.html",
+            "title": "Střecha servis - Zbíral (Praha, Braník) • Firmy.cz",
+            "snippet": "Up-to-date verified information: address, phone, e-mail and reviews Střecha servis - Zbíral, Praha, Braník. Phone: 602 202 …"
+          },
+          {
+            "url": "https://www.firmy.cz/detail/846854-strecha-servis-zbiral-praha-branik.html",
+            "title": "Střecha servis - Zbíral (Praha, Braník) • Firmy.czStřecha servis - ZbíralStřecha servis - Zbíral (Tesařství a pokrývačství) • Mapy.comStřecha servis - Zbíral (Carpentry and roofing",
+            "snippet": "Aktuální ověřené informace: adresa, telefon, e-mail a hodnocení Střecha servis - Zbíral, Praha, Braník. Telefon: 602 202 … Provádíme rekonstrukce eternitových střech, detaily střešních plášťů, klempířské, tesařské a pokrývačské práce, pokládání lehkých střešních krytin. Vyrábíme atypické klempířské výrobky. Věnujeme se"
+          },
+          {
+            "url": "https://mapy.com/cs/?source=firm&id=846854",
+            "title": "Střecha servis - Zbíral (Tesařství a pokrývačství) • Mapy.com",
+            "snippet": "Tesařství a pokrývačství Branická 213/53, 14700 Praha 4 - Braník, Česko Trasa Uložit Sdílet Výlet Přidat hodnocení +420 602 202 801 strechaservis@strechaservis.cz www.strechaservis.cz Navrhnout úpravu údajů"
+          },
+          {
+            "url": "https://mapy.com/?source=firm&id=846854",
+            "title": "Střecha servis - Zbíral (Carpentry and roofing) • Mapy.com",
+            "snippet": "We provide reconstruction of eternit roofs, roofing details, plumbing, carpentry and roofing work, laying of lightweight roofing. We produce atypical..."
+          },
+          {
+            "url": "https://www.firmy.cz/Remesla-a-sluzby/Remesla/Tesarstvi-pokryvacstvi-a-klempirstvi/kraj-praha?page=11",
+            "title": "Tesařství, pokrývačství a klempířství Praha - Firmy.cz",
+            "snippet": "Pplk. Sochora 982/19, Praha, Holešovice Zajišťujeme rekonstrukce střešních plášťů včetně hydroizolací spodních staveb a stavebního klempířství."
+          },
+          {
+            "url": "https://www.firmablizko.cz/230913-strecha-servis-zbiral",
+            "title": "Střecha servis - Zbíral",
+            "snippet": "Provádíme rekonstrukce eternitových střech, detaily střešních plášťů, klempířské, tesařské a pokrývačské práce, pokládání lehkých střešních krytin. Vyrábíme atypické klempířské výrobky. Věnujeme se dílenskému klempířství a kusové výrobě střešních prvků.,"
+          },
+          {
+            "url": "https://en.firmy.cz/Wholesale-and-production/Producers-of-building-supplies/Producers-of-building-products/Producers-of-roofing-materials/kraj-praha/praha-4",
+            "title": "Producers of roofing materials District Prague • Firmy.cz",
+            "snippet": "At Firmy.cz you can find 16 businesses in the category Producers of roofing materials in District Prague and nearby. You can choose from businesses near you, for example Střecha servis - Zbíral, ONDULINE - stavební materiály, spol. s r.o., KERAMET, spol. s r.o.,..."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://krolan.cz/",
+            "title": "Homepage - Krolan",
+            "snippet": "Kompletní realizace a rekonstrukce střech rodinných, průmyslových i historických budov. Výroba dřevostaveb, pergol, teras, garážových stání."
+          }
+        ],
         "errors": [
-          "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "AMBIGUOUS",
-        "website": "",
+        "public_site_contacts": {
+          "emails": [
+            "strechaservis@strechaservis.cz"
+          ],
+          "phones": [],
+          "source": "https://www.firmablizko.cz/230913-strecha-servis-zbiral",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [
+          {
+            "method": "email_matches_business_website",
+            "value": "strechaservis@strechaservis.cz",
+            "source": "https://www.firmablizko.cz/230913-strecha-servis-zbiral"
+          }
+        ],
+        "website": "https://www.firmablizko.cz/230913-strecha-servis-zbiral",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
         "examined": [
           {
             "url": "https://www.strechaservis.cz/",
             "result": "ambiguous",
             "evidence": []
+          },
+          {
+            "url": "https://mapy.com/en/?source=firm&id=846854",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.firmablizko.cz/230913-strecha-servis-zbiral",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
           }
         ],
         "no_website_proven": false
@@ -14218,25 +14377,71 @@
         "director_lookup_status": "HTTPError"
       },
       "audit": {
-        "state": "not_run",
-        "reason": "No independently verified company website"
+        "state": "observed",
+        "checked_at": "2026-10-23",
+        "website": "https://www.firmablizko.cz/230913-strecha-servis-zbiral",
+        "devices": {
+          "desktop": {
+            "title": "Střecha servis - Zbíral",
+            "description": "",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 64,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 11,
+            "images_count": 13,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Střecha servis - Zbíral",
+            "description": "",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 55,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 11,
+            "images_count": 13,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.firmablizko.cz/230913-strecha-servis-zbiral"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
       },
       "buying_signals": [],
       "dossier": {
         "title": "Střecha servis – Zbíral — research dossier",
         "facts": [
           "The business is listed at Branická 213/53, Braník, 147 00 Praha 4.",
-          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "An independently identity-matched business website was found: https://www.firmablizko.cz/230913-strecha-servis-zbiral.",
           "ARES confirms registration for IČO 65384628 dated 1996-04-03."
         ],
         "offer": "Reorganize roofing services and recent work gallery, improve trust and project clarity, optional public content CMS",
-        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
         "observed_issues": [],
         "buying_signals": [],
         "sources": [
           "https://www.strechaservis.cz/",
           "https://www.firmy.cz/detail/846854-strecha-servis-zbiral-praha-branik.html",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=65384628"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=65384628",
+          "https://www.firmablizko.cz/230913-strecha-servis-zbiral"
         ],
         "estimated_deal_czk": [
           null,
@@ -14256,11 +14461,32 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://en.firmy.cz/company/846854-strecha-servis-zbiral-praha-branik.html",
+        "https://www.firmy.cz/detail/846854-strecha-servis-zbiral-praha-branik.html",
+        "https://mapy.com/cs/?source=firm&id=846854",
+        "https://mapy.com/?source=firm&id=846854",
+        "https://www.firmy.cz/Remesla-a-sluzby/Remesla/Tesarstvi-pokryvacstvi-a-klempirstvi/kraj-praha?page=11",
+        "https://www.firmablizko.cz/230913-strecha-servis-zbiral",
+        "https://en.firmy.cz/Wholesale-and-production/Producers-of-building-supplies/Producers-of-building-products/Producers-of-roofing-materials/kraj-praha/praha-4"
+      ],
       "website_need_verified": false,
-      "contact_method": "public_listing_not_owner_verified",
-      "contact_evidence": [],
-      "verified_site_public_contacts": {},
+      "contact_method": "matched_business_website",
+      "contact_evidence": [
+        {
+          "method": "email_matches_business_website",
+          "value": "strechaservis@strechaservis.cz",
+          "source": "https://www.firmablizko.cz/230913-strecha-servis-zbiral"
+        }
+      ],
+      "verified_site_public_contacts": {
+        "emails": [
+          "strechaservis@strechaservis.cz"
+        ],
+        "phones": [],
+        "source": "https://www.firmablizko.cz/230913-strecha-servis-zbiral",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
       "owner_verified": false,
       "buyer_interest_verified": false
     },
@@ -14437,19 +14663,55 @@
     "manual-strechy-adapt-hrouda": {
       "lead_id": "manual-strechy-adapt-hrouda",
       "name": "STŘECHY ADAPT HROUDA s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-23",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "partial_search",
         "queries": [
           "\"STŘECHY ADAPT HROUDA s.r.o.\" IČO 27145697 web",
           "\"STŘECHY ADAPT HROUDA s.r.o.\" Praha Construction & property kontakt",
           "\"STŘECHY ADAPT HROUDA s.r.o.\" \"Mohelnická 1020/1c\" web",
           "\"STŘECHY ADAPT HROUDA s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://star-transit.cz/",
+            "title": "Překladatelské služby, tlumočení, AI překlad | STAR Czech",
+            "snippet": "Překladatelské služby pro firmy: odborné a technické překlady Profesionální překladatelská agentura specializovaná na technické, právní a odborné dokumenty, včetně AI překladů s korekturou, tlumočení a dalších jazykových služeb v různých jazycích. Více než 40 let mezinárodních zkušeností."
+          },
+          {
+            "url": "https://ipkamerypraha.cz/",
+            "title": "ipkamerypraha.cz",
+            "snippet": "Montáž bezdrátových kamer Praha a okolí Instalace kamer pro domy, byty i firmy bez sekání a kabeláže. Rychlá montáž do, ovládání odkudkoliv přes mobil. Nezávazná poptávka – odpovíme do 24h"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.facebook.com/groups/bydleni.nabidka.poptavka/",
+            "title": "Praha - BYDLENÍ SPOLUBYDLENÍ NABÍDKA , POPTÁVKA - Facebook",
+            "snippet": "1 day ago · Skupina je určena pro NABÍDKU a POPTÁVKU bydlení či SPOLUBYDLENÍ v Praze a okolí. Skupinu pro Vás dlouhodobě spravuje Smart Homes a Expert Rent V případě..."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.tlumoceni-preklady.cz/",
+            "title": "Registr překladatelů ČR - Tlumočení-Překlady.cz",
+            "snippet": "Překlady Praha Ceny, reference a nabídka služeb překladatelů v Praze. Doporučení, ceník, služby. Překlady Brno Využijte zkušenosti překladatelů a překladatelek v Brně. Překlady České Budějovice Doporučeni překladatelé, překladatelky a překladatelské firmy a agentury z Českých Budějovic. Překlady Ostrava"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: výměna hlavního uzávěru vody, Praha-Vysočany Řemeslné práce Instalatéři Řemeslné práce Plyn, voda, topení okres Praha 23. 10. 2026 (dnes)"
+          }
+        ],
         "errors": [
           "DDGSException: No results found.",
           "DDGSException: No results found.",
@@ -14463,6 +14725,48 @@
             "result": "ambiguous",
             "evidence": [
               "Matching distinctive business-name words on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://star-transit.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://ipkamerypraha.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.tlumoceni-preklady.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
               "Prague mentioned on website"
             ]
           }
@@ -14532,7 +14836,15 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://star-transit.cz/",
+        "https://ipkamerypraha.cz/",
+        "https://zakazky.epoptavka.cz/",
+        "https://www.facebook.com/groups/bydleni.nabidka.poptavka/",
+        "https://www.epoptavka.cz/",
+        "https://www.tlumoceni-preklady.cz/",
+        "https://www.poptavky.cz/"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -14732,7 +15044,7 @@
     "manual-tomas-majer-roofing": {
       "lead_id": "manual-tomas-majer-roofing",
       "name": "Pokrývačství Tomáš Majer",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-23",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -16422,22 +16734,91 @@
     "manual-jan-kazimour-architects": {
       "lead_id": "manual-jan-kazimour-architects",
       "name": "KAZIMOUR ARCHITEKTI — Ing. arch. Jan Kazimour",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-23",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "searched",
         "queries": [
           "\"KAZIMOUR ARCHITEKTI — Ing. arch. Jan Kazimour\" IČO 76291499 web",
           "\"KAZIMOUR ARCHITEKTI — Ing. arch. Jan Kazimour\" Praha Construction & property kontakt",
           "\"KAZIMOUR ARCHITEKTI — Ing. arch. Jan Kazimour\" \"Čajkovského 492/35\" web",
           "\"KAZIMOUR ARCHITEKTI — Ing. arch. Jan Kazimour\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://www.facebook.com/DaramisGroup/",
+            "title": "Daramis | Prague - FacebookSkanska v České republiceSkupina VCESZahradní architektura Lenka Bulová Ing. - Dolní náves 27, 250 ...Bloomberg Europe:ةيبرعلا 153",
+            "snippet": "Oct 15, 2026 · Daramis, Prague. 5,984 followers · 21 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy. Skanska je jedna z největších stavebních a developerských společností na světě. Zaměřujeme se na generální dodávky staveb a komplexní develo"
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/zahradní-architektura-lenka-bulová-ing",
+            "title": "Zahradní architektura Lenka Bulová Ing. - Dolní náves 27, 250 ...",
+            "snippet": "Zahradní architektura Lenka Bulová Ing. Jenštejn postal code 250 73. See Google profile, Hours, Phone, Website and more for this business. Review on Cybo."
+          },
+          {
+            "url": "https://www.bloomberg.com/europe",
+            "title": "Bloomberg Europe",
+            "snippet": "Bloomberg delivers business and markets news, data, analysis, and video to the world, featuring stories from Businessweek and Bloomberg News"
+          },
+          {
+            "url": "https://m.media-amazon.com/images/I/C15Tq-DbxGL.pdf?ref=dp_product_quick_view",
+            "title": ":ةيبرعلا 153",
+            "snippet": "*For direct access, replace \"xxx\" with the product's model number given on the product rating label or packaging."
+          },
+          {
+            "url": "https://www.linkedin.com/search/results/all/",
+            "title": "LinkedIn",
+            "snippet": "We would like to show you a description here but the site won’t allow us."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: výměna hlavního uzávěru vody, Praha-Vysočany Řemeslné práce Instalatéři Řemeslné práce Plyn, voda, topení okres Praha 23. 10. 2026 (dnes)"
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://rytinafacility.cz/",
+            "title": "RYTINA – Malířské a úklidové služby Praha",
+            "snippet": "Malířské práce a úklidové služby pro domácnosti, firmy a SVJ v Praze a okolí. Malování bytů, kanceláří, společných prostor a profesionální úklid."
+          },
+          {
+            "url": "https://www.firmy.cz/stitek/inzenyrske-site/kraj-praha",
+            "title": "Inženýrské sítě Praha • Firmy.cz",
+            "snippet": "Svým zákazníkům nabízíme služby zahrnující kompletní nabídku stavebních materiálů pro celou stavbu, zpracování rozpočtů na stavbu, samotnou realizaci stavby s provedením všech souvisejících prací."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://webtrh.cz/",
+            "title": "Webtrh. Můj byznys roste.",
+            "snippet": "Místo pro potkávání nabídky a poptávky, prodeje projektů, pracovní nabídky, forum, vzdělání a mnoho dalšího."
+          }
+        ],
         "errors": [
-          "DDGSException: No results found.",
-          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
         "state": "AMBIGUOUS",
@@ -16447,6 +16828,56 @@
             "url": "https://www.kazimour.com/",
             "result": "unreachable",
             "reason": "SSLError"
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/zahradní-architektura-lenka-bulová-ing",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.bloomberg.com/europe",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://m.media-amazon.com/images/I/C15Tq-DbxGL.pdf?ref=dp_product_quick_view",
+            "result": "unreachable",
+            "reason": "not_html"
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://rytinafacility.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
           }
         ],
         "no_website_proven": false
@@ -16500,7 +16931,15 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://www.facebook.com/DaramisGroup/",
+        "https://www.cybo.com/CZ-biz/zahradní-architektura-lenka-bulová-ing",
+        "https://www.bloomberg.com/europe",
+        "https://m.media-amazon.com/images/I/C15Tq-DbxGL.pdf?ref=dp_product_quick_view",
+        "https://www.linkedin.com/search/results/all/",
+        "https://www.skanska.com/cz/cs",
+        "https://vces.cz/"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -27767,7 +28206,7 @@
     "osm-way-1321653805": {
       "lead_id": "osm-way-1321653805",
       "name": "Ibis",
-      "checked_at": "2026-10-14",
+      "checked_at": "2026-10-23",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -27827,7 +28266,7 @@
     "osm-way-16488701": {
       "lead_id": "osm-way-16488701",
       "name": "XXXLutz",
-      "checked_at": "2026-10-14",
+      "checked_at": "2026-10-23",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -27887,7 +28326,7 @@
     "osm-way-16609451": {
       "lead_id": "osm-way-16609451",
       "name": "Sconto Nábytek",
-      "checked_at": "2026-10-14",
+      "checked_at": "2026-10-23",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -40981,6 +41420,1542 @@
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
       "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30138124": {
+      "lead_id": "res-30138124",
+      "name": "Jaroslav Oleksandrovyč Krysťa",
+      "checked_at": "2026-10-23",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Jaroslav Oleksandrovyč Krysťa\" IČO 30138124 web",
+          "\"Jaroslav Oleksandrovyč Krysťa\" Praha Construction & property kontakt",
+          "\"Jaroslav Oleksandrovyč Krysťa\" \"Gorazdova 331\" web",
+          "\"Jaroslav Oleksandrovyč Krysťa\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 4,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-jaroslav-oleksandrovyc-krysta-30138124/kontakty",
+            "title": "Jaroslav Oleksandrovyč Krysťa IČO 30138124 kontakty 18.10. ...",
+            "snippet": "Podrobnosti o firmě Jaroslav Oleksandrovyč Krysťa IČO 30138124 kontakty 18.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-jaroslav-oleksandrovyc-krysta-30138124/obory-cinnosti",
+            "title": "Jaroslav Oleksandrovyč Krysťa IČO 30138124 kontakty 19.10. ...",
+            "snippet": "Podrobnosti o firmě Jaroslav Oleksandrovyč Krysťa IČO 30138124 kontakty 19.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru…"
+          },
+          {
+            "url": "https://www.aaapoptavka.cz/zadat-poptavku/0",
+            "title": "Zadání poptávky | AAAPoptávka.cz",
+            "snippet": "Zadejte si poptávku ZDARMA. Vaše poptávka bude rozeslána ověřeným dodavatelům z celé ČR. První reakce na poptávky obdržíte již do několika hodin. Vyzkoušejte největší poptávkový systém."
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: výměna hlavního uzávěru vody, Praha-Vysočany Řemeslné práce Instalatéři Řemeslné práce Plyn, voda, topení okres Praha 23. 10. 2026 (dnes)"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          }
+        ],
+        "errors": [],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.aaapoptavka.cz/zadat-poptavku/0",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30138124",
+        "legal_name": "Jaroslav Oleksandrovyč Krysťa",
+        "registered_at": "2026-10-08",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30138124",
+        "decision_maker": {
+          "name": "Jaroslav Oleksandrovyč Krysťa",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30138124",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30138124",
+          "date": "2026-10-08",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Jaroslav Oleksandrovyč Krysťa — research dossier",
+        "facts": [
+          "The business is listed at Gorazdova 331, Praha, 12000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30138124 dated 2026-10-08."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30138124",
+            "date": "2026-10-08",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30138124"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Jaroslav Oleksandrovyč Krysťa",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30138124",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-jaroslav-oleksandrovyc-krysta-30138124/kontakty",
+        "https://rejstriky.finance.cz/firma-jaroslav-oleksandrovyc-krysta-30138124/obory-cinnosti",
+        "https://www.aaapoptavka.cz/zadat-poptavku/0",
+        "https://dodavatele.epoptavka.cz/",
+        "https://zakazky.epoptavka.cz/",
+        "https://www.poptavky.cz/",
+        "https://poptavky.epoptavka.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30139368": {
+      "lead_id": "res-30139368",
+      "name": "Marek Haulík",
+      "checked_at": "2026-10-23",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Marek Haulík\" IČO 30139368 web",
+          "\"Marek Haulík\" Praha Construction & property kontakt",
+          "\"Marek Haulík\" \"Dělnická 313\" web",
+          "\"Marek Haulík\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-marek-haulik-30139368/kontakty",
+            "title": "Marek Haulík IČO 30139368 kontakty 18.10.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Marek Haulík IČO 30139368 kontakty 18.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-marek-haulik-30139368",
+            "title": "Marek Haulík IČO 30139368 kontakty 20.10.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Marek Haulík IČO 30139368 kontakty 20.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/osoby/526482/",
+            "title": "MAREK HAVLÍČEK - rejstříky, události | Kurzy.cz",
+            "snippet": "Mar 9, 2022 · Zde najdete přehled osob se jménem MAREK HAVLÍČEK v České republice. Statistické údaje o jméně Marek Havlicek v rejstřících V existujících společnostech je zapsáno 8 různých osob. Jméno bylo nebo je zapsáno v 13 existujících společnostech a má celkem 16 aktuálních záznamů a celkem 10 historických záznamů."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/ico/databaze/",
+            "title": "Databáze IČO, rejstřík IČO, registr IČO - Kurzy.cz",
+            "snippet": "Vyhledávání v registrech a databázích podle IČO Pro vyhledání právnické osoby nebo fyzické osoby - podnikatele podle IČO v jednotlivých registrech a databázích vedených státními orgány je dobré znát rozdíly mezi těmito databázemi. Informace poskytované v nich se podstatně liší a některé subjekty nebo některé údaje najd"
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/24098639-marek-havlicek",
+            "title": "Marek Havlíček, IČO: 24098639 - ARES - Finmag.cz",
+            "snippet": "Marek Havlíček, IČO: 24098639 - RES Obchodní firma Marek Havlíček se sídlem Brno - Královo Pole, Srbská 2165/15, 61200 a identifikačním číslem (IČO) 24098639."
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/01280422-marek-havlicek",
+            "title": "MAREK HAVLÍČEK, IČO: 01280422 - ARES - Finmag.cz",
+            "snippet": "Výpis z registru ekonomických subjektů (RES) - MAREK HAVLÍČEK, IČO: 01280422, obec: , klasifikace ekonomických činností. Aktuální data."
+          },
+          {
+            "url": "https://overit.sk/osoba/marek-haulik/",
+            "title": "Marek Haulík — funkcie vo firmách | Overit.sk",
+            "snippet": "Marek Haulík: 8 firiem, 6 aktuálnych funkcií podľa Registra právnických osôb SR."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+            "title": "Construction & Property Management s.r.o. , Praha IČO ...",
+            "snippet": "4 days ago · Construction & Property Management s.r.o., Na příkopě, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik ..."
+          },
+          {
+            "url": "https://www.facebook.com/marek042/",
+            "title": "Marek Haulík - Facebook",
+            "snippet": "Marek Haulík is on Facebook. Join Facebook to connect with Marek Haulík and others you may know. Facebook gives people the power to share and makes the world more open and connected."
+          },
+          {
+            "url": "https://www.linkedin.com/pub/dir/Marek/Haulik",
+            "title": "3 \"Marek Haulik\" profiles | LinkedIn",
+            "snippet": "View the profiles of professionals named \"Marek Haulik\" on LinkedIn. There are 3 professionals named \"Marek Haulik\", who use LinkedIn to exchange information, ideas, and ..."
+          },
+          {
+            "url": "https://www.linkedin.com/pub/dir/Marek/Haulík",
+            "title": "2 \"Marek Haulík\" profiles | LinkedIn",
+            "snippet": "View the profiles of professionals named \"Marek Haulík\" on LinkedIn. There are 3 professionals named \"Marek Haulík\", who use LinkedIn to exchange information, ideas, and ..."
+          },
+          {
+            "url": "https://sis-construction.cz/kontakt/",
+            "title": "Kontakt - SIS Construction",
+            "snippet": "SIS Construction a.s. Toužimská 889 199 00 Praha 9 E-mail: sis@sis-construction.cz Mobil: +420 272 700 962 IČO: 03747808 DIČ: CZ03747808 Data box: ap6wyqr Faktury zasílat na finance@sis-construction.cz"
+          },
+          {
+            "url": "https://www.findglocal.com/CZ/Prace/108597927290451/VPA-Beauty-Salon",
+            "title": "VPA Beauty Salon, Dělnická 313/14 Praha7/Holešovice, Prace (2026)",
+            "snippet": "Apr 18, 2026 · Kontaktní informace, mapa a trasa, kontaktní formulář, otevírací doba, služby, hodnocení, fotky, videa a oznámení od VPA Beauty Salon, Nehtové studio, Dělnická 313/14 Praha7/Holešovice, Prace."
+          },
+          {
+            "url": "https://www.facebook.com/marek.haulik/",
+            "title": "Marek Haulík - Facebook",
+            "snippet": "Marek Haulík is on Facebook. Join Facebook to connect with Marek Haulík and others you may know. Facebook gives people the power to share and makes the world more open and connected."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://overit.sk/osoba/marek-haulik/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website"
+            ]
+          },
+          {
+            "url": "https://sis-construction.cz/kontakt/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.findglocal.com/CZ/Prace/108597927290451/VPA-Beauty-Salon",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30139368",
+        "legal_name": "Marek Haulík",
+        "registered_at": "2026-10-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30139368",
+        "decision_maker": null,
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30139368",
+          "date": "2026-10-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Marek Haulík — research dossier",
+        "facts": [
+          "The business is listed at Dělnická 313, Praha, 17000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30139368 dated 2026-10-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30139368",
+            "date": "2026-10-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30139368"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-marek-haulik-30139368/kontakty",
+        "https://rejstriky.finance.cz/firma-marek-haulik-30139368",
+        "https://rejstrik-firem.kurzy.cz/osoby/526482/",
+        "https://rejstrik-firem.kurzy.cz/ico/databaze/",
+        "https://www.finmag.cz/obchodni-rejstrik/ares/24098639-marek-havlicek",
+        "https://www.finmag.cz/obchodni-rejstrik/ares/01280422-marek-havlicek",
+        "https://overit.sk/osoba/marek-haulik/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30139422": {
+      "lead_id": "res-30139422",
+      "name": "Francisco Jesus Carrion Lopez",
+      "checked_at": "2026-10-23",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Francisco Jesus Carrion Lopez\" IČO 30139422 web",
+          "\"Francisco Jesus Carrion Lopez\" Praha Construction & property kontakt",
+          "\"Francisco Jesus Carrion Lopez\" \"Příčná 1892\" web",
+          "\"Francisco Jesus Carrion Lopez\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://silo.tips/download/informe-nacional-de-desarrollo-humano-panama-2004-de-la-invisibilidad-al-protago",
+            "title": "Informe Nacional de Desarrollo Humano Panamá 2004 De la ...",
+            "snippet": "Es importante destacar, además, que una cuarta parte de los ‘jóvenes aventajados motivados’ y en ‘avance motivados’ realizan un uso integral de su tiempo libre, lo que signiﬁca que no solamente estudian, sino que asisten también a actividades culturales (teatro, conciertos, museos), leen y se informan (libros, noticias"
+          },
+          {
+            "url": "https://issuu.com/hoydigital/docs/diario_hoy_miercoles_26_nov_2008",
+            "title": "Diario hoy miercoles 26nov08 by hoydigital hoydigital07 - Issuu",
+            "snippet": "Nov 26, 2008 · Diario hoy miercoles 26nov08 La Reserva Federal estadounidense (Fed) inyectará $800 mil millones al sistema financiero para comprar hipotecas y valores respaldados por activos. Unos $600 000 ..."
+          },
+          {
+            "url": "https://www.facebook.com/groups/605889169943246/",
+            "title": "San Martín del Rey Aurelio (S.M.R.A.) | Facebook",
+            "snippet": "5 hours ago · Buenas noches, desde hace meses vengo viendo está motocicleta aparcada donde está aparcada, encima de la acera. Ayer mismo me puse en contacto con la Policía Local de San Martín del Rey Aurelio para denunciar dicho aparcamiento, y cual no sería mi sorpresa cuando el agente me dice que no está prohibido ap"
+          },
+          {
+            "url": "https://blog.seniorennet.be/romenu/2055500-robert-wohlleben-heinrich-peuckmann-walter-benjamin-clive",
+            "title": "Robert Wohlleben, Heinrich Peuckmann, Walter Benjamin, Clive ...",
+            "snippet": "Jul 15, 2017 · De Duitse dichter en schrijver Heinrich Peuckmann werd geboren op 15 juli 1949 in Kamen. Zie ook alle tags voor Heinrich Peuckmann op dit blog en ook mijn blog…"
+          },
+          {
+            "url": "https://arxiv.org/html/2607.07068v2",
+            "title": "Unveiling the Milky Way with a Gaia DR3 census of OB-type ...",
+            "snippet": "2 days ago · 2026Unveiling the Milky Way with a Gaia DR3 census of OB-type stars within 2 kpc. I. Tracing local Galactic structure, massive star-forming regions and core-collapse supernova progenitors–G Alexis L. Quintana ††thanks: E-mail: alexis.quintana@obspm.frAffiliation: LIRA, Observatoire de Paris, Université PSL"
+          },
+          {
+            "url": "https://www.mjusticia.gob.es/es/Ciudadano/EmpleoPublico/Documents/BOE-A-2026-12731+-+Relación+provisional+excl._CCGG1549.pdf",
+            "title": "Disposición 12731 del BOE núm. 143 de 2026",
+            "snippet": "Finalizado el plazo de presentación de instancias, y de conformidad con lo establecido en el artículo 20 Reglamento de Ingreso, Provisión de Puestos de Trabajo y Promoción Profesional del Personal Funcionario al Servicio de la Administración de Justicia, aprobado por Real Decreto 1451/2005, de 7 de diciembre, la base 5"
+          },
+          {
+            "url": "https://letraclara.blogspot.com/search/label/librerías",
+            "title": "La posada del Sol de Medianoche: librerías",
+            "snippet": "Las Indomables, una nueva librería en La Prospe Desde hace algunas semanas, Las Indomables-Librería, ocupa un luminoso y pulcro lugar en el barrio, frente al parque y los Jardines de Mario Benedetti, el poeta uruguayo que vivió muy cerca, en la misma calle de Ramos Carrión. Estuve visitando por vez primera el lugar y l"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://silo.tips/download/informe-nacional-de-desarrollo-humano-panama-2004-de-la-invisibilidad-al-protago",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching distinctive business-name words on website"
+            ]
+          },
+          {
+            "url": "https://issuu.com/hoydigital/docs/diario_hoy_miercoles_26_nov_2008",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://blog.seniorennet.be/romenu/2055500-robert-wohlleben-heinrich-peuckmann-walter-benjamin-clive",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://arxiv.org/html/2607.07068v2",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.mjusticia.gob.es/es/Ciudadano/EmpleoPublico/Documents/BOE-A-2026-12731+-+Relación+provisional+excl._CCGG1549.pdf",
+            "result": "unreachable",
+            "reason": "HTTP_404"
+          },
+          {
+            "url": "https://letraclara.blogspot.com/search/label/librerías",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching distinctive business-name words on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30139422",
+        "legal_name": "Francisco Jesus Carrion Lopez",
+        "registered_at": "2026-10-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30139422",
+        "decision_maker": null,
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30139422",
+          "date": "2026-10-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Francisco Jesus Carrion Lopez — research dossier",
+        "facts": [
+          "The business is listed at Příčná 1892, Praha, 11000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30139422 dated 2026-10-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30139422",
+            "date": "2026-10-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30139422"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://silo.tips/download/informe-nacional-de-desarrollo-humano-panama-2004-de-la-invisibilidad-al-protago",
+        "https://issuu.com/hoydigital/docs/diario_hoy_miercoles_26_nov_2008",
+        "https://www.facebook.com/groups/605889169943246/",
+        "https://blog.seniorennet.be/romenu/2055500-robert-wohlleben-heinrich-peuckmann-walter-benjamin-clive",
+        "https://arxiv.org/html/2607.07068v2",
+        "https://www.mjusticia.gob.es/es/Ciudadano/EmpleoPublico/Documents/BOE-A-2026-12731+-+Relación+provisional+excl._CCGG1549.pdf",
+        "https://letraclara.blogspot.com/search/label/librerías"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30140013": {
+      "lead_id": "res-30140013",
+      "name": "Denys Polovka",
+      "checked_at": "2026-10-23",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Denys Polovka\" IČO 30140013 web",
+          "\"Denys Polovka\" Praha Construction & property kontakt",
+          "\"Denys Polovka\" \"Rybná 716\" web",
+          "\"Denys Polovka\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/denys-polovka-30140013/",
+            "title": "Denys Polovka - IČO 30140013 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Podrobnosti o firmě Denys Polovka - IČO 30140013 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+            "title": "Construction & Property Management s.r.o. , Praha IČO ...",
+            "snippet": "4 days ago · Construction & Property Management s.r.o., Na příkopě, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik ..."
+          },
+          {
+            "url": "https://www.polivka.biz/kontakty/",
+            "title": "» Kontakt | Václav Polívka",
+            "snippet": "Václav Polívka Kontakt Václav Polívka Paříkova 910/9a 190 00 Praha tel.: +420 724 578 031,+420 605 720 158 mail: v.polivka@seznam.cz"
+          },
+          {
+            "url": "https://rejstrik.penize.cz/ares/24979139-denys-polovchuk",
+            "title": "Denys Polovchuk, Praha, IČO: 24979139 - ARES | Peníze.cz",
+            "snippet": "May 4, 2026 · Registr ekonomických subjektů - Denys Polovchuk, IČO: 24979139, sídlo firmy, předmět podnikání firmy Denys Polovchuk."
+          },
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles.bodestav_cz_sro.3d091da2e7e66bab498a0d7b758c24dd.html",
+            "title": "BODESTAV CZ s.r.o. Company Profile | Praha, Hlavní město ...",
+            "snippet": "Find company research, competitor information, contact details & financial data for BODESTAV CZ s.r.o. of Praha, Hlavní město Praha. Get the latest business insights from Dun & Bradstreet."
+          },
+          {
+            "url": "https://www.detail.cz/firma/27163857-construction-property-management-sro-na-prikope-859-22-praha/",
+            "title": "Construction & Property Management s.r.o. - Detail.cz",
+            "snippet": "Společnost Construction & Property Management s.r.o. (IČO: 27163857) byla založena dne 29. července 2004 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/29037883/kontakt-construction-sro/",
+            "title": "KONTAKT CONSTRUCTION s.r.o. , Praha IČO 29037883 - Obchodní ...",
+            "snippet": "KONTAKT CONSTRUCTION s.r.o., Kaprova, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní ..."
+          },
+          {
+            "url": "https://www.aaapoptavka.cz/zadat-poptavku/0",
+            "title": "Zadání poptávky | AAAPoptávka.cz",
+            "snippet": "Zadejte si poptávku ZDARMA. Vaše poptávka bude rozeslána ověřeným dodavatelům z celé ČR. První reakce na poptávky obdržíte již do několika hodin. Vyzkoušejte největší poptávkový systém."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.facebook.com/groups/bydleni.nabidka.poptavka/",
+            "title": "Praha - BYDLENÍ SPOLUBYDLENÍ NABÍDKA , POPTÁVKA - Facebook",
+            "snippet": "1 day ago · Skupina je určena pro NABÍDKU a POPTÁVKU bydlení či SPOLUBYDLENÍ v Praze a okolí. Skupinu pro Vás dlouhodobě spravuje Smart Homes a Expert Rent V případě..."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: výměna hlavního uzávěru vody, Praha-Vysočany Řemeslné práce Instalatéři Řemeslné práce Plyn, voda, topení okres Praha 23. 10. 2026 (dnes)"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.polivka.biz/kontakty/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles.bodestav_cz_sro.3d091da2e7e66bab498a0d7b758c24dd.html",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.detail.cz/firma/27163857-construction-property-management-sro-na-prikope-859-22-praha/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.aaapoptavka.cz/zadat-poptavku/0",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30140013",
+        "legal_name": "Denys Polovka",
+        "registered_at": "2026-10-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30140013",
+        "decision_maker": null,
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30140013",
+          "date": "2026-10-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Denys Polovka — research dossier",
+        "facts": [
+          "The business is listed at Rybná 716, Praha, 11000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30140013 dated 2026-10-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30140013",
+            "date": "2026-10-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30140013"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.podnikatel.cz/rejstrik/denys-polovka-30140013/",
+        "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+        "https://www.polivka.biz/kontakty/",
+        "https://rejstrik.penize.cz/ares/24979139-denys-polovchuk",
+        "https://www.dnb.com/business-directory/company-profiles.bodestav_cz_sro.3d091da2e7e66bab498a0d7b758c24dd.html",
+        "https://www.detail.cz/firma/27163857-construction-property-management-sro-na-prikope-859-22-praha/",
+        "https://rejstrik-firem.kurzy.cz/29037883/kontakt-construction-sro/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30140587": {
+      "lead_id": "res-30140587",
+      "name": "Radek Janda",
+      "checked_at": "2026-10-23",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Radek Janda\" IČO 30140587 web",
+          "\"Radek Janda\" Praha Construction & property kontakt",
+          "\"Radek Janda\" \"Hornoměcholupská 683\" web",
+          "\"Radek Janda\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-radek-janda-30140587/obory-cinnosti",
+            "title": "Radek Janda IČO 30140587 kontakty 18.10.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Radek Janda IČO 30140587 kontakty 18.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-radek-janda-30140587/kontakty",
+            "title": "Radek Janda Praha 10 IČO 30140587 kontakty 21.10.2026 ...",
+            "snippet": "Podrobnosti o firmě Radek Janda Praha 10 IČO 30140587 kontakty 21.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/zivnostnik/amiSp5Sbmao=",
+            "title": "Radek Janda - Živnostenský rejstřík | Kurzy.cz",
+            "snippet": "Radek Janda, podnikatel – kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
+          },
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles.radek_janda.adf678ed81191801c92332a06e2d9db0.html",
+            "title": "Radek Janda Company Profile | Stráž nad Nežárkou, Jihočeský ...",
+            "snippet": "Find company research, competitor information, contact details & financial data for Radek Janda of Stráž nad Nežárkou, Jihočeský kraj. Get the latest business insights from Dun & Bradstreet."
+          },
+          {
+            "url": "https://firmy.euro.cz/subjekt-radek-janda-72175885",
+            "title": "Radek Janda IČO: 72175885, Tábor, výpis z rejstříku 19.10. ...",
+            "snippet": "Radek Janda má aktuální nebo historický záznam v těchto rejstřících: živnostenský rejstřík, registr ekonomických subjektů. Radek Janda (72175885) je Fyzická osoba podnikající dle živnostenského zákona."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/osoba/3723611/",
+            "title": "Radek Janda okres Praha-východ - Obchodní rejstřík | Kurzy.cz",
+            "snippet": "Jun 30, 2025 · Souhrnné informace k osobě Radek Janda okres Praha-východ Tato stránka obsahuje informace o osobě Radek Janda okres Praha-východ, které jsou uvedeny ve veřejných rejstřících a jsou tedy ze zákona veřejné *. Osoba Radek Janda aktuálně působíaktuálně působí a působilav 1 společnostiv 1 společnosti."
+          },
+          {
+            "url": "https://cz.linkedin.com/in/radek-janda-01bb10139",
+            "title": "Radek Janda – Sales manager Central Europe ve společnosti ...",
+            "snippet": "Sales manager Central Europe ve společnosti Axalta Coating Systems · Pracovní zkušenosti: Axalta Coating Systems · Lokalita: Rokycany · 92 spojení na LinkedIn. Podívejte se na profil uživatele Radek Janda na LinkedIn, komunitě profesionálů s miliardou členů."
+          },
+          {
+            "url": "https://www.firmy.cz/detail/13396390-ing-radek-janda-realitni-makler-praha-vinohrady.html",
+            "title": "Ing. Radek Janda - realitní makléř (Praha, Vinohrady) • Firmy.cz",
+            "snippet": "Aktuální ověřené informace: adresa, telefon a e-mail Ing. Radek Janda - realitní makléř, Praha, Vinohrady. Telefon: 602 441 …"
+          },
+          {
+            "url": "https://en.firmy.cz/company/13396390-ing-radek-janda-realitni-makler-praha-vinohrady.html",
+            "title": "Ing. Radek Janda - realitní makléř (Praha, Vinohrady) • Firmy.cz",
+            "snippet": "Up-to-date verified information: address, phone and e-mail Ing. Radek Janda - realitní makléř, Praha, Vinohrady. Phone: 602 441 …"
+          },
+          {
+            "url": "https://www.sreality.cz/adresar/ok-real-estate-praha-nusle/76174/makleri/302644",
+            "title": "Radek Janda makléř v OK REAL ESTATE • Sreality.cz",
+            "snippet": "Aktuální informace o makléři Radek Janda z realitní kanceláře OK REAL ESTATE na sreality.cz s kontakty, aktuálně nabízenými realitami a recenzemi."
+          },
+          {
+            "url": "https://reality.idnes.cz/makler/detail/radek-janda/68779ab8b888fd6d6f046e4a/",
+            "title": "Makléř Radek Janda, OK REAL ESTATE s.r.o. | Reality.iDNES.cz",
+            "snippet": "Adresář realitních kanceláří/makléři - Radek Janda, OK REAL ESTATE s.r.o."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-radek-janda-69328889",
+            "title": "Radek Janda Praha IČO 69328889 kontakty 13.07.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Radek Janda Praha IČO 69328889 kontakty 13.07.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů…"
+          },
+          {
+            "url": "https://realitymix.cz/profil-realitniho-maklere/ing-radek-janda-1858430",
+            "title": "Ing. Radek Janda - profil realitního makléře",
+            "snippet": "Ing. Radek Janda, Realitní kanceláře, Realitky, makléři, nemovitosti, chaty, chalupy"
+          },
+          {
+            "url": "https://nejrealitnimakleri.cz/makler/ing-radek-janda",
+            "title": "Nejrealitnimakleri.cz",
+            "snippet": "Pro uživatele Najít makléře Jak vybrat makléře Časté dotazy Kontakt Pro makléře Přidat profil Ceník služeb Partnerský program Podpora O nás O projektu Blog Kariéra Kontakt Makléři podle města Praha 824 Brno 194 Plzeň 73 Olomouc 65 Ostrava 58 Pardubice 52 Hradec Králové 43 Karlovy Vary 38 Zlín 35 Moravská Ostrava 27 ..."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles.radek_janda.adf678ed81191801c92332a06e2d9db0.html",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://firmy.euro.cz/subjekt-radek-janda-72175885",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website"
+            ]
+          },
+          {
+            "url": "https://www.sreality.cz/adresar/ok-real-estate-praha-nusle/76174/makleri/302644",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://reality.idnes.cz/makler/detail/radek-janda/68779ab8b888fd6d6f046e4a/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://realitymix.cz/profil-realitniho-maklere/ing-radek-janda-1858430",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://nejrealitnimakleri.cz/makler/ing-radek-janda",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30140587",
+        "legal_name": "Radek Janda",
+        "registered_at": "2026-10-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30140587",
+        "decision_maker": {
+          "name": "Radek Janda",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30140587",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30140587",
+          "date": "2026-10-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Radek Janda — research dossier",
+        "facts": [
+          "The business is listed at Hornoměcholupská 683, Praha, 10200.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30140587 dated 2026-10-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30140587",
+            "date": "2026-10-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30140587"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Radek Janda",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30140587",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-radek-janda-30140587/obory-cinnosti",
+        "https://rejstriky.finance.cz/firma-radek-janda-30140587/kontakty",
+        "https://rejstrik-firem.kurzy.cz/zivnostnik/amiSp5Sbmao=",
+        "https://www.dnb.com/business-directory/company-profiles.radek_janda.adf678ed81191801c92332a06e2d9db0.html",
+        "https://firmy.euro.cz/subjekt-radek-janda-72175885",
+        "https://rejstrik-firem.kurzy.cz/osoba/3723611/",
+        "https://cz.linkedin.com/in/radek-janda-01bb10139"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30140960": {
+      "lead_id": "res-30140960",
+      "name": "Yurii Oros",
+      "checked_at": "2026-10-23",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Yurii Oros\" IČO 30140960 web",
+          "\"Yurii Oros\" Praha Construction & property kontakt",
+          "\"Yurii Oros\" \"U invalidovny 549\" web",
+          "\"Yurii Oros\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-yurii-oros-30140960/kontakty",
+            "title": "Yurii Oros IČO 30140960 kontakty 18.10.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Yurii Oros IČO 30140960 kontakty 18.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-yurii-oros-30140960/obory-cinnosti",
+            "title": "Yurii Oros IČO 30140960 kontakty 20.10.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Yurii Oros IČO 30140960 kontakty 20.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/29865069-yurii-oros",
+            "title": "Yurii Oros, IČO: 29865069 - ARES - Finmag.cz",
+            "snippet": "Výpis z registru ekonomických subjektů (RES) - Yurii Oros, IČO: 29865069, obec: , klasifikace ekonomických činností. Aktuální data."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/yurii-oros",
+            "title": "Yurii Oros - Obchodní rejstřík | Peníze.cz",
+            "snippet": "Yurii Oros výpis firem z Obchodního rejstříku, IČO firmy, adresa sídla firmy, pozice ve firmě, související firmy, vztahy ve firmách."
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/yurii-oros-11891467/",
+            "title": "Yurii Oros - IČO 11891467 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Podrobnosti o firmě Yurii Oros - IČO 11891467 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního rejstříku…"
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/bc-yurii-oros-29677971/",
+            "title": "Bc. Yurii Oros - IČO 29677971 - Obchodní rejstřík na ...",
+            "snippet": "Podrobnosti o firmě Bc. Yurii Oros - IČO 29677971 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://www.linkedin.com/pub/dir/Yurii/Oros",
+            "title": "2 \"Yurii Oros\" profiles | LinkedIn",
+            "snippet": "View the profiles of professionals named \"Yurii Oros\" on LinkedIn. There are 2 professionals named \"Yurii Oros\", who use LinkedIn to exchange information, ideas, and opportunities."
+          },
+          {
+            "url": "https://regiony.kurzy.cz/praha/u-invalidovny/549-5/",
+            "title": "U invalidovny 549/5, Karlín, 186 00 Praha 8, adresa - Města a ...U invalidovny 549/5 (Adresa) • Mapy.comJAROSLAV BENEŠ - U Invalidovny 549/5, Praha, Czech ... - YelpU invalidovny 5",
+            "snippet": "Dec 20, 2019 · U invalidovny 549/5, Karlín, 186 00 Praha 8 - Mapa Na tomto místě se zobrazí mapa s informacemi o podnikání a sídlech firem na adrese U invalidovny 549/5, Karlín, 186 00 Praha 8. Pokud tuto mapu nevidíte, zkotrolujte prosím, zda je ve vašem prohlížeči spuštěn Javaskript. Mapa U invalidovny 549/5 (Adresa)"
+          },
+          {
+            "url": "https://mapy.com/cs/?source=addr&id=8991354",
+            "title": "U invalidovny 549/5 (Adresa) • Mapy.com",
+            "snippet": "Mapa U invalidovny 549/5 (Adresa) – detailní mapa okolí (základní, turistická, satelitní, panoramatická, atd.), plánování trasy, GPS a mnoho dalšího na Mapy.com."
+          },
+          {
+            "url": "https://regiony.kurzy.cz/praha/u-invalidovny/549-5/firmy-vypis/",
+            "title": "U invalidovny 549/5, Karlín, 186 00 Praha 8, adresa ...",
+            "snippet": "U invalidovny 549/5, Karlín, 186 00 Praha 8 - informace o poště a PSČ, údaje z katastru nemovitostí a katastrální mapa, statistické údaje o objektu, GPS pozice pro navigaci, informace o firmách, osobách a živnostech z veřejného rejstříku."
+          },
+          {
+            "url": "https://2gis.cz/praha/geo/12948484583909096",
+            "title": "U Invalidovny, 549/5 / Pernerova, 549/71 in Praze — 2GIS",
+            "snippet": "U Invalidovny, 549/5 / Pernerova, 549/71 on the map, entrances, zip code, companies in the building and easy ways to get to the place"
+          },
+          {
+            "url": "https://www.yelp.com/biz/tomáš-mládek-praha",
+            "title": "TOMÁŠ MLÁDEK - Insurance - U Invalidovny 549/5 ... - Yelp",
+            "snippet": "Location & Hours U Invalidovny 549/5 186 00 Prague Czech Republic Karlín, Praha 8 Get directions Edit business info"
+          },
+          {
+            "url": "https://www.yelp.com/biz/jaroslav-beneš-praha-3",
+            "title": "JAROSLAV BENEŠ - U Invalidovny 549/5, Praha, Czech ... - Yelp",
+            "snippet": "Jaroslav Beneš in Praha, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Praha and beyond."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/ares/11891467-yurii-oros",
+            "title": "Yurii Oros, Praha, IČO: 11891467 - ARES | Peníze.cz",
+            "snippet": "Yurii Oros, Praha, IČO: 11891467 - RES Tento výpis z RES obsahuje údaje o společnosti Yurii Oros. Údaje byly staženy 2. 2. 2026 z datové služby dle IČO 11891467. Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob. Kompletní výpis včetně dat narození a adres lze zobrazit po zad"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://mapy.com/en/?source=addr&id=8991354",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://2gis.cz/praha/geo/12948484583909096",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30140960",
+        "legal_name": "Yurii Oros",
+        "registered_at": "2026-10-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30140960",
+        "decision_maker": {
+          "name": "Yurii Oros",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30140960",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30140960",
+          "date": "2026-10-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Yurii Oros — research dossier",
+        "facts": [
+          "The business is listed at U invalidovny 549, Praha, 18600.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30140960 dated 2026-10-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30140960",
+            "date": "2026-10-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30140960"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Yurii Oros",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30140960",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-yurii-oros-30140960/kontakty",
+        "https://rejstriky.finance.cz/firma-yurii-oros-30140960/obory-cinnosti",
+        "https://www.finmag.cz/obchodni-rejstrik/ares/29865069-yurii-oros",
+        "https://rejstrik.penize.cz/yurii-oros",
+        "https://www.podnikatel.cz/rejstrik/yurii-oros-11891467/",
+        "https://www.podnikatel.cz/rejstrik/bc-yurii-oros-29677971/",
+        "https://www.linkedin.com/pub/dir/Yurii/Oros"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30140994": {
+      "lead_id": "res-30140994",
+      "name": "Roman Vilskyi",
+      "checked_at": "2026-10-23",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Roman Vilskyi\" IČO 30140994 web",
+          "\"Roman Vilskyi\" Praha Construction & property kontakt",
+          "\"Roman Vilskyi\" \"Bělocerkevská 1024\" web",
+          "\"Roman Vilskyi\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30140994",
+        "legal_name": "Roman Vilskyi",
+        "registered_at": "2026-10-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30140994",
+        "decision_maker": {
+          "name": "Roman Vilskyi",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30140994",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30140994",
+          "date": "2026-10-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Roman Vilskyi — research dossier",
+        "facts": [
+          "The business is listed at Bělocerkevská 1024, Praha, 10000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30140994 dated 2026-10-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30140994",
+            "date": "2026-10-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30140994"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Roman Vilskyi",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30140994",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30141389": {
+      "lead_id": "res-30141389",
+      "name": "Miroslav Homolka",
+      "checked_at": "2026-10-23",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Miroslav Homolka\" IČO 30141389 web",
+          "\"Miroslav Homolka\" Praha Specialized B2B kontakt",
+          "\"Miroslav Homolka\" \"Jablonecká 415\" web",
+          "\"Miroslav Homolka\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://www.mesec.cz/rejstrik-firem/firma-miroslav-homolka-30141389",
+            "title": "Miroslav Homolka, IČO: (30141389), výpis z rejstříků firem a ...",
+            "snippet": "Najdete zde informace o Miroslav Homolka. Výpis dat z živnostenského i obchodního rejstříku a ze statistického úřadu"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/osoba-miroslav-homolka",
+            "title": "Miroslav Homolka informace o Miroslav Homolka (23.09.2026 ...",
+            "snippet": "Miroslav Homolka - výpis všech osob se jménem Homolka Miroslav, které mají záznam ve veřejných rejstřících, IČO, kontakty a další informace"
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/osoby/miroslav-homolka-4068597/",
+            "title": "Miroslav Homolka v obchodním rejstříku - Podnikatel.cz",
+            "snippet": "Miroslav Homolka, Ostrolovský Újezd 29, 374 01, Česká republika v obchodním rejstříku. Adresa sídla, pozice ve firmě, vztahy mezi společnostmi a…"
+          },
+          {
+            "url": "https://rejstrik.penize.cz/miroslav-homolka",
+            "title": "Miroslav Homolka - Obchodní rejstřík | Peníze.cz",
+            "snippet": "Miroslav Homolka výpis firem z Obchodního rejstříku, IČO firmy, adresa sídla firmy, pozice ve firmě, související firmy, vztahy ve firmách."
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/osoby/miroslav-homolka-409933/",
+            "title": "Ing. Miroslav Homolka, J. Bendy 1381/22 v obchodním rejstříku ...",
+            "snippet": "Ing. Miroslav Homolka, J. Bendy 1381/22, České Budějovice, 370 05, Česká republika v obchodním rejstříku. Adresa sídla, pozice ve firmě, vztahy mezi…"
+          },
+          {
+            "url": "https://ares.gov.cz/ekonomicke-subjekty/res/13710087",
+            "title": "Miroslav Homolka - ARES",
+            "snippet": "Administrativní registr ekonomických subjektů je informační systém, který umožňuje vyhledávání nad ekonomickými subjekty registrovanými v České republice. Zprostředkovává zobrazení údajů vedených v jednotlivých registrech státní správy, ze kterých čerpá data (tzv. zdrojové registry)."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/osoby/miroslav-homolka",
+            "title": "Kurzy.cz - největší český finanční portál",
+            "snippet": "| | | | | Ověření uživatele ..."
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/osoba/miroslav-homolka",
+            "title": "Miroslav Homolka - obchodní rejstřík - Finmag.cz",
+            "snippet": "Miroslav Homolka, výpis z obchodního i živnostenského rejstříků. Osoby a firmy - adresy, kontakty. Aktuální i historická data."
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/miroslav-homolka-74868225/",
+            "title": "Miroslav Homolka - IČO 74868225 - Obchodní rejstřík na ...",
+            "snippet": "Podrobnosti o firmě Miroslav Homolka - IČO 74868225 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/zivnostnik/bm6Rq5iel6s=",
+            "title": "Ing. Miroslav Homolka okres Praha-západ - Živnostenský ...",
+            "snippet": "Ing. Miroslav Homolka, podnikatel okres Praha-západ – kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
+          },
+          {
+            "url": "https://cz.linkedin.com/in/miroslav-homolka-541029104",
+            "title": "Miroslav Homolka – jednatel ve společnosti CZ PROFI-SERVIS s ...",
+            "snippet": "jednatel ve společnosti CZ PROFI-SERVIS s.r.o. · Pracovní zkušenosti: CZ PROFI-SERVIS s.r.o. · Lokalita: Česko · 10 spojení na LinkedIn. Podívejte se na profil uživatele Miroslav Homolka na LinkedIn, komunitě profesionálů s miliardou členů."
+          },
+          {
+            "url": "https://www.obchodiste.cz/velkoobchod/miroslav-homolka/",
+            "title": "Miroslav Homolka (ICRO Česká republika) – Obchodiště.cz",
+            "snippet": "O nás – ICRO Česká republika Naše firma ICRO CZ začínala jako zakázkové truhlářství už v roce 1993. Dřevo nás vždy bavilo, a postupně jsme se začali víc věnovat povrchovým úpravám. Od roku 2015 zastupujeme na českém trhu italskou značku ICRO – špičku v oblasti nátěrových systémů. Díky tomu, že jsme sami pracovali se dř"
+          },
+          {
+            "url": "https://www.hlidacstatu.cz/osoba/miroslav-homolka-4",
+            "title": "Miroslav Homolka - Hlídač státu.",
+            "snippet": "Miroslav Homolka, Angažoval se v 11 soukr.firmách. Tyto subjekty mají se státem od 2016 celkem 16 smluv v celkové výši 3 mil. Kč. , Jeden subjekt, ve které se angažoval, v roce 2025 uzavřel 5 smluv."
+          },
+          {
+            "url": "https://www.hlidacstatu.cz/osoba/miroslav-homolka-6",
+            "title": "Miroslav Homolka - Hlídač státu.",
+            "snippet": "Miroslav Homolka, Angažoval se v jedné soukr.firmě. Tyto subjekty mají se státem od 2016 celkem jednu smlouvu v celkové výši 0 Kč. , Jeden subjekt, ve kterém se angažoval, v roce 2025 uzavřel smlouvy v neznámé výši, protože hodnota všech smluv byla utajena."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [
+            "info@iinfo.cz"
+          ],
+          "phones": [],
+          "source": "https://www.mesec.cz/rejstrik-firem/firma-miroslav-homolka-30141389",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.mesec.cz/rejstrik-firem/firma-miroslav-homolka-30141389",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.mesec.cz/rejstrik-firem/firma-miroslav-homolka-30141389",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30141389",
+        "legal_name": "Miroslav Homolka",
+        "registered_at": "2026-10-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30141389",
+        "decision_maker": {
+          "name": "Miroslav Homolka",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30141389",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-23",
+        "website": "https://www.mesec.cz/rejstrik-firem/firma-miroslav-homolka-30141389",
+        "devices": {
+          "desktop": {
+            "title": "Miroslav Homolka, IČO: (30141389), výpis z rejstříků firem a OSVČ - Firmy.euro.cz",
+            "description": "Najdete zde informace o Miroslav Homolka. Výpis dat z živnostenského i obchodního rejstříku a ze statistického úřadu",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 95,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 8,
+            "contact_action": true,
+            "form_count": 0,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Miroslav Homolka, IČO: (30141389), výpis z rejstříků firem a OSVČ - Firmy.euro.cz",
+            "description": "Najdete zde informace o Miroslav Homolka. Výpis dat z živnostenského i obchodního rejstříku a ze statistického úřadu",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 90,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 2,
+            "images_count": 10,
+            "contact_action": true,
+            "form_count": 0,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.mesec.cz/rejstrik-firem/firma-miroslav-homolka-30141389"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30141389",
+          "date": "2026-10-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Miroslav Homolka — research dossier",
+        "facts": [
+          "The business is listed at Jablonecká 415, Praha, 19000.",
+          "An independently identity-matched business website was found: https://www.mesec.cz/rejstrik-firem/firma-miroslav-homolka-30141389.",
+          "ARES confirms registration for IČO 30141389 dated 2026-10-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30141389",
+            "date": "2026-10-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30141389",
+          "https://www.mesec.cz/rejstrik-firem/firma-miroslav-homolka-30141389"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Miroslav Homolka",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30141389",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.mesec.cz/rejstrik-firem/firma-miroslav-homolka-30141389",
+        "https://rejstriky.finance.cz/osoba-miroslav-homolka",
+        "https://www.podnikatel.cz/rejstrik/osoby/miroslav-homolka-4068597/",
+        "https://rejstrik.penize.cz/miroslav-homolka",
+        "https://www.podnikatel.cz/rejstrik/osoby/miroslav-homolka-409933/",
+        "https://ares.gov.cz/ekonomicke-subjekty/res/13710087",
+        "https://rejstrik-firem.kurzy.cz/osoby/miroslav-homolka"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [
+          "info@iinfo.cz"
+        ],
+        "phones": [],
+        "source": "https://www.mesec.cz/rejstrik-firem/firma-miroslav-homolka-30141389",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
       "owner_verified": false,
       "buyer_interest_verified": false
     }
