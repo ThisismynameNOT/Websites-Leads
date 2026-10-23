@@ -1,0 +1,186 @@
+{
+  "date": "2026-10-23",
+  "market": "Czech Republic — Prague-first",
+  "method": "Official ČSÚ RES catalogue and ARES/justice-derived exact-IČO registration screens; targeted public first-party brand, contact, customer, owner and domain discovery. Full ČSÚ CSV could not be ingested in this environment; not an exhaustive latest-registration scan.",
+  "official_res_catalogue": "https://csu.gov.cz/produkty/registr-ekonomickych-subjektu-otevrena-data",
+  "official_res_csv": "https://opendata.csu.gov.cz/soubory/od/od_org03/res_data.csv",
+  "latest_snapshot_covered": "2026-10-15 (semi-monthly cadence; current file timestamp not independently confirmed)",
+  "qualified_first_website": [],
+  "qualified_redesign": [],
+  "outreach_ready": 0,
+  "price_assumptions": [],
+  "notes": [
+    "No absence of a search hit was used to establish website absence.",
+    "No group relationship inferred from a shared registered office/director alone.",
+    "24-company October 3–6 cohort unchanged: 0 verified standalone brands and 0 outreach-ready.",
+    "Earlier JIB remains redesign HOLD/QA, not a first-site opportunity."
+  ],
+  "new_registration_screens": [
+    {
+      "name": "CELLMONT s.r.o.",
+      "ico": "30132304",
+      "registration_date": "2026-10-09",
+      "age_bucket": "0–6 months",
+      "category": "first_website_screen",
+      "status": "HOLD_QA",
+      "marketed_brand_verified": false,
+      "external_customer_proof_verified": false,
+      "public_company_specific_contact": null,
+      "first_party_site_status": "unverified — absence NOT established",
+      "owner_control_status": "not conclusively verified",
+      "operational_independence_status": "unverified",
+      "offer_status": "Broad registered building/metalworking trades; actual marketed specialty unverified",
+      "blockers": [
+        "No independent outside-customer projects; no company-specific public sales contact; beneficial control/associated brand not fully confirmed; site and aliases unverified"
+      ],
+      "sources": [
+        "https://firmy.euro.cz/subjekt-cellmont-s-r-o-30132304"
+      ]
+    },
+    {
+      "name": "Tree Champs s.r.o.",
+      "ico": "29884624",
+      "registration_date": "2026-08-11",
+      "age_bucket": "0–6 months",
+      "category": "first_website_screen",
+      "status": "HOLD_QA",
+      "marketed_brand_verified": false,
+      "external_customer_proof_verified": false,
+      "public_company_specific_contact": null,
+      "first_party_site_status": "unverified — absence NOT established",
+      "owner_control_status": "not conclusively verified",
+      "operational_independence_status": "unverified",
+      "offer_status": "Registered tree/landscaping activities; exact marketed offering unverified",
+      "blockers": [
+        "No independently attributable customer projects; no confirmed dedicated business phone/email; no first-party domain verified; no control-chain proof"
+      ],
+      "sources": [
+        "https://www.podnikatel.cz/rejstrik/tree-champs-s-r-o-29884624/",
+        "https://www.finmag.cz/obchodni-rejstrik/ares/29884624-tree-champs-s-r-o"
+      ]
+    },
+    {
+      "name": "SMILE PRO STAV s.r.o.",
+      "ico": "29987865",
+      "registration_date": "2026-09-04",
+      "age_bucket": "0–6 months",
+      "category": "first_website_screen",
+      "status": "HOLD_QA",
+      "marketed_brand_verified": false,
+      "external_customer_proof_verified": false,
+      "public_company_specific_contact": null,
+      "first_party_site_status": "unverified — absence NOT established",
+      "owner_control_status": "not conclusively verified",
+      "operational_independence_status": "unverified",
+      "offer_status": "Registered general services; no independently marketed construction offering",
+      "blockers": [
+        "No independently marketed brand; no verified outside customers; no dedicated sales channel; no owned-site audit; ownership and capacity unresolved"
+      ],
+      "sources": [
+        "https://www.podnikatel.cz/rejstrik/smile-pro-stav-s-r-o-29987865/"
+      ]
+    },
+    {
+      "name": "RD Projektanti s.r.o.",
+      "ico": "24589462",
+      "registration_date": "2026-03-05",
+      "age_bucket": "6–24 months",
+      "category": "first_website_screen",
+      "status": "HOLD_QA",
+      "marketed_brand_verified": false,
+      "external_customer_proof_verified": false,
+      "public_company_specific_contact": null,
+      "first_party_site_status": "unverified — absence NOT established",
+      "owner_control_status": "not conclusively verified",
+      "operational_independence_status": "unverified",
+      "offer_status": "Licensed design activity; customer-facing offer not demonstrated",
+      "blockers": [
+        "Owner/director linked to Stavební projektant s.r.o. IČO 19911327; this is association not proof of parent. Separate external clients and dedicated contact not verified; domain unknown"
+      ],
+      "sources": [
+        "https://www.podnikatel.cz/rejstrik/rd-projektanti-s-r-o-24589462/",
+        "https://www.podnikatel.cz/rejstrik/osoby/jaroslav-kubicek-4356798/"
+      ],
+      "associated_brands": [
+        {
+          "name": "Stavební projektant, s.r.o.",
+          "ico": "19911327",
+          "relation": "same director/shareholder; legal control between firms unverified"
+        }
+      ]
+    },
+    {
+      "name": "ADEKOM bau s.r.o.",
+      "ico": "24921947",
+      "registration_date": "2026-04-08",
+      "age_bucket": "6–24 months",
+      "category": "first_website_screen",
+      "status": "HOLD_QA",
+      "marketed_brand_verified": false,
+      "external_customer_proof_verified": false,
+      "public_company_specific_contact": null,
+      "first_party_site_status": "unverified — absence NOT established",
+      "owner_control_status": "not conclusively verified",
+      "operational_independence_status": "unverified",
+      "offer_status": "General licensed trades; actual construction service offer unverified",
+      "blockers": [
+        "No verified outside-customer projects, independently marketed offer, company-specific public enquiry channel or site status; ownership changed/needs fresh shareholder verification"
+      ],
+      "sources": [
+        "https://www.podnikatel.cz/rejstrik/adekom-bau-s-r-o-24921947/",
+        "https://www.hlidacstatu.cz/Subjekt/Index/24921947"
+      ]
+    },
+    {
+      "name": "Ecopower project II. s.r.o.",
+      "ico": "30123259",
+      "registration_date": "2026-10-07",
+      "age_bucket": "0–6 months",
+      "category": "first_website_screen",
+      "status": "EXCLUDE_PARENT_CONTROLLED",
+      "marketed_brand_verified": false,
+      "external_customer_proof_verified": false,
+      "public_company_specific_contact": null,
+      "first_party_site_status": "unverified — absence NOT established",
+      "owner_control_status": "confirmed corporate shareholder Clover Group. s.r.o.",
+      "operational_independence_status": "unverified",
+      "offer_status": "Registered property/technical activities; independent outside-customer service not demonstrated",
+      "blockers": [
+        "Corporate shareholder Clover Group. s.r.o. directly recorded; excluded by parent-controlled gate."
+      ],
+      "sources": [
+        "https://www.podnikatel.cz/rejstrik/ecopower-project-ii-s-r-o-30123259/"
+      ]
+    }
+  ],
+  "established_redesign_qa": [
+    {
+      "name": "JIB s.r.o.",
+      "ico": "28969472",
+      "registration_date": "2009-10-02",
+      "age_bucket": "established",
+      "status": "HOLD_QA_REDESIGN",
+      "offer": "Landscaping, maintenance, earthworks, tree planting; official Webnode page lists IČO and business contacts.",
+      "external_customer_proof": "Public procurement profile names municipalities and completed works in 2020–2021.",
+      "ownership": "Individual shareholders Jindřich Bursík 49%, Marek Bursík 49%, Martin Hrubý 2%; not proof of full beneficial control.",
+      "public_company_specific_contact": {
+        "phone": "+420 603 858 915",
+        "email": "jib@jibsro.cz"
+      },
+      "first_party_website": "https://jib-s-r-o.webnode.cz/",
+      "alternative_domain": "http://www.jibsro.cz (public procurement profile lists as WWW; live content could not be opened; do not assume site absent)",
+      "website_opportunity": "Webnode branding and dated plain-text project presentation; instrumented mobile/performance tests not completed",
+      "blockers": [
+        "Alternative domain jibsro.cz status unresolved; do not treat Webnode as only site",
+        "Ultimate beneficial control not independently conclusive",
+        "No buyer intent or budget evidence"
+      ],
+      "sources": [
+        "https://jib-s-r-o.webnode.cz/kontakt/",
+        "https://www.vhodne-uverejneni.cz/profil/jib-s-r-o",
+        "https://fakturujzdarma.cz/firma/28969472-jib-s-r-o",
+        "https://www.firmy.cz/detail/13075599-jib-brandys-nad-labem-stara-boleslav-brandys-nad-labem.html"
+      ]
+    }
+  ]
+}
