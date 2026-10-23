@@ -142,15 +142,18 @@
       "external_customer_proof_verified": false,
       "public_company_specific_contact": null,
       "first_party_site_status": "unverified — absence NOT established",
-      "owner_control_status": "confirmed corporate shareholder Clover Group. s.r.o.",
+      "owner_control_status": "CONFIRMED 100% controlled by Clover Group. s.r.o., IČO 23813067",
       "operational_independence_status": "unverified",
       "offer_status": "Registered property/technical activities; independent outside-customer service not demonstrated",
       "blockers": [
-        "Corporate shareholder Clover Group. s.r.o. directly recorded; excluded by parent-controlled gate."
+        "Official commercial-gazette filing dated 2026-10-09 confirms Clover Group. s.r.o. (IČO 23813067) owns 100% of this company. Strict independent-brand gate EXCLUDE; no outreach."
       ],
       "sources": [
+        "https://ov.ihned.cz/zapis/25365237",
         "https://www.podnikatel.cz/rejstrik/ecopower-project-ii-s-r-o-30123259/"
-      ]
+      ],
+      "parent_ico": "23813067",
+      "parent_share_pct": 100
     }
   ],
   "established_redesign_qa": [
