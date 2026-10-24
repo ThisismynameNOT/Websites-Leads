@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-23T12:28:57.027850+00:00",
+  "generated_at": "2026-10-24T11:52:46.778671+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -5122,66 +5122,57 @@
     "res-30050472": {
       "lead_id": "res-30050472",
       "name": "Tridentstav KV s.r.o.",
-      "checked_at": "2026-10-08",
+      "checked_at": "2026-10-24",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "searched",
+        "status": "partial_search",
         "queries": [
           "\"Tridentstav KV s.r.o.\" IČO 30050472 web",
           "\"Tridentstav KV s.r.o.\" Praha Construction & property kontakt",
           "\"Tridentstav KV s.r.o.\" \"Kaprova 42\" web",
           "\"Tridentstav KV s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 2,
+        "successful_queries": 1,
         "candidates": [
           {
-            "url": "https://rejstriky.finance.cz/firma-tridentstav-kv-s-r-o-30050472",
-            "title": "Tridentstav KV s.r.o. IČO: 30050472 - Finance.cz",
-            "snippet": "Podrobnosti o firmě Tridentstav KV s.r.o. IČO 30050472 kontakty 30.09.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
+            "url": "https://rejstrik-firem.kurzy.cz/30050472/tridentstav-kv-sro/",
+            "title": "Tridentstav KV s.r.o. , Praha IČO 30050472 - Obchodní ...",
+            "snippet": "Tridentstav KV s.r.o., Kaprova, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní společnosti ..."
           },
           {
-            "url": "https://rejstriky.finance.cz/firma-tridentstav-kv-s-r-o-30050472/obory-cinnosti",
-            "title": "Tridentstav KV s.r.o. IČO: 30050472 - Finance.cz",
-            "snippet": "Podrobnosti o firmě Tridentstav KV s.r.o. IČO 30050472 kontakty 28.09.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
+            "url": "https://rytinafacility.cz/",
+            "title": "RYTINA – Malířské a úklidové služby Praha",
+            "snippet": "Malířské práce a úklidové služby pro domácnosti, firmy a SVJ v Praze a okolí. Malování bytů, kanceláří, společných prostor a profesionální úklid."
           },
           {
-            "url": "https://www.facebook.com/DaramisGroup/",
-            "title": "Daramis | Prague - FacebookHB Reavis | International Workspace ProviderSkupina VCESPeople | Aegislaw.czLegnica airport. 2010 – Polot.netExpats.cz for news, jobs and real estate in ",
-            "snippet": "Daramis, Prague. 5,980 followers · 6 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy. We are an international workspace provider with a mission to create remarkable experiences through real estate solutions. Zaměřujeme se na generální dodávky"
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
           },
           {
-            "url": "https://www.aegislaw.cz/en/people/miroslav-obernauer",
-            "title": "People | Aegislaw.cz",
-            "snippet": "His work covers the preparation of development plans, zoning and permitting, construction and contractor agreements, as well as leasing, property management and sales. He also advises on acquisitions and due diligence, ownership and lease relationships, easements and other rights relating to land and buildings."
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
           },
           {
-            "url": "https://polot.net/en/legnica-airport-2010/",
-            "title": "Legnica airport. 2010 – Polot.net",
-            "snippet": "The Muscovites took over the property left at the airport. They were particularly pleased with the numerous and undamaged hangars. They allowed the launch of field aviation workshops. The undamaged planes left by the Germans were mostly sent to the east by rail. The biggest problem was the lack of fuel, which had to be"
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
           },
           {
-            "url": "https://www.skanska.com/cz/cs",
-            "title": "Skanska v České republice",
-            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+            "url": "https://www.facebook.com/groups/bydleni.nabidka.poptavka/",
+            "title": "Praha - BYDLENÍ SPOLUBYDLENÍ NABÍDKA , POPTÁVKA - Facebook",
+            "snippet": "1 day ago · Skupina je určena pro NABÍDKU a POPTÁVKU bydlení či SPOLUBYDLENÍ v Praze a okolí. Skupinu pro Vás dlouhodobě spravuje Smart Homes a Expert Rent V případě..."
           },
           {
-            "url": "https://hbreavis.com/",
-            "title": "HB Reavis | International Workspace Provider",
-            "snippet": "We are an international workspace provider with a mission to create remarkable experiences through real estate solutions."
-          },
-          {
-            "url": "https://vces.cz/",
-            "title": "Skupina VCES",
-            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
-          },
-          {
-            "url": "https://www.expats.cz/",
-            "title": "Expats.cz for news, jobs and real estate in Prague and the ...",
-            "snippet": "Oct 9, 2026 · We are the Czech Republic's leading English-language media supporting English speakers with helpful services such as latest news, job offers, real estate listings and more."
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Poptávám: znalecký posudek na odhad bytu před 5 hodinami Praha Služby Dušan K. Praha 10-Vršovice"
           }
         ],
         "errors": [
+          "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
@@ -5189,40 +5180,35 @@
         "website": "",
         "examined": [
           {
-            "url": "https://www.aegislaw.cz/en/people/miroslav-obernauer",
+            "url": "https://rytinafacility.cz/",
             "result": "ambiguous",
             "evidence": [
               "Prague mentioned on website"
             ]
           },
           {
-            "url": "https://polot.net/en/legnica-airport-2010/",
+            "url": "https://dodavatele.epoptavka.cz/",
             "result": "ambiguous",
             "evidence": [
               "Prague mentioned on website"
             ]
           },
           {
-            "url": "https://www.skanska.com/cz/cs",
+            "url": "https://zakazky.epoptavka.cz/",
             "result": "ambiguous",
             "evidence": [
               "Prague mentioned on website"
             ]
           },
           {
-            "url": "https://hbreavis.com/en/",
-            "result": "ambiguous",
-            "evidence": []
-          },
-          {
-            "url": "https://vces.cz/",
+            "url": "https://www.epoptavka.cz/",
             "result": "ambiguous",
             "evidence": [
               "Prague mentioned on website"
             ]
           },
           {
-            "url": "https://www.expats.cz/",
+            "url": "https://poptavky.epoptavka.cz/",
             "result": "ambiguous",
             "evidence": [
               "Prague mentioned on website"
@@ -5289,13 +5275,13 @@
         ]
       },
       "candidate_search_sources": [
-        "https://rejstriky.finance.cz/firma-tridentstav-kv-s-r-o-30050472",
-        "https://rejstriky.finance.cz/firma-tridentstav-kv-s-r-o-30050472/obory-cinnosti",
-        "https://www.facebook.com/DaramisGroup/",
-        "https://www.aegislaw.cz/en/people/miroslav-obernauer",
-        "https://polot.net/en/legnica-airport-2010/",
-        "https://www.skanska.com/cz/cs",
-        "https://hbreavis.com/"
+        "https://rejstrik-firem.kurzy.cz/30050472/tridentstav-kv-sro/",
+        "https://rytinafacility.cz/",
+        "https://dodavatele.epoptavka.cz/",
+        "https://zakazky.epoptavka.cz/",
+        "https://www.epoptavka.cz/",
+        "https://www.facebook.com/groups/bydleni.nabidka.poptavka/",
+        "https://poptavky.epoptavka.cz/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
@@ -6268,7 +6254,7 @@
     "osm-node-10021452160": {
       "lead_id": "osm-node-10021452160",
       "name": "Truhlářství Marek",
-      "checked_at": "2026-10-15",
+      "checked_at": "2026-10-24",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -6596,7 +6582,7 @@
     "osm-node-10118560658": {
       "lead_id": "osm-node-10118560658",
       "name": "EUROCONT REALITY s.r.o.",
-      "checked_at": "2026-10-15",
+      "checked_at": "2026-10-24",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -6918,7 +6904,7 @@
     "osm-node-10118560659": {
       "lead_id": "osm-node-10118560659",
       "name": "EGYPT REALITY",
-      "checked_at": "2026-10-15",
+      "checked_at": "2026-10-24",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -7203,7 +7189,7 @@
     "osm-node-10927835114": {
       "lead_id": "osm-node-10927835114",
       "name": "Collcoll",
-      "checked_at": "2026-10-15",
+      "checked_at": "2026-10-24",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -7492,7 +7478,7 @@
     "osm-node-11041819250": {
       "lead_id": "osm-node-11041819250",
       "name": "de.fakto CZ, s.r.o.",
-      "checked_at": "2026-10-15",
+      "checked_at": "2026-10-24",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -28386,7 +28372,7 @@
     "osm-way-27993273": {
       "lead_id": "osm-way-27993273",
       "name": "Möbelix",
-      "checked_at": "2026-10-14",
+      "checked_at": "2026-10-24",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -28446,7 +28432,7 @@
     "osm-way-486551939": {
       "lead_id": "osm-way-486551939",
       "name": "Butlers",
-      "checked_at": "2026-10-14",
+      "checked_at": "2026-10-24",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -28506,7 +28492,7 @@
     "osm-way-487542170": {
       "lead_id": "osm-way-487542170",
       "name": "Kanape",
-      "checked_at": "2026-10-14",
+      "checked_at": "2026-10-24",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -42956,6 +42942,1427 @@
         "source": "https://www.mesec.cz/rejstrik-firem/firma-miroslav-homolka-30141389",
         "evidence": "Explicit mailto/tel links on identity-matched business website"
       },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30142849": {
+      "lead_id": "res-30142849",
+      "name": "Volodymyr Nikonov",
+      "checked_at": "2026-10-24",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Volodymyr Nikonov\" IČO 30142849 web",
+          "\"Volodymyr Nikonov\" Praha Construction & property kontakt",
+          "\"Volodymyr Nikonov\" \"Václavské náměstí 788\" web",
+          "\"Volodymyr Nikonov\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-volodymyr-nikonov-30142849",
+            "title": "Volodymyr Nikonov IČO 30142849 kontakty 19.10.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Volodymyr Nikonov IČO 30142849 kontakty 19.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů…"
+          },
+          {
+            "url": "https://aleo.com/int/company/volodymyr-nikonov",
+            "title": "Company Volodymyr Nikonov, Gdańsk - NIP, KRS, REGON, opinions ...",
+            "snippet": "Check NIP, REGON and KRS of the Volodymyr Nikonov company. See the customers' opinions. Get to know the connections between companies. Data is fetched from CEIDG register."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/osoby/280047/",
+            "title": "VOLODYMYR NIKONOV - rejstříky, události | Kurzy.cz",
+            "snippet": "Statistické údaje o jméně Volodymyr Nikonov v rejstřících V existujících společnostech je zapsána 1 osoba. Jméno bylo nebo je zapsáno v 1 existující společnosti a má celkem 2 aktuální záznamy a nemá žádný historický záznam. Jméno nebylo zapsáno v žádné již zaniklé společnosti. Jméno Volodymyr Nikonov není zapsáno v živ"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/osoba/2686447/",
+            "title": "VOLODYMYR NIKONOV Ukrajina - Obchodní rejstřík | Kurzy.cz",
+            "snippet": "Souhrnné informace k osobě VOLODYMYR NIKONOV Ukrajina Tato stránka obsahuje informace o osobě VOLODYMYR NIKONOV Ukrajina, které jsou uvedeny ve veřejných rejstřících a jsou tedy ze zákona veřejné *. Osoba VOLODYMYR NIKONOV aktuálně působíaktuálně působí a působilav 1 společnostiv 1 společnosti."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/volodymyr-nikonov",
+            "title": "Volodymyr Nikonov - Obchodní rejstřík | Peníze.cz",
+            "snippet": "Volodymyr Nikonov výpis firem z Obchodního rejstříku, IČO firmy, adresa sídla firmy, pozice ve firmě, související firmy, vztahy ve firmách."
+          },
+          {
+            "url": "https://monitorfirm.pb.pl/firma/volodymyr-nikonov/",
+            "title": "VOLODYMYR NIKONOV, NIP 5842826281. monitorfirm.pb.pl",
+            "snippet": "VOLODYMYR NIKONOV (NIP 5842826281). Dane firm. Numery REGON, KRS i NIP firmy, adres, kontakt, telefon, mapa, zarząd."
+          },
+          {
+            "url": "https://www.gowork.pl/volodymyr-nikonov,25656942/dane-kontaktowe-firmy",
+            "title": "Volodymyr Nikonov Warszawa - telefon, adres, NIP - GoWork.pl",
+            "snippet": "Zobacz dane kontaktowe, korespondencyjne i adresowe firmy Volodymyr Nikonov Gdańsk: adresy, NIP, numery telefonów, infolinie, email."
+          },
+          {
+            "url": "https://jasnadata.cz/person/7f75a38be5ce408e967fea91b47a3d2f47ecab17/companies/?page=1",
+            "title": "VOLODYMYR NIKONOV - Jasnadata.cz",
+            "snippet": "Bezplatné firemní údaje pro VOLODYMYR NIKONOV. Základní informace, vlastnictví, ředitelé a další"
+          },
+          {
+            "url": "https://www.facebook.com/volodymyr.nikonov/",
+            "title": "Volodymyr Nikonov - Facebook",
+            "snippet": "Volodymyr Nikonov is on Facebook. Join Facebook to connect with Volodymyr Nikonov and others you may know. Facebook gives people the power to share and makes the world more open and connected."
+          },
+          {
+            "url": "https://www.facebook.com/DaramisGroup/",
+            "title": "Daramis | Prague - Facebook",
+            "snippet": "Oct 15, 2026 · Daramis, Prague. 5,984 followers · 21 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy."
+          },
+          {
+            "url": "https://cs.wikipedia.org/wiki/Stýblův_dům",
+            "title": "Stýblův dům – Wikipedie",
+            "snippet": "Stýblův dům je rohový kancelářský a prodejní dům postavený v novorenesančním stylu na křižovatce Václavského náměstí a Vodičkovy ulice, na adrese č. p. 788/30, 110 00 na Novém Městě, Praha 1. Budova vznikla jako moderní zázemí pro nakladatelství B. Stýblo vlastněné Adolfem B. Stýblem. Autorem návrhu byl stavitel a arch"
+          },
+          {
+            "url": "https://regiony.kurzy.cz/praha/vaclavske-namesti/788-30/firmy-vypis/",
+            "title": "Václavské náměstí 788/30, Nové Město, 110 00 Praha 1, objekt ...Václavské náměstí 788/30 (Adresa) • Mapy.comStýblův dům (Historická budova) • Mapy.comStýblův dům – WikipedieVáclavs",
+            "snippet": "Václavské náměstí 788/30, Nové Město, 110 00 Praha 1 - informace o poště a PSČ, údaje z katastru nemovitostí a katastrální mapa, statistické údaje o objektu, GPS pozice pro navigaci, informace o firmách, osobách a živnostech z veřejného rejstříku. Mapa Václavské náměstí 788/30 (Adresa) – detailní mapa okolí (základní, "
+          },
+          {
+            "url": "https://mapy.com/cs/?source=addr&id=9105574",
+            "title": "Václavské náměstí 788/30 (Adresa) • Mapy.com",
+            "snippet": "Mapa Václavské náměstí 788/30 (Adresa) – detailní mapa okolí (základní, turistická, satelitní, panoramatická, atd.), plánování trasy, GPS a mnoho dalšího na Mapy.com."
+          },
+          {
+            "url": "https://2gis.cz/praha/geo/12948484583872261",
+            "title": "Václavské náměstí, 788/30 on the map of Prahy — 2GIS",
+            "snippet": "Václavské náměstí, 788/30 on the map, entrances, zip code, companies in the building and easy ways to get to the place"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://aleo.com/int/company/volodymyr-nikonov",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://monitorfirm.pb.pl/firma/volodymyr-nikonov/",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.gowork.pl/volodymyr-nikonov,25656942/dane-kontaktowe-firmy",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://jasnadata.cz/person/7f75a38be5ce408e967fea91b47a3d2f47ecab17/companies/?page=1",
+            "result": "unreachable",
+            "reason": "HTTP_523"
+          },
+          {
+            "url": "https://mapy.com/en/?source=addr&id=9105574",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://2gis.cz/praha/geo/12948484583872261",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30142849",
+        "legal_name": "Volodymyr Nikonov",
+        "registered_at": "2026-10-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30142849",
+        "decision_maker": {
+          "name": "Volodymyr Nikonov",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30142849",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30142849",
+          "date": "2026-10-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Volodymyr Nikonov — research dossier",
+        "facts": [
+          "The business is listed at Václavské náměstí 788, Praha, 11000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30142849 dated 2026-10-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30142849",
+            "date": "2026-10-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30142849"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Volodymyr Nikonov",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30142849",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-volodymyr-nikonov-30142849",
+        "https://aleo.com/int/company/volodymyr-nikonov",
+        "https://rejstrik-firem.kurzy.cz/osoby/280047/",
+        "https://rejstrik-firem.kurzy.cz/osoba/2686447/",
+        "https://rejstrik.penize.cz/volodymyr-nikonov",
+        "https://monitorfirm.pb.pl/firma/volodymyr-nikonov/",
+        "https://www.gowork.pl/volodymyr-nikonov,25656942/dane-kontaktowe-firmy"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30143608": {
+      "lead_id": "res-30143608",
+      "name": "Dmytro Makarenko",
+      "checked_at": "2026-10-24",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Dmytro Makarenko\" IČO 30143608 web",
+          "\"Dmytro Makarenko\" Praha Construction & property kontakt",
+          "\"Dmytro Makarenko\" \"náměstí Přátelství 1518\" web",
+          "\"Dmytro Makarenko\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-dmytro-makarenko-30143608/kontakty",
+            "title": "Dmytro Makarenko IČO 30143608 kontakty 18.10.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Dmytro Makarenko IČO 30143608 kontakty 18.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-dmytro-makarenko-30143608",
+            "title": "Dmytro Makarenko IČO 30143608 kontakty 20.10.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Dmytro Makarenko IČO 30143608 kontakty 20.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/osoba/1049710/",
+            "title": "Dmytro Makarenko Ukrajina - Obchodní rejstřík | Kurzy.cz",
+            "snippet": "Nov 4, 1998 · Souhrnné informace k osobě Dmytro Makarenko Ukrajina Tato stránka obsahuje informace o osobě Dmytro Makarenko Ukrajina, které jsou uvedeny ve veřejných rejstřících a jsou tedy ze zákona veřejné *. Osoba Dmytro Makarenko aktuálně působíaktuálně působí a působilav 1 společnostiv 1 společnosti."
+          },
+          {
+            "url": "https://de.linkedin.com/in/dmytro-makarenko-105582151",
+            "title": "Dmytro Makarenko – Berlin, Berlin, Deutschland | Berufliches ...Dmytro Makarenko, Kotljarevského Ivana, dům 43 v obchodním ...Dmytro Makarenko - C#/.NET Developer | LinkedInDmytro ",
+            "snippet": "Ort: Berlin · 500+ Kontakte auf LinkedIn. Sehen Sie sich das Profil von Dmytro Makarenko Dmytro Makarenko auf LinkedIn, einer professionellen Community mit mehr als 1 Milliarde Mitgliedern, an. Dmytro Makarenko, Kotljarevského Ivana, dům 43, Buča, Bučanský okres, Kyjevská oblast, 082 92, Ukrajina v obchodním rejstříku."
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/osoby/dmytro-makarenko-4276036/",
+            "title": "Dmytro Makarenko, Kotljarevského Ivana, dům 43 v obchodním ...",
+            "snippet": "Dmytro Makarenko, Kotljarevského Ivana, dům 43, Buča, Bučanský okres, Kyjevská oblast, 082 92, Ukrajina v obchodním rejstříku. Adresa sídla, pozice ve…"
+          },
+          {
+            "url": "https://www.linkedin.com/pub/dir/Dmytro+(Dima)/Makarenko",
+            "title": "Dmytro Makarenko - C#/.NET Developer | LinkedIn",
+            "snippet": "View Dmytro Makarenko’s profile on LinkedIn, a professional community of 1 billion members."
+          },
+          {
+            "url": "https://www.zoominfo.com/p/Dmytro-Makarenko/7484570312",
+            "title": "Dmytro Makarenko Email & Phone Number | Frontend ... - ZoomInfo",
+            "snippet": "Get the details of Dmytro Makarenko's business profile including email address, phone number, work history and more."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.zoominfo.com/p/Dmytro-Makarenko/7484570312",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30143608",
+        "legal_name": "Dmytro Makarenko",
+        "registered_at": "2026-10-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30143608",
+        "decision_maker": {
+          "name": "Dmytro Makarenko",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30143608",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30143608",
+          "date": "2026-10-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Dmytro Makarenko — research dossier",
+        "facts": [
+          "The business is listed at náměstí Přátelství 1518, Praha, 10200.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30143608 dated 2026-10-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30143608",
+            "date": "2026-10-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30143608"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Dmytro Makarenko",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30143608",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-dmytro-makarenko-30143608/kontakty",
+        "https://rejstriky.finance.cz/firma-dmytro-makarenko-30143608",
+        "https://rejstrik-firem.kurzy.cz/osoba/1049710/",
+        "https://de.linkedin.com/in/dmytro-makarenko-105582151",
+        "https://www.podnikatel.cz/rejstrik/osoby/dmytro-makarenko-4276036/",
+        "https://www.linkedin.com/pub/dir/Dmytro+(Dima)/Makarenko",
+        "https://www.zoominfo.com/p/Dmytro-Makarenko/7484570312"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30143861": {
+      "lead_id": "res-30143861",
+      "name": "Andrei Ivanenco",
+      "checked_at": "2026-10-24",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Andrei Ivanenco\" IČO 30143861 web",
+          "\"Andrei Ivanenco\" Praha Construction & property kontakt",
+          "\"Andrei Ivanenco\" \"náměstí Přátelství 1518\" web",
+          "\"Andrei Ivanenco\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://www.zivefirmy.cz/ico-30143861",
+            "title": "Andrei Ivanenco - Živéfirmy.cz",
+            "snippet": "Firma: Andrei Ivanenco IČ: 30143861 Právní forma: Zahraniční fyzická osoba Adresa: náměstí Přátelství 1518/3, Hostivař, Praha, 10200"
+          },
+          {
+            "url": "https://www.mesec.cz/rejstrik-firem/firma-andrei-ivanenco-30143861",
+            "title": "Andrei Ivanenco, IČO: (30143861), výpis z rejstříků firem a ...",
+            "snippet": "Najdete zde informace o Andrei Ivanenco. Výpis dat z živnostenského i obchodního rejstříku a ze statistického úřadu"
+          },
+          {
+            "url": "https://www.facebook.com/groups/233005118353567/",
+            "title": "Řemeslníci Praha a okolí - Facebook",
+            "snippet": "2 days ago · Poptávka a nabídka nejen řemeslných prací v Praze a středočeském kraji."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Monitorujeme pro Vás a kategorizujeme poptávky a veřejné zakázky z nejvýznamnějších zdrojů."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [
+            "info@iinfo.cz"
+          ],
+          "phones": [],
+          "source": "https://www.mesec.cz/rejstrik-firem/firma-andrei-ivanenco-30143861",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.mesec.cz/rejstrik-firem/firma-andrei-ivanenco-30143861",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.mesec.cz/rejstrik-firem/firma-andrei-ivanenco-30143861",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30143861",
+        "legal_name": "Andrei Ivanenco",
+        "registered_at": "2026-10-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30143861",
+        "decision_maker": null,
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-10-24",
+        "website": "https://www.mesec.cz/rejstrik-firem/firma-andrei-ivanenco-30143861",
+        "devices": {
+          "desktop": {
+            "title": "Andrei Ivanenco, IČO: (30143861), výpis z rejstříků firem a OSVČ - Firmy.euro.cz",
+            "description": "Najdete zde informace o Andrei Ivanenco. Výpis dat z živnostenského i obchodního rejstříku a ze statistického úřadu",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 95,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 8,
+            "contact_action": true,
+            "form_count": 0,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Andrei Ivanenco, IČO: (30143861), výpis z rejstříků firem a OSVČ - Firmy.euro.cz",
+            "description": "Najdete zde informace o Andrei Ivanenco. Výpis dat z živnostenského i obchodního rejstříku a ze statistického úřadu",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 72,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 8,
+            "contact_action": true,
+            "form_count": 0,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.mesec.cz/rejstrik-firem/firma-andrei-ivanenco-30143861"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30143861",
+          "date": "2026-10-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Andrei Ivanenco — research dossier",
+        "facts": [
+          "The business is listed at náměstí Přátelství 1518, Praha, 10200.",
+          "An independently identity-matched business website was found: https://www.mesec.cz/rejstrik-firem/firma-andrei-ivanenco-30143861.",
+          "ARES confirms registration for IČO 30143861 dated 2026-10-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30143861",
+            "date": "2026-10-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30143861",
+          "https://www.mesec.cz/rejstrik-firem/firma-andrei-ivanenco-30143861"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.zivefirmy.cz/ico-30143861",
+        "https://www.mesec.cz/rejstrik-firem/firma-andrei-ivanenco-30143861",
+        "https://www.facebook.com/groups/233005118353567/",
+        "https://zakazky.epoptavka.cz/",
+        "https://www.epoptavka.cz/",
+        "https://www.poptavky.cz/",
+        "https://poptavky.epoptavka.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [
+          "info@iinfo.cz"
+        ],
+        "phones": [],
+        "source": "https://www.mesec.cz/rejstrik-firem/firma-andrei-ivanenco-30143861",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30144001": {
+      "lead_id": "res-30144001",
+      "name": "Alexei Cherkasov",
+      "checked_at": "2026-10-24",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Alexei Cherkasov\" IČO 30144001 web",
+          "\"Alexei Cherkasov\" Praha Construction & property kontakt",
+          "\"Alexei Cherkasov\" \"Lužická 1593\" web",
+          "\"Alexei Cherkasov\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://www.linkedin.com/pub/dir/Alexei/Cherkasov",
+            "title": "2 \"Alexei Cherkasov\" profiles | LinkedIn",
+            "snippet": "View the profiles of professionals named \"Alexei Cherkasov\" on LinkedIn. There are 2 professionals named \"Alexei Cherkasov\", who use LinkedIn to exchange information, ideas ..."
+          },
+          {
+            "url": "https://www.facebook.com/groups/233005118353567/",
+            "title": "Řemeslníci Praha a okolí - Facebook",
+            "snippet": "2 days ago · Poptávka a nabídka nejen řemeslných prací v Praze a středočeském kraji."
+          },
+          {
+            "url": "https://www.aaapoptavka.cz/zadat-poptavku/0",
+            "title": "Zadání poptávky | AAAPoptávka.cz",
+            "snippet": "Zadejte si poptávku ZDARMA. Vaše poptávka bude rozeslána ověřeným dodavatelům z celé ČR. První reakce na poptávky obdržíte již do několika hodin. Vyzkoušejte největší poptávkový systém."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Monitorujeme pro Vás a kategorizujeme poptávky a veřejné zakázky z nejvýznamnějších zdrojů."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.aaapoptavka.cz/zadat-poptavku/0",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30144001",
+        "legal_name": "Alexei Cherkasov",
+        "registered_at": "2026-10-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30144001",
+        "decision_maker": {
+          "name": "Alexei Cherkasov",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30144001",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30144001",
+          "date": "2026-10-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Alexei Cherkasov — research dossier",
+        "facts": [
+          "The business is listed at Lužická 1593, Praha, 12000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30144001 dated 2026-10-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30144001",
+            "date": "2026-10-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30144001"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Alexei Cherkasov",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30144001",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.linkedin.com/pub/dir/Alexei/Cherkasov",
+        "https://www.facebook.com/groups/233005118353567/",
+        "https://www.aaapoptavka.cz/zadat-poptavku/0",
+        "https://zakazky.epoptavka.cz/",
+        "https://www.epoptavka.cz/",
+        "https://poptavky.epoptavka.cz/",
+        "https://www.poptavky.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30145643": {
+      "lead_id": "res-30145643",
+      "name": "Davyd Kuksenko",
+      "checked_at": "2026-10-24",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Davyd Kuksenko\" IČO 30145643 web",
+          "\"Davyd Kuksenko\" Praha Construction & property kontakt",
+          "\"Davyd Kuksenko\" \"Ruská 604\" web",
+          "\"Davyd Kuksenko\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+            "title": "Construction & Property Management s.r.o. , Praha IČO ...",
+            "snippet": "5 days ago · Construction & Property Management s.r.o., Na příkopě, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik ..."
+          },
+          {
+            "url": "https://private-construction.cz/kontakt",
+            "title": "Kontakt - private-construction.cz",
+            "snippet": "Na Hroudě 43, 110 00 Praha 10 - Strašnice Společnost je od 13. září 2011 zapsaná v obchodním rejstříku vedeném u Městského soudu v Praze, oddíl C, vložka 184222."
+          },
+          {
+            "url": "https://www.linkedin.com/in/david-kuksenko-192a36115",
+            "title": "David Kuksenko - General Contractor at D&J Complete ...",
+            "snippet": "General Contractor at D&J Complete Construction, Real Estate Agent at Key Associates, Service Manager at Foreign Performance · Experienced Service Manager with a demonstrated history of ..."
+          },
+          {
+            "url": "https://www.linkedin.com/pub/dir/+/Kuksenko",
+            "title": "90+ \"Kuksenko\" profiles | LinkedIn",
+            "snippet": "View the profiles of professionals named \"Kuksenko\" on LinkedIn. There are 100+ professionals named \"Kuksenko\", who use LinkedIn to exchange information, ideas, and opportunities."
+          },
+          {
+            "url": "https://rocketreach.co/david-kuksenko-email_198547798",
+            "title": "David Kuksenko Email & Phone Number | Key Associates ...",
+            "snippet": "David Kuksenko brings experience from previous roles at Foreign Performance, Salad World and D&J Construction Company, Inc.. David Kuksenko holds a 2015 - 2017 Bachelor of Science - BS in Business Administration and Management, General @ University of Southern Indiana."
+          },
+          {
+            "url": "https://cz.linkedin.com/in/davyd-kuksenko-580b9b374",
+            "title": "Davyd Kuksenko – -- | LinkedIn",
+            "snippet": "-- · Cílevědomý, komunikativní a spolehlivý člověk s pozitivním přístupem. Mám bohaté zkušenosti z různých pracovních prostředí, rychle se učím a umím se přizpůsobit novým situacím. Rád pracuji s lidmi a vždy hledám způsoby, jak se dál rozvíjet. Také ve volném čase se líčím a vystupuju jako Drag Queen po cele ČR. · Pra"
+          },
+          {
+            "url": "https://www.sreality.cz/en/project-detail/slunecne-terasy-reporyje/39866",
+            "title": "Slunečné terasy Řeporyje • Sreality.cz",
+            "snippet": "1 property in the current offer of properties in the development project Slunečné terasy Řeporyje The largest offer of real estate in the Czech Republic (110,680 estates) with search on the map and filtering with dozens of parameters"
+          },
+          {
+            "url": "https://www.epoptavka.cz/reference",
+            "title": "Reference | ePoptávka.cz",
+            "snippet": "Reference od dodavatelů BS textil s.r.o. Ing. Bohuslav Voda Společnost BS textil s.r.o. se zabývá bytovým textilem, potahovými a dekoračními materiály v metráži. Poptávkový systém ePoptávka.cz využívají již od jeho vzniku."
+          },
+          {
+            "url": "https://www.poptavej.cz/poptavky/sluzby",
+            "title": "Služby - Poptávky | Poptávej.cz",
+            "snippet": "Denně nové poptávky z oboru Služby a poradenství. Získejte nové obchodní příležitosti z vašeho oboru činnosti nebo si zadejte zcela zdarma jakoukoliv poptávku po službách a zboží."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/sluzby",
+            "title": "Služby | Databáze poptávek | ePoptávka.cz",
+            "snippet": "Poptávky z kategorie: Služby Služby je rozsáhlá kategorie, kde každý týden najdete desítky poptávek z oblasti služeb. Například jde o účetní služby, právní služby, úklidové služby nebo specifické poptávky na jednorázové služby."
+          },
+          {
+            "url": "https://www.poptavej.cz/poptavky/kraj-praha",
+            "title": "Praha - Poptávky | Poptávej.cz",
+            "snippet": "Potravinářství Reality Reklama a tisk Řemesla Služby Stavební materiál Stavebnictví Stroje Strojírenství a průmysl Textil a oděvy Zabezpečení Zahrada Zemědělství Podle kraje Jihočeský Jihomoravský Karlovarský Královéhradecký Liberecký Moravskoslezský Olomoucký Pardubický Plzeňský Praha Středočeský Ústecký ..."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/verejne-poptavky/praha",
+            "title": "Praha | Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Největší databáze zakázek od veřejných subjektů. Najděte všechny vhodné zakázky pro Vaši firmu snadno a na jednom místě. Využijte jedničku na trhu."
+          },
+          {
+            "url": "https://www.epoptavka.cz/?1",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://zakazky.sluzby.cz/",
+            "title": "Zakázky a poptávky služeb v lokalitě Celá ČR",
+            "snippet": "Katalog poptávek je stále aktualizovaný našimi administrátory. Můžete vložit zdarma poptávku a oslovit tak široký okruh dodavatelů, firem a další poskytovatelů služeb. Neváhejte, přidání poptávky je zdarma. Jste dodavatel, poskytovatel služby, řemeslník? Budeme vám posílat aktuální zakázky, můžete reagovat na poptávky "
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://private-construction.cz/kontakt",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://rocketreach.co/david-kuksenko-email_198547798",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.sreality.cz/en/project-detail/slunecne-terasy-reporyje/39866",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/reference",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.poptavej.cz/poptavky/sluzby",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/sluzby",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/verejne-poptavky/praha",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.sluzby.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30145643",
+        "legal_name": "Davyd Kuksenko",
+        "registered_at": "2026-10-13",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30145643",
+        "decision_maker": {
+          "name": "Davyd Kuksenko",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30145643",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30145643",
+          "date": "2026-10-13",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Davyd Kuksenko — research dossier",
+        "facts": [
+          "The business is listed at Ruská 604, Praha, 10100.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30145643 dated 2026-10-13."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30145643",
+            "date": "2026-10-13",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30145643"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Davyd Kuksenko",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30145643",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+        "https://private-construction.cz/kontakt",
+        "https://www.linkedin.com/in/david-kuksenko-192a36115",
+        "https://www.linkedin.com/pub/dir/+/Kuksenko",
+        "https://rocketreach.co/david-kuksenko-email_198547798",
+        "https://cz.linkedin.com/in/davyd-kuksenko-580b9b374",
+        "https://www.sreality.cz/en/project-detail/slunecne-terasy-reporyje/39866"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30147018": {
+      "lead_id": "res-30147018",
+      "name": "Dmytro Shevchuk",
+      "checked_at": "2026-10-24",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Dmytro Shevchuk\" IČO 30147018 web",
+          "\"Dmytro Shevchuk\" Praha Construction & property kontakt",
+          "\"Dmytro Shevchuk\" \"Galandova 1233\" web",
+          "\"Dmytro Shevchuk\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-dmytro-shevchuk-30147018",
+            "title": "Dmytro Shevchuk IČO 30147018 kontakty 18.10.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Dmytro Shevchuk IČO 30147018 kontakty 18.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-dmytro-shevchuk-30147018/kontakty",
+            "title": "Dmytro Shevchuk Praha 6 IČO 30147018 kontakty 20.10.2026 ...",
+            "snippet": "Podrobnosti o firmě Dmytro Shevchuk Praha 6 IČO 30147018 kontakty 20.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/zivnostnik/amiSp5uWkqs=",
+            "title": "Dmytro Shevchuk - Živnostenský rejstřík | Kurzy.cz",
+            "snippet": "Dmytro Shevchuk, podnikatel – kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
+          },
+          {
+            "url": "https://www.northdata.com/Shevchuk,+Dmytro,+Praha/f6",
+            "title": "Dmytro Shevchuk, Prague, Czech Republic - North Data",
+            "snippet": "Company relations and network for Dmytro Shevchuk, Prague, Czech Republic: Asteria Dent s.r.o., D3-Digital Dental Design s.r.o., Inlay s.r.o., Integrated Medical ..."
+          },
+          {
+            "url": "https://www.linkedin.com/company/shevchukbc",
+            "title": "Shevchuk Building Company - LinkedIn",
+            "snippet": "The founder of the company, Dmytro Shevchuk, a graduate of the Kyiv University of Civil Engineering and Architecture, has been engaged in the construction business since 2010, and has also founded ..."
+          },
+          {
+            "url": "https://www.instagram.com/dshwch.k/",
+            "title": "Dmytro Shevchuk (@dshwch.k) • Instagram photos and videos",
+            "snippet": "1,924 Followers, 89 Following, 20 Posts - Dmytro Shevchuk (@dshwch.k) on Instagram: \"full time fx/metals.\""
+          },
+          {
+            "url": "https://intecracy.com/en/experts/dmytro-shevchuk/",
+            "title": "Dmytro Shevchuk | Intecracy Group",
+            "snippet": "Cloud solutions architect with 12 years of experience across Azure, AWS, and GCP. Specializes in enterprise workload migration, hybrid infrastructure, and FinOps practices for cost control. Leads managed services with SLA deployment for banks and telecom."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-dmytro-shevchuk-23755539/obory-cinnosti",
+            "title": "Dmytro Shevchuk Praha IČO 23755539 kontakty 19.08.2026 ...",
+            "snippet": "Podrobnosti o firmě Dmytro Shevchuk Praha IČO 23755539 kontakty 17.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/dmytro-shevchuk-23755539/",
+            "title": "Dmytro Shevchuk - IČO 23755539 - Obchodní rejstřík na ...",
+            "snippet": "Podrobnosti o firmě Dmytro Shevchuk - IČO 23755539 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/osoba/3466511/",
+            "title": "Dmytro Shevchuk Praha - Obchodní rejstřík | Kurzy.cz",
+            "snippet": "Feb 22, 2021 · Souhrnné informace k osobě Dmytro Shevchuk Praha Tato stránka obsahuje informace o osobě Dmytro Shevchuk Praha, které jsou uvedeny ve veřejných rejstřících a jsou tedy ze zákona veřejné *. Osoba Dmytro Shevchuk aktuálně působí aktuálně působí a působila v 5 společnostech v 5 společnostech."
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/dmytro-shevchuk-23102411/",
+            "title": "Dmytro Shevchuk - IČO 23102411 - Obchodní rejstřík na ...",
+            "snippet": "Podrobnosti o firmě Dmytro Shevchuk - IČO 23102411 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://www.mesec.cz/rejstrik-firem/firma-dmytro-shevchuk-88859908",
+            "title": "Dmytro Shevchuk, IČO: (88859908), výpis z rejstříků firem a ...",
+            "snippet": "Najdete zde informace o Dmytro Shevchuk. Výpis dat z živnostenského i obchodního rejstříku a ze statistického úřadu"
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/osoby/dmytro-shevchuk-4085964/",
+            "title": "Dmytro Shevchuk, Lucemburská 1856/40 v obchodním rejstříku ...",
+            "snippet": "Dmytro Shevchuk, Lucemburská 1856/40, Praha, 130 00, Česká republika v obchodním rejstříku. Adresa sídla, pozice ve firmě, vztahy mezi společnostmi a…"
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/osoby/dmytro-shevchuk-2565412/",
+            "title": "Dmytro Shevchuk v obchodním rejstříku - Podnikatel.cz",
+            "snippet": "Dmytro Shevchuk, Zelene, Ukrajina v obchodním rejstříku. Adresa sídla, pozice ve firmě, vztahy mezi společnostmi a majiteli firem."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.northdata.com/Shevchuk,+Dmytro,+Praha/f6",
+            "result": "unreachable",
+            "reason": "HTTP_429"
+          },
+          {
+            "url": "https://intecracy.com/en/experts/dmytro-shevchuk/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website"
+            ]
+          },
+          {
+            "url": "https://www.mesec.cz/rejstrik-firem/firma-dmytro-shevchuk-88859908",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30147018",
+        "legal_name": "Dmytro Shevchuk",
+        "registered_at": "2026-10-13",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30147018",
+        "decision_maker": {
+          "name": "Dmytro Shevchuk",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30147018",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30147018",
+          "date": "2026-10-13",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Dmytro Shevchuk — research dossier",
+        "facts": [
+          "The business is listed at Galandova 1233, Praha, 16300.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30147018 dated 2026-10-13."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30147018",
+            "date": "2026-10-13",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30147018"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Dmytro Shevchuk",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30147018",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-dmytro-shevchuk-30147018",
+        "https://rejstriky.finance.cz/firma-dmytro-shevchuk-30147018/kontakty",
+        "https://rejstrik-firem.kurzy.cz/zivnostnik/amiSp5uWkqs=",
+        "https://www.northdata.com/Shevchuk,+Dmytro,+Praha/f6",
+        "https://www.linkedin.com/company/shevchukbc",
+        "https://www.instagram.com/dshwch.k/",
+        "https://intecracy.com/en/experts/dmytro-shevchuk/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-87656001": {
+      "lead_id": "res-87656001",
+      "name": "Ondřej Mikulík",
+      "checked_at": "2026-10-24",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Ondřej Mikulík\" IČO 87656001 web",
+          "\"Ondřej Mikulík\" Praha Construction & property kontakt",
+          "\"Ondřej Mikulík\" \"Uralská 689\" web",
+          "\"Ondřej Mikulík\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/osoby/2055037/",
+            "title": "ONDŘEJ MIKULÍK - rejstříky, události | Kurzy.cz",
+            "snippet": "ONDŘEJ MIKULÍK - IČO, Obchodní a živnostenský rejstřík, firmy, adresy a kontakty, propojení osob a firem"
+          },
+          {
+            "url": "https://rejstrik.penize.cz/ondrej-mikulik",
+            "title": "Ondřej Mikulík - Obchodní rejstřík | Peníze.cz",
+            "snippet": "Ondřej Mikulík výpis firem z Obchodního rejstříku, IČO firmy, adresa sídla firmy, pozice ve firmě, související firmy, vztahy ve firmách."
+          },
+          {
+            "url": "https://cz.linkedin.com/in/ondrej-mikulcik",
+            "title": "Ondřej Mikulčík – Spojuji světy technologií a financí | LinkedInOndřej Mikulík - FacebookOndřej Mikulík | Jméno české osobnostiOndřej Mikulík - YouTubeHistorie - Nábytek Mikulík",
+            "snippet": "Spojuji světy technologií a financí · Celoživotní zájem o finance, ekonomii a technologie mě přirozeně navedl k FinTechu. Zabývám se tedy touto oblastí a rád se objevím na oborových konferencích, ať už je to na podiu nebo v hledišti. Nezapomínám ale ani na můj oblíbený JavaScript (TypeScript) a stále se věnuji i vývoji"
+          },
+          {
+            "url": "https://www.facebook.com/people/Ondřej-Mikulík/100087623316891/",
+            "title": "Ondřej Mikulík - Facebook",
+            "snippet": "Ondřej Mikulík is on Facebook. Join Facebook to connect with Ondřej Mikulík and others you may know. Facebook gives people the power to share and makes the world more open and connected."
+          },
+          {
+            "url": "https://ceska-jmena.cz/ondrej-mikulik",
+            "title": "Ondřej Mikulík | Jméno české osobnosti",
+            "snippet": "Dárek, který Ondřej Mikulík ocení! Medaile z pravého zlata, s ryzosti 23,6 Karátů. Původní český výrobek se jménem Ondřej a příjmením Mikulík, který mohou věnovat přátelé i kolegové."
+          },
+          {
+            "url": "https://www.nabytek-mikulik.cz/historie/",
+            "title": "Historie - Nábytek Mikulík",
+            "snippet": "Historie, Nábytek Mikulík Už se o nás ví i za humny. Je čas na vysokou školu podnikatelského života. 3000 m2. Tak velký byl tehdy náš sen. Sebrali jsme odvahu, odhodlání a přidali důvěru v naši moravskou pracovitost. Postavili jsme výrobní halu s vlastní prodejnou. Na zelené louce. Doslova. Jako jedni z prvních výrobců"
+          },
+          {
+            "url": "https://www.youtube.com/@ondrejmikulik6014",
+            "title": "Ondřej Mikulík - YouTube",
+            "snippet": "Share your videos with friends, family, and the world"
+          },
+          {
+            "url": "https://rytinafacility.cz/",
+            "title": "RYTINA – Malířské a úklidové služby Praha",
+            "snippet": "Malířské práce a úklidové služby pro domácnosti, firmy a SVJ v Praze a okolí. Malování bytů, kanceláří, společných prostor a profesionální úklid."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.facebook.com/groups/bydleni.nabidka.poptavka/",
+            "title": "Praha - BYDLENÍ SPOLUBYDLENÍ NABÍDKA , POPTÁVKA - Facebook",
+            "snippet": "1 day ago · Skupina je určena pro NABÍDKU a POPTÁVKU bydlení či SPOLUBYDLENÍ v Praze a okolí. Skupinu pro Vás dlouhodobě spravuje Smart Homes a Expert Rent V případě..."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "O projektu Projekt Poptávky.cz sdružuje 935 486 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://ceska-jmena.cz/ondrej-mikulik",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.nabytek-mikulik.cz/historie/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching distinctive business-name words on website"
+            ]
+          },
+          {
+            "url": "https://www.youtube.com/@ondrejmikulik6014",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://rytinafacility.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "87656001",
+        "legal_name": "Ondřej Mikulík",
+        "registered_at": "2026-10-08",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=87656001",
+        "decision_maker": {
+          "name": "Ondřej Mikulík",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=87656001",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=87656001",
+          "date": "2026-10-08",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Ondřej Mikulík — research dossier",
+        "facts": [
+          "The business is listed at Uralská 689, Praha, 16000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 87656001 dated 2026-10-08."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=87656001",
+            "date": "2026-10-08",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=87656001"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Ondřej Mikulík",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=87656001",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/osoby/2055037/",
+        "https://rejstrik.penize.cz/ondrej-mikulik",
+        "https://cz.linkedin.com/in/ondrej-mikulcik",
+        "https://www.facebook.com/people/Ondřej-Mikulík/100087623316891/",
+        "https://ceska-jmena.cz/ondrej-mikulik",
+        "https://www.nabytek-mikulik.cz/historie/",
+        "https://www.youtube.com/@ondrejmikulik6014"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
       "owner_verified": false,
       "buyer_interest_verified": false
     }
