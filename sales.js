@@ -10,8 +10,28 @@ var cols=["Company","IČO","City","Sector","Legal / budget signal","Website gate
 function escapeText(v){return String(v==null?"":v).replace(/[&<>"']/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]})}
 function money(n){return n===null||n===undefined?"—":new Intl.NumberFormat("en-GB",{maximumFractionDigits:0}).format(n)+" CZK"}
 function safeUrl(url){try{var u=new URL(String(url));return u.protocol==="https:"||u.protocol==="http:"?u.href:""}catch(e){return ""}}
-function verifiedGate(r){return !!(r&&r.website_gate==="PASS — repeated exact-entity verification"&&r.no_site_confidence!==null&&r.no_site_confidence>=.9&&r.operating_business_verified===true&&r.group_check&&r.group_check.status==="independent_no_parent_verified"&&r.direct_customer_check&&r.direct_customer_check.status==="verified_direct_external_customers"&&r.direct_market_gate==="PASS — independent direct external customer operations verified"&&r.public_company_contact_verified===true&&r.verified_standalone_brand===true&&r.brand_check&&r.brand_check.status==="verified_standalone_customer_facing_brand"&&r.external_customer_evidence&&r.external_customer_evidence.status==="verified_independent_external_clients"&&r.project_vehicle_check&&r.project_vehicle_check.status==="not_captive_or_spv_verified")}
-function salesQualified(r){return verifiedGate(r)&&Number.isFinite(r.score)&&r.score>=0&&r.package_czk>0}
+function evidenceSources(a){return Array.isArray(a)&&a.length>0&&a.every(function(u){return typeof u==="string"&&/^https:\/\//.test(u)})}
+function verifiedGate(r){return !!(r
+&&r.exact_ico_verified===true&&evidenceSources(r.identity_source_urls)
+&&r.website_gate==="PASS — repeated exact-entity verification"
+&&r.no_site_confidence!==null&&r.no_site_confidence>=.9
+&&r.first_party_site_audit&&r.first_party_site_audit.status==="verified_absent_after_alias_and_exact_ico_checks"
+&&Array.isArray(r.first_party_site_audit.aliases_checked)&&r.first_party_site_audit.aliases_checked.length>0
+&&evidenceSources(r.first_party_site_audit.source_urls)
+&&r.operating_business_verified===true
+&&r.group_check&&r.group_check.status==="independent_no_parent_verified"&&evidenceSources(r.group_check.source_urls)
+&&r.control_check&&r.control_check.status==="independent_verified"&&evidenceSources(r.control_check.source_urls)
+&&r.direct_customer_check&&r.direct_customer_check.status==="verified_direct_external_customers"&&evidenceSources(r.direct_customer_check.source_urls)
+&&r.direct_market_gate==="PASS — independent direct external customer operations verified"
+&&r.public_company_contact_verified===true
+&&r.public_contact_evidence&&r.public_contact_evidence.status==="verified_company_specific_channel"&&evidenceSources(r.public_contact_evidence.source_urls)
+&&r.verified_standalone_brand===true
+&&r.brand_check&&r.brand_check.status==="verified_standalone_customer_facing_brand"&&evidenceSources(r.brand_check.source_urls)
+&&r.external_customer_evidence&&r.external_customer_evidence.status==="verified_independent_external_clients"&&evidenceSources(r.external_customer_evidence.source_urls)
+&&r.project_vehicle_check&&r.project_vehicle_check.status==="not_captive_or_spv_verified"&&evidenceSources(r.project_vehicle_check.source_urls)
+&&r.capacity_evidence&&r.capacity_evidence.status==="verified_operating_capacity"&&evidenceSources(r.capacity_evidence.source_urls))}
+function verifiedPricing(r){return !!(r&&r.pricing_evidence&&r.pricing_evidence.status==="documented_quote_basis"&&evidenceSources(r.pricing_evidence.source_urls))}
+function salesQualified(r){return verifiedGate(r)&&verifiedPricing(r)&&Number.isFinite(r.score)&&r.score>=0&&Number.isFinite(r.package_czk)&&r.package_czk>0}
 function tag(v){return '<span class="tag '+(v==="high"?"hold":v==="defer"?"defer":v==="pass"?"pass":"fail")+'">'+escapeText(v==="high"?"PRIORITY RESEARCH":v==="defer"?"DEFERRED / QA":v==="pass"?"QUALIFIED":v)+"</span>"}
 function stat(label,value,sub,icon,dark){return '<article class="stat'+(dark?' dark':'')+'"><div class="stat-top"><span>'+escapeText(label)+'</span><i aria-hidden="true">'+escapeText(icon)+'</i></div><div class="stat-value">'+escapeText(value)+'</div><div class="stat-foot">'+sub+'</div></article>'}
 function head(num,title,subtitle,note){return '<header class="panel-header"><div><div class="kicker">'+num+'</div><h2>'+title+'</h2>'+(subtitle?'<p>'+subtitle+'</p>':'')+'</div>'+(note?'<span class="side-note">'+note+'</span>':'')+'</header>'}
