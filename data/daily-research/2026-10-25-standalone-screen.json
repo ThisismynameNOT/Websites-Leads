@@ -1,0 +1,240 @@
+{
+  "date": "2026-10-25",
+  "market": "Czech Republic — Prague first; new 0–24 months (focus 0–6 months)",
+  "official_source": {
+    "name": "ČSÚ RES",
+    "catalogue": "https://csu.gov.cz/produkty/registr-ekonomickych-subjektu-otevrena-data",
+    "documentation": "https://csu.gov.cz/statistika/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+    "metadata": "https://opendata.csu.gov.cz/soubory/od/od_org03/res_data-metadata.json",
+    "csv": "https://opendata.csu.gov.cz/soubory/od/od_org03/res_data.csv",
+    "last_expected_snapshot": "2026-10-15",
+    "snapshot_publication_time_independently_verified_this_run": false,
+    "limitations": "Official ČSÚ catalogue and schema read; CSV fetch unsupported by web, container network DNS unavailable. No exhaustive extraction or exact Last-Modified confirmation. Latest October 20–21 entities discovered from registry-derived listings, then cross-referenced with public register evidence."
+  },
+  "discovery_sources": [
+    "https://www.chytryrejstrik.cz/prehled/nove-zalozene-firmy",
+    "https://fakturujzdarma.cz/firmy/nove",
+    "https://ov.gov.cz/"
+  ],
+  "qualified_first_website": [],
+  "qualified_redesign": [],
+  "outreach_ready": 0,
+  "screened_new_registrations": [
+    {
+      "name": "Stavba s jistotou s.r.o.",
+      "ico": "30148448",
+      "registration_date": "2026-10-14",
+      "age_bucket": "0–6 months",
+      "city": "Praha 2",
+      "status": "EXCLUDE_CONFIRMED_CORPORATE_PARENT",
+      "legal_identity": "Confirmed by published Commercial Gazette filing OV12289012, 16 Oct 2026.",
+      "ownership": {
+        "shareholder": "FIRMIN Praha s.r.o.",
+        "shareholder_ico": "24209198",
+        "share": "100%",
+        "source": "https://ov.ihned.cz/zapis/25390357"
+      },
+      "marketed_brand": "No separately verified customer-facing brand.",
+      "external_customers": "No independently verified outside customer contracts/projects.",
+      "direct_company_contact": "Not verified.",
+      "site_status": "UNKNOWN — not independently verified absent; not relevant to excluded tier",
+      "website_alias_checks": "Not completed; exclusion established at parent-control gate.",
+      "non_spv_operational_role": "Not independently established; filing lists property/asset management among activities, which does not alone prove SPV.",
+      "capacity_budget_interest": "Not established.",
+      "sources": [
+        "https://ov.ihned.cz/zapis/25390357",
+        "https://www.chytryrejstrik.cz/ico-30148448/stavba-s-jistotou-s-r-o"
+      ],
+      "blockers": [
+        "Confirmed 100% corporate parent ownership; excluded irrespective of site status",
+        "No demonstrated independent brand, outside clients or contact"
+      ],
+      "qualified": false
+    },
+    {
+      "name": "BERÁNEK elektroservis, s.r.o.",
+      "ico": "30153123",
+      "registration_date": "2026-10-14",
+      "age_bucket": "0–6 months",
+      "city": "Vejprnice, Plzeň Region",
+      "status": "HOLD_QA_NOT_OUTREACH",
+      "legal_identity": "Registered IČO 30153123, licensed electrical installation, repairs and inspection.",
+      "ownership": {
+        "shareholder": "Václav Beránek",
+        "share": "100%",
+        "source": "https://fakturujzdarma.cz/firma/30153123-beranek-elektroservis-s-r-o",
+        "control_conclusion": "Individual legal shareholding only; beneficial/associated-company operational independence not affirmatively proven."
+      },
+      "marketed_brand": "Company name is not evidence of actively marketed standalone service.",
+      "external_customers": "Not verified for exact IČO.",
+      "direct_company_contact": "No company-specific public phone/email independently attributed; registry directory states not owner-supplied.",
+      "site_status": "UNKNOWN — no exhaustive exact-IČO first-party/alias ownership check; suggested beranek-elektroservis.cz is an auto-generated estimate, NOT proof of owned site.",
+      "non_spv_operational_role": "Unknown; electrical trade registration alone insufficient.",
+      "capacity_budget_interest": "Unknown.",
+      "sources": [
+        "https://www.chytryrejstrik.cz/ico-30153123/beranek-elektroservis-s-r-o",
+        "https://fakturujzdarma.cz/firma/30153123-beranek-elektroservis-s-r-o"
+      ],
+      "blockers": [
+        "No exact-entity outside customer projects",
+        "No public dedicated sales channel",
+        "Standalone brand and associated brands unverified",
+        "Site absence and operating capacity not proven"
+      ],
+      "qualified": false
+    },
+    {
+      "name": "GHautoservis s.r.o.",
+      "ico": "30175062",
+      "registration_date": "2026-10-20",
+      "age_bucket": "0–6 months",
+      "city": "Brno",
+      "status": "HOLD_QA_NOT_OUTREACH",
+      "legal_identity": "Registered IČO 30175062, C 154540/KSBR.",
+      "ownership": {
+        "shareholder": "Radek Grünwald",
+        "share": "100%",
+        "source": "https://www.chytryrejstrik.cz/ico-30175062/ghautoservis-s-r-o",
+        "control_conclusion": "Individual legal shareholding; operational independence and associated-brand links unresolved."
+      },
+      "marketed_brand": "Name implies vehicle service; no independently attributed operating offer.",
+      "external_customers": "Not verified for this new entity.",
+      "direct_company_contact": "Not verified.",
+      "site_status": "UNKNOWN — exhaustive exact-IČO, alias and domain ownership checks incomplete.",
+      "non_spv_operational_role": "Not established; no inference of SPV.",
+      "capacity_budget_interest": "Unknown.",
+      "sources": [
+        "https://www.chytryrejstrik.cz/ico-30175062/ghautoservis-s-r-o",
+        "https://ov.gov.cz/vysledky"
+      ],
+      "blockers": [
+        "No outside-client jobs or contracts",
+        "No attributable direct customer contact",
+        "No positively verified marketed independent brand",
+        "No first-party site status or capacity proof"
+      ],
+      "qualified": false
+    },
+    {
+      "name": "FXB Racing s.r.o.",
+      "ico": "30171661",
+      "registration_date": "2026-10-20",
+      "age_bucket": "0–6 months",
+      "city": "Hrušovany nad Jevišovkou, South Moravia",
+      "status": "HOLD_QA_NOT_OUTREACH",
+      "legal_identity": "Registered IČO 30171661, C 154563/KSBR.",
+      "ownership": {
+        "shareholders": [
+          {
+            "name": "Milan Kočí",
+            "share": "50%"
+          },
+          {
+            "name": "Radek Janíček",
+            "share": "50%"
+          }
+        ],
+        "source": "https://rejstr.cz/30171661/fxb-racing",
+        "control_conclusion": "Two individual shareholders, but beneficial/associated brand control and customer-facing operations unverified."
+      },
+      "marketed_brand": "Racing-related name and broad registered trades do not establish actual product/service.",
+      "external_customers": "No independently attributed outside customers.",
+      "direct_company_contact": "Not verified.",
+      "site_status": "UNKNOWN — exact-IČO/alias/domain audit incomplete.",
+      "non_spv_operational_role": "Not independently established.",
+      "capacity_budget_interest": "Unknown.",
+      "sources": [
+        "https://rejstr.cz/30171661/fxb-racing",
+        "https://www.chytryrejstrik.cz/ico-30171661/fxb-racing-s-r-o"
+      ],
+      "blockers": [
+        "No direct commercial offer or clients verified",
+        "No public dedicated enquiry channel",
+        "Associated brands and site status unverified",
+        "No operating capacity proof"
+      ],
+      "qualified": false
+    },
+    {
+      "name": "Serenus domácí lékař s.r.o.",
+      "ico": "30166853",
+      "registration_date": "2026-10-20",
+      "age_bucket": "0–6 months",
+      "city": "Praha 3",
+      "status": "HOLD_QA_NOT_OUTREACH",
+      "legal_identity": "Registered IČO 30166853, C 458360/MSPH.",
+      "ownership": {
+        "shareholder": "MUDr. Vanda Světlíková",
+        "share": "100%",
+        "source": "https://www.chytryrejstrik.cz/ico-30166853/serenus-domaci-lekar-s-r-o",
+        "control_conclusion": "Individual legal shareholding, not proof of independently operating clinic."
+      },
+      "marketed_brand": "Name suggests home doctor service; operating patient offering not verified.",
+      "external_customers": "No attributable external patient booking or completed service verified.",
+      "direct_company_contact": "No verified company-specific patient booking/phone/email.",
+      "site_status": "UNKNOWN — no exhaustive first-party/alias ownership audit.",
+      "non_spv_operational_role": "Not established; no inference of SPV.",
+      "capacity_budget_interest": "Unknown; share capital is not website budget.",
+      "sources": [
+        "https://www.chytryrejstrik.cz/ico-30166853/serenus-domaci-lekar-s-r-o",
+        "https://ov.gov.cz/vysledky?page=106"
+      ],
+      "blockers": [
+        "No verified active patient-facing operation",
+        "No direct public booking channel",
+        "No independent customer evidence",
+        "No site ownership/absence or capacity evidence"
+      ],
+      "qualified": false
+    }
+  ],
+  "established_redesign_carryover": [
+    {
+      "name": "JIB s.r.o.",
+      "ico": "28969472",
+      "registration_date": "2009-10-02",
+      "age_bucket": "established",
+      "status": "HOLD_QA_REDESIGN_ONLY",
+      "brand_offering": "Landscape design, green-space maintenance and earthworks.",
+      "outside_customer_proof": "Municipality Pečky awarded 2020-02-05 contract to exact IČO 28969472 (CZK 4,480,442.10 historical contract; not web budget).",
+      "independent_brand_evidence": "First-party Webnode site with exact IČO and direct contacts, plus distinct public municipal client; individual-shareholding and beneficial-control check remains incomplete.",
+      "official_site": "https://jib-s-r-o.webnode.cz/",
+      "direct_contact": {
+        "phone": "+420 603 858 915",
+        "email": "jib@jibsro.cz",
+        "source": "https://jib-s-r-o.webnode.cz/kontakt/"
+      },
+      "historical_site_alias": "http://www.jibsro.cz/",
+      "site_alias_status": "Historical www.jibsro.cz listed in 2020 tender; both HTTPS www/non-www requests inaccessible through web tool today. This does NOT prove domain is down or unused.",
+      "observed_renovation_opportunities": [
+        "Webnode-branded site; public project references could be curated",
+        "Buyer-facing service hierarchy could be improved; no instrumented mobile or performance defects established"
+      ],
+      "blockers": [
+        "Beneficial control and associated-brand ownership unresolved",
+        "Current jibsro.cz alias content inaccessible",
+        "No verified buying interest or budget",
+        "No instrumented mobile/browser testing"
+      ],
+      "sources": [
+        "https://jib-s-r-o.webnode.cz/kontakt/",
+        "https://www.firmy.cz/detail/13075599-jib-brandys-nad-labem-stara-boleslav-brandys-nad-labem.html",
+        "https://cz.openprocurements.com/tender/2019-revitalizace-centralniho-mestskeho-parku-v-peckach-sever/"
+      ]
+    }
+  ],
+  "legacy_cohort": {
+    "window": "2026-10-03 to 2026-10-06",
+    "screened": 24,
+    "verified_standalone_brands": 0,
+    "outreach_ready": 0,
+    "source": "data/october-review.json"
+  },
+  "limitations": [
+    "No newly registered exact-IČO company passed positive independent marketed brand + outside-client + direct-contact + ownership/non-captive + website gate.",
+    "None of the newly registered companies has a verified first-party website absence.",
+    "No full ČSÚ CSV ingest; this is targeted, not exhaustive.",
+    "No buyer intent, operating capacity or website budget inferred.",
+    "No outreach, browser tests or GitHub Pages publication performed."
+  ]
+}
