@@ -58,7 +58,7 @@
       ],
       "status_policy": "Unknown means HOLD/QA; corporate parent confirmed means EXCLUDE; shared director/address/brand only means relationship QA. Existing first-party website always excluded from no-site tier; redesign only on independently evidenced defects.",
       "scope": "Historical 24-company October 3–6 cohort remains unchanged: zero outreach-ready. Later dated screens live in data/daily-research/.",
-      "research_updated": "2026-10-25"
+      "research_updated": "2026-10-26"
     }
   },
   "summary": {
@@ -78,9 +78,9 @@
     "eligible_for_sales_research": 0,
     "reaudit_date": "2026-10-10",
     "reaudit_result": "All 24: zero sufficiently proven standalone, external-client-facing brands. One confirmed corporate-owned exclusion, others held for lack of affirmative brand/client evidence. No claim all are group-owned or project SPVs.",
-    "last_qualification_policy_review": "2026-10-25",
-    "additional_screen_file": "data/daily-research/2026-10-25-standalone-screen.json",
-    "outside_legacy_cohort_note": "25 Oct targeted new registrations: 5 screened, 4 HOLD/QA, 1 excluded (Stavba s jistotou 30148448 is 100% FIRMIN Praha-owned per Commercial Gazette 16 Oct). Not part of historical 24; cohort counts unchanged."
+    "last_qualification_policy_review": "2026-10-26",
+    "additional_screen_file": "data/daily-research/2026-10-26-standalone-screen.json",
+    "outside_legacy_cohort_note": "26 Oct targeted QA: TimberCore 30187907, STAV-MAXX 30187516 and Bohemia Security Audit 30187869 (all new 22 Oct, HOLD/QA); Střechy Šmídl 24457949 has founder's pre-existing website under older IČO and remains HOLD; BOHUC 04916514 HR-only contact is not sales proof. Historical 24 unchanged, zero qualified and zero outreach-ready."
   },
   "records": [
     {
