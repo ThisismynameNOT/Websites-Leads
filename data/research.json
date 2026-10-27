@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-26T14:59:02.375506+00:00",
+  "generated_at": "2026-10-27T13:57:42.671590+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -10584,7 +10584,7 @@
     "osm-node-14256023377": {
       "lead_id": "osm-node-14256023377",
       "name": "M&M Reality",
-      "checked_at": "2026-10-18",
+      "checked_at": "2026-10-27",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -11827,7 +11827,7 @@
     "osm-node-296640443": {
       "lead_id": "osm-node-296640443",
       "name": "APASON Reality s.r.o.",
-      "checked_at": "2026-10-17",
+      "checked_at": "2026-10-27",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -11989,7 +11989,7 @@
     "osm-node-332036139": {
       "lead_id": "osm-node-332036139",
       "name": "Malování interiérů Chmelík–Švec",
-      "checked_at": "2026-10-17",
+      "checked_at": "2026-10-27",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -12300,7 +12300,7 @@
     "osm-node-360656890": {
       "lead_id": "osm-node-360656890",
       "name": "Chirš",
-      "checked_at": "2026-10-17",
+      "checked_at": "2026-10-27",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -12549,7 +12549,7 @@
     "osm-node-3625292409": {
       "lead_id": "osm-node-3625292409",
       "name": "Realitka Green",
-      "checked_at": "2026-10-18",
+      "checked_at": "2026-10-27",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -12850,7 +12850,7 @@
     "osm-node-3840397768": {
       "lead_id": "osm-node-3840397768",
       "name": "Instalatérské potřeby Borovička",
-      "checked_at": "2026-10-18",
+      "checked_at": "2026-10-27",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -13122,7 +13122,7 @@
     "osm-node-4201850290": {
       "lead_id": "osm-node-4201850290",
       "name": "Koupelny a instalace",
-      "checked_at": "2026-10-18",
+      "checked_at": "2026-10-27",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -13182,7 +13182,7 @@
     "res-30063035": {
       "lead_id": "res-30063035",
       "name": "Yurii Kuruts",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-27",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -13196,9 +13196,9 @@
         "successful_queries": 2,
         "candidates": [
           {
-            "url": "https://rejstriky.finance.cz/firma-yurii-kuruts-23158263",
-            "title": "Yurii Kuruts Praha 2 IČO 23158263 kontakty 30.11.2025 ...",
-            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Yurii Kuruts, která sídlí v obci Praha 2 a bylo jí přiděleno IČO 23158263. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/23158263-yurii-kuruts",
+            "title": "Yurii Kuruts, IČO: 23158263 - ARES - Finmag.cz",
+            "snippet": "Výpis z registru ekonomických subjektů (RES) - Yurii Kuruts, IČO: 23158263, obec: , klasifikace ekonomických činností. Aktuální data."
           },
           {
             "url": "https://www.podnikatel.cz/rejstrik/yurii-kuruts-23158263/",
@@ -13206,14 +13206,14 @@
             "snippet": "Podrobnosti o firmě Yurii Kuruts - IČO 23158263 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
           },
           {
-            "url": "https://rejstriky.finance.cz/firma-yurii-kuruts-23158263/obory-cinnosti",
-            "title": "Yurii Kuruts Praha 2 IČO 23158263 kontakty 26.04.2025 ...",
-            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Yurii Kuruts, která sídlí v obci Praha 2 a bylo jí přiděleno IČO 23158263. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
-          },
-          {
             "url": "https://rejstrik.penize.cz/ares/23158263-yurii-kuruts",
             "title": "Yurii Kuruts, Praha, IČO: 23158263 - ARES | Peníze.cz",
-            "snippet": "Oct 26, 2025 · Registr ekonomických subjektů - Yurii Kuruts, IČO: 23158263, sídlo firmy, předmět podnikání firmy Yurii Kuruts."
+            "snippet": "Registr ekonomických subjektů - Yurii Kuruts, IČO: 23158263, sídlo firmy, předmět podnikání firmy Yurii Kuruts."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-yurii-kuruts-23158263",
+            "title": "Yurii Kuruts Praha 2 IČO: 23158263 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Yurii Kuruts Praha 2 IČO 23158263 kontakty 30.11.2025 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
           },
           {
             "url": "https://rejstrik.penize.cz/yurii-kuruts",
@@ -13221,24 +13221,24 @@
             "snippet": "Yurii Kuruts výpis firem z Obchodního rejstříku, IČO firmy, adresa sídla firmy, pozice ve firmě, související firmy, vztahy ve firmách."
           },
           {
-            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/23158263-yurii-kuruts",
-            "title": "Yurii Kuruts, IČO: 23158263 - ARES - Finmag.cz",
-            "snippet": "Obchodní firma Yurii Kuruts se sídlem Praha - Nové Město, Odborů 281/3, 12000 a identifikačním číslem (IČO) 23158263."
+            "url": "https://www.finreg.sk/subjekt/3120770708",
+            "title": "Yurii Kuruts, Slnečnicová 2023/46B, Rovinka - finančný prehľad | FinReg ...",
+            "snippet": "Finančné informácie o Yurii Kuruts - (zisk,tržby, dlhy, daňové priznania a DPH) | FinReg.sk - finančný register"
+          },
+          {
+            "url": "https://www.facebook.com/people/Yurii-Kuruts/61590372600427/",
+            "title": "Yurii Kuruts - Facebook",
+            "snippet": "Yurii Kuruts is on Facebook. Join Facebook to connect with Yurii Kuruts and others you may know. Facebook gives people the power to share and makes the world more open and connected."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-yurii-kuruts-23158263/obory-cinnosti",
+            "title": "Yurii Kuruts Praha 2 IČO 23158263 kontakty 26.04.2025 ...",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Yurii Kuruts, která sídlí v obci Praha 2 a bylo jí přiděleno IČO 23158263. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
           },
           {
             "url": "https://www.facebook.com/nok.sak.71/",
             "title": "Yurii Kuruts - Facebook",
             "snippet": "Yurii Kuruts is on Facebook. Join Facebook to connect with Yurii Kuruts and others you may know. Facebook gives people the power to share and makes the..."
-          },
-          {
-            "url": "https://www.epoptavka.cz/",
-            "title": "Poptávky a zakázky | ePoptávka.cz",
-            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
-          },
-          {
-            "url": "https://zakazky.epoptavka.cz/",
-            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
-            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
           }
         ],
         "errors": [
@@ -13249,17 +13249,10 @@
         "website": "",
         "examined": [
           {
-            "url": "https://www.epoptavka.cz/",
+            "url": "https://www.finreg.sk/subjekt/3120770708",
             "result": "ambiguous",
             "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://zakazky.epoptavka.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
+              "Matching business name on website"
             ]
           }
         ],
@@ -13334,13 +13327,13 @@
         ]
       },
       "candidate_search_sources": [
-        "https://rejstriky.finance.cz/firma-yurii-kuruts-23158263",
-        "https://www.podnikatel.cz/rejstrik/yurii-kuruts-23158263/",
-        "https://rejstriky.finance.cz/firma-yurii-kuruts-23158263/obory-cinnosti",
-        "https://rejstrik.penize.cz/ares/23158263-yurii-kuruts",
-        "https://rejstrik.penize.cz/yurii-kuruts",
         "https://www.finmag.cz/obchodni-rejstrik/ares/23158263-yurii-kuruts",
-        "https://www.facebook.com/nok.sak.71/"
+        "https://www.podnikatel.cz/rejstrik/yurii-kuruts-23158263/",
+        "https://rejstrik.penize.cz/ares/23158263-yurii-kuruts",
+        "https://rejstriky.finance.cz/firma-yurii-kuruts-23158263",
+        "https://rejstrik.penize.cz/yurii-kuruts",
+        "https://www.finreg.sk/subjekt/3120770708",
+        "https://www.facebook.com/people/Yurii-Kuruts/61590372600427/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
@@ -13720,91 +13713,57 @@
     "res-30063647": {
       "lead_id": "res-30063647",
       "name": "GEO REKULT s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-27",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "searched",
+        "status": "partial_search",
         "queries": [
           "\"GEO REKULT s.r.o.\" IČO 30063647 web",
           "\"GEO REKULT s.r.o.\" Praha Construction & property kontakt",
           "\"GEO REKULT s.r.o.\" \"Kaprova 42\" web",
           "\"GEO REKULT s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 2,
+        "successful_queries": 1,
         "candidates": [
           {
-            "url": "https://rejstriky.finance.cz/adresa-praha-kaprova-42-14-21715084",
-            "title": "Kaprova 42/14 Praha 11000 (09.10.2026) - Rejstříky.finance.cz",
-            "snippet": "Feb 11, 2017 · Kaprova 42/14 Praha 11000 – seznam všech firem a osob, které se na této adrese nachází a mají záznam ve veřejných rejstřících, mapa, GPS souřadnice"
+            "url": "https://rejstrik-firem.kurzy.cz/06016588/archbau-construction-sro/",
+            "title": "ARCHBAU construction s.r.o. , Praha IČO 06016588 - Obchodní ...",
+            "snippet": "Sep 10, 2021 · ARCHBAU construction s.r.o. – obchodní rejstřík, aktuální výpis Datum vzniku a zápisu 13. duben 2017 Spisová značka C 274662/MSPH Městský soud v Praze Obchodní firma ARCHBAU construction s.r.o. Sídlo Biskupský dvůr 1154/1, Nové Město, 110 00 Praha 1 Identifikační číslo 06016588 Právní forma Společnost s "
           },
           {
-            "url": "https://growni.sk/orgs/elredo-s-r-o",
-            "title": "Elredo s.r.o. - growni.sk",
-            "snippet": "ico / 24 / ui / location Kaprova 42/14, 11000, Praha, Česká republika ico / 24 / ui / organization Start-up ico / 24 / ui / id IČO: 19190387 ico / 24 / ui / web www.elredo.cz Instagram LinkedIn readmorezáujem o AIaudiobooks ico / 48 / work Pracovné ponuky aktuálne 0 (celkom 2) ico / 48 / projects Dobrovoľnícke projekty"
+            "url": "https://www.zlatestranky.cz/clanky/hledani/\"VM+Pro+s.r.o.\"+Praha+Construction+&+property+kontakt",
+            "title": "\"VM Pro s.r.o.\" Praha Construction & property kontakt ...",
+            "snippet": "Útok na čtvrtý titul v řadě přerušili Střední škole polytechnické Brno reprezentanti Akademie řemesel Praha - Střední škola technická."
           },
           {
-            "url": "https://www.imdb.com/list/ls000876764/",
-            "title": "Wonderful Adult Film Actresses - IMDb",
-            "snippet": "Sarah was a nurse's aid while attending high school and worked in a nursing home. She majored in Computer Science in college. Blake started out in the adult entertainment industry in her early 20's as a web-cam model. Sarah eventually moved to Los Angeles, California and first began performing in explicit hardcore movi"
+            "url": "https://rejstriky.finance.cz/adresa-praha-kurzova-2222-16-22696377",
+            "title": "Kurzova 2222/16 Praha 15500 (26.10.2026) - Rejstříky.finance.cz",
+            "snippet": "Kurzova 2222/16 Praha 15500 – seznam všech firem a osob, které se na této adrese nachází a mají záznam ve veřejných rejstřících, mapa, GPS souřadnice"
           },
           {
-            "url": "https://fakturujzdarma.cz/firma/29973830-realitynr-s-r-o",
-            "title": "RealityNR s.r.o., Praha 1 (IČO 29973830) — jednatel Naděžda ...",
-            "snippet": "RealityNR s.r.o., IČO 29973830. Aktivní firma, bez probíhající insolvence. Společnost s ručením omezeným. Sídlo: Kaprova 42/14, 110 00 Praha 1, Česká ..."
+            "url": "https://www.cybo.com/CZ-biz/petr-čechák_1D",
+            "title": "Petr Čechák - Bříšťanská 1997, 193 00 Praha 20, Czechia - Cybo",
+            "snippet": "Petr Čechák Prague postal code 20. See Google profile, Phone, Email, Website and more for this business. 1.0 Cybo Score. Review on Cybo."
           },
           {
-            "url": "https://www.yumpu.com/en/document/view/70233179/netter039s-obstetrics-and-gynecology-e-book-4th-2024/435",
-            "title": "188 • Anovulation 421 H - Yumpu",
-            "snippet": "188 • Anovulation 421 Hornig NC, Holterhus PM. Molecular basis of androgen insensitivity syndromes. Mol Cell Endocrinol. 2021;523:111146. Kaprova- Pleskacova J, Stoop H, Brüggenwirth H, et al. Complete androgen insensitivity syndrome: factors influencing gonadal histology including germ cell pathology. Mod Pathol. 2014"
+            "url": "https://www.philip-frank.com/en/estate/1055-apartment-one-bedroom-praha-5-kurandove/",
+            "title": "One-bedroom Apartment, 46 m², Praha 5, Kurandové",
+            "snippet": "We offer for sale a modern one-bedroom apartment with a total usable floor area of 46.2 m². It is located on the fourth floor of a new-build completed in 2023, with a lift, in the attractive Barandez-Vous development in the peaceful and sought-after Barrandov neighbourhood of Prague 5—a place where modern architecture "
           },
           {
-            "url": "https://en.firmy.cz/company/13078709-simply-the-show-kapela-praha-stare-mesto.html",
-            "title": "Simply The Show – kapela (Praha, Staré Město) • Firmy.cz",
-            "snippet": "Up-to-date verified information: address, phone, e-mail and reviews Simply The Show – kapela, Praha, Staré Město. Phone: 724 287 …"
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
           },
           {
-            "url": "https://www.eurobydleni.cz/orange-property-sro/detail-rk/5529/",
-            "title": "ORANGE PROPERTY s.r.o. aktuálně nabízí 19 nabídek už od 426000 Kč",
-            "snippet": "Chcete také najít parádní bydlení? Náš inzerent ORANGE PROPERTY s.r.o. Vám ho pomůže najít. Najděte si z 7 inzerátů, jež ORANGE PROPERTY s.r.o. umístila na našich stránkách. Objevte některou z příjemný domov od pouhých 412000 Kč."
-          },
-          {
-            "url": "https://www.facebook.com/groups/992561254672777/",
-            "title": "Poptávka-řemeslníci, zedníci, stavaři.. - Facebook",
-            "snippet": "1 day ago · POPTÁVKA: Renovace dveří – Praha Hledám šikovného řemeslníka, truhláře nebo lakýrníka na renovaci dveří v Praze. Co je potřeba udělat: - Kompletní odstranění původní barvy (seškrábání / obroušení / opálení) - Stará dřevěná futra a dveře - 6 x - Lokalita: Praha Prosím do zpráv nebo do komentářů o ..."
-          },
-          {
-            "url": "https://zakazky.epoptavka.cz/",
-            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
-            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
-          },
-          {
-            "url": "https://www.epoptavka.cz/",
-            "title": "Poptávky a zakázky | ePoptávka.cz",
-            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
-          },
-          {
-            "url": "https://www.poptavka.net/",
-            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
-            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
-          },
-          {
-            "url": "https://profi-firmy.cz/",
-            "title": "Profi-firmy.cz – Databáze ověřených firem a řemeslníků po ...",
-            "snippet": "Poptávka zdarma Jedním formulářem oslovíte víc firem najednou. Bez registrace a poplatků."
-          },
-          {
-            "url": "https://www.poptavky.cz/",
-            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
-            "snippet": "Poptávám: renovaci výpletu sedací soupravy z umělého ratanu, délka 2,5 m Nábytek Nábytek Služby a restaurování okres Praha 9. 10. 2026 (dnes)"
-          },
-          {
-            "url": "https://poptavky.epoptavka.cz/",
-            "title": "Databáze poptávek",
-            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
           }
         ],
         "errors": [
+          "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
@@ -13812,59 +13771,33 @@
         "website": "",
         "examined": [
           {
-            "url": "https://growni.sk/orgs/elredo-s-r-o",
+            "url": "https://www.zlatestranky.cz/clanky/hledani/\"VM+Pro+s.r.o.\"+Praha+Construction+&+property+kontakt",
             "result": "ambiguous",
             "evidence": [
-              "Matching Prague street address on website",
               "Prague mentioned on website"
             ]
           },
           {
-            "url": "https://www.imdb.com/list/ls000876764/",
-            "result": "unreachable",
-            "reason": "HTTP_202"
-          },
-          {
-            "url": "https://fakturujzdarma.cz/firma/29973830-realitynr-s-r-o",
+            "url": "https://www.cybo.com/CZ-biz/petr-čechák_1D",
             "result": "unreachable",
             "reason": "HTTP_403"
           },
           {
-            "url": "https://www.yumpu.com/en/document/view/70233179/netter039s-obstetrics-and-gynecology-e-book-4th-2024/435",
-            "result": "unreachable",
-            "reason": "HTTP_202"
-          },
-          {
-            "url": "https://www.eurobydleni.cz/orange-property-sro/detail-rk/5529/",
-            "result": "ambiguous",
-            "evidence": [
-              "Matching Prague street address on website",
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://zakazky.epoptavka.cz/",
+            "url": "https://www.philip-frank.com/en/estate/1055-apartment-one-bedroom-praha-5-kurandove/",
             "result": "ambiguous",
             "evidence": [
               "Prague mentioned on website"
             ]
           },
           {
-            "url": "https://www.epoptavka.cz/",
+            "url": "https://www.skanska.com/cz/cs",
             "result": "ambiguous",
             "evidence": [
               "Prague mentioned on website"
             ]
           },
           {
-            "url": "https://www.poptavka.net/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://profi-firmy.cz/",
+            "url": "https://vces.cz/",
             "result": "ambiguous",
             "evidence": [
               "Prague mentioned on website"
@@ -13948,13 +13881,13 @@
         ]
       },
       "candidate_search_sources": [
-        "https://rejstriky.finance.cz/adresa-praha-kaprova-42-14-21715084",
-        "https://growni.sk/orgs/elredo-s-r-o",
-        "https://www.imdb.com/list/ls000876764/",
-        "https://fakturujzdarma.cz/firma/29973830-realitynr-s-r-o",
-        "https://www.yumpu.com/en/document/view/70233179/netter039s-obstetrics-and-gynecology-e-book-4th-2024/435",
-        "https://en.firmy.cz/company/13078709-simply-the-show-kapela-praha-stare-mesto.html",
-        "https://www.eurobydleni.cz/orange-property-sro/detail-rk/5529/"
+        "https://rejstrik-firem.kurzy.cz/06016588/archbau-construction-sro/",
+        "https://www.zlatestranky.cz/clanky/hledani/\"VM+Pro+s.r.o.\"+Praha+Construction+&+property+kontakt",
+        "https://rejstriky.finance.cz/adresa-praha-kurzova-2222-16-22696377",
+        "https://www.cybo.com/CZ-biz/petr-čechák_1D",
+        "https://www.philip-frank.com/en/estate/1055-apartment-one-bedroom-praha-5-kurandove/",
+        "https://www.skanska.com/cz/cs",
+        "https://vces.cz/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
@@ -14026,9 +13959,9 @@
     "res-30063795": {
       "lead_id": "res-30063795",
       "name": "PMU stavby s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-27",
       "engine_version": 8,
-      "state": "audited",
+      "state": "researched",
       "discovery": {
         "status": "partial_search",
         "queries": [
@@ -14040,34 +13973,39 @@
         "successful_queries": 1,
         "candidates": [
           {
-            "url": "https://www.podnikatel.cz/rejstrik/pmu-stavby-s-r-o-30063795/",
-            "title": "PMU stavby s.r.o. - IČO 30063795 - Obchodní rejstřík na Podnikatel.cz",
-            "snippet": "Podrobnosti o firmě PMU stavby s.r.o. - IČO 30063795 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+            "url": "https://www.zlatestranky.cz/clanky/hledani/\"VM+Pro+s.r.o.\"+Praha+Construction+&+property+kontakt",
+            "title": "\"VM Pro s.r.o.\" Praha Construction & property kontakt ...",
+            "snippet": "Útok na čtvrtý titul v řadě přerušili Střední škole polytechnické Brno reprezentanti Akademie řemesel Praha - Střední škola technická."
           },
           {
-            "url": "https://rejstriky.finance.cz/firma-pmu-stavby-s-r-o-30063795/vlastnici-firmy",
-            "title": "PMU stavby s.r.o. Praha 4 IČO: 30063795 - Finance.cz",
-            "snippet": "Podrobnosti o firmě PMU stavby s.r.o. Praha 4 IČO 30063795 kontakty 05.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
+            "url": "https://rejstriky.finance.cz/adresa-praha-kurzova-2222-16-22696377",
+            "title": "Kurzova 2222/16 Praha 15500 (26.10.2026) - Rejstříky.finance.cz",
+            "snippet": "Kurzova 2222/16 Praha 15500 – seznam všech firem a osob, které se na této adrese nachází a mají záznam ve veřejných rejstřících, mapa, GPS souřadnice"
           },
           {
-            "url": "https://rejstriky.finance.cz/firma-pmu-stavby-s-r-o-30063795/obory-cinnosti",
-            "title": "PMU stavby s.r.o. IČO 30063795 kontakty 03.10.2026 - Finance.cz",
-            "snippet": "Podrobnosti o firmě PMU stavby s.r.o. IČO 30063795 kontakty 03.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů…"
+            "url": "https://rejstrik-firem.kurzy.cz/06016588/archbau-construction-sro/",
+            "title": "ARCHBAU construction s.r.o. , Praha IČO 06016588 - Obchodní ...",
+            "snippet": "Sep 10, 2021 · ARCHBAU construction s.r.o., Biskupský dvůr, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní ..."
           },
           {
-            "url": "https://www.chytryrejstrik.cz/ico-30063795/pmu-stavby-s-r-o",
-            "title": "PMU stavby s.r.o. - rizika, jednatelé, obchodní rejstřík",
-            "snippet": "PMU stavby s.r.o. Sídlo Praha. IČO: 30063795. Majitelé a statutární orgány. Registr firem. Rok založení 2026. Rizikové signály firmy."
+            "url": "https://www.philip-frank.com/en/estate/1055-apartment-one-bedroom-praha-5-kurandove/",
+            "title": "One-bedroom Apartment, 46 m², Praha 5, Kurandové",
+            "snippet": "We offer for sale a modern one-bedroom apartment with a total usable floor area of 46.2 m². It is located on the fourth floor of a new-build completed in 2023, with a lift, in the attractive Barandez-Vous development in the peaceful and sought-after Barrandov neighbourhood of Prague 5—a place where modern architecture "
           },
           {
-            "url": "https://www.jenfirmy.cz/firma/30063795-pmu-stavby-s-r-o",
-            "title": "PMU stavby s.r.o. ⭐ Profil firmy | ⭐ JenFirmy.cz",
-            "snippet": "Prohlédněte si profil PMU stavby s.r.o. a zjistěte vše, co potřebujete vědět. Místo, kontakty i prověřené recenze zaměstnanců."
+            "url": "https://www.cybo.com/CZ-biz/stav-invest-střešní-systémy-s-r-o_10b",
+            "title": "STAV-INVEST střešní systémy s.r.o. - Františka Diviše 771… - Cybo",
+            "snippet": "STAV-INVEST střešní systémy s.r.o. Prague postal code 104 00. See Google profile, Hours, Phone, Website and more for this business. 4.6 Cybo Score. Review on Cybo."
           },
           {
-            "url": "https://www.jenprace.cz/firmy/30063795-pmu-stavby-s-r-o",
-            "title": "Práce v PMU stavby s.r.o. Zaměstnání, volná místa",
-            "snippet": "JenPráce.cz — každý den aktuální nabídky práce a brigád v České republice i zahraničí"
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
           }
         ],
         "errors": [
@@ -14075,29 +14013,37 @@
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "public_site_contacts": {
-          "emails": [],
-          "phones": [],
-          "source": "https://www.chytryrejstrik.cz/ico-30063795/pmu-stavby-s-r-o",
-          "evidence": "Explicit mailto/tel links on identity-matched business website"
-        },
-        "contact_matches": [],
-        "website": "https://www.chytryrejstrik.cz/ico-30063795/pmu-stavby-s-r-o",
-        "state": "VERIFIED_WEBSITE",
-        "identity": [
-          "Matching IČO on website",
-          "Matching business name on website",
-          "Matching Prague street address on website",
-          "Prague mentioned on website"
-        ],
+        "state": "AMBIGUOUS",
+        "website": "",
         "examined": [
           {
-            "url": "https://www.chytryrejstrik.cz/ico-30063795/pmu-stavby-s-r-o",
-            "result": "identity_match",
+            "url": "https://www.zlatestranky.cz/clanky/hledani/\"VM+Pro+s.r.o.\"+Praha+Construction+&+property+kontakt",
+            "result": "unreachable",
+            "reason": "ReadTimeout"
+          },
+          {
+            "url": "https://www.philip-frank.com/en/estate/1055-apartment-one-bedroom-praha-5-kurandove/",
+            "result": "ambiguous",
             "evidence": [
-              "Matching IČO on website",
-              "Matching business name on website",
-              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/stav-invest-střešní-systémy-s-r-o_10b",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
               "Prague mentioned on website"
             ]
           }
@@ -14139,53 +14085,8 @@
         ]
       },
       "audit": {
-        "state": "observed",
-        "checked_at": "2026-10-09",
-        "website": "https://www.chytryrejstrik.cz/ico-30063795/pmu-stavby-s-r-o",
-        "devices": {
-          "desktop": {
-            "title": "PMU stavby s.r.o. - rizika, jednatelé, obchodní rejstřík",
-            "description": "PMU stavby s.r.o. Sídlo Praha. IČO: 30063795. Majitelé a statutární orgány. Registr firem. Rok založení 2026. Rizikové signály firmy. ",
-            "viewport_meta": true,
-            "h1_count": 1,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 170,
-            "small_text_elements": 2,
-            "broken_images": 0,
-            "images_missing_alt": 0,
-            "images_count": 48,
-            "contact_action": false,
-            "form_count": 1,
-            "booking_links": 0,
-            "http_status": 200
-          },
-          "navigation_errors": [],
-          "mobile": {
-            "title": "PMU stavby s.r.o. - rizika, jednatelé, obchodní rejstřík",
-            "description": "PMU stavby s.r.o. Sídlo Praha. IČO: 30063795. Majitelé a statutární orgány. Registr firem. Rok založení 2026. Rizikové signály firmy. ",
-            "viewport_meta": true,
-            "h1_count": 1,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 133,
-            "small_text_elements": 10,
-            "broken_images": 0,
-            "images_missing_alt": 0,
-            "images_count": 48,
-            "contact_action": false,
-            "form_count": 1,
-            "booking_links": 0,
-            "http_status": 200
-          }
-        },
-        "transport": {
-          "state": "https_available",
-          "http_url": null,
-          "observed_url": "https://www.chytryrejstrik.cz/ico-30063795/pmu-stavby-s-r-o"
-        },
-        "objective_issues": [],
-        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
-        "visual_design_review": "human_review_required",
-        "website_score": null
+        "state": "not_run",
+        "reason": "No independently verified company website"
       },
       "buying_signals": [
         {
@@ -14199,11 +14100,11 @@
         "title": "PMU stavby s.r.o. — research dossier",
         "facts": [
           "The business is listed at Čenětická 2413, Praha, 14900.",
-          "An independently identity-matched business website was found: https://www.chytryrejstrik.cz/ico-30063795/pmu-stavby-s-r-o.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
           "ARES confirms registration for IČO 30063795 dated 2026-09-23."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
         "observed_issues": [],
         "buying_signals": [
           {
@@ -14215,8 +14116,7 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30063795",
-          "https://www.chytryrejstrik.cz/ico-30063795/pmu-stavby-s-r-o"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30063795"
         ],
         "estimated_deal_czk": [
           30000,
@@ -14237,22 +14137,18 @@
         ]
       },
       "candidate_search_sources": [
-        "https://www.podnikatel.cz/rejstrik/pmu-stavby-s-r-o-30063795/",
-        "https://rejstriky.finance.cz/firma-pmu-stavby-s-r-o-30063795/vlastnici-firmy",
-        "https://rejstriky.finance.cz/firma-pmu-stavby-s-r-o-30063795/obory-cinnosti",
-        "https://www.chytryrejstrik.cz/ico-30063795/pmu-stavby-s-r-o",
-        "https://www.jenfirmy.cz/firma/30063795-pmu-stavby-s-r-o",
-        "https://www.jenprace.cz/firmy/30063795-pmu-stavby-s-r-o"
+        "https://www.zlatestranky.cz/clanky/hledani/\"VM+Pro+s.r.o.\"+Praha+Construction+&+property+kontakt",
+        "https://rejstriky.finance.cz/adresa-praha-kurzova-2222-16-22696377",
+        "https://rejstrik-firem.kurzy.cz/06016588/archbau-construction-sro/",
+        "https://www.philip-frank.com/en/estate/1055-apartment-one-bedroom-praha-5-kurandove/",
+        "https://www.cybo.com/CZ-biz/stav-invest-střešní-systémy-s-r-o_10b",
+        "https://vces.cz/",
+        "https://www.skanska.com/cz/cs"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {
-        "emails": [],
-        "phones": [],
-        "source": "https://www.chytryrejstrik.cz/ico-30063795/pmu-stavby-s-r-o",
-        "evidence": "Explicit mailto/tel links on identity-matched business website"
-      },
+      "verified_site_public_contacts": {},
       "owner_verified": false,
       "buyer_interest_verified": false
     },
@@ -16540,7 +16436,7 @@
     "res-30066182": {
       "lead_id": "res-30066182",
       "name": "NOSEP s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-27",
       "engine_version": 8,
       "state": "audited",
       "discovery": {
@@ -16556,17 +16452,37 @@
           {
             "url": "https://www.detail.cz/firma/30066182-nosep-sro-u-klavirky-1501-4-praha/",
             "title": "Společnost NOSEP s.r.o. | Detail.cz",
-            "snippet": "Společnost NOSEP s.r.o. (IČO: 30066182) byla založena dne 23. září 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti."
+            "snippet": "Společnost s ručením omezeným; Městský soud v Praze, odd. C vložka 456762 Kopírovat IČO Kopírovat zákl. údaje NÁZEV: NOSEP s.r.o. ADRESA: U Klavírky 1501/4, 15000, Praha IČO: 30066182"
           },
           {
-            "url": "https://rejstriky.finance.cz/firma-nosep-s-r-o-30066182",
-            "title": "NOSEP s.r.o. IČO 30066182 kontakty 01.10.2026 - Finance.cz",
-            "snippet": "Podrobnosti o firmě NOSEP s.r.o. IČO 30066182 kontakty 01.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
           },
           {
-            "url": "https://rejstriky.finance.cz/firma-nosep-s-r-o-30066182/vedeni-firmy",
-            "title": "NOSEP s.r.o. Praha 5 IČO: 30066182 - Finance.cz",
-            "snippet": "Podrobnosti o firmě NOSEP s.r.o. Praha 5 IČO 30066182 kontakty 07.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://akcnitisk.cz/",
+            "title": "Akční Tisk - Zaručeně Spolehlivá Tiskárna",
+            "snippet": "Váš partner pro ofsetový a digitální tisk - tiskárna, která zvládne vše od brožur po personalizované tisky. Vyzkoušejte naše komplexní tiskové služby a užijte si bezproblémový servis."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "O projektu Projekt Poptávky.cz sdružuje 936 482 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
           }
         ],
         "errors": [
@@ -16627,7 +16543,7 @@
       },
       "audit": {
         "state": "observed",
-        "checked_at": "2026-10-09",
+        "checked_at": "2026-10-27",
         "website": "https://www.detail.cz/firma/30066182-nosep-sro-u-klavirky-1501-4-praha/",
         "devices": {
           "desktop": {
@@ -16725,8 +16641,12 @@
       },
       "candidate_search_sources": [
         "https://www.detail.cz/firma/30066182-nosep-sro-u-klavirky-1501-4-praha/",
-        "https://rejstriky.finance.cz/firma-nosep-s-r-o-30066182",
-        "https://rejstriky.finance.cz/firma-nosep-s-r-o-30066182/vedeni-firmy"
+        "https://dodavatele.epoptavka.cz/",
+        "https://zakazky.epoptavka.cz/",
+        "https://www.epoptavka.cz/",
+        "https://akcnitisk.cz/",
+        "https://poptavky.epoptavka.cz/",
+        "https://www.poptavky.cz/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
@@ -18556,62 +18476,61 @@
     "res-30067898": {
       "lead_id": "res-30067898",
       "name": "Mykhailo Papish",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-27",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "partial_search",
+        "status": "searched",
         "queries": [
           "\"Mykhailo Papish\" IČO 30067898 web",
           "\"Mykhailo Papish\" Praha Construction & property kontakt",
           "\"Mykhailo Papish\" \"Petra Slezáka 511\" web",
           "\"Mykhailo Papish\" Praha služby reference poptávka"
         ],
-        "successful_queries": 1,
+        "successful_queries": 2,
         "candidates": [
           {
             "url": "https://rejstriky.finance.cz/firma-mykhailo-papish-30067898/kontakty",
             "title": "Mykhailo Papish IČO 30067898 kontakty 28.09.2026 - Finance.cz",
-            "snippet": "Podrobnosti o firmě Mykhailo Papish IČO 30067898 kontakty 28.09.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
-          },
-          {
-            "url": "https://rejstriky.finance.cz/firma-mykhailo-papish-30067898",
-            "title": "Mykhailo Papish IČO 30067898 kontakty 27.09.2026 - Finance.cz",
-            "snippet": "Podrobnosti o firmě Mykhailo Papish IČO 30067898 kontakty 27.09.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Mykhailo Papish, která sídlí v obci a bylo jí přiděleno IČO 30067898. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
           },
           {
             "url": "https://www.podnikatel.cz/rejstrik/mykhailo-papish-64896498/",
-            "title": "Mykhailo Papish - IČO 64896498 - Obchodní rejstřík na Podnikatel.cz",
-            "snippet": "Podrobnosti o firmě Mykhailo Papish - IČO 64896498 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+            "title": "Mykhailo Papish - IČO 64896498 - Obchodní rejstřík na ...",
+            "snippet": "Firma Mykhailo Papish, zahraniční fyzická osoba. V obchodním rejstříku je zapsána pod spisovou značkou A 16680, Městský soud v Praze."
           },
           {
-            "url": "https://rejstrik.penize.cz/mykhailo-papish",
-            "title": "Mykhailo Papish - Obchodní rejstřík | Peníze.cz",
-            "snippet": "Mykhailo Papish výpis firem z Obchodního rejstříku, IČO firmy, adresa sídla firmy, pozice ve firmě, související firmy, vztahy ve firmách."
+            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/30067898-mykhailo-papish",
+            "title": "Mykhailo Papish, IČO: 30067898 - ARES - Finmag.cz",
+            "snippet": "Obchodní firma Mykhailo Papish se sídlem Praha - Karlín, Petra Slezáka 511/3, 18600 a identifikačním číslem (IČO) 30067898."
           },
           {
             "url": "https://www.finmag.cz/obchodni-rejstrik/ares/64896498-mykhailo-papish",
             "title": "Mykhailo Papish, IČO: 64896498 - ARES - Finmag.cz",
-            "snippet": "Výpis z registru ekonomických subjektů (RES) - Mykhailo Papish, IČO: 64896498, obec: , klasifikace ekonomických činností. Aktuální data."
-          },
-          {
-            "url": "https://www.podnikatel.cz/rejstrik/mykhailo-papish-21293651/",
-            "title": "Mykhailo Papish - IČO 21293651 - Obchodní rejstřík na Podnikatel.cz",
-            "snippet": "Podrobnosti o firmě Mykhailo Papish - IČO 21293651 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+            "snippet": "Sídlo společnosti Mykhailo Papish na mapě Praha - Hlubočepy, Na Zlíchově 251/15, 15200"
           },
           {
             "url": "https://rejstrik.penize.cz/64896498-mykhailo-papish",
-            "title": "Mykhailo Papish, IČO: 64896498 - Obchodní rejstřík - Peníze.cz",
+            "title": "Mykhailo Papish, IČO: 64896498 - Obchodní rejstřík | Peníze.cz",
             "snippet": "Mykhailo Papish, IČO: 64896498, sídlo firmy, předmět podnikání firmy. Aktuální i úplný výpis firmy Mykhailo Papish z Obchodního rejstříku - majitelé, vedení firmy, vztahy osob."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/ares/64896498-mykhailo-papish",
+            "title": "Mykhailo Papish, Praha, IČO: 64896498 - ARES | Peníze.cz",
+            "snippet": "Jun 11, 2025 · Tento výpis z RES obsahuje údaje o společnosti Mykhailo Papish. Údaje byly staženy 12. 2. 2024 z datové služby dle IČO 64896498. Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob."
           },
           {
             "url": "https://www.detail.cz/subjekt/64896498-mykhailo-papish-na-zlichove-251-15-praha/",
             "title": "Subjekt Mykhailo Papish | Detail.cz",
             "snippet": "Subjekt Mykhailo Papish (IČO: 64896498) vznikl dne 14. listopadu 1995 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle subjektu."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-mykhailo-papish-30067898/obory-cinnosti",
+            "title": "Mykhailo Papish IČO 30067898 kontakty 30.09.2026 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Mykhailo Papish, která sídlí v obci a bylo jí přiděleno IČO 30067898. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
           }
         ],
         "errors": [
-          "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
@@ -18699,12 +18618,12 @@
       },
       "candidate_search_sources": [
         "https://rejstriky.finance.cz/firma-mykhailo-papish-30067898/kontakty",
-        "https://rejstriky.finance.cz/firma-mykhailo-papish-30067898",
         "https://www.podnikatel.cz/rejstrik/mykhailo-papish-64896498/",
-        "https://rejstrik.penize.cz/mykhailo-papish",
+        "https://www.finmag.cz/obchodni-rejstrik/ares/30067898-mykhailo-papish",
         "https://www.finmag.cz/obchodni-rejstrik/ares/64896498-mykhailo-papish",
-        "https://www.podnikatel.cz/rejstrik/mykhailo-papish-21293651/",
-        "https://rejstrik.penize.cz/64896498-mykhailo-papish"
+        "https://rejstrik.penize.cz/64896498-mykhailo-papish",
+        "https://rejstrik.penize.cz/ares/64896498-mykhailo-papish",
+        "https://www.detail.cz/subjekt/64896498-mykhailo-papish-na-zlichove-251-15-praha/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
@@ -20004,27 +19923,155 @@
     "res-30068673": {
       "lead_id": "res-30068673",
       "name": "Yurii Zhbadynskyi",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-27",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "searched",
         "queries": [
           "\"Yurii Zhbadynskyi\" IČO 30068673 web",
           "\"Yurii Zhbadynskyi\" Praha Construction & property kontakt",
           "\"Yurii Zhbadynskyi\" \"Husitská 853\" web",
           "\"Yurii Zhbadynskyi\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/06016588/archbau-construction-sro/",
+            "title": "ARCHBAU construction s.r.o. , Praha IČO 06016588 - Obchodní ...",
+            "snippet": "Sep 10, 2021 · ARCHBAU construction s.r.o. – obchodní rejstřík, aktuální výpis Datum vzniku a zápisu 13. duben 2017 Spisová značka C 274662/MSPH Městský soud v Praze Obchodní firma ARCHBAU construction s.r.o. Sídlo Biskupský dvůr 1154/1, Nové Město, 110 00 Praha 1 Identifikační číslo 06016588 Právní forma Společnost s "
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/petr-čechák_1D",
+            "title": "Petr Čechák - Bříšťanská 1997, 193 00 Praha 20, Czechia - Cybo",
+            "snippet": "Petr Čechák Prague postal code 20. See Google profile, Phone, Email, Website and more for this business. 1.0 Cybo Score. Review on Cybo."
+          },
+          {
+            "url": "https://www.zlatestranky.cz/clanky/hledani/\"VM+Pro+s.r.o.\"+Praha+Construction+&+property+kontakt",
+            "title": "\"VM Pro s.r.o.\" Praha Construction & property kontakt ...",
+            "snippet": "Mladí, staří, zkušení i začátečníci. Kuchaři a cukráři bez ohledu na věk či pohlaví. Ti všichni změřili své síly na tradiční soutěži Olima cup 2016, která se uskutečnila v pavilonu C na Výstavišti Flora Olomouc ve dnech 20. - 22. 10. 2016."
+          },
+          {
+            "url": "https://www.philip-frank.com/en/estate/1055-apartment-one-bedroom-praha-5-kurandove/",
+            "title": "One-bedroom Apartment, 46 m², Praha 5, Kurandové",
+            "snippet": "We offer for sale a modern one-bedroom apartment with a total usable floor area of 46.2 m². It is located on the fourth floor of a new-build completed in 2023, with a lift, in the attractive Barandez-Vous development in the peaceful and sought-after Barrandov neighbourhood of Prague 5—a place where modern architecture "
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://hbreavis.com/",
+            "title": "HB Reavis | International Workspace Provider",
+            "snippet": "Oct 20, 2026 · We are an international workspace provider with a mission to create remarkable experiences through real estate solutions."
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.facebook.com/groups/bydleni.nabidka.poptavka/",
+            "title": "Praha - BYDLENÍ SPOLUBYDLENÍ NABÍDKA , POPTÁVKA - Facebook",
+            "snippet": "4 days ago · Skupina je určena pro NABÍDKU a POPTÁVKU bydlení či SPOLUBYDLENÍ v Praze a okolí. Skupinu pro Vás dlouhodobě spravuje Smart Homes a Expert Rent V případě..."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "O projektu Projekt Poptávky.cz sdružuje 936 482 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          },
+          {
+            "url": "https://webtrh.cz/",
+            "title": "Webtrh. Můj byznys roste.",
+            "snippet": "Místo pro potkávání nabídky a poptávky, prodeje projektů, pracovní nabídky, forum, vzdělání a mnoho dalšího."
+          }
+        ],
         "errors": [
-          "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
+        "state": "AMBIGUOUS",
         "website": "",
-        "examined": [],
+        "examined": [
+          {
+            "url": "https://www.cybo.com/CZ-biz/petr-čechák_1D",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.zlatestranky.cz/clanky/hledani/\"VM+Pro+s.r.o.\"+Praha+Construction+&+property+kontakt",
+            "result": "unreachable",
+            "reason": "ReadTimeout"
+          },
+          {
+            "url": "https://www.philip-frank.com/en/estate/1055-apartment-one-bedroom-praha-5-kurandove/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://hbreavis.com/en/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -20095,7 +20142,15 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/06016588/archbau-construction-sro/",
+        "https://www.cybo.com/CZ-biz/petr-čechák_1D",
+        "https://www.zlatestranky.cz/clanky/hledani/\"VM+Pro+s.r.o.\"+Praha+Construction+&+property+kontakt",
+        "https://www.philip-frank.com/en/estate/1055-apartment-one-bedroom-praha-5-kurandove/",
+        "https://www.skanska.com/cz/cs",
+        "https://vces.cz/",
+        "https://hbreavis.com/"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -20212,27 +20267,86 @@
     "res-30069181": {
       "lead_id": "res-30069181",
       "name": "Jerosolyma s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-27",
       "engine_version": 8,
-      "state": "researched",
+      "state": "audited",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "searched",
         "queries": [
           "\"Jerosolyma s.r.o.\" IČO 30069181 web",
           "\"Jerosolyma s.r.o.\" Praha Specialized B2B kontakt",
           "\"Jerosolyma s.r.o.\" \"Příčná 1892\" web",
           "\"Jerosolyma s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30069181/jerosolyma-sro/",
+            "title": "Jerosolyma s.r.o. , IČO 30069181 - Obchodní rejstřík firem",
+            "snippet": "Tato stránka obsahuje aktuální výpis údajů firmy Jerosolyma s.r.o. Údaje byly staženy 28. září 2026 z datové služby justice.cz dle IČO 30069181 a údaje ve výpise nebyly dle systému ARES do dnešního dne změněny."
+          },
+          {
+            "url": "https://www.detail.cz/firma/30069181-jerosolyma-sro-pricna-1892-4-praha/",
+            "title": "Společnost Jerosolyma s.r.o. | Detail.cz",
+            "snippet": "Společnost Jerosolyma s.r.o. (IČO: 30069181) byla založena dne 24. září 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti."
+          },
+          {
+            "url": "https://www.europages.co.uk/companies/cctv-suppliers.html",
+            "title": "cctv-suppliers | B2B companies and suppliers | europages",
+            "snippet": "58 Companies and suppliers for cctv-suppliers Find wholesalers and contact them directly Leading B2B martketplace Find companies now!"
+          },
+          {
+            "url": "https://cz.jooble.org/práce-obchodní-specialista--b2b",
+            "title": "Práce: Obchodní specialista b2b - 2026 (Přijmeme ... - Jooble",
+            "snippet": "Více než 6 451 pracovních nabídek - Obchodní specialista b2b • Konkurenční plat • Plný nebo částečný úvazek a brigády • Najděte si novou práci na Jooble!"
+          },
+          {
+            "url": "https://future-forces-exhibition.eu/exhibitors/list/state/cze?lang=cs",
+            "title": "Future Forces 2026 – aktuální vystavovatelé",
+            "snippet": "201 CONSULTING 201 consulting se specializuje na komplexní dotační poradenství pro průmyslové podniky. Pomáhá firmám získat veřejnou podporu pro projekty v oblasti technologického rozvoje, deep tech, obranného průmyslu, výzkumu a inovací, digitalizace, energetických úspor a udržitelnosti. Oborové zařazení 3400 , 3403 B"
+          },
+          {
+            "url": "https://www.velerans.cz/",
+            "title": "Velerans",
+            "snippet": "Velerans&Co. s.r.o. was established in 2008 in Prague, Czech Republic as a leading global wholesale import&export of all original mobile phones brands, SDA, spare parts, and accessories."
+          },
+          {
+            "url": "https://cz.linkedin.com/in/pavlinalouzenska",
+            "title": "Pavlína Louženská – Trendforecaster TrendBrews // Founder ...",
+            "snippet": "Pavlína founded TrendBrews, trend forecasting consulting focused on Central Eastern Europe with clients like L’oreal or Raiffeisen Bank, as well as universities and NGOs like Club Alpbach. She’s part of Culture Connectors consultancy that strives to bring diversity into the foresight world. She is a Lead Mentor in Goog"
+          }
+        ],
         "errors": [
-          "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
-        "website": "",
-        "examined": [],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.detail.cz/firma/30069181-jerosolyma-sro-pricna-1892-4-praha/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.detail.cz/firma/30069181-jerosolyma-sro-pricna-1892-4-praha/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.detail.cz/firma/30069181-jerosolyma-sro-pricna-1892-4-praha/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -20258,8 +20372,53 @@
         ]
       },
       "audit": {
-        "state": "not_run",
-        "reason": "No independently verified company website"
+        "state": "observed",
+        "checked_at": "2026-10-27",
+        "website": "https://www.detail.cz/firma/30069181-jerosolyma-sro-pricna-1892-4-praha/",
+        "devices": {
+          "desktop": {
+            "title": "Společnost Jerosolyma s.r.o. | Detail.cz",
+            "description": "Společnost Jerosolyma s.r.o. (IČO: 30069181) byla založena dne 24. září 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
+            "viewport_meta": true,
+            "h1_count": 16,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 58,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 14,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Společnost Jerosolyma s.r.o. | Detail.cz",
+            "description": "Společnost Jerosolyma s.r.o. (IČO: 30069181) byla založena dne 24. září 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
+            "viewport_meta": true,
+            "h1_count": 16,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 55,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 10,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.detail.cz/firma/30069181-jerosolyma-sro-pricna-1892-4-praha/"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
       },
       "buying_signals": [
         {
@@ -20273,11 +20432,11 @@
         "title": "Jerosolyma s.r.o. — research dossier",
         "facts": [
           "The business is listed at Příčná 1892, Praha, 11000.",
-          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "An independently identity-matched business website was found: https://www.detail.cz/firma/30069181-jerosolyma-sro-pricna-1892-4-praha/.",
           "ARES confirms registration for IČO 30069181 dated 2026-09-24."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
         "observed_issues": [],
         "buying_signals": [
           {
@@ -20289,7 +20448,8 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30069181"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30069181",
+          "https://www.detail.cz/firma/30069181-jerosolyma-sro-pricna-1892-4-praha/"
         ],
         "estimated_deal_czk": [
           30000,
@@ -20309,11 +20469,24 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30069181/jerosolyma-sro/",
+        "https://www.detail.cz/firma/30069181-jerosolyma-sro-pricna-1892-4-praha/",
+        "https://www.europages.co.uk/companies/cctv-suppliers.html",
+        "https://cz.jooble.org/práce-obchodní-specialista--b2b",
+        "https://future-forces-exhibition.eu/exhibitors/list/state/cze?lang=cs",
+        "https://www.velerans.cz/",
+        "https://cz.linkedin.com/in/pavlinalouzenska"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {},
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.detail.cz/firma/30069181-jerosolyma-sro-pricna-1892-4-praha/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
       "owner_verified": false,
       "buyer_interest_verified": false
     },
@@ -20457,27 +20630,149 @@
     "res-30069343": {
       "lead_id": "res-30069343",
       "name": "Andrii Tsyganchuk",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-27",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "partial_search",
+        "status": "searched",
         "queries": [
           "\"Andrii Tsyganchuk\" IČO 30069343 web",
           "\"Andrii Tsyganchuk\" Praha Construction & property kontakt",
           "\"Andrii Tsyganchuk\" \"Kloboučnická 1436\" web",
           "\"Andrii Tsyganchuk\" Praha služby reference poptávka"
         ],
-        "successful_queries": 1,
-        "candidates": [],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/andrii-tsyganchuk-30069343/",
+            "title": "Andrii Tsyganchuk - IČO 30069343 - Obchodní rejstřík na ...",
+            "snippet": "Podrobnosti o firmě Andrii Tsyganchuk - IČO 30069343 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/osoba/andriy-tsyganchuk",
+            "title": "Andriy Tsyganchuk - obchodní rejstřík - Finmag.cz",
+            "snippet": "Andriy Tsyganchuk, výpis z obchodního i živnostenského rejstříků. Osoby a firmy - adresy, kontakty. Aktuální i historická data."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+            "title": "Construction & Property Management s.r.o. , Praha IČO ...",
+            "snippet": "Kde je sídlo firmy Construction & Property Management s.r.o.? Sídlo firmy Construction & Property Management s.r.o. je Na příkopě 859/22, Nové Město (Praha 1), 110 00 Praha."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/04267516/project-construction-life-cz-sro/",
+            "title": "Project&Construction&Life CZ s.r.o. , Praha IČO 04267516 ...Andriy Tsyganchuk - Obchodní rejstřík | Peníze.czKontakt - private-construction.czSkanska v České republice",
+            "snippet": "Feb 29, 2020 · Seznam odkazů na zdrojové informace naleznete na stránce KONTAKTY a ZDROJE. Opravy dat: Pokud jste objevili nesrovnalost dat se zdrojovým rejstříkem, kontaktujte nás prosím na email info@kurzy.cz a uveďte stránku, na které se nesrovnalost nachází, případně IČ subjektu. Andriy Tsyganchuk výpis firem z Obc"
+          },
+          {
+            "url": "https://rejstrik.penize.cz/andriy-tsyganchuk",
+            "title": "Andriy Tsyganchuk - Obchodní rejstřík | Peníze.cz",
+            "snippet": "Andriy Tsyganchuk výpis firem z Obchodního rejstříku, IČO firmy, adresa sídla firmy, pozice ve firmě, související firmy, vztahy ve firmách."
+          },
+          {
+            "url": "https://private-construction.cz/kontakt",
+            "title": "Kontakt - private-construction.cz",
+            "snippet": "Kontakt Private Construction s.r.o. Telefon: +420 723 057 671 Email: info@private-construction.cz IČ: 24160377 DIČ: CZ24160377 ID datové schránky: XXXXXXX"
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://akcnitisk.cz/",
+            "title": "Akční Tisk - Zaručeně Spolehlivá Tiskárna",
+            "snippet": "Váš partner pro ofsetový a digitální tisk - tiskárna, která zvládne vše od brožur po personalizované tisky. Vyzkoušejte naše komplexní tiskové služby a užijte si bezproblémový servis."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Monitorujeme pro Vás a kategorizujeme poptávky a veřejné zakázky z nejvýznamnějších zdrojů."
+          }
+        ],
         "errors": [
-          "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
+        "state": "AMBIGUOUS",
         "website": "",
-        "examined": [],
+        "examined": [
+          {
+            "url": "https://private-construction.cz/kontakt",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://akcnitisk.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -20538,7 +20833,15 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://www.podnikatel.cz/rejstrik/andrii-tsyganchuk-30069343/",
+        "https://www.finmag.cz/obchodni-rejstrik/osoba/andriy-tsyganchuk",
+        "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+        "https://rejstrik-firem.kurzy.cz/04267516/project-construction-life-cz-sro/",
+        "https://rejstrik.penize.cz/andriy-tsyganchuk",
+        "https://private-construction.cz/kontakt",
+        "https://www.skanska.com/cz/cs"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -27465,7 +27768,7 @@
     "osm-node-360013338": {
       "lead_id": "osm-node-360013338",
       "name": "JYSK",
-      "checked_at": "2026-10-13",
+      "checked_at": "2026-10-27",
       "engine_version": 8,
       "state": "audited",
       "discovery": {
@@ -27479,49 +27782,59 @@
         "successful_queries": 2,
         "candidates": [
           {
-            "url": "https://jysk.cz/b2b/kontaktujte-nas",
-            "title": "Kontaktujte nás - JYSK",
-            "snippet": "Chcete-li kontaktovat náš B2B tým, vyberte jednu z níže uvedených možností kontaktu. Tato otázka slouží k ověření, zda jste člověk, a k zabránění automatickému odesílání spamu."
+            "url": "https://rejstrik-firem.kurzy.cz/26760746/jysk-sro/",
+            "title": "JYSK s.r.o. , Praha IČO 26760746 - Obchodní rejstřík firemJYSK s.r.o. , IČO 26760746 - data ze statistického úřaduJYSK s.r.o., IČO 26760746 | DoStartuJYSK s.r.o., IČO: 26760746 - r",
+            "snippet": "Kompletní výpis včetně dat narození a adres lze zobrazit po zadání IČO 26760746 na originální stránce obchodního rejstříku justice.cz. JYSK s.r.o., IČO 26760746 data ze statistického úřadu české republiky. Databáze IČO. Předměty činnosti ze statistického úřadu. Hledáte informace o JYSK s.r.o. (IČO: 26760746)? Máme je p"
           },
           {
-            "url": "https://www.firmy.cz/detail/13104063-jysk-cz-praha-lhotka.html",
-            "title": "Jysk.cz (Praha, Lhotka), IČO 26760746, adresa a telefon ...JYSK centrála , Praha, Lhotka - Živéfirmy.czJYSK (Praha, Strašnice), IČO 26760746, adresa a telefon ...JYSK Praha , Praha",
-            "snippet": "Aktuální ověřené informace: adresa, IČO, telefon, e-mail, provozní hodiny a hodnocení Jysk.cz, Praha, Lhotka. Telefon: 228 884 … Formulář je určen výhradně k zasílání poptávek nebo dotazů souvisejících s činností vybrané firmy. Zprávy jsou redigovány našimi operátorkami. Po jejich schválení jsou odeslány adresátovi. Ak"
+            "url": "https://rejstrik-firem.kurzy.cz/26760746/jysk-sro/statisticky-urad/",
+            "title": "JYSK s.r.o. , IČO 26760746 - data ze statistického úřaduJYSK s.r.o., IČO 26760746 | DoStartuJYSK s.r.o., IČO: 26760746 - rejstřík firem - Finmag.czJYSK s.r.o., IČO: 26760746 - ARES",
+            "snippet": "JYSK s.r.o., IČO 26760746 data ze statistického úřadu české republiky. Databáze IČO. Předměty činnosti ze statistického úřadu. Hledáte informace o JYSK s.r.o. (IČO: 26760746)? Máme je přehledně na jednom místě a pravidelně aktualizované dle veřejných rejstříků. Údaje můžete jedním kliknutím zkopírovat, použít do smlouv"
           },
           {
-            "url": "https://www.zivefirmy.cz/jysk-centrala_f1122721",
-            "title": "JYSK centrála , Praha, Lhotka - Živéfirmy.czJYSK (Praha, Strašnice), IČO 26760746, adresa a telefon ...JYSK Praha , Praha, Strašnice - Živéfirmy.czJYSK (Praha, Bohnice) • Firmy.czC",
-            "snippet": "Formulář je určen výhradně k zasílání poptávek nebo dotazů souvisejících s činností vybrané firmy. Zprávy jsou redigovány našimi operátorkami. Po jejich schválení jsou odeslány adresátovi. Aktuální ověřené informace: adresa, IČO, telefon, e-mail, otevírací hodiny a hodnocení JYSK, Praha, Strašnice. Telefon: 228 884 … F"
+            "url": "https://dostartu.cz/rejstrik/firmy/26760746/jysk-sro/",
+            "title": "JYSK s.r.o., IČO 26760746 | DoStartu",
+            "snippet": "Hledáte informace o JYSK s.r.o. (IČO: 26760746)? Máme je přehledně na jednom místě a pravidelně aktualizované dle veřejných rejstříků. Údaje můžete jedním kliknutím zkopírovat, použít do smlouvy nebo poslat e-mailem. A navíc jsme firmu rovnou prověřili za vás."
           },
           {
-            "url": "https://www.firmy.cz/detail/2429896-jysk-praha-strasnice.html",
-            "title": "JYSK (Praha, Strašnice), IČO 26760746, adresa a telefon ...JYSK Praha , Praha, Strašnice - Živéfirmy.czJYSK (Praha, Bohnice) • Firmy.czCustomer Service | JYSK",
-            "snippet": "Aktuální ověřené informace: adresa, IČO, telefon, e-mail, otevírací hodiny a hodnocení JYSK, Praha, Strašnice. Telefon: 228 884 … Formulář je určen výhradně k zasílání poptávek nebo dotazů souvisejících s činností vybrané firmy. Zprávy jsou redigovány našimi operátorkami. Po jejich schválení jsou odeslány adresátovi. U"
+            "url": "https://www.finmag.cz/obchodni-rejstrik/26760746-jysk-s-r-o",
+            "title": "JYSK s.r.o., IČO: 26760746 - rejstřík firem - Finmag.czJYSK s.r.o., IČO: 26760746 - ARES - Finmag.czJYSK s.r.o. Praha 4 IČO: 26760746 - Finance.czSpolečnost JYSK s.r.o. | Detail.cz",
+            "snippet": "Kompletní informace o subjektu JYSK s.r.o., IČO: 26760746. Výpis z různých rejstříků, aktuální data. Sídlo, vedení, majitelé, předmět činnosti. Obchodní firma JYSK s.r.o. se sídlem Praha - Lhotka, Novodvorská 1062/12, 14200 a identifikačním číslem (IČO) 26760746. Tato stránka obsahuje výpis dat z různých rejstříků pro "
           },
           {
-            "url": "https://www.zivefirmy.cz/jysk-praha_f1122723",
-            "title": "JYSK Praha , Praha, Strašnice - Živéfirmy.czJYSK (Praha, Bohnice) • Firmy.czCustomer Service | JYSK",
-            "snippet": "Formulář je určen výhradně k zasílání poptávek nebo dotazů souvisejících s činností vybrané firmy. Zprávy jsou redigovány našimi operátorkami. Po jejich schválení jsou odeslány adresátovi. Up-to-date verified information: address, phone, e-mail, opening hours and reviews JYSK, Praha, Bohnice. Phone: 228 884 … Pokud inf"
+            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/26760746-jysk-s-r-o",
+            "title": "JYSK s.r.o., IČO: 26760746 - ARES - Finmag.cz",
+            "snippet": "Obchodní firma JYSK s.r.o. se sídlem Praha - Lhotka, Novodvorská 1062/12, 14200 a identifikačním číslem (IČO) 26760746."
           },
           {
-            "url": "https://en.firmy.cz/company/13217507-jysk-praha-bohnice.html",
-            "title": "JYSK (Praha, Bohnice) • Firmy.cz",
-            "snippet": "Up-to-date verified information: address, phone, e-mail, opening hours and reviews JYSK, Praha, Bohnice. Phone: 228 884 …"
+            "url": "https://rejstriky.finance.cz/firma-jysk-s-r-o-26760746",
+            "title": "JYSK s.r.o. Praha 4 IČO: 26760746 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu JYSK s.r.o., která sídlí v obci Praha 4 a bylo jí přiděleno IČO 26760746. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP). Firma s názvem JYSK s.r.o. se sídlem v obci Praha 4"
+          },
+          {
+            "url": "https://www.detail.cz/firma/26760746-jysk-sro-novodvorska-1062-12-praha/",
+            "title": "Společnost JYSK s.r.o. | Detail.cz",
+            "snippet": "Feb 19, 2003 · Společnost JYSK s.r.o. (IČO: 26760746) byla založena dne 19. února 2003 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti."
           },
           {
             "url": "https://jysk.cz/customer-service",
             "title": "Customer Service | JYSK",
-            "snippet": "Pokud informaci, kterou hledáte, nevidíte na našem webu, kontaktujte prosím naše zákaznické centrum. Nejrychleji se vám odpovědi dostane prostřednictvím chatu nebo telefonu. Mimo otevírací dobu nás prosím kontaktujte přes e-mail. Věříme, že všechny vaše požadavky vyřídíme k vaší maximální spokojenosti. Kolik stojí dopr"
+            "snippet": "Převzal jsem zboží zakoupené v e-shopu JYSK.cz, ale rozmyslel jsem si nákup v rámci 14denní lhůty na odstoupení od kupní smlouvy Informace o právu spotřebitele na odstoupení od smlouvy uzavřené distančním způsobem (e-shop)"
           },
           {
-            "url": "https://jysk.cz/",
-            "title": "JYSK | Nábytek do vašeho domova - Vždy skvělá nabídka",
+            "url": "https://jysk.cz/customer-service-category/12357",
+            "title": "Customer Service subcategory | JYSK",
             "snippet": "Dostávejte marketingové informace od společnosti JYSK, včetně novinek, soutěží, inspirace a nabídek s personalizovaným obsahem na základě vašich osobních údajů."
           },
           {
             "url": "https://www.zivefirmy.cz/jysk-praha_f1615227",
-            "title": "JYSK Praha , Praha, Horní Měcholupy - Živéfirmy.czPoptávky od veřejných subjektů | ePoptávka.czJysk.cz (Praha, Lhotka), IČO 26760746, adresa a telefon ...Customer Service | JYSK",
-            "snippet": "JYSK s.r.o. IČ 26760746 DIČ CZ26760746 Právní forma: Společnost s ručením omezeným Datová schránka: xqjem56 Zdroj: justice.cz Odeslat poptávku nebo dotaz firmě: JYSK Praha Váš e-mail: E-mail příjemce: zakaznik@jysk.com Kontrolní otázka: OSM + NULA = doplňte číslo, např.: 12 Poptávky od veřejných subjektů FAQ Poptávky o"
+            "title": "JYSK Praha , Praha, Horní Měcholupy - Živéfirmy.czJYSK Praha , Praha, Kyje - Živéfirmy.czCustomer Service | JYSKJYSK kontakt, telefon, zákaznický servis, infolinkaJysk.cz (Praha, L",
+            "snippet": "JYSK Praha Váš e-mail: E-mail příjemce: zakaznik@jysk.com Kontrolní otázka: DEVĚT + ČTYŘI = doplňte číslo, např.: 12 Odeslat Formulář je určen výhradně k zasílání poptávek nebo dotazů souvisejících s činností vybrané firmy. Zprávy jsou redigovány našimi operátorkami. Po jejich schválení jsou odeslány adresátovi. Oficiá"
+          },
+          {
+            "url": "https://www.zivefirmy.cz/jysk-praha_f1019183",
+            "title": "JYSK Praha , Praha, Kyje - Živéfirmy.cz",
+            "snippet": "Oficiální údaje JYSK s.r.o. IČ26760746DIČCZ26760746 Právní forma: Společnost s ručením omezenýmDatová schránka: xqjem56 Zdroj: justice.cz Odeslat poptávku nebo dotaz firmě:"
           },
           {
             "url": "https://jysk.sk/customer-service",
@@ -27529,9 +27842,14 @@
             "snippet": "Služby zákazníkom - Otázky a odpovede Potrebujete poradiť ohľadom vášho vysnívaného výrobku alebo pomoc s jeho objednaním? Hľadáte informácie o našich výrobkoch alebo službách? 80 % ZÁKAZNÍKOV NÁJDE ODPOVEĎ NA SVOJE OTÁZKY PRÁVE TU – V SEKCII ČASTO KLADENÉ OTÁZKY."
           },
           {
-            "url": "https://zakazky.epoptavka.cz/",
-            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
-            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+            "url": "https://www.kontakttelefon.cz/kontakt/jysk-kontakt-telefon-zakaznicky-servis-infolinka",
+            "title": "JYSK kontakt, telefon, zákaznický servis, infolinka",
+            "snippet": "U JYSK je možný osobní kontakt přímo v jejich prodejnách nebo telefonicky přes zákaznickou podporu. Pro telefonní kontakt s naším Zákaznickým servisem nás prosím volejte na uvedené číslo."
+          },
+          {
+            "url": "https://www.firmy.cz/detail/13104063-jysk-cz-praha-lhotka.html",
+            "title": "Jysk.cz (Praha, Lhotka), IČO 26760746, adresa a telefon ...",
+            "snippet": "Aktuální ověřené informace: adresa, IČO, telefon, e-mail, provozní hodiny a hodnocení Jysk.cz, Praha, Lhotka. Telefon: 228 884 …"
           }
         ],
         "errors": [
@@ -27612,7 +27930,7 @@
       },
       "audit": {
         "state": "observed",
-        "checked_at": "2026-10-13",
+        "checked_at": "2026-10-27",
         "website": "https://jysk.cz/prodejny/praha-10/vyzlovska",
         "devices": {
           "desktop": {
@@ -27625,7 +27943,7 @@
             "small_text_elements": 0,
             "broken_images": 0,
             "images_missing_alt": 0,
-            "images_count": 5,
+            "images_count": 8,
             "contact_action": true,
             "form_count": 3,
             "booking_links": 0,
@@ -27642,7 +27960,7 @@
             "small_text_elements": 0,
             "broken_images": 0,
             "images_missing_alt": 0,
-            "images_count": 5,
+            "images_count": 8,
             "contact_action": true,
             "form_count": 3,
             "booking_links": 0,
@@ -27695,13 +28013,13 @@
         ]
       },
       "candidate_search_sources": [
-        "https://jysk.cz/b2b/kontaktujte-nas",
-        "https://www.firmy.cz/detail/13104063-jysk-cz-praha-lhotka.html",
-        "https://www.zivefirmy.cz/jysk-centrala_f1122721",
-        "https://www.firmy.cz/detail/2429896-jysk-praha-strasnice.html",
-        "https://www.zivefirmy.cz/jysk-praha_f1122723",
-        "https://en.firmy.cz/company/13217507-jysk-praha-bohnice.html",
-        "https://jysk.cz/customer-service"
+        "https://rejstrik-firem.kurzy.cz/26760746/jysk-sro/",
+        "https://rejstrik-firem.kurzy.cz/26760746/jysk-sro/statisticky-urad/",
+        "https://dostartu.cz/rejstrik/firmy/26760746/jysk-sro/",
+        "https://www.finmag.cz/obchodni-rejstrik/26760746-jysk-s-r-o",
+        "https://www.finmag.cz/obchodni-rejstrik/ares/26760746-jysk-s-r-o",
+        "https://rejstriky.finance.cz/firma-jysk-s-r-o-26760746",
+        "https://www.detail.cz/firma/26760746-jysk-sro-novodvorska-1062-12-praha/"
       ],
       "website_need_verified": false,
       "contact_method": "matched_business_website",
