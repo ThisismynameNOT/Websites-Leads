@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-27T13:57:42.671590+00:00",
+  "generated_at": "2026-10-28T14:52:04.945346+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -13345,7 +13345,7 @@
     "osm-node-4469950883": {
       "lead_id": "osm-node-4469950883",
       "name": "Archer Reality",
-      "checked_at": "2026-10-18",
+      "checked_at": "2026-10-28",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -13653,7 +13653,7 @@
     "osm-node-4534814978": {
       "lead_id": "osm-node-4534814978",
       "name": "Atelier T-plan",
-      "checked_at": "2026-10-18",
+      "checked_at": "2026-10-28",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -13899,7 +13899,7 @@
     "osm-node-4585304756": {
       "lead_id": "osm-node-4585304756",
       "name": "SNEO, a.s.",
-      "checked_at": "2026-10-18",
+      "checked_at": "2026-10-28",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -15254,7 +15254,7 @@
     "osm-node-5188088452": {
       "lead_id": "osm-node-5188088452",
       "name": "Li-Vi Praha s.r.o",
-      "checked_at": "2026-10-18",
+      "checked_at": "2026-10-28",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -20958,27 +20958,120 @@
     "res-30069581": {
       "lead_id": "res-30069581",
       "name": "SWAR s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-28",
       "engine_version": 8,
-      "state": "researched",
+      "state": "audited",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "searched",
         "queries": [
           "\"SWAR s.r.o.\" IČO 30069581 web",
           "\"SWAR s.r.o.\" Praha Construction & property kontakt",
           "\"SWAR s.r.o.\" \"Plzeňská 3352\" web",
           "\"SWAR s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/swar-s-r-o-30069581/",
+            "title": "SWAR s.r.o. - IČO 30069581 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Podrobnosti o firmě SWAR s.r.o. - IČO 30069581 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního rejstříku…"
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/30069581-swar-s-r-o",
+            "title": "SWAR s.r.o., IČO: 30069581 - ARES - Finmag.cz",
+            "snippet": "Údaje o SWAR s.r.o., Praha - Smíchov, Plzeňská 3352/156, 15000, IČO: 30069581 byly staženy 16. 10. 2026 z webové stránky justice.cz a služby RES, která sdružuje několik veřejných rejstříků včetně obchodního rejstříku. Zobrazujeme pouze údaje, které byly zveřejněny na základě zákona v různých rejstřících. Seznam odkazů "
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-swar-s-r-o-30069581/kontakty",
+            "title": "SWAR s.r.o. IČO 30069581 kontakty 02.10.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě SWAR s.r.o. IČO 30069581 kontakty 02.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30069581/swar-s-r-o",
+            "title": "SWAR s.r.o. - rizika, jednatel, obchodní rejstřík, databáze firem",
+            "snippet": "SWAR s.r.o. Sídlo Praha. IČO: 30069581. Majitelé a statutární orgány. Rejstřík podnikatelů. Rok založení 2026. Rizikové signály firmy."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-swar-s-r-o-30069581/vedeni-firmy",
+            "title": "SWAR s.r.o. Praha 5 IČO: 30069581 - Finance.cz",
+            "snippet": "Podrobnosti o firmě SWAR s.r.o. Praha 5 IČO 30069581 kontakty 10.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
+          },
+          {
+            "url": "https://www.jenfirmy.cz/firma/30069581-swar-s-r-o",
+            "title": "SWAR s.r.o. ⭐ Profil firmy | ⭐ JenFirmy.cz",
+            "snippet": "Prohlédněte si profil SWAR s.r.o. a zjistěte vše, co potřebujete vědět. Místo, kontakty i prověřené recenze zaměstnanců."
+          },
+          {
+            "url": "https://www.finreg.sk/subjekt/18589349",
+            "title": "SWAR s.r.o., Plzeňská 3352/156, Praha 5 - Smíchov - finančný prehľad ...",
+            "snippet": "Finančné informácie o SWAR s.r.o. - (zisk, tržby, dlhy, daňové priznania a DPH) | FinReg.sk - finančný register"
+          },
+          {
+            "url": "https://www.zlatestranky.cz/clanky/hledani/\"VM+Pro+s.r.o.\"+Praha+Construction+&+property+kontakt",
+            "title": "\"VM Pro s.r.o.\" Praha Construction & property kontakt ...",
+            "snippet": "Útok na čtvrtý titul v řadě přerušili Střední škole polytechnické Brno reprezentanti Akademie řemesel Praha - Střední škola technická."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/adresa-praha-kurzova-2222-16-22696377",
+            "title": "Kurzova 2222/16 Praha 15500 (28.10.2026) - Rejstříky.finance.cz",
+            "snippet": "Kurzova 2222/16 Praha 15500 – seznam všech firem a osob, které se na této adrese nachází a mají záznam ve veřejných rejstřících, mapa, GPS souřadnice"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/06016588/archbau-construction-sro/",
+            "title": "ARCHBAU construction s.r.o. , Praha IČO 06016588 - Obchodní ...",
+            "snippet": "Sep 10, 2021 · ARCHBAU construction s.r.o. – obchodní rejstřík, aktuální výpis Datum vzniku a zápisu 13. duben 2017 Spisová značka C 274662/MSPH Městský soud v Praze Obchodní firma ARCHBAU construction s.r.o. Sídlo Biskupský dvůr 1154/1, Nové Město, 110 00 Praha 1 Identifikační číslo 06016588 Právní forma Společnost s "
+          },
+          {
+            "url": "https://www.philip-frank.com/en/estate/1055-apartment-one-bedroom-praha-5-kurandove/",
+            "title": "One-bedroom Apartment, 46 m², Praha 5, Kurandové",
+            "snippet": "We offer for sale a modern one-bedroom apartment with a total usable floor area of 46.2 m². It is located on the fourth floor of a new-build completed in 2023, with a lift, in the attractive Barandez-Vous development in the peaceful and sought-after Barrandov neighbourhood of Prague 5—a place where modern architecture "
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/stav-invest-střešní-systémy-s-r-o_10b",
+            "title": "STAV-INVEST střešní systémy s.r.o. - Františka Diviše 771… - Cybo",
+            "snippet": "4.6★★★★★(128 reviews) Františka Diviše 771, 104 00 Praha 10-Uhříněves, Czechia Prague, Czech Republic Building Materials Store Roofing Supply Store Roofing contractor 0Like Add Photos Write Review Edit Hours Weekdays7:00 AM – 5:00 PM Saturday8:00 AM – 11:30 AM SundayClosed Phone 246 051 520 Website stavinvest.cz/kontak"
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.7rsa.pl/",
+            "title": "Deweloper Magazynowy. Magazyny do Wynajęcia w Polsce - 7R",
+            "snippet": "7R to deweloper nowoczesnych powierzchni magazynowych i logistycznych. Oferujemy magazyny na wynajem, obiekty BTS oraz parki logistyczne."
+          }
+        ],
         "errors": [
-          "DDGSException: No results found.",
-          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
-        "website": "",
-        "examined": [],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.chytryrejstrik.cz/ico-30069581/swar-s-r-o",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.chytryrejstrik.cz/ico-30069581/swar-s-r-o",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30069581/swar-s-r-o",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -21004,8 +21097,53 @@
         ]
       },
       "audit": {
-        "state": "not_run",
-        "reason": "No independently verified company website"
+        "state": "observed",
+        "checked_at": "2026-10-28",
+        "website": "https://www.chytryrejstrik.cz/ico-30069581/swar-s-r-o",
+        "devices": {
+          "desktop": {
+            "title": "SWAR s.r.o. - rizika, jednatel, obchodní rejstřík, databáze firem",
+            "description": "SWAR s.r.o. Sídlo Praha. IČO: 30069581. Majitelé a statutární orgány. Rejstřík podnikatelů. Rok založení 2026. Rizikové signály firmy. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 159,
+            "small_text_elements": 1,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 40,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "SWAR s.r.o. - rizika, jednatel, obchodní rejstřík, databáze firem",
+            "description": "SWAR s.r.o. Sídlo Praha. IČO: 30069581. Majitelé a statutární orgány. Rejstřík podnikatelů. Rok založení 2026. Rizikové signály firmy. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 122,
+            "small_text_elements": 9,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 40,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.chytryrejstrik.cz/ico-30069581/swar-s-r-o"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
       },
       "buying_signals": [
         {
@@ -21019,11 +21157,11 @@
         "title": "SWAR s.r.o. — research dossier",
         "facts": [
           "The business is listed at Plzeňská 3352, Praha, 15000.",
-          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "An independently identity-matched business website was found: https://www.chytryrejstrik.cz/ico-30069581/swar-s-r-o.",
           "ARES confirms registration for IČO 30069581 dated 2026-09-24."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
         "observed_issues": [],
         "buying_signals": [
           {
@@ -21035,7 +21173,8 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30069581"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30069581",
+          "https://www.chytryrejstrik.cz/ico-30069581/swar-s-r-o"
         ],
         "estimated_deal_czk": [
           30000,
@@ -21055,11 +21194,24 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://www.podnikatel.cz/rejstrik/swar-s-r-o-30069581/",
+        "https://www.finmag.cz/obchodni-rejstrik/ares/30069581-swar-s-r-o",
+        "https://rejstriky.finance.cz/firma-swar-s-r-o-30069581/kontakty",
+        "https://www.chytryrejstrik.cz/ico-30069581/swar-s-r-o",
+        "https://rejstriky.finance.cz/firma-swar-s-r-o-30069581/vedeni-firmy",
+        "https://www.jenfirmy.cz/firma/30069581-swar-s-r-o",
+        "https://www.finreg.sk/subjekt/18589349"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {},
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.chytryrejstrik.cz/ico-30069581/swar-s-r-o",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
       "owner_verified": false,
       "buyer_interest_verified": false
     },
@@ -21172,27 +21324,120 @@
     "res-30069823": {
       "lead_id": "res-30069823",
       "name": "Ondřej Šála",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-28",
       "engine_version": 8,
-      "state": "researched",
+      "state": "audited",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "searched",
         "queries": [
           "\"Ondřej Šála\" IČO 30069823 web",
           "\"Ondřej Šála\" Praha Construction & property kontakt",
           "\"Ondřej Šála\" \"U zastávky 1535\" web",
           "\"Ondřej Šála\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
-        "errors": [
-          "DDGSException: No results found.",
-          "DDGSException: No results found.",
-          "DDGSException: No results found."
+        "successful_queries": 4,
+        "candidates": [
+          {
+            "url": "https://apipoint.app/firma/cz/30069823",
+            "title": "Ondřej Šála – IČO 30069823 · ApiPoint",
+            "snippet": "Ondřej Šála, IČO 30069823: aktivní, sídlo U zastávky 1535/1, Modřany, 14300 Praha 4. DPH: neplátce. Ověření firmy z veřejných registrů."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-ondrej-sala-30069823/kontakty",
+            "title": "Ondřej Šála IČO 30069823 kontakty 03.10.2026 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Ondřej Šála, která sídlí v obci a bylo jí přiděleno IČO 30069823. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-ondrej-sala-30069823",
+            "title": "Ondřej Šála Praha 4 IČO: 30069823 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Ondřej Šála, která sídlí v obci Praha 4 a bylo jí přiděleno IČO 30069823. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/ondrej-sala-03368891/",
+            "title": "Ondřej Šála - IČO 03368891 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Podrobnosti o firmě Ondřej Šála - IČO 03368891 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního rejstříku…"
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/osoby/ondrej-sala-2950876/",
+            "title": "Ondřej Šála v obchodním rejstříku - Podnikatel.cz",
+            "snippet": "Ondřej Šála, Rudimov 120, 763 21, Česká republika v obchodním rejstříku. Adresa sídla, pozice ve firmě, vztahy mezi společnostmi a majiteli firem."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/zivnostnik/bmySp5aekaQ=",
+            "title": "Ondřej Šála okres Zlín - Živnostenský rejstřík | Kurzy.cz",
+            "snippet": "Ondřej Šála, podnikatel okres Zlín – kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/03368891-ondrej-sala",
+            "title": "Ondřej Šála, IČO: 03368891 - ARES - Finmag.cz",
+            "snippet": "Výpis z registru ekonomických subjektů (RES) - Ondřej Šála, IČO: 03368891, obec: , klasifikace ekonomických činností. Aktuální data."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-ondrej-sala-30069823/obory-cinnosti",
+            "title": "Ondřej Šála Praha 4 IČO: 30069823 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Ondřej Šála, která sídlí v obci Praha 4 a bylo jí přiděleno IČO 30069823. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/ondrej-sala-74142801/",
+            "title": "Ondřej Šála - IČO 74142801 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Podrobnosti o firmě Ondřej Šála - IČO 74142801 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního rejstříku…"
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/osoba/ondrej-sala",
+            "title": "Ondřej Šála - obchodní rejstřík - Finmag.cz",
+            "snippet": "Ondřej Šála, výpis z obchodního i živnostenského rejstříků. Osoby a firmy - adresy, kontakty. Aktuální i historická data."
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-74142801/ondrej-sala",
+            "title": "Ondřej Šála, Rudimov - registr OSVČ",
+            "snippet": "Ondřej Šála Sídlo Rudimov. IČO: 74142801. podnikatel je plátce DPH. Rejstřík podnikatelů. Firemní profil. Rok založení 2010."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/martin-sala",
+            "title": "Martin Sala, Martin Šála - Obchodní rejstřík | Peníze.cz",
+            "snippet": "Jun 28, 2026 · Martin Sala, Martin Šála výpis firem z Obchodního rejstříku, IČO firmy, adresa sídla firmy, pozice ve firmě, související firmy, vztahy ve firmách."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          }
         ],
-        "state": "SEARCH_UNAVAILABLE",
-        "website": "",
-        "examined": [],
+        "errors": [],
+        "public_site_contacts": {
+          "emails": [
+            "info@apipoint.app"
+          ],
+          "phones": [],
+          "source": "https://apipoint.app/firma/cz/30069823",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://apipoint.app/firma/cz/30069823",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://apipoint.app/firma/cz/30069823",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -21212,8 +21457,53 @@
         "director_lookup_status": "HTTPError"
       },
       "audit": {
-        "state": "not_run",
-        "reason": "No independently verified company website"
+        "state": "observed",
+        "checked_at": "2026-10-28",
+        "website": "https://apipoint.app/firma/cz/30069823",
+        "devices": {
+          "desktop": {
+            "title": "Ondřej Šála – IČO 30069823 · ApiPoint",
+            "description": "Ondřej Šála, IČO 30069823: aktivní, sídlo U zastávky 1535/1, Modřany, 14300 Praha 4. DPH: neplátce. Ověření firmy z veřejných registrů.",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 33,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 0,
+            "contact_action": true,
+            "form_count": 0,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Ondřej Šála – IČO 30069823 · ApiPoint",
+            "description": "Ondřej Šála, IČO 30069823: aktivní, sídlo U zastávky 1535/1, Modřany, 14300 Praha 4. DPH: neplátce. Ověření firmy z veřejných registrů.",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 33,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 0,
+            "contact_action": true,
+            "form_count": 0,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://apipoint.app/firma/cz/30069823"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
       },
       "buying_signals": [
         {
@@ -21227,11 +21517,11 @@
         "title": "Ondřej Šála — research dossier",
         "facts": [
           "The business is listed at U zastávky 1535, Praha, 14300.",
-          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "An independently identity-matched business website was found: https://apipoint.app/firma/cz/30069823.",
           "ARES confirms registration for IČO 30069823 dated 2026-09-23."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
         "observed_issues": [],
         "buying_signals": [
           {
@@ -21243,7 +21533,8 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30069823"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30069823",
+          "https://apipoint.app/firma/cz/30069823"
         ],
         "estimated_deal_czk": [
           30000,
@@ -21263,11 +21554,26 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://apipoint.app/firma/cz/30069823",
+        "https://rejstriky.finance.cz/firma-ondrej-sala-30069823/kontakty",
+        "https://rejstriky.finance.cz/firma-ondrej-sala-30069823",
+        "https://www.podnikatel.cz/rejstrik/ondrej-sala-03368891/",
+        "https://www.podnikatel.cz/rejstrik/osoby/ondrej-sala-2950876/",
+        "https://rejstrik-firem.kurzy.cz/zivnostnik/bmySp5aekaQ=",
+        "https://www.finmag.cz/obchodni-rejstrik/ares/03368891-ondrej-sala"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {},
+      "verified_site_public_contacts": {
+        "emails": [
+          "info@apipoint.app"
+        ],
+        "phones": [],
+        "source": "https://apipoint.app/firma/cz/30069823",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
       "owner_verified": false,
       "buyer_interest_verified": false
     },
@@ -21368,27 +21674,154 @@
     "res-30069840": {
       "lead_id": "res-30069840",
       "name": "Kostiantyn Kovtunov",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-28",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "searched",
         "queries": [
           "\"Kostiantyn Kovtunov\" IČO 30069840 web",
           "\"Kostiantyn Kovtunov\" Praha Construction & property kontakt",
           "\"Kostiantyn Kovtunov\" \"Holečkova 838\" web",
           "\"Kostiantyn Kovtunov\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://www.tzus.cz/",
+            "title": "TZUS - Technický a zkušební ústav stavební Praha, s.p.",
+            "snippet": "Oct 12, 2026 · Technický a zkušební ústav stavební Praha, s.p. (TZÚS Praha, s.p.), je největší zkušební a certifikační organizací v České republice v oblasti posuzování shody stavebních výrobků..."
+          },
+          {
+            "url": "https://cpipg.com/en/contact",
+            "title": "Contact - CPIPG",
+            "snippet": "Luxembourg Headquarters CPI Property Group S.A. luxembourg@cpipg.com 40, rue de la Vallée L-2661 Luxembourg Moritz Mayer"
+          },
+          {
+            "url": "https://www.facebook.com/kostiantyn.kuchurian/videos/the-difference-is-always-in-the-details-clean-lines-smooth-finish-professional-r/912742451687138/",
+            "title": "The difference is always in the details. Clean lines ...",
+            "snippet": "Complete Costa Construction 📞 971-571-4778..."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://www.zizkov3-0.cz/",
+            "title": "Žižkov 3.0 – Nová verze bydlení s hektarovým parkem",
+            "snippet": "Promyšlené kaskádovitě uspořádané bydlení plné denního světla od renomovaných nizozemských architektů Benthem Crouwel a českého ateliéru RA15 je výsledkem mezinárodní architektonické soutěže, jíž se účastnilo na 160 studií."
+          },
+          {
+            "url": "https://zemits.com/pages/contact-us",
+            "title": "Contact Us - Zemits",
+            "snippet": "447 W 36th St., New York, NY 10018. Visit Our Showrooms Have a question? Сontact us."
+          },
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles/property--invest-praha-spol-s-ro.dc71e7fe0383dc84319ad984b6c8bb81",
+            "title": "Business Directory - Dun & Bradstreet",
+            "snippet": "Use our commercial database of more than 120 million business records & industry directory for company research & industry analysis. Start sales research here."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-kostiantyn-kovtunov-30069840/kontakty",
+            "title": "Kostiantyn Kovtunov IČO 30069840 kontakty 03.10.2026 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Kostiantyn Kovtunov, která sídlí v obci a bylo jí přiděleno IČO 30069840. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP). Kostiantyn Kovtunov je Zahraniční fyzická osoba ."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-kostiantyn-kovtunov-30069840",
+            "title": "Kostiantyn Kovtunov IČO 30069840 kontakty 01.10.2026 - Finance.cz",
+            "snippet": "Výpis dat pro firmu Kostiantyn Kovtunov obsahuje pouze taková data, která lze dle zákona č. 110/2019 Sb., o zpracování osobních údajů, zveřejňovat i bez souhlasu subjektu těchto údajů."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.annonce.cz/hledam-praci-chci-vydelat-Praha-f-T384.html",
+            "title": "Praha - Hledám práci - inzeráty | Inzerce na Annonce.cz",
+            "snippet": "Sekce Hledám práci na inzertním serveru ANNONCE to je inzerce s nabídkou pracovní poptávky na HPP, VPP i brigády."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Poptávám: vyčištění louky, 100 m² před 16 hodinami Středočeský kraj Služby Martin D. Jílové u Prahy zadáno 5 poptávek"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Upgrade na atestovaný systém elektronické spisové služby Počítače, software Software Počítače, software Software Informační systémy okres Praha 28. 10. 2026 (dnes)"
+          }
+        ],
         "errors": [
-          "DDGSException: No results found.",
-          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
+        "state": "AMBIGUOUS",
         "website": "",
-        "examined": [],
+        "examined": [
+          {
+            "url": "https://www.tzus.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://cpipg.com/en/contact",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.zizkov3-0.cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zemits.com/pages/contact-us",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles/property--invest-praha-spol-s-ro.dc71e7fe0383dc84319ad984b6c8bb81",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.annonce.cz/hledam-praci-chci-vydelat-Praha-f-T384.html",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -21449,7 +21882,15 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://www.tzus.cz/",
+        "https://cpipg.com/en/contact",
+        "https://www.facebook.com/kostiantyn.kuchurian/videos/the-difference-is-always-in-the-details-clean-lines-smooth-finish-professional-r/912742451687138/",
+        "https://www.skanska.com/cz/cs",
+        "https://www.zizkov3-0.cz/",
+        "https://zemits.com/pages/contact-us",
+        "https://www.dnb.com/business-directory/company-profiles/property--invest-praha-spol-s-ro.dc71e7fe0383dc84319ad984b6c8bb81"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -21554,19 +21995,25 @@
     "res-30070139": {
       "lead_id": "res-30070139",
       "name": "Vitalii Alechko",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-28",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "partial_search",
         "queries": [
           "\"Vitalii Alechko\" IČO 30070139 web",
           "\"Vitalii Alechko\" Praha Construction & property kontakt",
           "\"Vitalii Alechko\" \"Makovského 1177\" web",
           "\"Vitalii Alechko\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://rejstrik.penize.cz/ares/30070139-vitalii-alechko",
+            "title": "Vitalii Alechko, Praha, IČO: 30070139 - ARES | Peníze.cz",
+            "snippet": "Registr ekonomických subjektů - Vitalii Alechko, IČO: 30070139, sídlo firmy, předmět podnikání firmy Vitalii Alechko."
+          }
+        ],
         "errors": [
           "DDGSException: No results found.",
           "DDGSException: No results found.",
@@ -21645,7 +22092,9 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://rejstrik.penize.cz/ares/30070139-vitalii-alechko"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -21750,27 +22199,97 @@
     "res-30070651": {
       "lead_id": "res-30070651",
       "name": "Linara sales & management s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-28",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "partial_search",
         "queries": [
           "\"Linara sales & management s.r.o.\" IČO 30070651 web",
           "\"Linara sales & management s.r.o.\" Praha Construction & property kontakt",
           "\"Linara sales & management s.r.o.\" \"Spojovací 2148\" web",
           "\"Linara sales & management s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30070651/linara-sales-management-sro/",
+            "title": "Linara sales & management s.r.o. , IČO 30070651 - Obchodní ...",
+            "snippet": "Tato stránka obsahuje aktuální výpis údajů firmy Linara sales & management s.r.o. Údaje byly staženy 28. září 2026 z datové služby justice.cz dle IČO 30070651 a údaje ve výpise nebyly dle systému ARES do dnešního dne změněny. Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob."
+          },
+          {
+            "url": "https://www.podnikani.cz/30070651/linara-sales-management-sro/",
+            "title": "Linara sales & management s.r.o. - obchodní rejstřík ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku Linara sales & management s.r.o. Spojovací 2148/34, Žižkov, 13000 Praha 3 , IČO: 30070651, Zákl. kapitál: 10000 Kč"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30070651/linara-sales-management-sro/zivnosti/",
+            "title": "Linara sales & management s.r.o. - Živnostenský rejstřík",
+            "snippet": "Oct 1, 2026 · Linara sales & management s.r.o., firma – kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Upgrade na atestovaný systém elektronické spisové služby Počítače, software Software Počítače, software Software Informační systémy okres Praha 28. 10. 2026 (dnes)"
+          },
+          {
+            "url": "https://lesarb.cz/",
+            "title": "Lesarb",
+            "snippet": "Libeň, 180 00 Praha 8 +420 722 434 186 arb@lesarb.cz Informace Služby Naše technika Reference O nás Kontakt GDPR Kariéra Služby Rizikové kácení Odborné ořezy a péče Štěpkování a úklid Frézování pařezů Rekultivace pozemku Hodnocení stromů Nezávazná poptávka Vytvořeno v SUITU websites SE • Běží na MySuitu CMS ..."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Poptávám: vyčištění louky, 100 m² před 16 hodinami Středočeský kraj Služby Martin D. Jílové u Prahy zadáno 5 poptávek"
+          },
+          {
+            "url": "https://narran.cz/",
+            "title": "Laserové technologie - Narran",
+            "snippet": "Sep 24, 2026 · Servis a prodej laserových strojů, řezací a gravírovací lasery, čištění laserem, náhradní díly. Česká firma se světovým know-how."
+          }
+        ],
         "errors": [
           "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
+        "state": "AMBIGUOUS",
         "website": "",
-        "examined": [],
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30070651/linara-sales-management-sro/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://lesarb.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://narran.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -21847,7 +22366,15 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30070651/linara-sales-management-sro/",
+        "https://www.podnikani.cz/30070651/linara-sales-management-sro/",
+        "https://rejstrik-firem.kurzy.cz/30070651/linara-sales-management-sro/zivnosti/",
+        "https://www.poptavky.cz/",
+        "https://lesarb.cz/",
+        "https://poptavky.epoptavka.cz/",
+        "https://narran.cz/"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -21952,9 +22479,9 @@
     "res-30070694": {
       "lead_id": "res-30070694",
       "name": "e3NPE s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-28",
       "engine_version": 8,
-      "state": "audited",
+      "state": "researched",
       "discovery": {
         "status": "partial_search",
         "queries": [
@@ -21967,28 +22494,38 @@
         "candidates": [
           {
             "url": "https://rejstrik-firem.kurzy.cz/30070694/e3npe-sro/",
-            "title": "e3NPE s.r.o. , IČO 30070694 - Obchodní rejstřík firem - Kurzy.cz",
-            "snippet": "Tato stránka obsahuje aktuální výpis údajů firmy e3NPE s.r.o. Údaje byly staženy 28. září 2026 z datové služby justice.cz dle IČO 30070694 a údaje ve výpise nebyly dle systému ARES do dnešního dne změněny. Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob."
+            "title": "e3NPE s.r.o. , IČO 30070694 - Obchodní rejstřík firem",
+            "snippet": "Kde je sídlo firmy e3NPE s.r.o.? Sídlo firmy e3NPE s.r.o. je Rybná 716/24, Staré Město, 11000 Praha 1. Další firmy na této adrese. X Kurzy.cz > Obchodní rejstřík > e3NPE s.r.o."
           },
           {
-            "url": "https://www.chytryrejstrik.cz/ico-30070694/e3npe-s-r-o",
-            "title": "e3NPE s.r.o. - rizika, majitel, obchodní rejstřík, databáze firem",
-            "snippet": "e3NPE s.r.o. Sídlo Praha. IČO: 30070694. Majitelé a statutární orgány. Rejstřík podnikatelů. Rok založení 2026. Kontrola rizik firmy."
+            "url": "https://www.zlatestranky.cz/clanky/hledani/\"VM+Pro+s.r.o.\"+Praha+Construction+&+property+kontakt",
+            "title": "\"VM Pro s.r.o.\" Praha Construction & property kontakt ...",
+            "snippet": "Útok na čtvrtý titul v řadě přerušili Střední škole polytechnické Brno reprezentanti Akademie řemesel Praha - Střední škola technická."
           },
           {
-            "url": "https://rejstriky.finance.cz/firma-e3npe-s-r-o-30070694",
-            "title": "e3NPE s.r.o. IČO 30070694 kontakty 30.09.2026 - Finance.cz",
-            "snippet": "Podrobnosti o firmě e3NPE s.r.o. IČO 30070694 kontakty 30.09.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+            "url": "https://rejstrik-firem.kurzy.cz/06016588/archbau-construction-sro/",
+            "title": "ARCHBAU construction s.r.o. , Praha IČO 06016588 - Obchodní ...",
+            "snippet": "Sep 10, 2021 · ARCHBAU construction s.r.o. – obchodní rejstřík, aktuální výpis Datum vzniku a zápisu 13. duben 2017 Spisová značka C 274662/MSPH Městský soud v Praze Obchodní firma ARCHBAU construction s.r.o. Sídlo Biskupský dvůr 1154/1, Nové Město, 110 00 Praha 1 Identifikační číslo 06016588 Právní forma Společnost s "
           },
           {
-            "url": "https://www.jenfirmy.cz/firma/30070694-e3npe-s-r-o",
-            "title": "e3NPE s.r.o. ⭐ Profil firmy | ⭐ JenFirmy.cz",
-            "snippet": "Prohlédněte si profil e3NPE s.r.o. a zjistěte vše, co potřebujete vědět. Místo, kontakty i prověřené recenze zaměstnanců."
+            "url": "https://www.cybo.com/CZ-biz/elektrikář-praha-i-elektrovojta",
+            "title": "Elektrikář Praha 10, 9, 4 I ElektroVojta - Cybo",
+            "snippet": "Elektrikář Praha 10, 9, 4 I ElektroVojta Prague postal code 100 00. See Google profile, Hours, Phone, Website and more for this business. 4.8 Cybo Score. Review on Cybo."
           },
           {
-            "url": "https://www.jenprace.cz/firmy/30070694-e3npe-s-r-o",
-            "title": "Práce v e3NPE s.r.o. Zaměstnání, volná místa | JenPráce.cz",
-            "snippet": "JenPráce.cz — každý den aktuální nabídky práce a brigád v České republice i zahraničí"
+            "url": "https://rejstriky.finance.cz/adresa-praha-kurzova-2222-16-22696377",
+            "title": "Kurzova 2222/16 Praha 15500 (28.10.2026) - Rejstříky.finance.cz",
+            "snippet": "Kurzova 2222/16 Praha 15500 – seznam všech firem a osob, které se na této adrese nachází a mají záznam ve veřejných rejstřících, mapa, GPS souřadnice"
+          },
+          {
+            "url": "https://www.philip-frank.com/en/estate/1055-apartment-one-bedroom-praha-5-kurandove/",
+            "title": "One-bedroom Apartment, 46 m², Praha 5, Kurandové",
+            "snippet": "We offer for sale a modern one-bedroom apartment with a total usable floor area of 46.2 m². It is located on the fourth floor of a new-build completed in 2023, with a lift, in the attractive Barandez-Vous development in the peaceful and sought-after Barrandov neighbourhood of Prague 5—a place where modern architecture "
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
           }
         ],
         "errors": [
@@ -21996,29 +22533,32 @@
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "public_site_contacts": {
-          "emails": [],
-          "phones": [],
-          "source": "https://www.chytryrejstrik.cz/ico-30070694/e3npe-s-r-o",
-          "evidence": "Explicit mailto/tel links on identity-matched business website"
-        },
-        "contact_matches": [],
-        "website": "https://www.chytryrejstrik.cz/ico-30070694/e3npe-s-r-o",
-        "state": "VERIFIED_WEBSITE",
-        "identity": [
-          "Matching IČO on website",
-          "Matching business name on website",
-          "Matching Prague street address on website",
-          "Prague mentioned on website"
-        ],
+        "state": "AMBIGUOUS",
+        "website": "",
         "examined": [
           {
-            "url": "https://www.chytryrejstrik.cz/ico-30070694/e3npe-s-r-o",
-            "result": "identity_match",
+            "url": "https://www.zlatestranky.cz/clanky/hledani/\"VM+Pro+s.r.o.\"+Praha+Construction+&+property+kontakt",
+            "result": "ambiguous",
             "evidence": [
-              "Matching IČO on website",
-              "Matching business name on website",
-              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/elektrikář-praha-i-elektrovojta",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.philip-frank.com/en/estate/1055-apartment-one-bedroom-praha-5-kurandove/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
               "Prague mentioned on website"
             ]
           }
@@ -22054,53 +22594,8 @@
         ]
       },
       "audit": {
-        "state": "observed",
-        "checked_at": "2026-10-09",
-        "website": "https://www.chytryrejstrik.cz/ico-30070694/e3npe-s-r-o",
-        "devices": {
-          "desktop": {
-            "title": "e3NPE s.r.o. - rizika, majitel, obchodní rejstřík, databáze firem",
-            "description": "e3NPE s.r.o. Sídlo Praha. IČO: 30070694. Majitelé a statutární orgány. Rejstřík podnikatelů. Rok založení 2026. Kontrola rizik firmy. ",
-            "viewport_meta": true,
-            "h1_count": 1,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 154,
-            "small_text_elements": 2,
-            "broken_images": 0,
-            "images_missing_alt": 0,
-            "images_count": 40,
-            "contact_action": false,
-            "form_count": 1,
-            "booking_links": 0,
-            "http_status": 200
-          },
-          "navigation_errors": [],
-          "mobile": {
-            "title": "e3NPE s.r.o. - rizika, majitel, obchodní rejstřík, databáze firem",
-            "description": "e3NPE s.r.o. Sídlo Praha. IČO: 30070694. Majitelé a statutární orgány. Rejstřík podnikatelů. Rok založení 2026. Kontrola rizik firmy. ",
-            "viewport_meta": true,
-            "h1_count": 1,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 117,
-            "small_text_elements": 10,
-            "broken_images": 0,
-            "images_missing_alt": 0,
-            "images_count": 40,
-            "contact_action": false,
-            "form_count": 1,
-            "booking_links": 0,
-            "http_status": 200
-          }
-        },
-        "transport": {
-          "state": "https_available",
-          "http_url": null,
-          "observed_url": "https://www.chytryrejstrik.cz/ico-30070694/e3npe-s-r-o"
-        },
-        "objective_issues": [],
-        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
-        "visual_design_review": "human_review_required",
-        "website_score": null
+        "state": "not_run",
+        "reason": "No independently verified company website"
       },
       "buying_signals": [
         {
@@ -22114,11 +22609,11 @@
         "title": "e3NPE s.r.o. — research dossier",
         "facts": [
           "The business is listed at Rybná 716, Praha, 11000.",
-          "An independently identity-matched business website was found: https://www.chytryrejstrik.cz/ico-30070694/e3npe-s-r-o.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
           "ARES confirms registration for IČO 30070694 dated 2026-09-24."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
         "observed_issues": [],
         "buying_signals": [
           {
@@ -22130,8 +22625,7 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30070694",
-          "https://www.chytryrejstrik.cz/ico-30070694/e3npe-s-r-o"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30070694"
         ],
         "estimated_deal_czk": [
           30000,
@@ -22153,20 +22647,17 @@
       },
       "candidate_search_sources": [
         "https://rejstrik-firem.kurzy.cz/30070694/e3npe-sro/",
-        "https://www.chytryrejstrik.cz/ico-30070694/e3npe-s-r-o",
-        "https://rejstriky.finance.cz/firma-e3npe-s-r-o-30070694",
-        "https://www.jenfirmy.cz/firma/30070694-e3npe-s-r-o",
-        "https://www.jenprace.cz/firmy/30070694-e3npe-s-r-o"
+        "https://www.zlatestranky.cz/clanky/hledani/\"VM+Pro+s.r.o.\"+Praha+Construction+&+property+kontakt",
+        "https://rejstrik-firem.kurzy.cz/06016588/archbau-construction-sro/",
+        "https://www.cybo.com/CZ-biz/elektrikář-praha-i-elektrovojta",
+        "https://rejstriky.finance.cz/adresa-praha-kurzova-2222-16-22696377",
+        "https://www.philip-frank.com/en/estate/1055-apartment-one-bedroom-praha-5-kurandove/",
+        "https://vces.cz/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {
-        "emails": [],
-        "phones": [],
-        "source": "https://www.chytryrejstrik.cz/ico-30070694/e3npe-s-r-o",
-        "evidence": "Explicit mailto/tel links on identity-matched business website"
-      },
+      "verified_site_public_contacts": {},
       "owner_verified": false,
       "buyer_interest_verified": false
     },
@@ -22273,27 +22764,105 @@
     "res-30070708": {
       "lead_id": "res-30070708",
       "name": "Linara estates s.r.o.",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-28",
       "engine_version": 8,
-      "state": "researched",
+      "state": "audited",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "searched",
         "queries": [
           "\"Linara estates s.r.o.\" IČO 30070708 web",
           "\"Linara estates s.r.o.\" Praha Construction & property kontakt",
           "\"Linara estates s.r.o.\" \"Spojovací 2148\" web",
           "\"Linara estates s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30070708/linara-estates-sro/",
+            "title": "Linara estates s.r.o. , IČO 30070708 - Obchodní rejstřík firem",
+            "snippet": "Jaká je poslední změna u firmy Linara estates s.r.o. v rejstříku? Vznik společnosti Linara estates s.r.o. 24.9.2026. Další změny u firmy. Kde je sídlo firmy Linara estates s.r.o.? Sídlo firmy Linara estates s.r.o. je Spojovací 2148/34, Žižkov, 13000 Praha 3. Další firmy na této adrese."
+          },
+          {
+            "url": "https://www.detail.cz/firma/30070708-linara-estates-sro-spojovaci-2148-34-praha/",
+            "title": "Společnost Linara estates s.r.o. | Detail.cz",
+            "snippet": "Kontakty Adresa Spojovací 2148/34 130 00 Praha Hlavní město Praha Okres: Praha 3 Navigovat"
+          },
+          {
+            "url": "https://www.podnikani.cz/30070708/linara-estates-sro/",
+            "title": "Linara estates s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku Linara estates s.r.o. Spojovací 2148/34, Žižkov, 13000 Praha 3 , IČO: 30070708, Zákl. kapitál: 10000 Kč"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/06016588/archbau-construction-sro/",
+            "title": "ARCHBAU construction s.r.o. , Praha IČO 06016588 - Obchodní ...",
+            "snippet": "Sep 10, 2021 · ARCHBAU construction s.r.o., Biskupský dvůr, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní ..."
+          },
+          {
+            "url": "https://www.sreality.cz/en/project-detail/slunecne-terasy-reporyje/39866",
+            "title": "Slunečné terasy Řeporyje • Sreality.cz",
+            "snippet": "1 property in the current offer of properties in the development project Slunečné terasy Řeporyje The largest offer of real estate in the Czech Republic (110,680 estates) with search on the map and filtering with dozens of parameters"
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Poptávám: vyčištění louky, 100 m² před 16 hodinami Středočeský kraj Služby Martin D. Jílové u Prahy zadáno 5 poptávek"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Upgrade na atestovaný systém elektronické spisové služby Počítače, software Software Počítače, software Software Informační systémy okres Praha 28. 10. 2026 (dnes)"
+          }
+        ],
         "errors": [
-          "DDGSException: No results found.",
-          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
-        "website": "",
-        "examined": [],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.detail.cz/firma/30070708-linara-estates-sro-spojovaci-2148-34-praha/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.detail.cz/firma/30070708-linara-estates-sro-spojovaci-2148-34-praha/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.detail.cz/firma/30070708-linara-estates-sro-spojovaci-2148-34-praha/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -22319,8 +22888,53 @@
         ]
       },
       "audit": {
-        "state": "not_run",
-        "reason": "No independently verified company website"
+        "state": "observed",
+        "checked_at": "2026-10-28",
+        "website": "https://www.detail.cz/firma/30070708-linara-estates-sro-spojovaci-2148-34-praha/",
+        "devices": {
+          "desktop": {
+            "title": "Společnost Linara estates s.r.o. | Detail.cz",
+            "description": "Společnost Linara estates s.r.o. (IČO: 30070708) byla založena dne 24. září 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
+            "viewport_meta": true,
+            "h1_count": 16,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 59,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 14,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Společnost Linara estates s.r.o. | Detail.cz",
+            "description": "Společnost Linara estates s.r.o. (IČO: 30070708) byla založena dne 24. září 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
+            "viewport_meta": true,
+            "h1_count": 16,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 56,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 10,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.detail.cz/firma/30070708-linara-estates-sro-spojovaci-2148-34-praha/"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
       },
       "buying_signals": [
         {
@@ -22334,11 +22948,11 @@
         "title": "Linara estates s.r.o. — research dossier",
         "facts": [
           "The business is listed at Spojovací 2148, Praha, 13000.",
-          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "An independently identity-matched business website was found: https://www.detail.cz/firma/30070708-linara-estates-sro-spojovaci-2148-34-praha/.",
           "ARES confirms registration for IČO 30070708 dated 2026-09-24."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
         "observed_issues": [],
         "buying_signals": [
           {
@@ -22350,7 +22964,8 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30070708"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30070708",
+          "https://www.detail.cz/firma/30070708-linara-estates-sro-spojovaci-2148-34-praha/"
         ],
         "estimated_deal_czk": [
           30000,
@@ -22370,11 +22985,24 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30070708/linara-estates-sro/",
+        "https://www.detail.cz/firma/30070708-linara-estates-sro-spojovaci-2148-34-praha/",
+        "https://www.podnikani.cz/30070708/linara-estates-sro/",
+        "https://rejstrik-firem.kurzy.cz/06016588/archbau-construction-sro/",
+        "https://www.sreality.cz/en/project-detail/slunecne-terasy-reporyje/39866",
+        "https://vces.cz/",
+        "https://www.skanska.com/cz/cs"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {},
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.detail.cz/firma/30070708-linara-estates-sro-spojovaci-2148-34-praha/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
       "owner_verified": false,
       "buyer_interest_verified": false
     },
@@ -22469,23 +23097,23 @@
     "res-30071160": {
       "lead_id": "res-30071160",
       "name": "Dmytro Oliinyk",
-      "checked_at": "2026-10-10",
+      "checked_at": "2026-10-28",
       "engine_version": 8,
-      "state": "researched",
+      "state": "audited",
       "discovery": {
-        "status": "searched",
+        "status": "partial_search",
         "queries": [
           "\"Dmytro Oliinyk\" IČO 30071160 web",
           "\"Dmytro Oliinyk\" Praha Construction & property kontakt",
           "\"Dmytro Oliinyk\" \"Sokolská 1883\" web",
           "\"Dmytro Oliinyk\" Praha služby reference poptávka"
         ],
-        "successful_queries": 2,
+        "successful_queries": 1,
         "candidates": [
           {
-            "url": "https://en.wikipedia.org/wiki/Dmytro_Oliinyk",
-            "title": "Dmytro Oliinyk - Wikipedia",
-            "snippet": "Dmytro Ihorovych Oliinyk (Ukrainian: Дмитро Ігорович Олійник; born April 18, 1986) is a Ukrainian financier and civil servant who has served as the Deputy Governor of the National Bank of Ukraine (NBU) since October 2022. He oversees the Prudential Supervision block, including regulation of the banking and non-banking "
+            "url": "https://firmy.euro.cz/subjekt-dmytro-oliinyk-30071160",
+            "title": "Dmytro Oliinyk IČO: 30071160, Praha 2, výpis z rejstříku 22. ...",
+            "snippet": "Dmytro Oliinyk má aktuální nebo historický záznam v těchto rejstřících: živnostenský rejstřík, registr ekonomických subjektů. Dmytro Oliinyk (30071160) je Fyzická osoba podnikající dle živnostenského zákona. Má celkem jeden obor činnosti. Živnost provozuje od roku 2026. V současnosti stále podniká."
           },
           {
             "url": "https://rejstriky.finance.cz/firma-dmytro-oliinyk-30071160/kontakty",
@@ -22493,106 +23121,61 @@
             "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Dmytro Oliinyk, která sídlí v obci a bylo jí přiděleno IČO 30071160. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
           },
           {
-            "url": "https://rejstriky.finance.cz/firma-dmytro-oliinyk-30071160",
-            "title": "Dmytro Oliinyk IČO 30071160 kontakty 03.10.2026 - Finance.cz",
-            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Dmytro Oliinyk, která sídlí v obci a bylo jí přiděleno IČO 30071160. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+            "url": "https://www.mesec.cz/rejstrik-firem/adresni-misto-praha-1883-12000-21735182",
+            "title": "Praha, ulice Sokolská 1883/8 12000 (26.10.2026) - Měšec.czNOTICE OF ANNUAL GENERAL MEETING - dps.psx.com.pkSatchel.eu Reviews | Read Customer Service Reviews of satchel ...Відгуки ",
+            "snippet": "Praha, Sokolská, 1883/8 - GPS souřadnice, pozice v mapě, výpis firem a podnikatelů se sídlem na této adrese NOTICE OF ANNUAL GENERAL MEETING Notice is hereby given to the members that the 79th Annual General Meeting of the Shareholders of GlaxoSmithKline Pakistan Limited (\"the Company\") will be held on 30th April 2026 "
           },
           {
-            "url": "https://www.finmag.cz/obchodni-rejstrik/osoba/dmytro-oliinyk",
-            "title": "Dmytro Oliinyk - obchodní rejstřík - Finmag.cz",
-            "snippet": "Dmytro Oliinyk, výpis z obchodního i živnostenského rejstříků. Osoby a firmy - adresy, kontakty. Aktuální i historická data."
+            "url": "https://dps.psx.com.pk/download/document/273749.pdf",
+            "title": "NOTICE OF ANNUAL GENERAL MEETING - dps.psx.com.pk",
+            "snippet": "NOTICE OF ANNUAL GENERAL MEETING Notice is hereby given to the members that the 79th Annual General Meeting of the Shareholders of GlaxoSmithKline Pakistan Limited (\"the Company\") will be held on 30th April 2026 at 10.00 A.M. at at Beach Luxury Hotel, Molvi Tamizuddin Khan Road, Karachi, Pakistan, and virtually through"
           },
           {
-            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/23683996-dmytro-oliinyk",
-            "title": "Dmytro Oliinyk, IČO: 23683996 - ARES - Finmag.cz",
-            "snippet": "Obchodní firma Dmytro Oliinyk se sídlem Praha - Břevnov, Chaloupeckého 1914/9, 16900 a identifikačním číslem (IČO) 23683996."
+            "url": "https://uk.trustpilot.com/review/satchel.eu?page=2",
+            "title": "Satchel.eu Reviews | Read Customer Service Reviews of satchel ...Відгуки про компанію Solidgate | DOUZiaNova s.r.o. – IČO 29918260, Praha · jednatelé a majitelé",
+            "snippet": "Nov 23, 2024 · Do you agree with Satchel.eu's TrustScore? Voice your opinion today and hear what 52 customers have already said. Хочу поділитися своїм досвідом проходження процесу найму в Solidgate. Насамперед хочу подякувати рекрутерці Аліні. З першої зустрічі між нами виник чудовий коннект, і саме вона багато в чому "
           },
           {
-            "url": "https://okredo.com/en-lt/company/uab-mardena-303159377/manager/dmytro-oliinyk",
-            "title": "Dmytro Oliinyk, the CEO / Manager of UAB \"Mardena\"",
-            "snippet": "Dmytro Oliinyk manager of UAB \"Mardena\". Find all the essential information about this company's manager in the Okredo business directory!"
+            "url": "https://jobs.dou.ua/companies/solidgate/reviews/",
+            "title": "Відгуки про компанію Solidgate | DOU",
+            "snippet": "Хочу поділитися своїм досвідом проходження процесу найму в Solidgate. Насамперед хочу подякувати рекрутерці Аліні. З першої зустрічі між нами виник чудовий коннект, і саме вона багато в чому закохала мене в солід ще на ..."
           },
           {
-            "url": "https://okredo.com/en-lt/company/uab-alkodana-302288675/manager/dmytro-oliinyk",
-            "title": "Dmytro Oliinyk - manager of UAB \"Alkodana\" | Shareholders information ...",
-            "snippet": "Dmytro Oliinyk manager of UAB \"Alkodana\". Find all the essential information about this company's manager in the Okredo business directory!"
-          },
-          {
-            "url": "https://rejstrik.penize.cz/ares/23683996-dmytro-oliinyk",
-            "title": "Dmytro Oliinyk, Praha, IČO: 23683996 - ARES | Peníze.cz",
-            "snippet": "Tento výpis z RES obsahuje údaje o společnosti Dmytro Oliinyk. Údaje byly staženy 25. 9. 2025 z datové služby dle IČO 23683996. Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob."
-          },
-          {
-            "url": "https://dl.musicsweb.ir/musics/05/05/Ai-Gele-Daram+-+Ai-Gele-Daram+-+320.mp3",
-            "title": "dl.musicsweb.ir",
-            "snippet": "ID3 fTIT2 Ai-Gele-DaramTPE1 Ai-Gele-DaramTALB musicsweb.irTYER 2026COMM engmusicsweb.irAPIC2´image/jpeg musicsweb.irÿØÿà JFIF ``ÿþ;CREATOR: gd-jpeg v1.0 (using ..."
-          },
-          {
-            "url": "https://fakturujzdarma.cz/firma/19430345-asia-htv-obchod-s-r-o",
-            "title": "Asia HTV obchod s.r.o., Praha 2 (IČO 19430345) — jednatel Van ...",
-            "snippet": "Asia HTV obchod s.r.o., IČO 19430345, DIČ CZ19430345. Spolehlivý plátce DPH, bez probíhající insolvence. Společnost s ručením omezeným. Sídlo: Sokolská 1883/8, 120 00 Praha 2, Česká republika. Obor: specializované stavby. Statutární zástupce: Van Thuyet Ngo. Základní kapitál 20 000 Kč. Vystavte této firmě fakturu zdarm"
-          },
-          {
-            "url": "https://www.facebook.com/groups/1104282240047978/",
-            "title": "УКРАЇНЦІ В МАРСЕЛІ | Facebook",
-            "snippet": "2 days ago · Група створена для всіх Україномовних проживаючих у Франції. Обмін корисною інформацією, анонс цікавих подій, дошка оголошень. Куплю, продам, віддам,..."
-          },
-          {
-            "url": "https://www.irf.ua/en/",
-            "title": "International Renaissance Foundation",
-            "snippet": "Jun 25, 2026 · International Renaissance Foundation — supporting civic initiatives and building an Open Society for a free Ukraine since 1990 - International Renaissance Foundation"
-          },
-          {
-            "url": "https://freelancehunt.com/pl/project/rozwoj-niestandardowej-platformy-buyback-skupu/1656825.html",
-            "title": "Rozwój niestandardowej platformy buyback do skupu smartfonów",
-            "snippet": "7. Miesięczne wydatki po uruchomieniu: hosting i baza około 10-25 $/miesiąc (Supabase/VPS), domena raz w roku, plus opłata za objętość u dostawcy wysyłkowego. Wszystko na Twoich kontach, GitHub i domena Twoje, bez vendor lock-in.Orientacyjne pytanie do oceny: ceny buyback ustalasz ręcznie w administracji czy trzeba je "
-          },
-          {
-            "url": "https://efni.pl/wp-content/uploads/2026/08/EFNI2026_agenda_draft_31.08.pdf",
-            "title": "Program EFNI 2026",
-            "snippet": "Dziś wiemy już wystarczająco dużo, by móc uporządkować obraz wyłaniającej się rzeczywistości. Wojny, zmieniający się układ się między mocarstwami, transformacja energetyczna i rozwój sztucznej inteligencji na nowo definiują warunki prowadzenia biznesu oraz funkcjonowania społeczeństw. Tegoroczne EFNI będzie przestrzeni"
+            "url": "https://www.databaze-ico.cz/subjekt/zianova-sro-praha-29918260",
+            "title": "ZiaNova s.r.o. – IČO 29918260, Praha · jednatelé a majitelé",
+            "snippet": "Sep 4, 2026 · ZiaNova s.r.o. působí od roku 2026 v Praze v oboru zdravotní péče. 1 jednatel, 1 společník. Údaje z registrů zdarma."
           }
         ],
         "errors": [
           "DDGSException: No results found.",
+          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "AMBIGUOUS",
-        "website": "",
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://firmy.euro.cz/subjekt-dmytro-oliinyk-30071160",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://firmy.euro.cz/subjekt-dmytro-oliinyk-30071160",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
         "examined": [
           {
-            "url": "https://okredo.com/en-lt/company/uab-mardena-303159377/manager/dmytro-oliinyk",
-            "result": "ambiguous",
+            "url": "https://firmy.euro.cz/subjekt-dmytro-oliinyk-30071160",
+            "result": "identity_match",
             "evidence": [
-              "Matching business name on website"
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
             ]
-          },
-          {
-            "url": "https://dl.musicsweb.ir/musics/05/05/Ai-Gele-Daram+-+Ai-Gele-Daram+-+320.mp3",
-            "result": "unreachable",
-            "reason": "HTTP_404"
-          },
-          {
-            "url": "https://fakturujzdarma.cz/firma/19430345-asia-htv-obchod-s-r-o",
-            "result": "unreachable",
-            "reason": "HTTP_403"
-          },
-          {
-            "url": "https://www.irf.ua/en/",
-            "result": "ambiguous",
-            "evidence": [
-              "Matching distinctive business-name words on website"
-            ]
-          },
-          {
-            "url": "https://freelancehunt.com/pl/project/rozwoj-niestandardowej-platformy-buyback-skupu/1656825.html",
-            "result": "unreachable",
-            "reason": "HTTP_403"
-          },
-          {
-            "url": "https://efni.pl/wp-content/uploads/2026/08/EFNI2026_agenda_draft_31.08.pdf",
-            "result": "unreachable",
-            "reason": "not_html"
           }
         ],
         "no_website_proven": false
@@ -22614,8 +23197,60 @@
         "director_lookup_status": "HTTPError"
       },
       "audit": {
-        "state": "not_run",
-        "reason": "No independently verified company website"
+        "state": "observed",
+        "checked_at": "2026-10-28",
+        "website": "https://firmy.euro.cz/subjekt-dmytro-oliinyk-30071160",
+        "devices": {
+          "desktop": {
+            "title": "Dmytro Oliinyk IČO: 30071160, Praha 2, výpis z rejstříku 28.10.2026 - Firmy.euro.cz",
+            "description": "Veřejně dostupné informace o firmě Dmytro Oliinyk IČO: 30071160 se sídlem Praha 2, Sokolská",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 41,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 4,
+            "images_count": 4,
+            "contact_action": false,
+            "form_count": 0,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Dmytro Oliinyk IČO: 30071160, Praha 2, výpis z rejstříku 28.10.2026 - Firmy.euro.cz",
+            "description": "Veřejně dostupné informace o firmě Dmytro Oliinyk IČO: 30071160 se sídlem Praha 2, Sokolská",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 47,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 4,
+            "images_count": 4,
+            "contact_action": false,
+            "form_count": 0,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://firmy.euro.cz/subjekt-dmytro-oliinyk-30071160"
+        },
+        "objective_issues": [
+          {
+            "issue": "No machine-detected direct contact, form or booking action on homepage",
+            "detail": "Could be available on subpages or via JavaScript",
+            "method": "Playwright homepage DOM",
+            "url": "https://firmy.euro.cz/subjekt-dmytro-oliinyk-30071160"
+          }
+        ],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
       },
       "buying_signals": [
         {
@@ -22629,12 +23264,20 @@
         "title": "Dmytro Oliinyk — research dossier",
         "facts": [
           "The business is listed at Sokolská 1883, Praha, 12000.",
-          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
-          "ARES confirms registration for IČO 30071160 dated 2026-09-23."
+          "An independently identity-matched business website was found: https://firmy.euro.cz/subjekt-dmytro-oliinyk-30071160.",
+          "ARES confirms registration for IČO 30071160 dated 2026-09-23.",
+          "Browser-observed issue: No machine-detected direct contact, form or booking action on homepage."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
-        "observed_issues": [],
+        "outreach_angle": "Show a measured no machine-detected direct contact, form or booking action on homepage fix in a private demo, and ask if improving enquiries is a priority.",
+        "observed_issues": [
+          {
+            "issue": "No machine-detected direct contact, form or booking action on homepage",
+            "detail": "Could be available on subpages or via JavaScript",
+            "method": "Playwright homepage DOM",
+            "url": "https://firmy.euro.cz/subjekt-dmytro-oliinyk-30071160"
+          }
+        ],
         "buying_signals": [
           {
             "claim": "Registered in the previous 24 months (ARES)",
@@ -22645,7 +23288,8 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30071160"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30071160",
+          "https://firmy.euro.cz/subjekt-dmytro-oliinyk-30071160"
         ],
         "estimated_deal_czk": [
           30000,
@@ -22666,18 +23310,23 @@
         ]
       },
       "candidate_search_sources": [
-        "https://en.wikipedia.org/wiki/Dmytro_Oliinyk",
+        "https://firmy.euro.cz/subjekt-dmytro-oliinyk-30071160",
         "https://rejstriky.finance.cz/firma-dmytro-oliinyk-30071160/kontakty",
-        "https://rejstriky.finance.cz/firma-dmytro-oliinyk-30071160",
-        "https://www.finmag.cz/obchodni-rejstrik/osoba/dmytro-oliinyk",
-        "https://www.finmag.cz/obchodni-rejstrik/ares/23683996-dmytro-oliinyk",
-        "https://okredo.com/en-lt/company/uab-mardena-303159377/manager/dmytro-oliinyk",
-        "https://okredo.com/en-lt/company/uab-alkodana-302288675/manager/dmytro-oliinyk"
+        "https://www.mesec.cz/rejstrik-firem/adresni-misto-praha-1883-12000-21735182",
+        "https://dps.psx.com.pk/download/document/273749.pdf",
+        "https://uk.trustpilot.com/review/satchel.eu?page=2",
+        "https://jobs.dou.ua/companies/solidgate/reviews/",
+        "https://www.databaze-ico.cz/subjekt/zianova-sro-praha-29918260"
       ],
-      "website_need_verified": false,
+      "website_need_verified": true,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {},
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://firmy.euro.cz/subjekt-dmytro-oliinyk-30071160",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
       "owner_verified": false,
       "buyer_interest_verified": false
     },
@@ -26085,7 +26734,7 @@
     "osm-node-10994350329": {
       "lead_id": "osm-node-10994350329",
       "name": "Bytcentrum",
-      "checked_at": "2026-10-19",
+      "checked_at": "2026-10-28",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -26385,7 +27034,7 @@
     "osm-node-11225321358": {
       "lead_id": "osm-node-11225321358",
       "name": "Collection MSJ",
-      "checked_at": "2026-10-19",
+      "checked_at": "2026-10-28",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -26652,7 +27301,7 @@
     "osm-node-11227630032": {
       "lead_id": "osm-node-11227630032",
       "name": "Horus Trade",
-      "checked_at": "2026-10-19",
+      "checked_at": "2026-10-28",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -26820,7 +27469,7 @@
     "osm-node-11227630033": {
       "lead_id": "osm-node-11227630033",
       "name": "domark",
-      "checked_at": "2026-10-19",
+      "checked_at": "2026-10-28",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
