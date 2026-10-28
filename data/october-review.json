@@ -58,7 +58,7 @@
       ],
       "status_policy": "Unknown means HOLD/QA; corporate parent confirmed means EXCLUDE; shared director/address/brand only means relationship QA. Existing first-party website always excluded from no-site tier; redesign only on independently evidenced defects.",
       "scope": "Historical 24-company October 3–6 cohort remains unchanged: zero outreach-ready. Later dated screens live in data/daily-research/.",
-      "research_updated": "2026-10-26"
+      "research_updated": "2026-10-28"
     }
   },
   "summary": {
@@ -78,9 +78,9 @@
     "eligible_for_sales_research": 0,
     "reaudit_date": "2026-10-10",
     "reaudit_result": "All 24: zero sufficiently proven standalone, external-client-facing brands. One confirmed corporate-owned exclusion, others held for lack of affirmative brand/client evidence. No claim all are group-owned or project SPVs.",
-    "last_qualification_policy_review": "2026-10-27",
-    "additional_screen_file": "data/daily-research/2026-10-27-standalone-screen.json",
-    "outside_legacy_cohort_note": "27 Oct targeted screening: Krovix 30077826, REKOMAX 30079349 and Zemní práce Navrátil 30076641 all HOLD/QA, 0 first-site qualified. REKOMAX 30079349 shares an individual controller with Liberecké pozemní stavby 01810855, while an unrelated name-collision rekomax.cz listing identifies IČO 75902273. Neither implies REKOMAX 30079349 owns that site or is a corporate subsidiary. Historical 24 remain unchanged and zero outreach-ready."
+    "last_qualification_policy_review": "2026-10-28",
+    "additional_screen_file": "data/daily-research/2026-10-28-standalone-screen.json",
+    "outside_legacy_cohort_note": "28 Oct targeted newly registered business screening: 5 records, 4 HOLD/QA, Fabron s.r.o. IČO 30191483 EXCLUDED because G.AT support s.r.o. IČO 30174848 owns the entire registered share (registry-derived ownership; official Gazette filing not independently retrieved). No first-website or redesign outreach-ready prospects. See dated source-linked file. Historical Oct 3–6 cohort remains 24 screened, zero verified standalone brands, zero outreach-ready; records unchanged."
   },
   "records": [
     {
