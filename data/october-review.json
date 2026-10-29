@@ -58,7 +58,7 @@
       ],
       "status_policy": "Unknown means HOLD/QA; corporate parent confirmed means EXCLUDE; shared director/address/brand only means relationship QA. Existing first-party website always excluded from no-site tier; redesign only on independently evidenced defects.",
       "scope": "Historical 24-company October 3–6 cohort remains unchanged: zero outreach-ready. Later dated screens live in data/daily-research/.",
-      "research_updated": "2026-10-28"
+      "research_updated": "2026-10-29"
     }
   },
   "summary": {
@@ -78,9 +78,9 @@
     "eligible_for_sales_research": 0,
     "reaudit_date": "2026-10-10",
     "reaudit_result": "All 24: zero sufficiently proven standalone, external-client-facing brands. One confirmed corporate-owned exclusion, others held for lack of affirmative brand/client evidence. No claim all are group-owned or project SPVs.",
-    "last_qualification_policy_review": "2026-10-28",
-    "additional_screen_file": "data/daily-research/2026-10-28-standalone-screen.json",
-    "outside_legacy_cohort_note": "28 Oct targeted newly registered business screening: 5 records, 4 HOLD/QA, Fabron s.r.o. IČO 30191483 EXCLUDED because G.AT support s.r.o. IČO 30174848 owns the entire registered share (registry-derived ownership; official Gazette filing not independently retrieved). No first-website or redesign outreach-ready prospects. See dated source-linked file. Historical Oct 3–6 cohort remains 24 screened, zero verified standalone brands, zero outreach-ready; records unchanged."
+    "last_qualification_policy_review": "2026-10-29",
+    "additional_screen_file": "data/daily-research/2026-10-29-standalone-screen.json",
+    "outside_legacy_cohort_note": "29 Oct targeted follow-up: four companies reviewed, zero qualified first websites, zero outreach-ready redesigns. HT elektro s.r.o. IČO 23618957 (registered 20 Aug 2025) has verified company-owned website ht-elektro.cz with exact IČO and dedicated enquiry contact; EXCLUDE from first-website tier. Its outside-customer claims remain uncorroborated for the new exact legal entity and no independently evidenced redesign need was established. Moderní střecha, Krovix and Zemní práce Navrátil remain HOLD/QA for missing independently engaged customers, sales contacts and complete website/domain/ownership evidence. See dated source-linked research file. Historical Oct 3–6 cohort remains 24 records, zero verified standalone brands, zero outreach-ready; records unchanged."
   },
   "records": [
     {
