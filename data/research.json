@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-28T14:52:04.945346+00:00",
+  "generated_at": "2026-10-29T14:57:50.724301+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -4896,7 +4896,7 @@
     "res-30072115": {
       "lead_id": "res-30072115",
       "name": "Hubert Jakub Barnik",
-      "checked_at": "2026-10-11",
+      "checked_at": "2026-10-29",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -4907,12 +4907,47 @@
           "\"Hubert Jakub Barnik\" \"Korunní 2569\" web",
           "\"Hubert Jakub Barnik\" Praha služby reference poptávka"
         ],
-        "successful_queries": 2,
+        "successful_queries": 3,
         "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-hubert-jakub-barnik-30072115",
+            "title": "Hubert Jakub Barnik IČO 30072115 kontakty 04.10.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Hubert Jakub Barnik Praha 10 IČO 30072115 kontakty 13.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru…"
+          },
           {
             "url": "https://rejstriky.finance.cz/firma-hubert-jakub-barnik-30072115/kontakty",
             "title": "Hubert Jakub Barnik IČO: 30072115 - Finance.cz",
-            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Hubert Jakub Barnik, která sídlí v obci a bylo jí přiděleno IČO 30072115. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP). Hubert Jakub Barnik je Zahraniční fyzická osoba ."
+            "snippet": "Podrobnosti o firmě Hubert Jakub Barnik IČO 30072115 kontakty 30.09.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/hubert-jakub-barnik-30072115/",
+            "title": "Hubert Jakub Barnik - IČO 30072115 - Obchodní rejstřík na ...",
+            "snippet": "Podrobnosti o firmě Hubert Jakub Barnik - IČO 30072115 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+            "title": "Construction & Property Management s.r.o. , Praha IČO ...",
+            "snippet": "Construction & Property Management s.r.o., Na příkopě, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik ..."
+          },
+          {
+            "url": "https://sis-construction.cz/kontakt/",
+            "title": "Kontakt - SIS Construction",
+            "snippet": "SIS Construction a.s. Toužimská 889 199 00 Praha 9 E-mail: sis@sis-construction.cz Mobil: +420 272 700 962 IČO: 03747808 DIČ: CZ03747808 Data box: ap6wyqr Faktury zasílat na finance@sis-construction.cz"
+          },
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles.smart_project_management_solutions_sro.f5e7e12698aa8df58cb36850806402d4.html",
+            "title": "Smart Project Management Solutions s.r.o. Company Profile ...",
+            "snippet": "Find company research, competitor information, contact details & financial data for Smart Project Management Solutions s.r.o. of Praha, Hlavní město Praha. Get the latest business insights from Dun & Bradstreet."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/",
+            "title": "Obchodní rejstřík firem - vazby a vztahy z justice.cz | Kurzy.cz",
+            "snippet": "1 day ago · Obchodní rejstřík, rejstřík firem. Hledání údajů o firmách a vztazích mezi firmami a osobami, ověření IČ, reporty, grafické zobrazení majetkových vztahů a orgánů firem. Informativní výpis z obchodního rejstříku."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/adresa-praha-korunni-2569-108-28280814",
+            "title": "Korunní 2569/108 Praha 10100 (28.10.2026)Korunní 2569, Vinohrady, 101 00 Praha 10, objekt, Právnické ...Korunní 2569/108, Vinohrady, 101 00 Praha 10, adresa - Města ...Produkt Serv",
+            "snippet": "Korunní 2569/108 Praha 10100 – seznam všech firem a osob, které se na této adrese nachází a mají záznam ve veřejných rejstřících, mapa, GPS souřadnice Korunní 2569, Vinohrady, 101 00 Praha 10 - informace o poště a PSČ, údaje z katastru nemovitostí a katastrální mapa, statistické údaje o objektu, GPS pozice pro navigaci"
           },
           {
             "url": "https://regiony.kurzy.cz/praha/korunni/o-2569/firmy-vypis/",
@@ -4920,116 +4955,51 @@
             "snippet": "Korunní 2569, Vinohrady, 101 00 Praha 10 - informace o poště a PSČ, údaje z katastru nemovitostí a katastrální mapa, statistické údaje o objektu, GPS pozice pro navigaci, informace o firmách, osobách a živnostech z veřejného rejstříku."
           },
           {
-            "url": "https://rejstriky.finance.cz/adresa-praha-korunni-2569-108-28281047",
-            "title": "Korunní 2569/108 Praha 10100 (29.09.2026)",
-            "snippet": "Mar 17, 2017 · Korunní 2569/108 Praha 10100 – seznam všech firem a osob, které se na této adrese nachází a mají záznam ve veřejných rejstřících, mapa, GPS souřadnice"
+            "url": "https://regiony.kurzy.cz/praha/korunni/2569-108/",
+            "title": "Korunní 2569/108, Vinohrady, 101 00 Praha 10, adresa - Města ...Produkt Servis s.r.o. , Praha IČO 05488664 - Obchodní ...Produkt Servis s.r.o. Company Profile | Praha, Hlavní město",
+            "snippet": "Korunní 2569/108, Vinohrady, 101 00 Praha 10 - Mapa Na tomto místě se zobrazí mapa s informacemi o podnikání a sídlech firem na adrese Korunní 2569/108, Vinohrady, 101 00 Praha 10. Pokud tuto mapu nevidíte, zkotrolujte prosím, zda je ve vašem prohlížeči spuštěn Javaskript. Aug 18, 2021 · Obchodní firma Produkt Servis s"
           },
           {
-            "url": "https://regiony.kurzy.cz/praha/korunni/2569-108/firmy-vypis/",
-            "title": "Korunní 2569/108, Vinohrady, 101 00 Praha 10, adresa ...Korunní 2569 Praha 10 10100 Prague CZ - Bing MapsTrio Estate Development, Korunní 2569/108, Praha (2026)",
-            "snippet": "Korunní 2569/108, Vinohrady, 101 00 Praha 10 - mapa, informace o poště a PSČ, údaje z katastru nemovitostí a katastrální mapa, statistické údaje o objektu, GPS pozice pro navigaci, informace o firmách, osobách a živnostech z veřejného rejstříku. Map multiple locations, get transit/walking/driving directions, view live "
+            "url": "https://rejstrik-firem.kurzy.cz/05488664/produkt-servis-sro/",
+            "title": "Produkt Servis s.r.o. , Praha IČO 05488664 - Obchodní ...",
+            "snippet": "Aug 18, 2021 · Obchodní firma Produkt Servis s.r.o. Sídlo Korunní 2569/108, Vinohrady, 101 00 Praha Identifikační číslo 05488664 Právní forma"
           },
           {
-            "url": "https://rentberry.com/cz/apartments/172196468-two-br-korunni-2569-108-101-00-prague-czechia",
-            "title": "Korunní 2569/108, 101 00 Prague, Czechia | 2 bed apartment ...",
-            "snippet": "We offer for long-term rent an exceptionally spacious and high-standard equipped 2+kk apartment with a usable area of 89 m², which is particularly distinguished by its generous living space, plenty of natural light, and high-quality furnishings."
+            "url": "https://www.dnb.com/business-directory/company-profiles.produkt_servis_sro.16fa1f6b03331ef42306b12dbdfd8c06.html",
+            "title": "Produkt Servis s.r.o. Company Profile | Praha, Hlavní město ...",
+            "snippet": "Find company research, competitor information, contact details & financial data for Produkt Servis s.r.o. of Praha, Hlavní město Praha. Get the latest business insights from Dun & Bradstreet."
           },
           {
-            "url": "https://www.bing.com/maps?where=Korunní+2569+Praha+10+10100+Prague+CZ",
-            "title": "Korunní 2569 Praha 10 10100 Prague CZ - Bing Maps",
-            "snippet": "Map multiple locations, get transit/walking/driving directions, view live traffic conditions, plan trips, view satellite, aerial and 3d imagery. Do more with Bing Maps."
-          },
-          {
-            "url": "https://www.findglocal.com/CZ/Praha/232410007365548/Trio-Estate-Development",
-            "title": "Trio Estate Development, Korunní 2569/108, Praha (2026)",
-            "snippet": "Feb 25, 2026 · Jsme developerská a investiční skupina, která se zabývá výstavbou nových bytových domů, bytových jednotek i rodinných domů. Hledáte klid v přírodě nebo chytrou investici? Tady ji máte. 👇. Ideální pro vlastní bydlení i krátkodobý pronájem. Možnost koupě jedné i více jednotek."
-          },
-          {
-            "url": "https://hpspraha.cz/hrbitovy-a-hroby/",
-            "title": "Hřbitovy a hroby | Hřbitovy a pohřební služby Praha",
-            "snippet": "Co všechno pro vás zajišťujeme? Spravujeme desítky hřbitovů v Praze a zajišťujeme kompletní služby spojené s nájmem hrobových míst, od nájmu přes údržbu až po uložení urny nebo popela. Pečujeme i o přírodní, kulturní a historické dědictví soustředěné na hřbitovech v naší péči."
-          },
-          {
-            "url": "https://zakazky.epoptavka.cz/",
-            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
-            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
-          },
-          {
-            "url": "https://www.epoptavka.cz/",
-            "title": "Poptávky a zakázky | ePoptávka.cz",
-            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
-          },
-          {
-            "url": "https://www.poptavky.cz/",
-            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
-            "snippet": "Poptávka: oprava a zvětšení vozíku na auto, Škvorec Auto-Moto Přívěsné vozíky, karavany Strojírenství okres Praha-východ 9. 10. 2026"
-          },
-          {
-            "url": "https://www.poptavka24.cz/",
-            "title": "Poptávky, katalog firem a veřejné zakázky | Poptavka24.cz",
-            "snippet": "Hledejte nové poptávky, veřejné zakázky nebo obchodní příležitosti. Každá poptávka obsahuje detailní popis a kontaktní údaje."
+            "url": "https://zakazky.epoptavka.cz/verejne-poptavky/sluzby",
+            "title": "Služby | Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Největší databáze zakázek od veřejných subjektů. Najděte všechny vhodné zakázky pro Vaši firmu snadno a na jednom místě. Využijte jedničku na trhu."
           },
           {
             "url": "https://zakazky.sluzby.cz/",
             "title": "Zakázky a poptávky služeb v lokalitě Celá ČR",
-            "snippet": "Jste dodavatel, poskytovatel služby, řemeslník? Budeme vám posílat aktuální zakázky, můžete reagovat na poptávky ostatních, sledovat aktuální potřeby zákazníků a budovat tak své podnikání."
+            "snippet": "Katalog poptávek je stále aktualizovaný našimi administrátory. Můžete vložit zdarma poptávku a oslovit tak široký okruh dodavatelů, firem a další poskytovatelů služeb. Neváhejte, přidání poptávky je zdarma. Jste dodavatel, poskytovatel služby, řemeslník? Budeme vám posílat aktuální zakázky, můžete reagovat na poptávky "
           }
         ],
         "errors": [
-          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
         "state": "AMBIGUOUS",
         "website": "",
         "examined": [
           {
-            "url": "https://rentberry.com/cz/apartments/172196468-two-br-korunni-2569-108-101-00-prague-czechia",
+            "url": "https://sis-construction.cz/kontakt/",
             "result": "ambiguous",
             "evidence": [
-              "Matching Prague street address on website",
               "Prague mentioned on website"
             ]
           },
           {
-            "url": "https://www.bing.com/maps?where=Korunní+2569+Praha+10+10100+Prague+CZ",
-            "result": "ambiguous",
-            "evidence": []
-          },
-          {
-            "url": "https://www.findglocal.com/CZ/Praha/232410007365548/Trio-Estate-Development",
+            "url": "https://www.dnb.com/business-directory/company-profiles.smart_project_management_solutions_sro.f5e7e12698aa8df58cb36850806402d4.html",
             "result": "unreachable",
             "reason": "HTTP_403"
           },
           {
-            "url": "https://hpspraha.cz/hrbitovy-a-hroby/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://zakazky.epoptavka.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.epoptavka.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.poptavky.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.poptavka24.cz/",
+            "url": "https://zakazky.epoptavka.cz/verejne-poptavky/sluzby",
             "result": "ambiguous",
             "evidence": [
               "Prague mentioned on website"
@@ -5104,13 +5074,13 @@
         ]
       },
       "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-hubert-jakub-barnik-30072115",
         "https://rejstriky.finance.cz/firma-hubert-jakub-barnik-30072115/kontakty",
-        "https://regiony.kurzy.cz/praha/korunni/o-2569/firmy-vypis/",
-        "https://rejstriky.finance.cz/adresa-praha-korunni-2569-108-28281047",
-        "https://regiony.kurzy.cz/praha/korunni/2569-108/firmy-vypis/",
-        "https://rentberry.com/cz/apartments/172196468-two-br-korunni-2569-108-101-00-prague-czechia",
-        "https://www.bing.com/maps?where=Korunní+2569+Praha+10+10100+Prague+CZ",
-        "https://www.findglocal.com/CZ/Praha/232410007365548/Trio-Estate-Development"
+        "https://www.podnikatel.cz/rejstrik/hubert-jakub-barnik-30072115/",
+        "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+        "https://sis-construction.cz/kontakt/",
+        "https://www.dnb.com/business-directory/company-profiles.smart_project_management_solutions_sro.f5e7e12698aa8df58cb36850806402d4.html",
+        "https://rejstrik-firem.kurzy.cz/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
@@ -15549,7 +15519,7 @@
     "osm-node-7837764654": {
       "lead_id": "osm-node-7837764654",
       "name": "Ateliér Emil",
-      "checked_at": "2026-10-19",
+      "checked_at": "2026-10-29",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -15842,7 +15812,7 @@
     "osm-node-9920800818": {
       "lead_id": "osm-node-9920800818",
       "name": "Maxxus Realty",
-      "checked_at": "2026-10-19",
+      "checked_at": "2026-10-29",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -16089,7 +16059,7 @@
     "osm-node-9991267555": {
       "lead_id": "osm-node-9991267555",
       "name": "RAMSS spol. s r.o.",
-      "checked_at": "2026-10-19",
+      "checked_at": "2026-10-29",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -23563,9 +23533,9 @@
     "res-30071429": {
       "lead_id": "res-30071429",
       "name": "Společenství vlastníků Káranská č.p. 343, 344, 345",
-      "checked_at": "2026-10-10",
+      "checked_at": "2026-10-29",
       "engine_version": 8,
-      "state": "researched",
+      "state": "audited",
       "discovery": {
         "status": "searched",
         "queries": [
@@ -23578,107 +23548,67 @@
         "candidates": [
           {
             "url": "https://rejstrik-firem.kurzy.cz/30071429/spolecenstvi-vlastniku-karanska-c-p-343-344-345/",
-            "title": "Společenství vlastníků Káranská č.p. 343, 344, 345 , IČO ...",
-            "snippet": "Sep 29, 2026 · Společenství vlastníků Káranská č.p. 343, 344, 345 – obchodní rejstřík, aktuální výpis Datum vzniku a zápisu 24. září 2026 Spisová značka S 22922/MSPH Městský soud v Praze Obchodní firma Společenství vlastníků Káranská č.p. 343, 344, 345 Sídlo Káranská 344/22, Malešice, 108 00 Praha 10 Identifikační čísl"
+            "title": "Společenství vlastníků Káranská č.p. 343, 344, 345 , IČO 30071429 ...",
+            "snippet": "Tato stránka obsahuje aktuální výpis údajů firmy Společenství vlastníků Káranská č.p. 343, 344, 345. Údaje byly staženy 28. září 2026 z datové služby justice.cz dle IČO 30071429 a údaje ve výpise nebyly dle systému ARES do dnešního dne změněny."
           },
           {
             "url": "https://www.podnikatel.cz/rejstrik/spolecenstvi-vlastniku-karanska-c-p-343-344-345-30071429/",
-            "title": "Společenství vlastníků Káranská č.p. 343, 344, 345 - IČO ...",
-            "snippet": "Firma Společenství vlastníků Káranská č.p. 343, 344, 345, společenství vlastníků jednotek. V obchodním rejstříku je zapsána pod spisovou značkou S 22922, Městský soud v Praze."
+            "title": "Společenství vlastníků Káranská č.p. 343, 344, 345 - IČO 30071429 ...",
+            "snippet": "Podrobnosti o firmě Společenství vlastníků Káranská č.p. 343, 344, 345 - IČO 30071429 z obchodního rejstříku, živnostenského rejstříku, registru…"
           },
           {
             "url": "https://rejstriky.finance.cz/firma-spolecenstvi-vlastniku-karanska-c-p-343-344-345-30071429/kontakty",
-            "title": "Společenství vlastníků Káranská č.p. 343, 344, 345 IČO ...",
-            "snippet": "Podrobnosti o firmě Společenství vlastníků Káranská č.p. 343, 344, 345 IČO 30071429 kontakty 01.10.2026 z obchodního rejstříku, živnostenského…"
+            "title": "Společenství vlastníků Káranská č.p. 343, 344, 345 IČO: 30071429",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Společenství vlastníků Káranská č.p. 343, 344, 345, která sídlí v obci a bylo jí přiděleno IČO 30071429."
           },
           {
-            "url": "https://www.zillow.com/homedetails/2501-Fuller-Rd-West-Des-Moines-IA-50265/863491_zpid/",
-            "title": "2501 Fuller Rd, West Des Moines, IA 50265 | Zillow",
-            "snippet": "Sep 18, 2026 · 2501 Fuller Rd, West Des Moines, IA 50265 is currently not for sale. The 4,072 Square Feet single family home is a 3 beds, 6 baths property. This home was built in 1988 and last sold on 2026-09-18 for $830,000. View more property details, sales history, and Zestimate data on Zillow."
+            "url": "https://www.detail.cz/subjekt/30071429-spolecenstvi-vlastniku-karanska-cp-343-344-345-karanska-344-22-praha/",
+            "title": "Společenství vlastníků Káranská č.p. 343, 344, 345 - Detail.cz",
+            "snippet": "Subjekt Společenství vlastníků Káranská č.p. 343, 344, 345 (IČO: 30071429) vznikl dne 24. září 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle subjektu."
           },
           {
-            "url": "https://dn790004.ca.archive.org/0/items/annualreportofbo1947smit/annualreportofbo1947smit.pdf",
-            "title": "dn790004.ca.archive.org",
-            "snippet": "dn790004.ca.archive.org"
+            "url": "https://www.jenprace.cz/firmy/30071429-spolecenstvi-vlastniku-karanska-c-p-343-344-345",
+            "title": "Práce v Společenství vlastníků Káranská č.p. 343, 344, 345 Zaměstnání ...",
+            "snippet": "Práce a brigády ve firmě Společenství vlastníků Káranská č.p. 343, 344, 345"
           },
           {
-            "url": "https://archive.org/details/Fall_1932_Radio_Amateur_Callbook",
-            "title": "Fall 1932 Radio Amateur Callbook : Free Download, Borrow, and ...",
-            "snippet": "Jun 17, 2017 · Fall 1932 Radio Amateur Callbook - Includes High Frequency Commercial Stations and Foreign/International Amateurs."
+            "url": "https://www.spravabd.cz/",
+            "title": "Správa nemovitostí Praha - správce domů v Praze",
+            "snippet": "Správa nemovitostí Praha, Váš správce domů, bytových družstev a společenství vlastníků jednotek Úkolem našeho týmu společnosti Správa nemovitostí & bytových družstev, je pomáhat Vám se správou Vašich nemovitostí a domů, ať už jste bytové družstvo, společenství vlastníků bytů a jednotek, či majitel."
           },
           {
-            "url": "https://www.skanska.com/cz/cs",
-            "title": "Skanska v České republice",
-            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
-          },
-          {
-            "url": "https://www.rvw.cz/",
-            "title": "Správa nemovitostí | RVW Facility | Služby po celé ČR",
-            "snippet": "110 00 Praha 1 Email: sprava@rvw.cz Telefon: zobrazit číslo Odkazy O nás Služby Profesionální předseda SVJ Reference Aktuality Kontakt Havarijní služba +420 241 414 141 dispecink@bytoservis.eu Ve všední dny v čase od 16:30 – 8:00, o víkendech a svátcích kontaktujte našeho externího partnera BYTOSERVIS-NON STOP, s.r.o."
-          },
-          {
-            "url": "https://www.facebook.com/groups/bydleni.nabidka.poptavka/",
-            "title": "Praha - BYDLENÍ SPOLUBYDLENÍ NABÍDKA , POPTÁVKA - Facebook",
-            "snippet": "1 day ago · Skupina je určena pro NABÍDKU a POPTÁVKU bydlení či SPOLUBYDLENÍ v Praze a okolí. Skupinu pro Vás dlouhodobě spravuje Smart Homes a Expert Rent V případě..."
-          },
-          {
-            "url": "https://www.poptavka.net/",
-            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
-            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
-          },
-          {
-            "url": "https://www.poptavky.cz/",
-            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
-            "snippet": "Poptávka: oprava a zvětšení vozíku na auto, Škvorec Auto-Moto Přívěsné vozíky, karavany Strojírenství okres Praha-východ 9. 10. 2026 (včera)"
+            "url": "https://jnnova.cz/",
+            "title": "Správa nemovitostí a realitní činnost - JN NOVA",
+            "snippet": "Správa nemovitostí Co nabízíme bytových a nebytových jednotek kanceláře Správa nemovitostí Kalkulačka pro výpočet odměny výboru Nadstandardní činnost Profesionální předseda společenství vlastníků Kdo jsme Správou nemovitostí se zabýváme již od 1. 1."
           }
         ],
         "errors": [
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "AMBIGUOUS",
-        "website": "",
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.detail.cz/subjekt/30071429-spolecenstvi-vlastniku-karanska-cp-343-344-345-karanska-344-22-praha/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.detail.cz/subjekt/30071429-spolecenstvi-vlastniku-karanska-cp-343-344-345-karanska-344-22-praha/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
         "examined": [
           {
-            "url": "https://www.zillow.com/homedetails/2501-Fuller-Rd-West-Des-Moines-IA-50265/863491_zpid/",
-            "result": "ambiguous",
-            "evidence": []
-          },
-          {
-            "url": "https://dn790004.ca.archive.org/0/items/annualreportofbo1947smit/annualreportofbo1947smit.pdf",
-            "result": "unreachable",
-            "reason": "HTTP_500"
-          },
-          {
-            "url": "https://archive.org/details/Fall_1932_Radio_Amateur_Callbook",
-            "result": "ambiguous",
-            "evidence": []
-          },
-          {
-            "url": "https://www.skanska.com/cz/cs",
-            "result": "ambiguous",
+            "url": "https://www.detail.cz/subjekt/30071429-spolecenstvi-vlastniku-karanska-cp-343-344-345-karanska-344-22-praha/",
+            "result": "identity_match",
             "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.rvw.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.poptavka.net/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.poptavky.cz/",
-            "result": "ambiguous",
-            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
               "Prague mentioned on website"
             ]
           }
@@ -23732,8 +23662,53 @@
         ]
       },
       "audit": {
-        "state": "not_run",
-        "reason": "No independently verified company website"
+        "state": "observed",
+        "checked_at": "2026-10-29",
+        "website": "https://www.detail.cz/subjekt/30071429-spolecenstvi-vlastniku-karanska-cp-343-344-345-karanska-344-22-praha/",
+        "devices": {
+          "desktop": {
+            "title": "Subjekt Společenství vlastníků Káranská č.p. 343, 344, 345 | Detail.cz",
+            "description": "Subjekt Společenství vlastníků Káranská č.p. 343, 344, 345 (IČO: 30071429) vznikl dne 24. září 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle subjektu.",
+            "viewport_meta": true,
+            "h1_count": 14,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 54,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 16,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Subjekt Společenství vlastníků Káranská č.p. 343, 344, 345 | Detail.cz",
+            "description": "Subjekt Společenství vlastníků Káranská č.p. 343, 344, 345 (IČO: 30071429) vznikl dne 24. září 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle subjektu.",
+            "viewport_meta": true,
+            "h1_count": 14,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 51,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 12,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.detail.cz/subjekt/30071429-spolecenstvi-vlastniku-karanska-cp-343-344-345-karanska-344-22-praha/"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
       },
       "buying_signals": [
         {
@@ -23747,11 +23722,11 @@
         "title": "Společenství vlastníků Káranská č.p. 343, 344, 345 — research dossier",
         "facts": [
           "The business is listed at Káranská 344, Praha, 10800.",
-          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "An independently identity-matched business website was found: https://www.detail.cz/subjekt/30071429-spolecenstvi-vlastniku-karanska-cp-343-344-345-karanska-344-22-praha/.",
           "ARES confirms registration for IČO 30071429 dated 2026-09-24."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
         "observed_issues": [],
         "buying_signals": [
           {
@@ -23763,7 +23738,8 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30071429"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30071429",
+          "https://www.detail.cz/subjekt/30071429-spolecenstvi-vlastniku-karanska-cp-343-344-345-karanska-344-22-praha/"
         ],
         "estimated_deal_czk": [
           30000,
@@ -23787,15 +23763,20 @@
         "https://rejstrik-firem.kurzy.cz/30071429/spolecenstvi-vlastniku-karanska-c-p-343-344-345/",
         "https://www.podnikatel.cz/rejstrik/spolecenstvi-vlastniku-karanska-c-p-343-344-345-30071429/",
         "https://rejstriky.finance.cz/firma-spolecenstvi-vlastniku-karanska-c-p-343-344-345-30071429/kontakty",
-        "https://www.zillow.com/homedetails/2501-Fuller-Rd-West-Des-Moines-IA-50265/863491_zpid/",
-        "https://dn790004.ca.archive.org/0/items/annualreportofbo1947smit/annualreportofbo1947smit.pdf",
-        "https://archive.org/details/Fall_1932_Radio_Amateur_Callbook",
-        "https://www.skanska.com/cz/cs"
+        "https://www.detail.cz/subjekt/30071429-spolecenstvi-vlastniku-karanska-cp-343-344-345-karanska-344-22-praha/",
+        "https://www.jenprace.cz/firmy/30071429-spolecenstvi-vlastniku-karanska-c-p-343-344-345",
+        "https://www.spravabd.cz/",
+        "https://jnnova.cz/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {},
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.detail.cz/subjekt/30071429-spolecenstvi-vlastniku-karanska-cp-343-344-345-karanska-344-22-praha/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
       "owner_verified": false,
       "buyer_interest_verified": false
     },
@@ -24027,7 +24008,7 @@
     "res-30071470": {
       "lead_id": "res-30071470",
       "name": "Andrii Losiuk",
-      "checked_at": "2026-10-10",
+      "checked_at": "2026-10-29",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -24043,42 +24024,22 @@
           {
             "url": "https://rejstriky.finance.cz/firma-andrii-losiuk-30071470",
             "title": "Andrii Losiuk IČO 30071470 kontakty 03.10.2026 - Finance.cz",
-            "snippet": "Podrobnosti o firmě Andrii Losiuk IČO 30071470 kontakty 03.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+            "snippet": "Podrobnosti o firmě Andrii Losiuk Praha 9 IČO 30071470 kontakty 20.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
           },
           {
-            "url": "https://www.finreg.sk/subjekt/18589202",
-            "title": "Andrii Losiuk - finančný prehľad | FinReg.sk - finančný register",
-            "snippet": "Finančné informácie o Andrii Losiuk - (zisk, tržby, dlhy, daňové priznania a DPH) | FinReg.sk - finančný register"
-          },
-          {
-            "url": "https://www.facebook.com/andriy.losiuk/",
-            "title": "Andrii Losiuk - Facebook",
-            "snippet": "Andrii Losiuk is on Facebook. Join Facebook to connect with Andrii Losiuk and others you may know. Facebook gives people the power to share and makes the world more open and connected."
-          },
-          {
-            "url": "https://www.instagram.com/69kg_wasabi/",
-            "title": "Andrii Losiuk (@69kg_wasabi) • Instagram photos and videos",
-            "snippet": "0 Followers, 673 Following, 56 Posts - Andrii Losiuk (@69kg_wasabi) on Instagram: \" UA🇺🇦 (ІФ) (ЧЕ) CZ🇨🇿 Prague; D🇩🇪\""
-          },
-          {
-            "url": "https://www.facebook.com/public/Andrii-Lysiuk/",
-            "title": "Andrii Lysiuk Profiles - Facebook",
-            "snippet": "View the profiles of people named Andrii Lysiuk. Join Facebook to connect with Andrii Lysiuk and others you may know. Facebook gives people the power to..."
+            "url": "https://rejstrik.penize.cz/ares/30071470-andrii-losiuk",
+            "title": "Andrii Losiuk, Praha, IČO: 30071470 - ARES | Peníze.cz",
+            "snippet": "Registr ekonomických subjektů - Andrii Losiuk, IČO: 30071470, sídlo firmy, předmět podnikání firmy Andrii Losiuk."
           },
           {
             "url": "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
             "title": "Construction & Property Management s.r.o. , Praha IČO ...",
-            "snippet": "May 12, 2026 · Construction & Property Management s.r.o., Na příkopě, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik ..."
+            "snippet": "Construction & Property Management s.r.o., Na příkopě, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik ..."
           },
           {
-            "url": "https://www.dnb.com/business-directory/company-profiles.kontakt_construction_sro.aad7086cabc6192aaf5015185b1cdb0e.html",
-            "title": "KONTAKT CONSTRUCTION s.r.o. Company Profile | Praha, Hlavní ...Construction Prague • Firmy.czKostiv Praha s.r.o. Company Profile | Praha, Hlavní město ...Andrii Pavliuk – realitní ",
-            "snippet": "Find company research, competitor information, contact details & financial data for KONTAKT CONSTRUCTION s.r.o. of Praha, Hlavní město Praha. Get the latest business insights from Dun & Bradstreet. We provide high-quality construction and renovation services in Prague and the surrounding area. Our services range from r"
-          },
-          {
-            "url": "https://en.firmy.cz/Trades-and-services/Construction/kraj-praha",
-            "title": "Construction Prague • Firmy.cz",
-            "snippet": "We provide high-quality construction and renovation services in Prague and the surrounding area. Our services range from routine maintenance and repairs to complex and demanding renovations of single-family homes and apartments. We also specialize in remodeling and renovating bathrooms and apartment units, as well as i"
+            "url": "https://rejstrik-firem.kurzy.cz/04267516/project-construction-life-cz-sro/",
+            "title": "Project&Construction&Life CZ s.r.o. , Praha IČO 04267516 ...Kostiv Praha s.r.o. Company Profile | Praha, Hlavní město ...Andrii Lutsiv, Praha - rejstřík OSVČKONTAKT CONSTRUCTION s.",
+            "snippet": "Feb 29, 2020 · Project&Construction&Life CZ s.r.o., Budapešťská, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní společnosti, předměty činnosti, aktuální výpis Project&Construction&Life CZ s.r.o. Find company research, competitor information, contact details &"
           },
           {
             "url": "https://www.dnb.com/business-directory/company-profiles.kostiv_praha_sro.c277dc70fe37e391a5d17c2544f2c836.html",
@@ -24086,9 +24047,44 @@
             "snippet": "Find company research, competitor information, contact details & financial data for Kostiv Praha s.r.o. of Praha, Hlavní město Praha. Get the latest business insights from Dun & Bradstreet."
           },
           {
-            "url": "https://www.firmy.cz/detail/13938210-andrii-pavliuk-realitni-makler-praha-stodulky.html",
-            "title": "Andrii Pavliuk – realitní makléř (Praha, Stodůlky) • Firmy.cz",
-            "snippet": "Aktuální ověřené informace: adresa, telefon, e-mail a hodnocení Andrii Pavliuk – realitní makléř, Praha, Stodůlky. Telefon: 775 381 …"
+            "url": "https://www.chytryrejstrik.cz/ico-24594229/andrii-lutsiv",
+            "title": "Andrii Lutsiv, Praha - rejstřík OSVČ",
+            "snippet": "Andrii Lutsiv Sídlo Praha. IČO: 24594229. Rejstřík podnikatelů. Firemní profil. Rok založení 2026. Rizikové signály podnikatele."
+          },
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles.kontakt_construction_sro.aad7086cabc6192aaf5015185b1cdb0e.html",
+            "title": "KONTAKT CONSTRUCTION s.r.o. Company Profile | Praha, Hlavní ...",
+            "snippet": "Find company research, competitor information, contact details & financial data for KONTAKT CONSTRUCTION s.r.o. of Praha, Hlavní město Praha. Get the latest business insights from Dun & Bradstreet."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/adresa-praha-dandova-2619-13-26678641",
+            "title": "Dandova 2619/13 Praha 19300 (02.10.2026) - Rejstříky.finance.czDIGITHEUM s.r.o. · Dandova 2619/13, Praha 9, Horní Počernice ...Dandova 2619/13 (Address) • Mapy.comDandova 2619/13 (",
+            "snippet": "Dec 20, 2024 · Dandova 2619/13 Praha 19300 – seznam všech firem a osob, které se na této adrese nachází a mají záznam ve veřejných rejstřících, mapa, GPS souřadnice DIGITHEUM s.r.o. (LEI# 984500A13BFLDU1C4A17) is a legal entity registered with . The address is Dandova 2619/13, Praha 9, Horní Počernice, CZ-10, 193 00, C"
+          },
+          {
+            "url": "https://opencorpdata.com/lei/984500A13BFLDU1C4A17",
+            "title": "DIGITHEUM s.r.o. · Dandova 2619/13, Praha 9, Horní Počernice ...Dandova 2619/13 (Address) • Mapy.comDandova 2619/13 (Adresa) • Mapy.comHardwood Company S R O Dandova 2619/13 Horni ",
+            "snippet": "DIGITHEUM s.r.o. (LEI# 984500A13BFLDU1C4A17) is a legal entity registered with . The address is Dandova 2619/13, Praha 9, Horní Počernice, CZ-10, 193 00, CZ. Dandova 2619/13 (Address) Map – detailed map of the area (base, outdoor, aerial, panorama, etc.), route planning, GPS, and much more on Mapy.com. Mapa Dandova 261"
+          },
+          {
+            "url": "https://mapy.com/en/?source=addr&id=11400525",
+            "title": "Dandova 2619/13 (Address) • Mapy.com",
+            "snippet": "Dandova 2619/13 (Address) Map – detailed map of the area (base, outdoor, aerial, panorama, etc.), route planning, GPS, and much more on Mapy.com."
+          },
+          {
+            "url": "https://mapy.com/cs/?source=addr&id=11400525",
+            "title": "Dandova 2619/13 (Adresa) • Mapy.com",
+            "snippet": "Mapa Dandova 2619/13 (Adresa) – detailní mapa okolí (základní, turistická, satelitní, panoramatická, atd.), plánování trasy, GPS a mnoho dalšího na Mapy.com."
+          },
+          {
+            "url": "https://www.importgenius.com/ukraine/buyers/hardwood-company-s-r-o-dandova-2619-13-horni-pocernice-193-00-praha-9-czech-republik",
+            "title": "Hardwood Company S R O Dandova 2619/13 Horni ... - ImportGenius",
+            "snippet": "Dec 29, 1998 · Government records and notifications available for Hardwood Company S R O Dandova 2619/13 Horni Pocernice 193 00 Praha 9 Czech Republik in Ukraine. See their past export from Сумцов Андрій Миколайович Пасп Мм 101964 Від 29 12 1998 61044 М Харків Вул Профспілкова 8, an exporter based in Ukraine. Follow fu"
+          },
+          {
+            "url": "https://regiony.kurzy.cz/praha/dandova/2619-13/",
+            "title": "Dandova 2619/13, Horní Počernice, 193 00 Praha 20, adresa ...",
+            "snippet": "Dandova 2619/13, Horní Počernice, 193 00 Praha 20 - Mapa Na tomto místě se zobrazí mapa s informacemi o podnikání a sídlech firem na adrese Dandova 2619/13, Horní Počernice, 193 00 Praha 20. Pokud tuto mapu nevidíte, zkotrolujte prosím, zda je ve vašem prohlížeči spuštěn Javaskript."
           }
         ],
         "errors": [
@@ -24099,14 +24095,34 @@
         "website": "",
         "examined": [
           {
-            "url": "https://www.finreg.sk/subjekt/18589202",
-            "result": "unreachable",
-            "reason": "ConnectTimeout"
-          },
-          {
-            "url": "https://www.dnb.com/business-directory/company-profiles.kontakt_construction_sro.aad7086cabc6192aaf5015185b1cdb0e.html",
+            "url": "https://www.dnb.com/business-directory/company-profiles.kostiv_praha_sro.c277dc70fe37e391a5d17c2544f2c836.html",
             "result": "unreachable",
             "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-24594229/andrii-lutsiv",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://opencorpdata.com/lei/984500A13BFLDU1C4A17",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://mapy.com/en/?source=addr&id=11400525",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.importgenius.com/ukraine/buyers/hardwood-company-s-r-o-dandova-2619-13-horni-pocernice-193-00-praha-9-czech-republik",
+            "result": "unreachable",
+            "reason": "HTTP_407"
           }
         ],
         "no_website_proven": false
@@ -24171,11 +24187,11 @@
       },
       "candidate_search_sources": [
         "https://rejstriky.finance.cz/firma-andrii-losiuk-30071470",
-        "https://www.finreg.sk/subjekt/18589202",
-        "https://www.facebook.com/andriy.losiuk/",
-        "https://www.instagram.com/69kg_wasabi/",
-        "https://www.facebook.com/public/Andrii-Lysiuk/",
+        "https://rejstrik.penize.cz/ares/30071470-andrii-losiuk",
         "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+        "https://rejstrik-firem.kurzy.cz/04267516/project-construction-life-cz-sro/",
+        "https://www.dnb.com/business-directory/company-profiles.kostiv_praha_sro.c277dc70fe37e391a5d17c2544f2c836.html",
+        "https://www.chytryrejstrik.cz/ico-24594229/andrii-lutsiv",
         "https://www.dnb.com/business-directory/company-profiles.kontakt_construction_sro.aad7086cabc6192aaf5015185b1cdb0e.html"
       ],
       "website_need_verified": false,
@@ -24400,9 +24416,9 @@
     "res-30071879": {
       "lead_id": "res-30071879",
       "name": "Společenství vlastníků domu Gollové č.p. 1317",
-      "checked_at": "2026-10-10",
+      "checked_at": "2026-10-29",
       "engine_version": 8,
-      "state": "researched",
+      "state": "audited",
       "discovery": {
         "status": "searched",
         "queries": [
@@ -24411,7 +24427,7 @@
           "\"Společenství vlastníků domu Gollové č.p. 1317\" \"Gollové 1317\" web",
           "\"Společenství vlastníků domu Gollové č.p. 1317\" Praha služby reference poptávka"
         ],
-        "successful_queries": 3,
+        "successful_queries": 2,
         "candidates": [
           {
             "url": "https://rejstrik-firem.kurzy.cz/30071879/spolecenstvi-vlastniku-domu-gollove-c-p-1317/",
@@ -24419,112 +24435,73 @@
             "snippet": "Sep 28, 2026 · Kde je sídlo firmy Společenství vlastníků domu Gollové č.p. 1317? Sídlo firmy Společenství vlastníků domu Gollové č.p. 1317 je Gollové 1317/2, Hlubočepy, 15200 Praha 5. Další firmy na této adrese."
           },
           {
+            "url": "https://www.svjgollove1317.cz/",
+            "title": "Společenství vlastníků domu Gollové č.p. 1317",
+            "snippet": "Společenství vlastníků domu Gollové č.p. 1317 Vítejte na stránkách společenství vlastníků domu Gollové 1317/2, Hlubočepy, 152 00 Praha 5. Na této stránce naleznete základní údaje týkající se našeho společenství."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/ares/30071879-spolecenstvi-vlastniku-domu-gollove-c-p-1317",
+            "title": "Společenství vlastníků domu Gollové č.p. 1317, Praha, IČO ...",
+            "snippet": "Společenství vlastníků domu Gollové č.p. 1317, Praha, IČO: 30071879 - RES Tento výpis z RES obsahuje údaje o společnosti Společenství vlastníků domu Gollové č.p. 1317. Údaje byly staženy 16. 10. 2026 z datové služby dle IČO 30071879. Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzický"
+          },
+          {
             "url": "https://rejstriky.finance.cz/firma-spolecenstvi-vlastniku-domu-gollove-c-p-1317-30071879",
             "title": "Společenství vlastníků domu Gollové č.p. 1317 Praha 5 IČO ...",
-            "snippet": "Firma s názvem Společenství vlastníků domu Gollové č.p. 1317 se sídlem v obci Praha 5 byla založena v roce 2026."
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Společenství vlastníků domu Gollové č.p. 1317, která sídlí v obci Praha 5 a bylo jí přiděleno IČO 30071879."
           },
           {
-            "url": "https://rejstrik-firem.kurzy.cz/01465171/pilz-czech-sro/",
-            "title": "Pilz Czech s.r.o. , Praha IČO 01465171 - Obchodní rejstřík firemTo rent apartment 3+kk - Praha 4, Na Mlejnku - REALCITY.czDaramis | Prague - FacebookSkupina VCESSkanska v České rep",
-            "snippet": "Pilz Czech s.r.o., Jeremenkova, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní společnosti ... 13 hours ago · Last update10.10.2026 Disposition3+kk Contract ID4248cecb-a3de-40c0-84a9-7673e540db68 Flooring80 m² Tenureprivate Construction typebrick Property con"
+            "url": "https://www.jenprace.cz/firmy/30071879-spolecenstvi-vlastniku-domu-gollove-c-p-1317",
+            "title": "Práce v Společenství vlastníků domu Gollové č.p. 1317 ...",
+            "snippet": "Práce a brigády ve firmě Společenství vlastníků domu Gollové č.p. 1317"
           },
           {
-            "url": "https://www.realcity.cz/en/property/to-rent-apartment-3-kk-praha-4-na-mlejnku-4424466",
-            "title": "To rent apartment 3+kk - Praha 4, Na Mlejnku - REALCITY.cz",
-            "snippet": "13 hours ago · Last update10.10.2026 Disposition3+kk Contract ID4248cecb-a3de-40c0-84a9-7673e540db68 Flooring80 m² Tenureprivate Construction typebrick Property conditionreconstructed Floor2nd floor more information"
+            "url": "https://www.hlidacstatu.cz/subjekt/Odberatele/30071879",
+            "title": "Společenství vlastníků domu Gollové č.p. 1317 - Odběratelé",
+            "snippet": "Firma nemá žádné smluvní vztahy evidované s veřejnou správou. , Byla založena 25. 9. 2026."
           },
           {
-            "url": "https://www.facebook.com/DaramisGroup/",
-            "title": "Daramis | Prague - FacebookSkupina VCESSkanska v České republice",
-            "snippet": "Daramis, Prague. 5,980 followers · 6 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy. Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Sloven"
+            "url": "https://www.hlidacstatu.cz/subjekt/30071879",
+            "title": "Společenství vlastníků domu Gollové č.p. 1317 - Hlídač státu.",
+            "snippet": "Firma nemá žádné smluvní vztahy evidované s veřejnou správou. , Byla založena 25. 9. 2026."
           },
           {
-            "url": "https://vces.cz/",
-            "title": "Skupina VCES",
-            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
-          },
-          {
-            "url": "https://www.skanska.com/cz/cs",
-            "title": "Skanska v České republice",
-            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
-          },
-          {
-            "url": "https://www.rvw.cz/",
-            "title": "Správa nemovitostí | RVW Facility | Služby po celé ČR",
-            "snippet": "Správa nemovitostí | Zajištění kompletní správy nemovitostí i jednotlivých aktivit. Stabilní partner s dlouholetými zkušenostmi a referencemi klientů."
-          },
-          {
-            "url": "https://www.facebook.com/groups/bydleni.nabidka.poptavka/",
-            "title": "Praha - BYDLENÍ SPOLUBYDLENÍ NABÍDKA , POPTÁVKA - Facebook",
-            "snippet": "1 day ago · Skupina je určena pro NABÍDKU a POPTÁVKU bydlení či SPOLUBYDLENÍ v Praze a okolí. Skupinu pro Vás dlouhodobě spravuje Smart Homes a Expert Rent V případě..."
-          },
-          {
-            "url": "https://www.epoptavka.cz/",
-            "title": "Poptávky a zakázky | ePoptávka.cz",
-            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
-          },
-          {
-            "url": "https://www.poptavka.net/",
-            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
-            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
-          },
-          {
-            "url": "https://www.poptavky.cz/",
-            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
-            "snippet": "Poptávka: oprava a zvětšení vozíku na auto, Škvorec Auto-Moto Přívěsné vozíky, karavany Strojírenství okres Praha-východ 9. 10. 2026 (včera)"
+            "url": "https://www.hlidacstatu.cz/subjekt/DalsiInformace/30071879",
+            "title": "Společenství vlastníků domu Gollové č.p. 1317 - Informace z ...",
+            "snippet": "Firma nemá žádné smluvní vztahy evidované s veřejnou správou. , Byla založena 25. 9. 2026."
           }
         ],
         "errors": [
+          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "AMBIGUOUS",
-        "website": "",
+        "public_site_contacts": {
+          "emails": [
+            "eda@ppmas.cz",
+            "svj@finep.cz"
+          ],
+          "phones": [
+            "00420775885885"
+          ],
+          "source": "https://www.svjgollove1317.cz/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.svjgollove1317.cz/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
         "examined": [
           {
-            "url": "https://www.realcity.cz/en/property/to-rent-apartment-3-kk-praha-4-na-mlejnku-4424466",
-            "result": "unreachable",
-            "reason": "HTTP_403"
-          },
-          {
-            "url": "https://vces.cz/",
-            "result": "ambiguous",
+            "url": "https://www.svjgollove1317.cz/",
+            "result": "identity_match",
             "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.skanska.com/cz/cs",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.rvw.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Matching distinctive business-name words on website",
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.epoptavka.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.poptavka.net/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.poptavky.cz/",
-            "result": "ambiguous",
-            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
               "Prague mentioned on website"
             ]
           }
@@ -24542,8 +24519,53 @@
         "statutory_members": []
       },
       "audit": {
-        "state": "not_run",
-        "reason": "No independently verified company website"
+        "state": "observed",
+        "checked_at": "2026-10-29",
+        "website": "https://www.svjgollove1317.cz/",
+        "devices": {
+          "desktop": {
+            "title": "Společenství vlastníků domu Gollové č.p. 1317",
+            "description": "",
+            "viewport_meta": true,
+            "h1_count": 0,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 27,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 1,
+            "contact_action": true,
+            "form_count": 0,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Společenství vlastníků domu Gollové č.p. 1317",
+            "description": "",
+            "viewport_meta": true,
+            "h1_count": 0,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 27,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 1,
+            "contact_action": true,
+            "form_count": 0,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.svjgollove1317.cz/"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
       },
       "buying_signals": [
         {
@@ -24557,11 +24579,11 @@
         "title": "Společenství vlastníků domu Gollové č.p. 1317 — research dossier",
         "facts": [
           "The business is listed at Gollové 1317, Praha, 15200.",
-          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "An independently identity-matched business website was found: https://www.svjgollove1317.cz/.",
           "ARES confirms registration for IČO 30071879 dated 2026-09-25."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
         "observed_issues": [],
         "buying_signals": [
           {
@@ -24573,7 +24595,8 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30071879"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30071879",
+          "https://www.svjgollove1317.cz/"
         ],
         "estimated_deal_czk": [
           30000,
@@ -24590,17 +24613,27 @@
       },
       "candidate_search_sources": [
         "https://rejstrik-firem.kurzy.cz/30071879/spolecenstvi-vlastniku-domu-gollove-c-p-1317/",
+        "https://www.svjgollove1317.cz/",
+        "https://rejstrik.penize.cz/ares/30071879-spolecenstvi-vlastniku-domu-gollove-c-p-1317",
         "https://rejstriky.finance.cz/firma-spolecenstvi-vlastniku-domu-gollove-c-p-1317-30071879",
-        "https://rejstrik-firem.kurzy.cz/01465171/pilz-czech-sro/",
-        "https://www.realcity.cz/en/property/to-rent-apartment-3-kk-praha-4-na-mlejnku-4424466",
-        "https://www.facebook.com/DaramisGroup/",
-        "https://vces.cz/",
-        "https://www.skanska.com/cz/cs"
+        "https://www.jenprace.cz/firmy/30071879-spolecenstvi-vlastniku-domu-gollove-c-p-1317",
+        "https://www.hlidacstatu.cz/subjekt/Odberatele/30071879",
+        "https://www.hlidacstatu.cz/subjekt/30071879"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {},
+      "verified_site_public_contacts": {
+        "emails": [
+          "eda@ppmas.cz",
+          "svj@finep.cz"
+        ],
+        "phones": [
+          "00420775885885"
+        ],
+        "source": "https://www.svjgollove1317.cz/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
       "owner_verified": false,
       "buyer_interest_verified": false
     },
@@ -24793,7 +24826,7 @@
     "res-30072476": {
       "lead_id": "res-30072476",
       "name": "Andrii Tokar",
-      "checked_at": "2026-10-10",
+      "checked_at": "2026-10-29",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -24807,39 +24840,14 @@
         "successful_queries": 1,
         "candidates": [
           {
-            "url": "https://rejstriky.finance.cz/firma-andriy-tokar-21545227/kontakty",
-            "title": "Andriy Tokar Praha IČO 21545227 kontakty 23.07.2026 - Finance.cz",
-            "snippet": "Podrobnosti o firmě Andriy Tokar Praha IČO 21545227 kontakty 03.10.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů…"
-          },
-          {
             "url": "https://rejstriky.finance.cz/firma-andrii-tokar-30072476/kontakty",
             "title": "Andrii Tokar IČO 30072476 kontakty 28.09.2026 - Finance.cz",
             "snippet": "Podrobnosti o firmě Andrii Tokar IČO 30072476 kontakty 28.09.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
           },
           {
-            "url": "https://www.mesec.cz/rejstrik-firem/firma-andrei-tokar-62844270",
-            "title": "Andrei Tokar, IČO: (62844270), výpis z rejstříků firem a OSVČ ...",
-            "snippet": "Najdete zde informace o Andrei Tokar. Výpis dat z živnostenského i obchodního rejstříku a ze statistického úřadu"
-          },
-          {
-            "url": "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
-            "title": "Construction & Property Management s.r.o. , Praha IČO ...",
-            "snippet": "May 12, 2026 · Construction & Property Management s.r.o., Na příkopě, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik ..."
-          },
-          {
-            "url": "https://www.finmag.cz/obchodni-rejstrik/osoba/andrii-tokar",
-            "title": "Andrii Tokar - obchodní rejstřík - Finmag.cz",
-            "snippet": "Andrii Tokar, výpis z obchodního i živnostenského rejstříků. Osoby a firmy - adresy, kontakty. Aktuální i historická data."
-          },
-          {
-            "url": "https://www.podnikatel.cz/rejstrik/andrii-tokar-17914710/",
-            "title": "Andrii Tokar - IČO 17914710 - Obchodní rejstřík na Podnikatel.cz",
-            "snippet": "Podrobnosti o firmě Andrii Tokar - IČO 17914710 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
-          },
-          {
-            "url": "https://rejstrik.penize.cz/andrii-tokar",
-            "title": "Andrii Tokar - Obchodní rejstřík | Peníze.cz",
-            "snippet": "Andrii Tokar výpis firem z Obchodního rejstříku, IČO firmy, adresa sídla firmy, pozice ve firmě, související firmy, vztahy ve firmách."
+            "url": "https://www.podnikatel.cz/rejstrik/andrii-tokar-30072476/",
+            "title": "Andrii Tokar - IČO 30072476 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Podrobnosti o firmě Andrii Tokar - IČO 30072476 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
           }
         ],
         "errors": [
@@ -24847,15 +24855,9 @@
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "AMBIGUOUS",
+        "state": "SEARCH_UNAVAILABLE",
         "website": "",
-        "examined": [
-          {
-            "url": "https://www.mesec.cz/rejstrik-firem/firma-andrei-tokar-62844270",
-            "result": "ambiguous",
-            "evidence": []
-          }
-        ],
+        "examined": [],
         "no_website_proven": false
       },
       "registry": {
@@ -24917,13 +24919,8 @@
         ]
       },
       "candidate_search_sources": [
-        "https://rejstriky.finance.cz/firma-andriy-tokar-21545227/kontakty",
         "https://rejstriky.finance.cz/firma-andrii-tokar-30072476/kontakty",
-        "https://www.mesec.cz/rejstrik-firem/firma-andrei-tokar-62844270",
-        "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
-        "https://www.finmag.cz/obchodni-rejstrik/osoba/andrii-tokar",
-        "https://www.podnikatel.cz/rejstrik/andrii-tokar-17914710/",
-        "https://rejstrik.penize.cz/andrii-tokar"
+        "https://www.podnikatel.cz/rejstrik/andrii-tokar-30072476/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
@@ -25179,19 +25176,29 @@
     "res-30072867": {
       "lead_id": "res-30072867",
       "name": "Max Bögl International SE, odštěpný závod",
-      "checked_at": "2026-10-10",
+      "checked_at": "2026-10-29",
       "engine_version": 8,
-      "state": "researched",
+      "state": "audited",
       "discovery": {
-        "status": "searched",
+        "status": "partial_search",
         "queries": [
           "\"Max Bögl International SE, odštěpný závod\" IČO 30072867 web",
           "\"Max Bögl International SE, odštěpný závod\" Praha Construction & property kontakt",
           "\"Max Bögl International SE, odštěpný závod\" \"Václavské náměstí 795\" web",
           "\"Max Bögl International SE, odštěpný závod\" Praha služby reference poptávka"
         ],
-        "successful_queries": 2,
+        "successful_queries": 1,
         "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-max-boegl-international-se-odstepny-zavod-30072867/kontakty",
+            "title": "Max Bögl International SE, odštěpný závod Praha 1 IČO ...",
+            "snippet": "Podrobnosti o firmě Max Bögl International SE, odštěpný závod Praha 1 IČO 30072867 kontakty 11.10.2026 z obchodního rejstříku, živnostenského rejstříku,…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-max-boegl-international-se-odstepny-zavod-30072867/obory-cinnosti",
+            "title": "Max Bögl International SE, odštěpný závod Praha 1 IČO ...",
+            "snippet": "Firma s názvem Max Bögl International SE, odštěpný závod se sídlem v obci Praha 1 byla založena v roce 2026. Společnost je stále aktivní. V jejím vedení se dosud vystřídalo 4 osob. Společnost podniká v oboru Provádění staveb, jejich změn a odstraňování , Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenské"
+          },
           {
             "url": "https://www.podnikatel.cz/rejstrik/max-boegl-international-se-odstepny-zavod-30072867/",
             "title": "Max Bögl International SE, odštěpný závod - IČO 30072867 ...",
@@ -25200,96 +25207,54 @@
           {
             "url": "https://rejstrik-firem.kurzy.cz/30072867/max-bogl-international-se-odstepny-zavod/",
             "title": "Max Bögl International SE, odštěpný závod , IČO 30072867 ...",
-            "snippet": "Tato stránka obsahuje aktuální výpis údajů firmy Max Bögl International SE, odštěpný závod. Údaje byly staženy 28. září 2026 z datové služby justice.cz dle IČO 30072867 a údaje ve výpise nebyly dle systému ARES do dnešního dne změněny."
+            "snippet": "Sep 28, 2026 · Tato stránka obsahuje aktuální výpis údajů firmy Max Bögl International SE, odštěpný závod. Údaje byly staženy 28. září 2026 z datové služby justice.cz dle IČO 30072867 a údaje ve výpise nebyly dle systému ARES do dnešního dne změněny."
           },
           {
-            "url": "https://rejstriky.finance.cz/osoba-jens-boegl",
-            "title": "Jens Bögl informace o Jens Bögl (06.10.2026) - Rejstriky ...",
-            "snippet": "Jens Bögl - výpis všech osob se jménem Bögl Jens, které mají záznam ve veřejných rejstřících, IČO, kontakty a další informace"
+            "url": "https://www.zivefirmy.cz/ico-30072867",
+            "title": "Max Bögl International SE, odštěpný závod - Živéfirmy.cz",
+            "snippet": "Firma: Max Bögl International SE, odštěpný závod IČ: 30072867 Právní forma: Odštěpný závod zahraniční právnické osoby Adresa: Václavské náměstí 795/40, Nové Město (Praha 1), Praha, 11000 Doplnění údajů o firmě"
           },
           {
-            "url": "https://www.podnikatel.cz/rejstrik/osoby/martin-holfelder-5010047/",
-            "title": "Martin Holfelder v obchodním rejstříku - Podnikatel.cz",
-            "snippet": "Martin Holfelder, Wolfratshausen, Německo v obchodním rejstříku. Adresa sídla, pozice ve firmě, vztahy mezi společnostmi a majiteli firem."
+            "url": "https://rejstr.cz/30072867/max-bogl-international-se-odstepny-zavod",
+            "title": "Max Bögl International SE, odštěpný závod, IČO 30072867 ...",
+            "snippet": "Max Bögl International SE, odštěpný závod (IČO 30072867) je aktivní odštěpný závod zahraniční právnické osoby se sídlem Praha. V rejstříku od 25. 9. 2026. Hlavní činnost podle NACE: Výstavba bytových a nebytových budov (41000)."
           },
           {
-            "url": "https://vces.cz/",
-            "title": "Skupina VCES",
-            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
-          },
-          {
-            "url": "https://www.skanska.com/cz/cs",
-            "title": "Skanska v České republice",
-            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
-          },
-          {
-            "url": "https://www.facebook.com/DaramisGroup/",
-            "title": "Daramis | Prague - Facebook",
-            "snippet": "Daramis, Prague. 5,980 followers · 6 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy."
-          },
-          {
-            "url": "https://en.wikipedia.org/wiki/Max_Bögl",
-            "title": "Max Bögl - Wikipedia",
-            "snippet": "Max Bögl is a German multinational major construction company based in Sengenthal, Germany."
-          },
-          {
-            "url": "https://www.podnikatel.cz/rejstrik/osoby/michael-boegl-5010035/",
-            "title": "Michael Bögl v obchodním rejstříku - Podnikatel.cz",
-            "snippet": "Michael Bögl, Sengenthal, Německo v obchodním rejstříku. Adresa sídla, pozice ve firmě, vztahy mezi společnostmi a majiteli firem."
-          },
-          {
-            "url": "https://www.bloomberg.com/profile/company/7136973Z:GR",
-            "title": "Max Boegl International SE - Company Profile and NewsMax Bögl International SE - ImplisenseMax Bögl - WikipediaMax Bögl International Se Company Profile | , Norway ...",
-            "snippet": "Max Boegl International SE provides construction services. The Company offers steel, plant, tunnel, building, and bridge construction, civil and mechanical engineering, residential and commercial ... Dec 12, 2025 · Discover Max Bögl International SE on Implisense, the B2B company information portal. Profile, contact de"
-          },
-          {
-            "url": "https://implisense.com/en/companies/max-boegl-international-se-sengenthal-DETIGFTFOA71",
-            "title": "Max Bögl International SE - Implisense",
-            "snippet": "Dec 12, 2025 · Discover Max Bögl International SE on Implisense, the B2B company information portal. Profile, contact details, news - everything at a glance!"
-          },
-          {
-            "url": "https://www.dnb.com/business-directory/company-profiles.max_bögl_international_se.39700c9658cebf16b5530a22779a26da.html",
-            "title": "Max Bögl International Se Company Profile | , Norway ...",
-            "snippet": "Find company research, competitor information, contact details & financial data for Max Bögl International Se of . Get the latest business insights from Dun & Bradstreet."
+            "url": "https://www.podnikatel.cz/rejstrik/osoby/jens-boegl-5010032/",
+            "title": "Jens Bögl v obchodním rejstříku - Podnikatel.cz",
+            "snippet": "Jens Bögl, Sengenthal, Německo v obchodním rejstříku. Adresa sídla, pozice ve firmě, vztahy mezi společnostmi a majiteli firem."
           }
         ],
         "errors": [
           "DDGSException: No results found.",
+          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "AMBIGUOUS",
-        "website": "",
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://rejstr.cz/30072867/max-bogl-international-se-odstepny-zavod",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://rejstr.cz/30072867/max-bogl-international-se-odstepny-zavod",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
         "examined": [
           {
-            "url": "https://vces.cz/",
-            "result": "ambiguous",
+            "url": "https://rejstr.cz/30072867/max-bogl-international-se-odstepny-zavod",
+            "result": "identity_match",
             "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
               "Prague mentioned on website"
             ]
-          },
-          {
-            "url": "https://www.skanska.com/cz/cs",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.bloomberg.com/profile/company/7136973Z:GR",
-            "result": "unreachable",
-            "reason": "HTTP_403"
-          },
-          {
-            "url": "https://app.implisense.com/en/companies/max-boegl-international-se-sengenthal--DETIGFTFOA71",
-            "result": "ambiguous",
-            "evidence": [
-              "Matching distinctive business-name words on website"
-            ]
-          },
-          {
-            "url": "https://www.dnb.com/business-directory/company-profiles.max_bögl_international_se.39700c9658cebf16b5530a22779a26da.html",
-            "result": "unreachable",
-            "reason": "HTTP_403"
           }
         ],
         "no_website_proven": false
@@ -25359,8 +25324,53 @@
         ]
       },
       "audit": {
-        "state": "not_run",
-        "reason": "No independently verified company website"
+        "state": "observed",
+        "checked_at": "2026-10-29",
+        "website": "https://rejstr.cz/30072867/max-bogl-international-se-odstepny-zavod",
+        "devices": {
+          "desktop": {
+            "title": "Max Bögl International SE, odštěpný závod, IČO 30072867 | rejstr.cz",
+            "description": "Max Bögl International SE, odštěpný závod (IČO 30072867) je aktivní odštěpný závod zahraniční právnické osoby se sídlem Praha. V rejstříku od 25. 9. 2026. Hlavní činnost podle NACE: Výstavba bytových a nebytových budov (41000).",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 111,
+            "small_text_elements": 2,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 13,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Max Bögl International SE, odštěpný závod, IČO 30072867 | rejstr.cz",
+            "description": "Max Bögl International SE, odštěpný závod (IČO 30072867) je aktivní odštěpný závod zahraniční právnické osoby se sídlem Praha. V rejstříku od 25. 9. 2026. Hlavní činnost podle NACE: Výstavba bytových a nebytových budov (41000).",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 111,
+            "small_text_elements": 1,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 13,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://rejstr.cz/30072867/max-bogl-international-se-odstepny-zavod"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
       },
       "buying_signals": [
         {
@@ -25374,11 +25384,11 @@
         "title": "Max Bögl International SE, odštěpný závod — research dossier",
         "facts": [
           "The business is listed at Václavské náměstí 795, Praha, 11000.",
-          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "An independently identity-matched business website was found: https://rejstr.cz/30072867/max-bogl-international-se-odstepny-zavod.",
           "ARES confirms registration for IČO 30072867 dated 2026-09-25."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
         "observed_issues": [],
         "buying_signals": [
           {
@@ -25390,7 +25400,8 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30072867"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30072867",
+          "https://rejstr.cz/30072867/max-bogl-international-se-odstepny-zavod"
         ],
         "estimated_deal_czk": [
           30000,
@@ -25411,18 +25422,23 @@
         ]
       },
       "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-max-boegl-international-se-odstepny-zavod-30072867/kontakty",
+        "https://rejstriky.finance.cz/firma-max-boegl-international-se-odstepny-zavod-30072867/obory-cinnosti",
         "https://www.podnikatel.cz/rejstrik/max-boegl-international-se-odstepny-zavod-30072867/",
         "https://rejstrik-firem.kurzy.cz/30072867/max-bogl-international-se-odstepny-zavod/",
-        "https://rejstriky.finance.cz/osoba-jens-boegl",
-        "https://www.podnikatel.cz/rejstrik/osoby/martin-holfelder-5010047/",
-        "https://vces.cz/",
-        "https://www.skanska.com/cz/cs",
-        "https://www.facebook.com/DaramisGroup/"
+        "https://www.zivefirmy.cz/ico-30072867",
+        "https://rejstr.cz/30072867/max-bogl-international-se-odstepny-zavod",
+        "https://www.podnikatel.cz/rejstrik/osoby/jens-boegl-5010032/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {},
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://rejstr.cz/30072867/max-bogl-international-se-odstepny-zavod",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
       "owner_verified": false,
       "buyer_interest_verified": false
     },
@@ -25676,28 +25692,33 @@
     "res-30074193": {
       "lead_id": "res-30074193",
       "name": "Bytové družstvo Terra",
-      "checked_at": "2026-10-10",
+      "checked_at": "2026-10-29",
       "engine_version": 8,
       "state": "audited",
       "discovery": {
-        "status": "partial_search",
+        "status": "searched",
         "queries": [
           "\"Bytové družstvo Terra\" IČO 30074193 web",
           "\"Bytové družstvo Terra\" Praha Construction & property kontakt",
           "\"Bytové družstvo Terra\" \"Plynární 1617\" web",
           "\"Bytové družstvo Terra\" Praha služby reference poptávka"
         ],
-        "successful_queries": 1,
+        "successful_queries": 3,
         "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30074193/bytove-druzstvo-terra/",
+            "title": "Bytové družstvo Terra , IČO 30074193 - Obchodní rejstřík firem",
+            "snippet": "Sep 29, 2026 · Bytové družstvo Terra – obchodní rejstřík, aktuální výpis Datum vzniku a zápisu 24. září 2026 Spisová značka Dr 9315/MSPH Městský soud v Praze Obchodní firma Bytové družstvo Terra Sídlo Plynární 1617/10, Holešovice, 170 00 Praha 7 Identifikační číslo 30074193 Právní forma Družstvo Předmět činnosti pronáj"
+          },
           {
             "url": "https://www.podnikatel.cz/rejstrik/bytove-druzstvo-terra-30074193/",
             "title": "Bytové družstvo Terra - IČO 30074193 - Obchodní rejstřík na ...",
             "snippet": "Podrobnosti o firmě Bytové družstvo Terra - IČO 30074193 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
           },
           {
-            "url": "https://rejstrik-firem.kurzy.cz/30074193/bytove-druzstvo-terra/",
-            "title": "Bytové družstvo Terra , IČO 30074193 - Obchodní rejstřík firem",
-            "snippet": "Bytové družstvo Terra – obchodní rejstřík, aktuální výpis Datum vzniku a zápisu 24. září 2026 Spisová značka Dr 9315/MSPH Městský soud v Praze Obchodní firma Bytové družstvo Terra Sídlo Plynární 1617/10, Holešovice, 170 00 Praha 7 Identifikační číslo 30074193 Právní forma Družstvo Předmět činnosti pronájem nemovitostí,"
+            "url": "https://www.jenfirmy.cz/firma/30074193-bytove-druzstvo-terra",
+            "title": "Bytové družstvo Terra ⭐ Profil firmy | ⭐ JenFirmy.cz",
+            "snippet": "Prohlédněte si profil Bytové družstvo Terra a zjistěte vše, co potřebujete vědět. Místo, kontakty i prověřené recenze zaměstnanců."
           },
           {
             "url": "https://www.chytryrejstrik.cz/ico-30074193/bytove-druzstvo-terra",
@@ -25710,34 +25731,46 @@
             "snippet": "Bytové družstvo Terra - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. Vizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě Bytové družstvo Terra z českého obchodního rejstříku a živnostenského rejstříku v přehledné grafické podobě."
           },
           {
-            "url": "https://rejstrik-firem.kurzy.cz/30074193/bytove-druzstvo-terra/statisticky-urad/",
-            "title": "Bytové družstvo Terra , IČO 30074193 - data ze statistického ...",
-            "snippet": "Bytové družstvo Terra, IČO 30074193 data ze statistického úřadu české republiky. Databáze IČO. Předměty činnosti ze statistického úřadu."
+            "url": "https://www.detail.cz/subjekt/30074193-bytove-druzstvo-terra-plynarni-1617-10-praha/",
+            "title": "Subjekt Bytové družstvo Terra | Detail.cz",
+            "snippet": "Subjekt Bytové družstvo Terra (IČO: 30074193) vznikl dne 24. září 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle subjektu."
           },
           {
-            "url": "https://www.facebook.com/DaramisGroup/",
-            "title": "Daramis | Prague - Facebook",
-            "snippet": "Daramis, Prague. 5,980 followers · 6 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy."
+            "url": "https://rejstrik.penize.cz/ares/30074193-bytove-druzstvo-terra",
+            "title": "Bytové družstvo Terra, Praha, IČO: 30074193 - ARES | Peníze.cz",
+            "snippet": "Registr ekonomických subjektů - Bytové družstvo Terra, IČO: 30074193, sídlo firmy, předmět podnikání firmy Bytové družstvo Terra."
           },
           {
-            "url": "https://vces.cz/",
-            "title": "Skupina VCES",
-            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+            "url": "https://www.finreg.sk/subjekt/18588989",
+            "title": "Bytové družstvo Terra, Plynární 1617/10, Praha 7 - Holešovice ...",
+            "snippet": "Finančné informácie o Bytové družstvo Terra - (zisk, tržby, dlhy, daňové priznania a DPH) | FinReg.sk - finančný register"
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/30074193-bytove-druzstvo-terra",
+            "title": "Bytové družstvo Terra, IČO: 30074193 - ARES - Finmag.cz",
+            "snippet": "Obchodní firma Bytové družstvo Terra se sídlem Praha - Holešovice, Plynární 1617/10, 17000 a identifikačním číslem (IČO) 30074193."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
           }
         ],
         "errors": [
-          "DDGSException: No results found.",
-          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
         "public_site_contacts": {
-          "emails": [],
-          "phones": [],
-          "source": "https://www.chytryrejstrik.cz/ico-30074193/bytove-druzstvo-terra",
+          "emails": [
+            "info@jenfirmy.cz"
+          ],
+          "phones": [
+            "+420226216660"
+          ],
+          "source": "https://www.jenfirmy.cz/firma/30074193-bytove-druzstvo-terra",
           "evidence": "Explicit mailto/tel links on identity-matched business website"
         },
         "contact_matches": [],
-        "website": "https://www.chytryrejstrik.cz/ico-30074193/bytove-druzstvo-terra",
+        "website": "https://www.jenfirmy.cz/firma/30074193-bytove-druzstvo-terra",
         "state": "VERIFIED_WEBSITE",
         "identity": [
           "Matching IČO on website",
@@ -25747,7 +25780,7 @@
         ],
         "examined": [
           {
-            "url": "https://www.chytryrejstrik.cz/ico-30074193/bytove-druzstvo-terra",
+            "url": "https://www.jenfirmy.cz/firma/30074193-bytove-druzstvo-terra",
             "result": "identity_match",
             "evidence": [
               "Matching IČO on website",
@@ -25783,47 +25816,47 @@
       },
       "audit": {
         "state": "observed",
-        "checked_at": "2026-10-10",
-        "website": "https://www.chytryrejstrik.cz/ico-30074193/bytove-druzstvo-terra",
+        "checked_at": "2026-10-29",
+        "website": "https://www.jenfirmy.cz/firma/30074193-bytove-druzstvo-terra",
         "devices": {
           "desktop": {
-            "title": "Bytové družstvo Terra - analýza rizik a obchodní rejstřík",
-            "description": "Bytové družstvo Terra Sídlo Praha. IČO: 30074193. Obchodní rejstřík. Rok založení 2026. Kontrola rizik družstva. ",
+            "title": "Bytové družstvo Terra ⭐ Profil firmy | ⭐ JenFirmy.cz",
+            "description": "Prohlédněte si profil Bytové družstvo Terra a zjistěte vše, co potřebujete vědět. Místo, kontakty i prověřené recenze zaměstnanců.",
             "viewport_meta": true,
             "h1_count": 1,
             "horizontal_overflow_px": 0,
-            "visible_text_elements": 151,
-            "small_text_elements": 2,
+            "visible_text_elements": 80,
+            "small_text_elements": 0,
             "broken_images": 0,
             "images_missing_alt": 0,
-            "images_count": 40,
-            "contact_action": false,
-            "form_count": 1,
-            "booking_links": 0,
+            "images_count": 15,
+            "contact_action": true,
+            "form_count": 4,
+            "booking_links": 1,
             "http_status": 200
           },
           "navigation_errors": [],
           "mobile": {
-            "title": "Bytové družstvo Terra - analýza rizik a obchodní rejstřík",
-            "description": "Bytové družstvo Terra Sídlo Praha. IČO: 30074193. Obchodní rejstřík. Rok založení 2026. Kontrola rizik družstva. ",
+            "title": "Bytové družstvo Terra ⭐ Profil firmy | ⭐ JenFirmy.cz",
+            "description": "Prohlédněte si profil Bytové družstvo Terra a zjistěte vše, co potřebujete vědět. Místo, kontakty i prověřené recenze zaměstnanců.",
             "viewport_meta": true,
             "h1_count": 1,
             "horizontal_overflow_px": 0,
-            "visible_text_elements": 114,
-            "small_text_elements": 8,
+            "visible_text_elements": 80,
+            "small_text_elements": 0,
             "broken_images": 0,
             "images_missing_alt": 0,
-            "images_count": 40,
-            "contact_action": false,
-            "form_count": 1,
-            "booking_links": 0,
+            "images_count": 15,
+            "contact_action": true,
+            "form_count": 4,
+            "booking_links": 1,
             "http_status": 200
           }
         },
         "transport": {
           "state": "https_available",
           "http_url": null,
-          "observed_url": "https://www.chytryrejstrik.cz/ico-30074193/bytove-druzstvo-terra"
+          "observed_url": "https://www.jenfirmy.cz/firma/30074193-bytove-druzstvo-terra"
         },
         "objective_issues": [],
         "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
@@ -25842,7 +25875,7 @@
         "title": "Bytové družstvo Terra — research dossier",
         "facts": [
           "The business is listed at Plynární 1617, Praha, 17000.",
-          "An independently identity-matched business website was found: https://www.chytryrejstrik.cz/ico-30074193/bytove-druzstvo-terra.",
+          "An independently identity-matched business website was found: https://www.jenfirmy.cz/firma/30074193-bytove-druzstvo-terra.",
           "ARES confirms registration for IČO 30074193 dated 2026-09-24."
         ],
         "offer": "B2B website with project references and enquiry workflow",
@@ -25859,7 +25892,7 @@
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
           "https://ares.gov.cz/ekonomicke-subjekty?ico=30074193",
-          "https://www.chytryrejstrik.cz/ico-30074193/bytove-druzstvo-terra"
+          "https://www.jenfirmy.cz/firma/30074193-bytove-druzstvo-terra"
         ],
         "estimated_deal_czk": [
           30000,
@@ -25880,21 +25913,25 @@
         ]
       },
       "candidate_search_sources": [
-        "https://www.podnikatel.cz/rejstrik/bytove-druzstvo-terra-30074193/",
         "https://rejstrik-firem.kurzy.cz/30074193/bytove-druzstvo-terra/",
+        "https://www.podnikatel.cz/rejstrik/bytove-druzstvo-terra-30074193/",
+        "https://www.jenfirmy.cz/firma/30074193-bytove-druzstvo-terra",
         "https://www.chytryrejstrik.cz/ico-30074193/bytove-druzstvo-terra",
         "https://www.podnikani.cz/30074193/bytove-druzstvo-terra/",
-        "https://rejstrik-firem.kurzy.cz/30074193/bytove-druzstvo-terra/statisticky-urad/",
-        "https://www.facebook.com/DaramisGroup/",
-        "https://vces.cz/"
+        "https://www.detail.cz/subjekt/30074193-bytove-druzstvo-terra-plynarni-1617-10-praha/",
+        "https://rejstrik.penize.cz/ares/30074193-bytove-druzstvo-terra"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
       "verified_site_public_contacts": {
-        "emails": [],
-        "phones": [],
-        "source": "https://www.chytryrejstrik.cz/ico-30074193/bytove-druzstvo-terra",
+        "emails": [
+          "info@jenfirmy.cz"
+        ],
+        "phones": [
+          "+420226216660"
+        ],
+        "source": "https://www.jenfirmy.cz/firma/30074193-bytove-druzstvo-terra",
         "evidence": "Explicit mailto/tel links on identity-matched business website"
       },
       "owner_verified": false,
@@ -26052,37 +26089,56 @@
     "res-30075041": {
       "lead_id": "res-30075041",
       "name": "Vareston Group s.r.o.",
-      "checked_at": "2026-10-10",
+      "checked_at": "2026-10-29",
       "engine_version": 8,
       "state": "audited",
       "discovery": {
-        "status": "partial_search",
+        "status": "searched",
         "queries": [
           "\"Vareston Group s.r.o.\" IČO 30075041 web",
           "\"Vareston Group s.r.o.\" Praha Construction & property kontakt",
           "\"Vareston Group s.r.o.\" \"Cidlinská 788\" web",
           "\"Vareston Group s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 1,
+        "successful_queries": 2,
         "candidates": [
+          {
+            "url": "https://www.detail.cz/firma/30075041-vareston-group-sro-cidlinska-788-8-praha/",
+            "title": "Společnost Vareston Group s.r.o. | Detail.cz",
+            "snippet": "Společnost s ručením omezeným; Městský soud v Praze, odd. C vložka 455280 Kopírovat IČO Kopírovat zákl. údaje NÁZEV: Vareston Group s.r.o. ADRESA: Cidlinská 788/8, 19800, Praha IČO: 30075041"
+          },
+          {
+            "url": "https://www.podnikani.cz/30075041/vareston-group-sro/",
+            "title": "Vareston Group s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
+            "snippet": "Hledej Vareston Group s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. * Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku Vareston Group s.r.o. Cidlinská 788/8, Kyje, 19800 Praha 9 , IČO: 30075041, Zákl. kapitál: 10000 Kč"
+          },
           {
             "url": "https://rejstrik-firem.kurzy.cz/30075041/vareston-group-sro/zivnosti/",
             "title": "Vareston Group s.r.o. - Živnostenský rejstřík | Kurzy.cz",
             "snippet": "Oct 2, 2026 · Vareston Group s.r.o., firma – kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
           },
           {
-            "url": "https://www.detail.cz/firma/30075041-vareston-group-sro-cidlinska-788-8-praha/",
-            "title": "Společnost Vareston Group s.r.o. | Detail.cz",
-            "snippet": "Společnost Vareston Group s.r.o. (IČO: 30075041) byla založena dne 25. září 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti."
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
           },
           {
-            "url": "https://www.podnikani.cz/30075041/vareston-group-sro/",
-            "title": "Vareston Group s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
-            "snippet": "Hledej Vareston Group s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. * Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku Vareston Group s.r.o. Cidlinská 788/8, Kyje, 19800 Praha 9 , IČO: 30075041, Zákl. kapitál: 10000 Kč"
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Poptávám: šikovného a spolehlivého člověka na občasnou pomoc u rodinného domu před 19 minutami Pardubický kraj Služby Firma Praha 5 - Stodůlky zadáno 16 poptávek"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "O projektu Projekt Poptávky.cz sdružuje 937 260 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
           }
         ],
         "errors": [
-          "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
@@ -26139,7 +26195,7 @@
       },
       "audit": {
         "state": "observed",
-        "checked_at": "2026-10-10",
+        "checked_at": "2026-10-29",
         "website": "https://www.detail.cz/firma/30075041-vareston-group-sro-cidlinska-788-8-praha/",
         "devices": {
           "desktop": {
@@ -26236,9 +26292,13 @@
         ]
       },
       "candidate_search_sources": [
-        "https://rejstrik-firem.kurzy.cz/30075041/vareston-group-sro/zivnosti/",
         "https://www.detail.cz/firma/30075041-vareston-group-sro-cidlinska-788-8-praha/",
-        "https://www.podnikani.cz/30075041/vareston-group-sro/"
+        "https://www.podnikani.cz/30075041/vareston-group-sro/",
+        "https://rejstrik-firem.kurzy.cz/30075041/vareston-group-sro/zivnosti/",
+        "https://www.epoptavka.cz/",
+        "https://zakazky.epoptavka.cz/",
+        "https://poptavky.epoptavka.cz/",
+        "https://www.poptavky.cz/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
@@ -27637,7 +27697,7 @@
     "osm-node-11750596391": {
       "lead_id": "osm-node-11750596391",
       "name": "Brik kremnica",
-      "checked_at": "2026-10-19",
+      "checked_at": "2026-10-29",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -27697,7 +27757,7 @@
     "osm-node-12269672308": {
       "lead_id": "osm-node-12269672308",
       "name": "Stako",
-      "checked_at": "2026-10-20",
+      "checked_at": "2026-10-29",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -27757,7 +27817,7 @@
     "osm-node-12471926317": {
       "lead_id": "osm-node-12471926317",
       "name": "Nesia",
-      "checked_at": "2026-10-20",
+      "checked_at": "2026-10-29",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -27817,7 +27877,7 @@
     "osm-node-12857219463": {
       "lead_id": "osm-node-12857219463",
       "name": "Hošek Interier",
-      "checked_at": "2026-10-20",
+      "checked_at": "2026-10-29",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -27877,7 +27937,7 @@
     "osm-node-13282887518": {
       "lead_id": "osm-node-13282887518",
       "name": "phase",
-      "checked_at": "2026-10-20",
+      "checked_at": "2026-10-29",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
