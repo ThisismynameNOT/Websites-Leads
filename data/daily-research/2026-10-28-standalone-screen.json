@@ -1,0 +1,332 @@
+{
+  "date": "2026-10-28",
+  "market": "Czech Republic; Prague-first search; registration age 0–24 months (0–6 months emphasized)",
+  "result": {
+    "qualified_first_website": 0,
+    "qualified_established_redesign": 0,
+    "outreach_ready": 0,
+    "new_cases_screened": 5,
+    "age_0_6_months": 5,
+    "age_6_24_months": 0,
+    "confirmed_corporate_control_exclusions": 1
+  },
+  "official_res": {
+    "catalogue": "https://csu.gov.cz/produkty/registr-ekonomickych-subjektu-otevrena-data",
+    "official_res_csv": "https://opendata.csu.gov.cz/soubory/od/od_org03/res_data.csv",
+    "frequency": "twice monthly (15th and month-end; uploaded days later)",
+    "full_csv_ingested": false,
+    "ares_live_exact_ico_queries_accessible": false,
+    "discovery_sources": [
+      "https://rejstr.cz/firmy/nove",
+      "https://www.chytryrejstrik.cz/prehled/nove-zalozene-firmy",
+      "https://ov.gov.cz/vysledky?page=106"
+    ],
+    "limitation": "ČSÚ catalogue accessed but CSV fetch rejected as unsupported text/csv; exact-IČO ARES pages failed. Third-party RES-derived lists plus first-party Commercial Gazette filings used for targeted verification. Not exhaustive, and no current CSV release date claimed."
+  },
+  "cases": [
+    {
+      "name": "Next-Renova s.r.o.",
+      "ico": "30184991",
+      "registration_date": "2026-10-23",
+      "age_bucket": "0–6 months",
+      "city": "Karviná",
+      "decision": "HOLD_QA_NOT_OUTREACH",
+      "identity": {
+        "status": "OFFICIAL_COMMERCIAL_GAZETTE_CONFIRMED",
+        "source": "https://ov.gov.cz/zapis/25434279"
+      },
+      "registered_ownership": {
+        "shareholder": "Petr Chromický",
+        "share": "100% individual",
+        "source": "https://ov.gov.cz/zapis/25434279",
+        "control_independence": "UNVERIFIED beyond recorded direct shareholder"
+      },
+      "registered_services": "Construction finishing, specialist construction, low-voltage electronic equipment and technical services; registered activities only",
+      "brand": {
+        "status": "NOT VERIFIED"
+      },
+      "external_customer_projects": {
+        "status": "NOT VERIFIED"
+      },
+      "company_specific_sales_contact": {
+        "status": "NOT VERIFIED",
+        "value": null
+      },
+      "official_website": {
+        "status": "UNKNOWN_NOT_VERIFIED_ABSENT",
+        "attributable_url": null,
+        "checks": [
+          "exact name",
+          "exact IČO",
+          "name + website/contact",
+          "founder name + company"
+        ],
+        "limitation": "Search non-results are not proof of website absence; exhaustive first-party alias/domain audit not completed"
+      },
+      "non_spv_independent_operation": "NOT VERIFIED",
+      "capacity_budget": "NOT VERIFIED",
+      "blockers": [
+        "No verified external client work",
+        "No distinct marketed brand",
+        "No dedicated public sales contact",
+        "No verified beneficial control or associated-brand independence",
+        "No conclusive owned-domain audit"
+      ],
+      "sources": [
+        "https://ov.gov.cz/zapis/25434279",
+        "https://rejstr.cz/30184991/next-renova"
+      ]
+    },
+    {
+      "name": "JK - Clean s.r.o.",
+      "ico": "30143730",
+      "registration_date": "2026-10-23",
+      "age_bucket": "0–6 months",
+      "city": "Krnov",
+      "decision": "HOLD_QA_NOT_OUTREACH",
+      "identity": {
+        "status": "COMMERCIAL_GAZETTE_CONFIRMED",
+        "source": "https://ov.ihned.cz/zapis/25434544"
+      },
+      "registered_ownership": {
+        "shareholder": "Jana Koleňáková",
+        "share": "100% individual",
+        "source": "https://ov.ihned.cz/zapis/25434544",
+        "control_independence": "UNVERIFIED beyond recorded direct shareholder"
+      },
+      "registered_services": "Laundry, ironing, household services and retail among licensed categories; actual marketed offer unverified",
+      "brand": {
+        "status": "NOT VERIFIED"
+      },
+      "external_customer_projects": {
+        "status": "NOT VERIFIED"
+      },
+      "company_specific_sales_contact": {
+        "status": "NOT VERIFIED",
+        "value": null
+      },
+      "official_website": {
+        "status": "UNKNOWN_NOT_VERIFIED_ABSENT",
+        "attributable_url": null,
+        "checks": [
+          "exact name",
+          "exact IČO",
+          "name + web/contact",
+          "founder + company"
+        ],
+        "limitation": "No complete first-party domain/alias audit"
+      },
+      "non_spv_independent_operation": "NOT VERIFIED",
+      "capacity_budget": "NOT VERIFIED",
+      "blockers": [
+        "No independent outside-customer evidence",
+        "No dedicated enquiry channel",
+        "No confirmed active service brand",
+        "Beneficial control and associated-brand roles not independently verified",
+        "Website status unresolved"
+      ],
+      "sources": [
+        "https://ov.ihned.cz/zapis/25434544",
+        "https://rejstr.cz/30143730/jk-clean"
+      ]
+    },
+    {
+      "name": "Ing. Erik Kubelka Bau & Montage s.r.o.",
+      "ico": "30187567",
+      "registration_date": "2026-10-24",
+      "age_bucket": "0–6 months",
+      "city": "Hlubočky",
+      "decision": "HOLD_QA_NOT_OUTREACH",
+      "identity": {
+        "status": "REGISTRY_DERIVED_AND_OFFICIAL_GAZETTE_LISTING",
+        "sources": [
+          "https://rejstr.cz/30187567/ing-erik-kubelka-bau-a-montage",
+          "https://ov.gov.cz/vysledky?page=106"
+        ]
+      },
+      "registered_ownership": {
+        "shareholder": "Ing. Erik Kubelka",
+        "share": "100% individual",
+        "source": "https://rejstr.cz/30187567/ing-erik-kubelka-bau-a-montage",
+        "control_independence": "NOT VERIFIED"
+      },
+      "registered_services": "Gas equipment installation/testing, plumbing and heating registered; active B2B/B2C offering not independently verified",
+      "brand": {
+        "status": "NOT VERIFIED"
+      },
+      "external_customer_projects": {
+        "status": "NOT VERIFIED"
+      },
+      "company_specific_sales_contact": {
+        "status": "NOT VERIFIED",
+        "value": null
+      },
+      "official_website": {
+        "status": "UNKNOWN_NOT_VERIFIED_ABSENT",
+        "attributable_url": null,
+        "checks": [
+          "exact name",
+          "IČO",
+          "founder + services"
+        ],
+        "limitation": "Domain aliases and first-party ownership not exhaustively checked"
+      },
+      "non_spv_independent_operation": "NOT VERIFIED",
+      "capacity_budget": "NOT VERIFIED",
+      "blockers": [
+        "No attributable external customer contracts",
+        "No verified dedicated sales channel",
+        "No proven operating brand",
+        "Beneficial control and related businesses unresolved",
+        "No exhaustive website audit"
+      ],
+      "sources": [
+        "https://rejstr.cz/30187567/ing-erik-kubelka-bau-a-montage",
+        "https://ov.gov.cz/vysledky?page=106"
+      ]
+    },
+    {
+      "name": "Moderní střecha s.r.o.",
+      "ico": "30185131",
+      "registration_date": "2026-10-22",
+      "age_bucket": "0–6 months",
+      "city": "Petřvald",
+      "decision": "HOLD_QA_NOT_OUTREACH",
+      "identity": {
+        "status": "REGISTRY_DERIVED_ONLY",
+        "source": "https://rejstr.cz/30185131/moderni-strecha"
+      },
+      "registered_ownership": {
+        "shareholder": "Jiří Dostalík",
+        "share": "100% individual",
+        "source": "https://rejstr.cz/30185131/moderni-strecha",
+        "control_independence": "NOT VERIFIED"
+      },
+      "registered_services": "Construction and finishing licensed, but 'roofing' is inferred from name and NOT independently verified marketed service",
+      "brand": {
+        "status": "NOT VERIFIED"
+      },
+      "external_customer_projects": {
+        "status": "NOT VERIFIED"
+      },
+      "company_specific_sales_contact": {
+        "status": "NOT VERIFIED",
+        "value": null
+      },
+      "official_website": {
+        "status": "UNKNOWN_NOT_VERIFIED_ABSENT",
+        "attributable_url": null,
+        "checks": [
+          "exact company name",
+          "exact IČO",
+          "founder name + roofing"
+        ],
+        "limitation": "No complete owned-domain audit; similarly worded roofing sites belong to other operators"
+      },
+      "non_spv_independent_operation": "NOT VERIFIED",
+      "capacity_budget": "NOT VERIFIED",
+      "blockers": [
+        "Only registration and individual ownership evidenced",
+        "No independently verified roof projects",
+        "No company-specific contact",
+        "No full control and first-party site audit"
+      ],
+      "sources": [
+        "https://rejstr.cz/30185131/moderni-strecha"
+      ]
+    },
+    {
+      "name": "Fabron s.r.o.",
+      "ico": "30191483",
+      "registration_date": "2026-10-24",
+      "age_bucket": "0–6 months",
+      "city": "Trhové Sviny",
+      "decision": "EXCLUDE_CONFIRMED_CORPORATE_PARENT",
+      "identity": {
+        "status": "REGISTRY_DERIVED",
+        "source": "https://rejstr.cz/30191483/fabron"
+      },
+      "registered_ownership": {
+        "shareholder": "G.AT support s.r.o.",
+        "share": "100% (single registered 1,000 CZK share of 1,000 CZK total capital)",
+        "parent_ico": "30174848",
+        "source": "https://rejstr.cz/30191483/fabron",
+        "control_independence": "CORPORATE_PARENT_CONFIRMED_IN_REGISTRY_DERIVED_RECORD"
+      },
+      "registered_services": "Real estate leasing and own-property management licensed; no evidence of independent external customer brand",
+      "brand": {
+        "status": "NOT VERIFIED"
+      },
+      "external_customer_projects": {
+        "status": "NOT VERIFIED"
+      },
+      "company_specific_sales_contact": {
+        "status": "NOT VERIFIED",
+        "value": null
+      },
+      "official_website": {
+        "status": "NOT_ASSESSED_AFTER_PARENT_EXCLUSION",
+        "attributable_url": null
+      },
+      "non_spv_independent_operation": "NOT VERIFIED; property focus is not alone proof of SPV",
+      "capacity_budget": "NOT VERIFIED",
+      "blockers": [
+        "Confirmed 100% ownership by another s.r.o. IČO 30174848",
+        "Fails independent-operator hard gate regardless of site status"
+      ],
+      "sources": [
+        "https://rejstr.cz/30191483/fabron",
+        "https://www.chytryrejstrik.cz/ico-30191483/fabron-s-r-o"
+      ]
+    }
+  ],
+  "established_redesign_carryover": [
+    {
+      "name": "JIB s.r.o.",
+      "ico": "28969472",
+      "registration_date": "2009-10-02",
+      "age_bucket": "established",
+      "existing_site": "https://jib-s-r-o.webnode.cz/",
+      "decision": "HOLD_QA_REDESIGN_ONLY",
+      "blockers": [
+        "Beneficial control not fully verified",
+        "Alternative historical jibsro.cz domain status unresolved",
+        "No evidenced buyer interest or marketing budget"
+      ],
+      "sources": [
+        "https://jib-s-r-o.webnode.cz/"
+      ]
+    },
+    {
+      "name": "BOHUC stav s.r.o.",
+      "ico": "04916514",
+      "registration_date": "2016-03-18",
+      "age_bucket": "established",
+      "decision": "HOLD_QA_NOT_OUTREACH",
+      "blockers": [
+        "Recruitment contact is not independently proven customer enquiry channel",
+        "Owned site status and direct brand sales role not established"
+      ]
+    }
+  ],
+  "historical_october_3_6": {
+    "screened": 24,
+    "verified_standalone_brands": 0,
+    "outreach_ready": 0,
+    "changes_to_records": 0
+  },
+  "repository": {
+    "branch": "research/2026-10-23-standalone-audit",
+    "pr": 14,
+    "production_publish": false,
+    "legacy_crm_untouched": true,
+    "september_sheet_untouched": true,
+    "source_policy": "No first-website claims without positive independent customer/brand/ownership/contacts and exhaustive owned-site audit; no prices or buying intent invented."
+  },
+  "no_invented": {
+    "prices": true,
+    "scores": true,
+    "buying_interest": true,
+    "web_absence": true
+  }
+}

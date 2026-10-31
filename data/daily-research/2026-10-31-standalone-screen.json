@@ -1,0 +1,431 @@
+{
+  "schema_version": 1,
+  "research_date": "2026-10-31",
+  "research_type": "targeted new-registration ownership, first-party brand and external-customer screening",
+  "official_sources_checked": [
+    {
+      "url": "https://csu.gov.cz/produkty/newsletter-42-kalendarni-tyden-2026",
+      "finding": "Official ČSÚ newsletter published 2026-10-16 confirms RES snapshot as of 2026-10-15."
+    },
+    {
+      "url": "https://csu.gov.cz/produkty/newsletter-44-kalendarni-tyden-2026",
+      "finding": "Official ČSÚ newsletter published 2026-10-30 schedules next RES snapshot as of 2026-10-31 for publication on 2026-11-02; not yet available on 31 Oct."
+    },
+    {
+      "url": "https://csu.gov.cz/produkty/registr-ekonomickych-subjektu-otevrena-data",
+      "finding": "Official RES catalogue and schema checked; raw CSV retrieval failed (web unsupported content-type; container network DNS unavailable). No exhaustive national export was processed."
+    },
+    {
+      "url": "https://rejstr.cz/firmy/nove",
+      "finding": "Third-party public-registry-derived recent-registration discovery, data current to 2026-10-30; source is not official ČSÚ/ARES and not evidence of operations or customers."
+    }
+  ],
+  "summary": {
+    "new_first_website_outreach_ready": 0,
+    "redesign_outreach_ready": 0,
+    "records_reviewed": 8,
+    "hold_qa": 4,
+    "exclude": 4,
+    "commercial_approval": "NONE",
+    "historical_october_3_to_6_cohort": "24 screened, zero verified standalone brands, zero outreach-ready; historical records unchanged",
+    "data_scope": "Targeted public-record-derived screen, not complete RES/ARES extraction. Ownership based on registry-derived records; original commercial-register filings inaccessible."
+  },
+  "records": [
+    {
+      "age_bucket": "0–6 months",
+      "external_customer_evidence": {
+        "status": "NOT VERIFIED FOR EXACT IČO",
+        "source_urls": []
+      },
+      "public_sales_channel": {
+        "status": "NOT VERIFIED FOR EXACT IČO",
+        "source_urls": []
+      },
+      "capacity": "No independent operating capacity or website budget verified",
+      "website_opportunity": "NOT ESTABLISHED; not outreach-ready",
+      "eligible_for_outreach": false,
+      "name": "KL servisní s.r.o.",
+      "ico": "30169470",
+      "registration_date": "2026-10-29",
+      "status": "EXCLUDE — confirmed 100% corporate shareholder in registry-derived record",
+      "marketed_offering": "No independently verified marketed outside-customer service; registration is not proof",
+      "ownership": {
+        "status": "CORPORATE CONTROL CONFIRMED in registry-derived shareholding record; original court filing not retrieved",
+        "shareholder": "Kristiánov Liberec s.r.o.",
+        "shareholder_ico": "26097834",
+        "shareholding": "100%",
+        "source_urls": [
+          "https://rejstr.cz/30169470/kl-servisni"
+        ]
+      },
+      "first_party_site": {
+        "status": "NAME COLLISION; existing kl-servis.cz belongs to KL - servis s.r.o., IČO 25738577, NOT this legal entity; no-site classification inapplicable to excluded company",
+        "url": null,
+        "aliases_considered": [
+          "KL servisní",
+          "KL-servis",
+          "kl-servis.cz"
+        ],
+        "source_urls": [
+          "https://rejstr.cz/30169470/kl-servisni",
+          "https://kl-servis.cz/kontakt/"
+        ]
+      },
+      "spv_captive_check": "Parent-controlled: exclude. No claim of single-property SPV without specific proof.",
+      "blockers": [
+        "100% owned by a corporate shareholder; fails independent-brand gate",
+        "Outside-customer operations and company-specific public sales channel not verified"
+      ],
+      "source_urls": [
+        "https://rejstr.cz/30169470/kl-servisni",
+        "https://kl-servis.cz/kontakt/"
+      ],
+      "location": "Liberec"
+    },
+    {
+      "age_bucket": "0–6 months",
+      "external_customer_evidence": {
+        "status": "NOT VERIFIED FOR EXACT IČO",
+        "source_urls": []
+      },
+      "public_sales_channel": {
+        "status": "NOT VERIFIED FOR EXACT IČO",
+        "source_urls": []
+      },
+      "capacity": "No independent operating capacity or website budget verified",
+      "website_opportunity": "NOT ESTABLISHED; not outreach-ready",
+      "eligible_for_outreach": false,
+      "name": "StavHost Projekt s.r.o.",
+      "ico": "30207517",
+      "registration_date": "2026-10-29",
+      "status": "EXCLUDE — confirmed 100% corporate shareholder in registry-derived record",
+      "marketed_offering": "Construction authorization and own-asset management registered; no independent customer projects verified",
+      "ownership": {
+        "status": "CORPORATE CONTROL CONFIRMED in registry-derived shareholding record; original court filing not retrieved",
+        "shareholder": "StavHost Chotěvice s.r.o.",
+        "shareholder_ico": "30077095",
+        "shareholding": "100%",
+        "source_urls": [
+          "https://rejstr.cz/30207517/stavhost-projekt"
+        ]
+      },
+      "first_party_site": {
+        "status": "NOT AUDITED TO ABSENCE; unnecessary once corporate control established",
+        "url": null,
+        "aliases_considered": [
+          "StavHost Projekt s.r.o.",
+          "30207517"
+        ]
+      },
+      "spv_captive_check": "Parent-controlled: exclude. No claim of single-property SPV without specific proof.",
+      "blockers": [
+        "100% owned by a corporate shareholder; fails independent-brand gate",
+        "Outside-customer operations and company-specific public sales channel not verified"
+      ],
+      "source_urls": [
+        "https://rejstr.cz/30207517/stavhost-projekt"
+      ],
+      "location": "Chotěvice"
+    },
+    {
+      "age_bucket": "0–6 months",
+      "external_customer_evidence": {
+        "status": "NOT VERIFIED FOR EXACT IČO",
+        "source_urls": []
+      },
+      "public_sales_channel": {
+        "status": "NOT VERIFIED FOR EXACT IČO",
+        "source_urls": []
+      },
+      "capacity": "No independent operating capacity or website budget verified",
+      "website_opportunity": "NOT ESTABLISHED; not outreach-ready",
+      "eligible_for_outreach": false,
+      "name": "StavHost Invest s.r.o.",
+      "ico": "30207720",
+      "registration_date": "2026-10-29",
+      "status": "EXCLUDE — confirmed 100% corporate shareholder in registry-derived record",
+      "marketed_offering": "Property rental and own-asset management registered; no independently marketed external-customer services verified",
+      "ownership": {
+        "status": "CORPORATE CONTROL CONFIRMED in registry-derived shareholding record; original court filing not retrieved",
+        "shareholder": "StavHost Chotěvice s.r.o.",
+        "shareholder_ico": "30077095",
+        "shareholding": "100%",
+        "source_urls": [
+          "https://rejstr.cz/30207720/stavhost-invest"
+        ]
+      },
+      "first_party_site": {
+        "status": "NOT AUDITED TO ABSENCE; unnecessary once corporate control established",
+        "url": null,
+        "aliases_considered": [
+          "StavHost Invest s.r.o.",
+          "30207720"
+        ]
+      },
+      "spv_captive_check": "Parent-controlled: exclude. No claim of single-property SPV without specific proof.",
+      "blockers": [
+        "100% owned by a corporate shareholder; fails independent-brand gate",
+        "Outside-customer operations and company-specific public sales channel not verified"
+      ],
+      "source_urls": [
+        "https://rejstr.cz/30207720/stavhost-invest"
+      ],
+      "location": "Chotěvice"
+    },
+    {
+      "age_bucket": "0–6 months",
+      "external_customer_evidence": {
+        "status": "NOT VERIFIED FOR EXACT IČO",
+        "source_urls": []
+      },
+      "public_sales_channel": {
+        "status": "NOT VERIFIED FOR EXACT IČO",
+        "source_urls": []
+      },
+      "capacity": "No independent operating capacity or website budget verified",
+      "website_opportunity": "NOT ESTABLISHED; not outreach-ready",
+      "eligible_for_outreach": false,
+      "name": "StavHost Pozemková s.r.o.",
+      "ico": "30207894",
+      "registration_date": "2026-10-29",
+      "status": "EXCLUDE — confirmed 100% corporate shareholder in registry-derived record",
+      "marketed_offering": "Property rental and own-asset management registered; no independently marketed external-customer services verified",
+      "ownership": {
+        "status": "CORPORATE CONTROL CONFIRMED in registry-derived shareholding record; original court filing not retrieved",
+        "shareholder": "StavHost Chotěvice s.r.o.",
+        "shareholder_ico": "30077095",
+        "shareholding": "100%",
+        "source_urls": [
+          "https://rejstr.cz/30207894/stavhost-pozemkova"
+        ]
+      },
+      "first_party_site": {
+        "status": "NOT AUDITED TO ABSENCE; unnecessary once corporate control established",
+        "url": null,
+        "aliases_considered": [
+          "StavHost Pozemková s.r.o.",
+          "30207894"
+        ]
+      },
+      "spv_captive_check": "Parent-controlled: exclude. No claim of single-property SPV without specific proof.",
+      "blockers": [
+        "100% owned by a corporate shareholder; fails independent-brand gate",
+        "Outside-customer operations and company-specific public sales channel not verified"
+      ],
+      "source_urls": [
+        "https://rejstr.cz/30207894/stavhost-pozemkova"
+      ],
+      "location": "Chotěvice"
+    },
+    {
+      "age_bucket": "0–6 months",
+      "external_customer_evidence": {
+        "status": "NOT VERIFIED FOR EXACT IČO",
+        "source_urls": []
+      },
+      "public_sales_channel": {
+        "status": "NOT VERIFIED FOR EXACT IČO",
+        "source_urls": []
+      },
+      "capacity": "No independent operating capacity or website budget verified",
+      "website_opportunity": "NOT ESTABLISHED; not outreach-ready",
+      "eligible_for_outreach": false,
+      "name": "Zahrady Zaoral s.r.o.",
+      "ico": "30205808",
+      "registration_date": "2026-10-29",
+      "location": "Bedihošť, Olomouc Region",
+      "status": "HOLD/QA",
+      "marketed_offering": "Gardening, landscaping-related activities licensed; no separately marketed customer service verified",
+      "ownership": {
+        "status": "Ondřej Zaoral 100% individual registered shareholder; ultimate control and actual commercial operation unverified",
+        "source_urls": [
+          "https://rejstr.cz/30205808/zahrady-zaoral"
+        ]
+      },
+      "first_party_site": {
+        "status": "UNKNOWN; searches cannot prove no first-party owned site",
+        "url": null,
+        "aliases_considered": [
+          "Zahrady Zaoral",
+          "Ondřej Zaoral",
+          "30205808"
+        ],
+        "source_urls": [
+          "https://rejstr.cz/30205808/zahrady-zaoral"
+        ]
+      },
+      "spv_captive_check": "Independently marketed non-SPV/non-captive external-customer operation not affirmatively established",
+      "blockers": [
+        "No verified outside customers or attributable projects for exact IČO",
+        "No dedicated company-specific public enquiry channel",
+        "No independently marketed brand tied to exact IČO",
+        "No complete alias/domain ownership audit or operating-capacity proof",
+        "Independent non-SPV/non-captive commercial role unverified"
+      ],
+      "source_urls": [
+        "https://rejstr.cz/30205808/zahrady-zaoral"
+      ]
+    },
+    {
+      "age_bucket": "0–6 months",
+      "external_customer_evidence": {
+        "status": "NOT VERIFIED FOR EXACT IČO",
+        "source_urls": []
+      },
+      "public_sales_channel": {
+        "status": "NOT VERIFIED FOR EXACT IČO",
+        "source_urls": []
+      },
+      "capacity": "No independent operating capacity or website budget verified",
+      "website_opportunity": "NOT ESTABLISHED; not outreach-ready",
+      "eligible_for_outreach": false,
+      "name": "R.M.STAVMONT.CZ s.r.o.",
+      "ico": "30207606",
+      "registration_date": "2026-10-29",
+      "location": "Ostrava",
+      "status": "HOLD/QA",
+      "marketed_offering": "Construction and building alterations licensed; no independently attributable completed work",
+      "ownership": {
+        "status": "Róbert Masnica 100% individual registered shareholder; not proof of independently operating brand",
+        "source_urls": [
+          "https://rejstr.cz/30207606/r-m-stavmont-cz"
+        ]
+      },
+      "first_party_site": {
+        "status": "UNKNOWN; searches cannot prove no first-party owned site",
+        "url": null,
+        "aliases_considered": [
+          "R.M.STAVMONT.CZ",
+          "RM STAVMONT",
+          "Róbert Masnica",
+          "30207606",
+          "rmstavmont.cz (not verified as an owned domain)"
+        ],
+        "source_urls": [
+          "https://rejstr.cz/30207606/r-m-stavmont-cz"
+        ]
+      },
+      "spv_captive_check": "Independently marketed non-SPV/non-captive external-customer operation not affirmatively established",
+      "blockers": [
+        "No verified outside customers or attributable projects for exact IČO",
+        "No dedicated company-specific public enquiry channel",
+        "No independently marketed brand tied to exact IČO",
+        "No complete alias/domain ownership audit or operating-capacity proof",
+        "Independent non-SPV/non-captive commercial role unverified"
+      ],
+      "source_urls": [
+        "https://rejstr.cz/30207606/r-m-stavmont-cz"
+      ]
+    },
+    {
+      "age_bucket": "0–6 months",
+      "external_customer_evidence": {
+        "status": "NOT VERIFIED FOR EXACT IČO",
+        "source_urls": []
+      },
+      "public_sales_channel": {
+        "status": "NOT VERIFIED FOR EXACT IČO",
+        "source_urls": []
+      },
+      "capacity": "No independent operating capacity or website budget verified",
+      "website_opportunity": "NOT ESTABLISHED; not outreach-ready",
+      "eligible_for_outreach": false,
+      "name": "PHN service s.r.o.",
+      "ico": "30207380",
+      "registration_date": "2026-10-30",
+      "location": "Zlín",
+      "status": "HOLD/QA",
+      "marketed_offering": "Electrical installation, real-estate, accounting and other trades registered; specific public customer offer not verified",
+      "ownership": {
+        "status": "Pavel Hruška 100% individual registered shareholder; non-SPV and independent marketed operation unverified",
+        "source_urls": [
+          "https://rejstr.cz/30207380/phn-service"
+        ]
+      },
+      "first_party_site": {
+        "status": "UNKNOWN; searches cannot prove no first-party owned site",
+        "url": null,
+        "aliases_considered": [
+          "PHN service",
+          "Pavel Hruška",
+          "30207380"
+        ],
+        "source_urls": [
+          "https://rejstr.cz/30207380/phn-service"
+        ]
+      },
+      "spv_captive_check": "Property/asset-management registration prompts QA but does NOT prove an SPV.",
+      "blockers": [
+        "No verified outside customers or attributable projects for exact IČO",
+        "No dedicated company-specific public enquiry channel",
+        "No independently marketed brand tied to exact IČO",
+        "No complete alias/domain ownership audit or operating-capacity proof",
+        "Independent non-SPV/non-captive commercial role unverified"
+      ],
+      "source_urls": [
+        "https://rejstr.cz/30207380/phn-service"
+      ]
+    },
+    {
+      "age_bucket": "0–6 months",
+      "external_customer_evidence": {
+        "status": "NOT VERIFIED FOR EXACT IČO",
+        "source_urls": []
+      },
+      "public_sales_channel": {
+        "status": "NOT VERIFIED FOR EXACT IČO",
+        "source_urls": []
+      },
+      "capacity": "No independent operating capacity or website budget verified",
+      "website_opportunity": "NOT ESTABLISHED; not outreach-ready",
+      "eligible_for_outreach": false,
+      "name": "DVOMI s.r.o.",
+      "ico": "30181038",
+      "registration_date": "2026-10-29",
+      "location": "Praha 10, Vršovice",
+      "status": "HOLD/QA",
+      "marketed_offering": "Own-wealth management and property rental registered; no external-customer service business evidenced",
+      "ownership": {
+        "status": "Jiří Dvořáček 80% and DM nemovitosti s.r.o. IČO 09591036 20%; minority corporate stake does NOT establish controlling parent",
+        "source_urls": [
+          "https://rejstr.cz/30181038/dvomi"
+        ]
+      },
+      "first_party_site": {
+        "status": "UNKNOWN; searches cannot prove no first-party owned site",
+        "url": null,
+        "aliases_considered": [
+          "DVOMI",
+          "30181038",
+          "DM nemovitosti"
+        ],
+        "source_urls": [
+          "https://rejstr.cz/30181038/dvomi"
+        ]
+      },
+      "spv_captive_check": "Property-focused entity with minority corporate investor. No positive single-property/SPV proof; HOLD rather than EXCLUDE.",
+      "blockers": [
+        "No direct independently marketed outside-customer offer",
+        "No attributable outside-customer contracts",
+        "No company-specific sales contact",
+        "No complete owned-site or non-SPV operational proof"
+      ],
+      "source_urls": [
+        "https://rejstr.cz/30181038/dvomi"
+      ]
+    }
+  ],
+  "known_existing_cases": {
+    "BOHUC": "HOLD/QA; historical outside-customer contract exists but dedicated sales channel, beneficial control and site status remain unresolved; no outreach approval",
+    "JIB": "HOLD/QA redesign only; existing Webnode website; beneficial control and alternate domain unresolved",
+    "HT_elektro": "HOLD/QA redesign only; exact-IČO website confirmed, but externally verified new-entity projects and objective redesign need unproven"
+  },
+  "limitations": [
+    "Original Commercial Register shareholder filings and ARES company pages were not consistently retrievable; corporate ownership is based on registry-derived records with source URLs.",
+    "No complete ČSÚ RES CSV; 2026-10-31 snapshot scheduled for release 2026-11-02.",
+    "Negative web searches do not prove first-party website absence.",
+    "No confirmed public business enquiry contacts for held companies; no outside-client contracts or independent budget evidence.",
+    "No speculative prices, scores, intent or outreach approval. No outreach sent.",
+    "No GitHub Pages publication implied by a draft-branch update."
+  ]
+}

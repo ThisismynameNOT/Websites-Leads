@@ -1,0 +1,215 @@
+{
+  "schema_version": 1,
+  "research_date": "2026-10-29",
+  "research_type": "targeted new registration follow-up and first-party domain audit",
+  "official_sources_checked": [
+    {
+      "url": "https://csu.gov.cz/produkty/registr-ekonomickych-subjektu-otevrena-data",
+      "finding": "Official RES CSV is updated twice monthly, with reference dates the 15th and month-end. Direct CSV content was not accessible in this environment; no full ingestion or exhaustive scan claimed."
+    },
+    {
+      "url": "https://csu.gov.cz/registr_ekonomickych_subjektu",
+      "finding": "RES is a statistical register; entries do not establish independent outside-customer operations."
+    },
+    {
+      "url": "https://www.cesko.mynexus.cz/nove-firmy/obec/praha-554782/2026-09/",
+      "finding": "Registry-derived Prague September listing states RES source snapshot 2026-10-15; this is secondary evidence, not direct CSV ingestion."
+    }
+  ],
+  "summary": {
+    "new_first_website_outreach_ready": 0,
+    "redesign_outreach_ready": 0,
+    "confirmed_first_party_website_in_recent_registration": 1,
+    "records_reviewed": 4,
+    "hold_qa": 4,
+    "exclude": 0,
+    "commercial_approval": "NONE",
+    "historical_october_3_to_6_cohort": "24 records remain zero verified standalone brands and zero outreach-ready; no changes to cohort."
+  },
+  "records": [
+    {
+      "name": "HT elektro s.r.o.",
+      "ico": "23618957",
+      "registration_date": "2025-08-20",
+      "age_bucket": "6–24 months",
+      "location": "Praha 3, Žižkov",
+      "status": "HOLD/QA — EXISTING OWNED SITE; NOT FIRST WEBSITE",
+      "marketed_offering": "Electrical installation, low-voltage, CCTV/security, lighting and inspection services to companies and households",
+      "first_party_site": {
+        "url": "https://ht-elektro.cz/",
+        "status": "VERIFIED OWNED BY EXACT IČO",
+        "basis": "Site footer/contact displays legal name and exact IČO 23618957; independent Firmy.cz listing corroborates."
+      },
+      "public_sales_channel": {
+        "phone": "+420 725 878 520",
+        "email": "info@ht-elektro.cz",
+        "status": "company-specific published enquiry channel",
+        "source_urls": [
+          "https://ht-elektro.cz/",
+          "https://en.firmy.cz/company/12946802-tomas-holy-planice.html"
+        ]
+      },
+      "registered_owners": {
+        "status": "two natural-person shareholders listed; corporate parent not shown in registry-derived current relationships; ultimate control not independently resolved",
+        "names": [
+          "Tomáš Holý",
+          "Martin Malík"
+        ],
+        "associated_brand_checks": "Martin Malík linked to PeKe s.r.o. and Emanovo uzenářství s.r.o.; association alone is not proof of corporate control.",
+        "source_urls": [
+          "https://www.podnikatel.cz/rejstrik/ht-elektro-s-r-o-23618957/"
+        ]
+      },
+      "external_customer_evidence": {
+        "status": "NOT INDEPENDENTLY VERIFIED FOR EXACT IČO",
+        "detail": "Company website names nine customers and claims predecessor operations from 2010, but the s.r.o. dates to Aug 2025. Named references are first-party claims and may relate to predecessor work; no independent counterparty confirmation or attributable contract was retrieved. Hlídač státu shows no public procurement for this IČO.",
+        "source_urls": [
+          "https://ht-elektro.cz/",
+          "https://www.hlidacstatu.cz/subjekt/VerejneZakazky/23618957"
+        ]
+      },
+      "spv_captive_check": "Operational electrical-service website and named enquiries are positive evidence against single-property SPV, but ultimate control and outside-customer transactions still require verification.",
+      "capacity": "RES category 1–5 employees, not budget evidence",
+      "website_opportunity": "NO first website. No independently evidenced technical or commercial redesign defect established. Do not solicit.",
+      "blockers": [
+        "Independent proof of actual outside-customer work under this exact legal entity or predecessor continuity",
+        "Ultimate control check",
+        "Objective independently evidenced website defect",
+        "Operating budget and buying interest unknown"
+      ],
+      "source_urls": [
+        "https://ht-elektro.cz/",
+        "https://www.podnikatel.cz/rejstrik/ht-elektro-s-r-o-23618957/",
+        "https://www.hlidacstatu.cz/subjekt/VerejneZakazky/23618957"
+      ]
+    },
+    {
+      "name": "Moderní střecha s.r.o.",
+      "ico": "30185131",
+      "registration_date": "2026-10-22",
+      "age_bucket": "0–6 months",
+      "location": "Petřvald",
+      "status": "HOLD/QA",
+      "marketed_offering": "Roofing-sounding legal name; registered construction activities only; no distinct marketed customer offer verified",
+      "registered_owners": {
+        "status": "individual shareholder Jiří Dostalík, 100% per registry-derived extract; not proof of operating independence",
+        "source_urls": [
+          "https://rejstr.cz/30185131/moderni-strecha"
+        ]
+      },
+      "external_customer_evidence": {
+        "status": "not verified",
+        "source_urls": []
+      },
+      "public_sales_channel": {
+        "status": "not verified",
+        "source_urls": []
+      },
+      "first_party_site": {
+        "status": "unresolved; no comprehensive absence verification",
+        "url": null
+      },
+      "spv_captive_check": "unknown; not presumed",
+      "capacity": "unknown",
+      "website_opportunity": "not established",
+      "blockers": [
+        "Distinct operating brand unverified",
+        "Outside customers unverified",
+        "Dedicated contact unverified",
+        "Control/associated brands and owned-domain audit incomplete"
+      ],
+      "source_urls": [
+        "https://rejstr.cz/30185131/moderni-strecha"
+      ]
+    },
+    {
+      "name": "Krovix s.r.o.",
+      "ico": "30077826",
+      "registration_date": "2026-09-29",
+      "age_bucket": "0–6 months",
+      "location": "Praha 6",
+      "status": "HOLD/QA",
+      "marketed_offering": "Registered roofing/carpentry trades, no separately marketed service proven",
+      "registered_owners": {
+        "status": "Filip Brabec individual shareholder/director per registry-derived record; ultimate control not proven",
+        "source_urls": [
+          "https://www.podnikatel.cz/rejstrik/krovix-s-r-o-30077826/"
+        ]
+      },
+      "external_customer_evidence": {
+        "status": "not verified",
+        "source_urls": []
+      },
+      "public_sales_channel": {
+        "status": "not verified",
+        "source_urls": []
+      },
+      "first_party_site": {
+        "status": "unknown, not verified absent",
+        "url": null
+      },
+      "spv_captive_check": "unknown",
+      "capacity": "unknown",
+      "website_opportunity": "not established",
+      "blockers": [
+        "No attributable external projects",
+        "No business-specific public contact",
+        "No verified marketed brand",
+        "No exhaustive exact-IČO/domain/alias audit"
+      ],
+      "source_urls": [
+        "https://www.podnikatel.cz/rejstrik/krovix-s-r-o-30077826/"
+      ]
+    },
+    {
+      "name": "Zemní práce Navrátil s.r.o.",
+      "ico": "30076641",
+      "registration_date": "2026-09-25",
+      "age_bucket": "0–6 months",
+      "location": "Svinaře, Beroun district",
+      "status": "HOLD/QA",
+      "marketed_offering": "Site preparation/earthworks registered; actual customer offer unverified",
+      "registered_owners": {
+        "status": "Miroslav Navrátil 100% individual shareholder per registry-derived extract; not proof of standalone operation",
+        "source_urls": [
+          "https://www.cesko.mynexus.cz/firma/30076641/"
+        ]
+      },
+      "external_customer_evidence": {
+        "status": "not verified",
+        "source_urls": []
+      },
+      "public_sales_channel": {
+        "status": "not verified",
+        "source_urls": []
+      },
+      "first_party_site": {
+        "status": "unknown, not verified absent",
+        "url": null
+      },
+      "spv_captive_check": "unknown",
+      "capacity": "unknown",
+      "website_opportunity": "not established",
+      "blockers": [
+        "No independent external customer evidence",
+        "No company-specific public contact",
+        "No independently verified marketed brand",
+        "Domain and associated-brand audit incomplete"
+      ],
+      "source_urls": [
+        "https://www.cesko.mynexus.cz/firma/30076641/",
+        "https://www.podnikatel.cz/rejstrik/zemni-prace-navratil-s-r-o-30076641/"
+      ]
+    }
+  ],
+  "known_existing_cases": {
+    "BOHUC": "HOLD/QA; existing historical outside-customer evidence but dedicated public sales channel and owned-site status unresolved; no new qualification today",
+    "JIB": "HOLD/QA redesign only; Webnode website exists, alternative domain/control questions unresolved."
+  },
+  "limitations": [
+    "Not exhaustive: direct CSÚ RES CSV could not be ingested and ARES direct per-IČO records were not obtained.",
+    "A negative web search does not prove website absence.",
+    "No budget, sales interest, outreach approval or price inferred.",
+    "No outreach sent."
+  ]
+}

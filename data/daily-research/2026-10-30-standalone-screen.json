@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "research_date": "2026-10-30",
+  "research_type": "targeted new-registration ownership and first-party brand audit",
+  "official_sources_checked": [
+    {
+      "url": "https://csu.gov.cz/produkty/registr-ekonomickych-subjektu-otevrena-data",
+      "finding": "ČSÚ RES publishes twice monthly for 15th and month-end. Latest independently confirmed publication is 2026-10-16 covering 2026-10-15, per ČSÚ newsletter. Direct CSV returned unsupported text/csv; container DNS resolution failed."
+    },
+    {
+      "url": "https://csu.gov.cz/produkty/newsletter-42-kalendarni-tyden-2026",
+      "finding": "Official newsletter dated 2026-10-16 explicitly lists RES open data snapshot as of 2026-10-15."
+    },
+    {
+      "url": "https://ov.ihned.cz/vysledky?base_capital_from=&base_capital_to=&business_name=&company_registration_numbers=&court=&fulltext=&page=5&publication_number=&publish_date_from=2018-02-09&publish_date_to=&register_publish_date=&register_subject=&register_type=&residency=&sections=1&selection=undefined",
+      "finding": "Search-indexed commercial-gazette new registration lists IKONIX Construction 30191394, published 2026-10-27; the original company-specific gazette filing was not retrieved."
+    }
+  ],
+  "summary": {
+    "new_first_website_outreach_ready": 0,
+    "redesign_outreach_ready": 0,
+    "records_reviewed": 4,
+    "hold_qa": 3,
+    "exclude": 1,
+    "commercial_approval": "NONE",
+    "historical_october_3_to_6_cohort": "24 screened, zero standalone brands verified, zero outreach-ready; historical records not modified.",
+    "data_scope": "Targeted discovery; not a comprehensive 2026-10-30 official ČSÚ RES extract."
+  },
+  "records": [
+    {
+      "name": "IKONIX Construction s.r.o.",
+      "ico": "30191394",
+      "registration_date": "2026-10-23",
+      "age_bucket": "0–6 months",
+      "location": "Praha 9, Vysočany",
+      "status": "EXCLUDE — confirmed corporate shareholder",
+      "marketed_offering": "Construction and project-design trades registered; no independently attributable direct outside-customer projects evidenced",
+      "ownership": {
+        "status": "CORPORATE PARENT CONFIRMED in ARES-derived ownership record",
+        "shareholder": "IKONIX Partners s.r.o.",
+        "shareholder_ico": "30175640",
+        "shareholding": "100%",
+        "manager": "IKONIX, s.r.o.",
+        "manager_ico": "19314744",
+        "source_urls": [
+          "https://fakturujzdarma.cz/firma/30191394-ikonix-construction-s-r-o",
+          "https://ov.ihned.cz/zapis/25417872"
+        ]
+      },
+      "external_customer_evidence": {
+        "status": "NOT VERIFIED FOR EXACT IČO",
+        "source_urls": []
+      },
+      "public_sales_channel": {
+        "status": "NOT VERIFIED",
+        "source_urls": []
+      },
+      "first_party_site": {
+        "status": "NOT AUDITED TO ABSENCE; irrelevant for exclusion",
+        "url": null,
+        "aliases_considered": [
+          "IKONIX Construction",
+          "ikonix-construction.cz (third-party guess, not verified owned)",
+          "ikonix.cz (existing group brand, not independently attributed to exact IČO)"
+        ]
+      },
+      "spv_captive_check": "Corporate-controlled company; EXCLUDE without needing to infer project SPV.",
+      "capacity": "Unknown; registered capital not budget",
+      "website_opportunity": "None for standalone first-website outreach",
+      "blockers": [
+        "Corporate shareholder owns 100%; not standalone",
+        "No exact-IČO external-customer evidence",
+        "No company-specific public sales channel",
+        "No first-party site absence verification"
+      ],
+      "source_urls": [
+        "https://fakturujzdarma.cz/firma/30191394-ikonix-construction-s-r-o",
+        "https://ov.ihned.cz/zapis/25417872"
+      ]
+    },
+    {
+      "name": "MOJUNA-Tech s.r.o.",
+      "ico": "30167167",
+      "registration_date": "2026-10-24",
+      "age_bucket": "0–6 months",
+      "location": "Brno-střed",
+      "status": "HOLD/QA",
+      "marketed_offering": "Electrical installation and electronics manufacturing registered; no distinct marketed offer to outside customers verified",
+      "ownership": {
+        "status": "Martin Cabejšek individual 100% shareholder in ARES-derived extract; does not establish operating independence",
+        "associated_company": "Zakázkové vyšívání s.r.o. IČO 30167086 shares owner and address; no corporate parent inferred",
+        "source_urls": [
+          "https://rejstr.cz/30167167/mojuna-tech",
+          "https://rejstr.cz/30167086/zakazkove-vysivani",
+          "https://fakturujzdarma.cz/firma/30167167-mojuna-tech-s-r-o"
+        ]
+      },
+      "external_customer_evidence": {
+        "status": "NOT VERIFIED",
+        "source_urls": []
+      },
+      "public_sales_channel": {
+        "status": "NOT VERIFIED; third-party profile has no company-supplied web, email or phone",
+        "source_urls": [
+          "https://fakturujzdarma.cz/firma/30167167-mojuna-tech-s-r-o"
+        ]
+      },
+      "first_party_site": {
+        "status": "UNKNOWN; no exhaustive verified-absent audit",
+        "url": null,
+        "aliases_considered": [
+          "MOJUNA-Tech",
+          "mojuna-tech.cz (directory guess only)"
+        ]
+      },
+      "spv_captive_check": "Associated sister-owned company; whether standalone operator or captive service unresolved",
+      "capacity": "Unknown; 200000 CZK registered capital is not operating budget",
+      "website_opportunity": "NOT ESTABLISHED",
+      "blockers": [
+        "Independent commercial brand unverified",
+        "Outside clients/projects unverified",
+        "Dedicated enquiry channel unverified",
+        "Associated-company commercial role unresolved",
+        "Exact-IČO owned domain absence and capacity unverified"
+      ],
+      "source_urls": [
+        "https://rejstr.cz/30167167/mojuna-tech",
+        "https://rejstr.cz/30167086/zakazkove-vysivani",
+        "https://fakturujzdarma.cz/firma/30167167-mojuna-tech-s-r-o"
+      ]
+    },
+    {
+      "name": "Krásná alej s.r.o.",
+      "ico": "24501441",
+      "registration_date": "2026-02-13",
+      "age_bucket": "6–24 months",
+      "location": "Praha 5, Smíchov",
+      "status": "HOLD/QA",
+      "marketed_offering": "Construction completion and property administration registered; no independently marketed contractor services verified",
+      "ownership": {
+        "status": "Vít Pravda 100% natural-person shareholder in registry-derived record; other corporate roles do not prove parent control",
+        "associated_roles": "Individual has other business/public institution roles; do not infer group control or SPV",
+        "source_urls": [
+          "https://rejstrik.penize.cz/24501441-krasna-alej-s-r-o",
+          "https://www.podnikatel.cz/rejstrik/osoby/vit-pravda-198641/"
+        ]
+      },
+      "external_customer_evidence": {
+        "status": "NOT VERIFIED",
+        "source_urls": []
+      },
+      "public_sales_channel": {
+        "status": "NOT VERIFIED",
+        "source_urls": []
+      },
+      "first_party_site": {
+        "status": "UNKNOWN; negative name/IČO searches not absence proof",
+        "url": null,
+        "aliases_considered": [
+          "Krásná alej",
+          "24501441",
+          "Krasna alej"
+        ]
+      },
+      "spv_captive_check": "Property activity and project-like name raise QA question but are NOT proof of SPV",
+      "capacity": "Unknown",
+      "website_opportunity": "NOT ESTABLISHED",
+      "blockers": [
+        "No independently marketed brand",
+        "No attributable outside-client projects",
+        "No public company-specific enquiry channel",
+        "Single-project/captive nature unresolved",
+        "No verified first-party site absence"
+      ],
+      "source_urls": [
+        "https://rejstrik.penize.cz/24501441-krasna-alej-s-r-o",
+        "https://firmy.euro.cz/subjekt-krasna-alej-s-r-o-24501441"
+      ]
+    },
+    {
+      "name": "Fyziopohotovost s.r.o.",
+      "ico": "23008661",
+      "registration_date": "2025-02-28",
+      "age_bucket": "6–24 months",
+      "location": "Praha 1, Nové Město",
+      "status": "HOLD/QA — brand/domain collision",
+      "marketed_offering": "Massage/regeneration trade registered; no verifiable exact-IČO patient-facing booking or customer services",
+      "ownership": {
+        "status": "Pavel Perstický 100% natural-person shareholder; also owner/manager of ONIservis s.r.o.; not evidence of parent control",
+        "associated_company": "ONIservis s.r.o. IČO 27670449",
+        "source_urls": [
+          "https://www.cesko.mynexus.cz/firma/23008661/",
+          "https://www.podnikatel.cz/rejstrik/fyziopohotovost-s-r-o-23008661/"
+        ]
+      },
+      "external_customer_evidence": {
+        "status": "NOT VERIFIED",
+        "source_urls": []
+      },
+      "public_sales_channel": {
+        "status": "NOT VERIFIED FOR EXACT IČO",
+        "source_urls": []
+      },
+      "first_party_site": {
+        "status": "UNRESOLVED — same-name domain is a different public identity, not attributable to target company",
+        "url": null,
+        "aliases_considered": [
+          "Fyziopohotovost",
+          "Fyzio pohotovost",
+          "fyziopohotovost.cz",
+          "23008661"
+        ],
+        "collision": "https://www.fyziopohotovost.cz/ markets physiotherapy with info@martusmedical.cz and copyright Pavel Byma; no verified connection to Pavel Perstický or IČO 23008661",
+        "source_urls": [
+          "https://www.fyziopohotovost.cz/"
+        ]
+      },
+      "spv_captive_check": "Non-property trade but associated-company operational role unknown; cannot infer independent customer-facing brand",
+      "capacity": "Unknown; employee band is not buying budget",
+      "website_opportunity": "NOT ESTABLISHED; do not claim target owns same-name website or lacks its own site",
+      "blockers": [
+        "No outside-customer proof",
+        "No exact-IČO direct enquiry/booking",
+        "Associated-company role unresolved",
+        "Same-name domain belongs to apparently different identity",
+        "No complete first-party domain audit"
+      ],
+      "source_urls": [
+        "https://www.cesko.mynexus.cz/firma/23008661/",
+        "https://www.podnikatel.cz/rejstrik/fyziopohotovost-s-r-o-23008661/",
+        "https://www.fyziopohotovost.cz/"
+      ]
+    }
+  ],
+  "known_existing_cases": {
+    "BOHUC": "HOLD/QA; published recruitment contact is not verified sales channel; outside-customer and site attribution need resolving before outreach",
+    "JIB": "HOLD/QA redesign only; existing Webnode website confirmed, alternate domain and control unresolved",
+    "HT_elektro": "HOLD/QA redesign only; exact-IČO website ht-elektro.cz confirmed, but independent new-entity outside-customer contracts and objective redesign need not proven"
+  },
+  "limitations": [
+    "Not exhaustive: official RES CSV could not be ingested; direct ARES company pages inaccessible.",
+    "The official 2026-10-15 RES snapshot was confirmed in the ČSÚ 16 Oct newsletter; no newer snapshot verified as of 30 Oct.",
+    "The beneficial-owners register is not publicly accessible as previously; ultimate control may remain unresolved even where public shareholder register lists individuals.",
+    "A same-name domain is not exact-IČO attribution; negative search results are not no-site proof.",
+    "No budget, buying intent, package price, scores or outreach approval inferred.",
+    "No outreach sent."
+  ]
+}
