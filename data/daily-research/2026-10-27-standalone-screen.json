@@ -1,0 +1,237 @@
+{
+  "date": "2026-10-27",
+  "market": "Czech Republic — Prague-first, registration age 0–24 months, 0–6 months emphasized",
+  "result": {
+    "qualified_first_website": 0,
+    "qualified_established_redesign": 0,
+    "outreach_ready": 0,
+    "new_cases_screened": 3,
+    "age_0_6_months": 3,
+    "age_6_24_months": 0,
+    "established_new_qualified": 0
+  },
+  "official_res": {
+    "catalogue": "https://csu.gov.cz/produkty/registr-ekonomickych-subjektu-otevrena-data",
+    "documentation": "https://csu.gov.cz/statistika/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+    "last_independently_confirmed_snapshot": "2026-10-15",
+    "confirmed_publication_date": "2026-10-16",
+    "publication_evidence": "https://csu.gov.cz/produkty/newsletter-42-kalendarni-tyden-2026",
+    "full_csv_ingested": false,
+    "ares_live_query_succeeded": false,
+    "discovery": "September 2026 construction registration list from registry-derived RES and individual commercial gazette filings; October newest listings explored but no qualifying customer-facing brand established",
+    "limitations": "Full official RES CSV could not be ingested; ARES direct exact-IČO pages inaccessible; this is a targeted investigation and does not certify complete current registrations."
+  },
+  "cases": [
+    {
+      "name": "Krovix s.r.o.",
+      "ico": "30077826",
+      "registration_date": "2026-09-29",
+      "age_bucket": "0–6 months",
+      "city": "Praha 6",
+      "decision": "HOLD_QA_NOT_OUTREACH",
+      "identity": {
+        "status": "registry_filing_confirmed",
+        "source": "https://ov.ihned.cz/zapis/25340008"
+      },
+      "registered_services": "Roofing, carpentry, sheet metal/auto body repairs; licensed scope only, not verified marketed customer offering",
+      "registered_ownership": {
+        "shareholder": "Filip Brabec",
+        "share": "100%",
+        "corporate_parent": "not listed in registration",
+        "control_independence": "NOT VERIFIED",
+        "source": "https://ov.ihned.cz/zapis/25340008"
+      },
+      "external_customer_projects": {
+        "status": "NOT VERIFIED",
+        "sources": []
+      },
+      "brand": {
+        "status": "NOT VERIFIED"
+      },
+      "company_specific_sales_contact": {
+        "status": "NOT VERIFIED",
+        "value": null
+      },
+      "official_website": {
+        "status": "UNKNOWN_NOT_PROVEN_ABSENT",
+        "attributable_url": null,
+        "checks": [
+          "exact legal name",
+          "exact IČO 30077826",
+          "Krovix roofing and named founder",
+          "krovix.cz candidate domain, not proven company-owned"
+        ],
+        "caveat": "Search non-result is not website absence."
+      },
+      "non_spv_independent_operation": "NOT VERIFIED",
+      "capacity_budget": "NOT VERIFIED",
+      "blockers": [
+        "No independently marketed brand",
+        "No external client projects attributable to this IČO",
+        "No dedicated sales channel",
+        "No comprehensive first-party owned-site audit",
+        "No affirmative non-captive/beneficial-control proof"
+      ],
+      "sources": [
+        "https://ov.ihned.cz/zapis/25340008",
+        "https://www.cesko.mynexus.cz/firma/30077826/",
+        "https://www.podnikatel.cz/rejstrik/krovix-s-r-o-30077826/"
+      ]
+    },
+    {
+      "name": "REKOMAX s.r.o.",
+      "ico": "30079349",
+      "registration_date": "2026-09-30",
+      "age_bucket": "0–6 months",
+      "city": "Praha 1",
+      "decision": "HOLD_QA_ASSOCIATED_OPERATOR_AND_DOMAIN_COLLISION",
+      "identity": {
+        "status": "registry_filing_confirmed",
+        "source": "https://ov.ihned.cz/zapis/25342970"
+      },
+      "registered_services": "Masonry, construction finishing, road transport, vehicle repair; no independently verified actual marketed offering",
+      "registered_ownership": {
+        "shareholder": "Petr Koudelka",
+        "share": "100%",
+        "corporate_parent": "not listed in registration",
+        "control_independence": "NOT VERIFIED",
+        "associated_operator": "Liberecké pozemní stavby s.r.o. IČO 01810855, same individual shareholder/director; not evidence of a corporate parent",
+        "sources": [
+          "https://ov.ihned.cz/zapis/25342970",
+          "https://www.podnikatel.cz/rejstrik/liberecke-pozemni-stavby-s-r-o-01810855/"
+        ]
+      },
+      "external_customer_projects": {
+        "status": "NOT VERIFIED for 30079349"
+      },
+      "brand": {
+        "status": "NOT VERIFIED"
+      },
+      "company_specific_sales_contact": {
+        "status": "NOT VERIFIED",
+        "value": null
+      },
+      "official_website": {
+        "status": "UNKNOWN_NOT_PROVEN_ABSENT",
+        "attributable_url": null,
+        "name_collision": "rekomax.cz listed for a different operator at IČO 75902273; NOT attributable to 30079349",
+        "checks": [
+          "exact company name + IČO",
+          "rekomax.cz ownership comparison",
+          "associated operator Liberecké pozemní stavby"
+        ],
+        "sources": [
+          "https://www.firmy.cz/detail/12968796-rekomax-rekonstrukce-panelovych-bytu-praha-kobylisy.html"
+        ]
+      },
+      "non_spv_independent_operation": "NOT VERIFIED",
+      "capacity_budget": "NOT VERIFIED",
+      "blockers": [
+        "Associated established construction operator role unresolved",
+        "Name-collision website is not proof of ownership or absence",
+        "No outside-client work attributed to exact new entity",
+        "No dedicated new-entity sales contact",
+        "No verified non-captive operations"
+      ],
+      "sources": [
+        "https://ov.ihned.cz/zapis/25342970",
+        "https://www.podnikatel.cz/rejstrik/rekomax-s-r-o-30079349/",
+        "https://www.podnikatel.cz/rejstrik/liberecke-pozemni-stavby-s-r-o-01810855/",
+        "https://www.firmy.cz/detail/12968796-rekomax-rekonstrukce-panelovych-bytu-praha-kobylisy.html"
+      ]
+    },
+    {
+      "name": "Zemní práce Navrátil s.r.o.",
+      "ico": "30076641",
+      "registration_date": "2026-09-25",
+      "age_bucket": "0–6 months",
+      "city": "Svinaře (Prague-West area)",
+      "decision": "HOLD_QA_NOT_OUTREACH",
+      "identity": {
+        "status": "registry_filing_confirmed",
+        "source": "https://ov.ihned.cz/zapis/25333451"
+      },
+      "registered_services": "Site preparation and construction; registered activities only, no verified direct service marketing",
+      "registered_ownership": {
+        "shareholder": "Miroslav Navrátil",
+        "share": "100%",
+        "corporate_parent": "not listed in registration",
+        "control_independence": "NOT VERIFIED",
+        "source": "https://ov.ihned.cz/zapis/25333451"
+      },
+      "external_customer_projects": {
+        "status": "NOT VERIFIED"
+      },
+      "brand": {
+        "status": "NOT VERIFIED"
+      },
+      "company_specific_sales_contact": {
+        "status": "NOT VERIFIED",
+        "value": null,
+        "source": "https://www.finmag.cz/obchodni-rejstrik/ares/30076641-zemni-prace-navratil-s-r-o"
+      },
+      "official_website": {
+        "status": "UNKNOWN_NOT_PROVEN_ABSENT",
+        "attributable_url": null,
+        "checks": [
+          "exact name",
+          "exact IČO",
+          "Navrátil Svinaře site/alias searches",
+          "similar Navrátil-named firms not attributed"
+        ],
+        "caveat": "A different Navrátil-named earthworks site belongs to another IČO; no ownership transfer assumed."
+      },
+      "non_spv_independent_operation": "NOT VERIFIED; real estate licensed category not evidence of SPV",
+      "capacity_budget": "NOT VERIFIED",
+      "blockers": [
+        "No outside-customer work",
+        "No company-specific enquiry contact",
+        "No marketed independent brand",
+        "No comprehensive owned-site verification",
+        "No affirmative operational non-SPV/control proof"
+      ],
+      "sources": [
+        "https://ov.ihned.cz/zapis/25333451",
+        "https://www.finmag.cz/obchodni-rejstrik/ares/30076641-zemni-prace-navratil-s-r-o",
+        "https://www.podnikatel.cz/rejstrik/zemni-prace-navratil-s-r-o-30076641/"
+      ]
+    }
+  ],
+  "established_redesign_carryover": {
+    "name": "JIB s.r.o.",
+    "ico": "28969472",
+    "status": "HOLD_QA_REDESIGN_ONLY",
+    "existing_site": "https://jib-s-r-o.webnode.cz/",
+    "reason": "Existing site and historical outside municipal customer evidence from prior investigations; unresolved beneficial control and jibsro.cz alias, no approved outreach. Not a first-site candidate."
+  },
+  "historical_october_3_6": {
+    "screened": 24,
+    "verified_standalone": 0,
+    "outreach_ready": 0,
+    "changes_to_historical_records": 0,
+    "excluded_confirmed_parent": [
+      "ROBET design Group"
+    ],
+    "excluded_from_recommendation_until_affirmative_evidence": [
+      "Orvex Construction",
+      "TMZ Air Solutions",
+      "D&L BUILD MONT",
+      "Lupawood"
+    ]
+  },
+  "repository": {
+    "branch": "research/2026-10-23-standalone-audit",
+    "pr": 14,
+    "ci_previous_failure": "2026-10-26 CI run #30 failed because browser smoke asserted obsolete phrase '24 October registrations' after sales.js banner correction; test assertion updated 2026-10-27; new CI must pass before merge.",
+    "legacy_crm_preserved": true,
+    "sept_spreadsheet_preserved": true,
+    "production_publish_verified": false
+  },
+  "no_invented": {
+    "website_absence": true,
+    "contact": true,
+    "prices": true,
+    "capacity": true,
+    "buyer_intent": true
+  }
+}
