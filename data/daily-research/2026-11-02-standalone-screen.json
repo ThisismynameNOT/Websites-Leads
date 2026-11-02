@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "research_date": "2026-11-02",
+  "coverage": "Targeted Prague-first discovery attempt using official ČSÚ RES catalogue and ARES interface, supplemented by registry-derived 30 Oct incorporation list. Official CSV endpoint was identified but full CSV could not be ingested; direct ARES REST company responses inaccessible in available browser. No exhaustive Prague or national registration sweep claimed.",
+  "official_sources_checked": [
+    {
+      "url": "https://csu.gov.cz/produkty/registr-ekonomickych-subjektu-otevrena-data",
+      "finding": "Official RES open data, updated twice monthly for 15th and month-end snapshots; latest month-end release not independently confirmed through CSV contents."
+    },
+    {
+      "url": "https://opendata.csu.gov.cz/soubory/od/od_org03/res_data.csv",
+      "finding": "Official RES CSV target identified; download/ingestion unsuccessful in execution environment."
+    },
+    {
+      "url": "https://ares.gov.cz/",
+      "finding": "Official ARES interface checked; exact-IČO REST results not accessible through research browser."
+    }
+  ],
+  "secondary_discovery": {
+    "url": "https://www.chytryrejstrik.cz/prehled/nove-zalozene-firmy",
+    "finding": "New registrations dated 30 Oct 2026; discovery only, not verified public-facing operations."
+  },
+  "summary": {
+    "new_registrations_investigated": 2,
+    "qualified_first_website": 0,
+    "qualified_redesign": 0,
+    "outreach_ready": 0,
+    "qa_hold": 2,
+    "confirmed_exclusions_new": 0,
+    "october_3_to_6_legacy": "24 unchanged; 0 qualified standalone brands; 0 outreach ready",
+    "prices_scores_or_buyer_interest_assumed": false,
+    "ci_and_pages_publication": "not yet checked at time of record creation"
+  },
+  "new_registrations": [
+    {
+      "name": "PHN service s.r.o.",
+      "ico": "30207380",
+      "registration_date": "2026-10-30",
+      "age_bucket": "0–6 months",
+      "location": "Zlín (outside Prague priority)",
+      "decision": "HOLD/QA",
+      "exact_legal_identity": "Secondary registry-derived listing; official ARES direct record inaccessible",
+      "registered_owner": "Ing. Pavel Hruška — individual shareholder per secondary register",
+      "offering": "Electrical installation, electrical-equipment servicing and construction activities listed as registered business purposes; not independently evidenced as marketed offer",
+      "outside_customer_proof": "NOT VERIFIED for exact IČO",
+      "public_dedicated_contact": "NOT VERIFIED",
+      "first_party_official_site": null,
+      "site_evidence": "No site positively attributed to exact IČO. Exhaustive aliases/domain/ownership absence verification NOT COMPLETED; not a verified no-site lead.",
+      "control_and_spv": "Individual ownership listed; independent commercial operation and non-captive/non-SPV role NOT VERIFIED",
+      "capacity": "NOT VERIFIED",
+      "blockers": [
+        "No attributable outside customer contracts",
+        "No independently marketed brand or exact-IČO sales contact",
+        "No affirmative independent operating/non-SPV evidence",
+        "No exhaustive first-party site/alias verification",
+        "No capacity or buying intent evidence"
+      ],
+      "source_urls": [
+        "https://rejstr.cz/30207380/phn-service",
+        "https://www.chytryrejstrik.cz/prehled/nove-zalozene-firmy"
+      ]
+    },
+    {
+      "name": "Účetní Rezková Vestec, s.r.o.",
+      "ico": "30209790",
+      "registration_date": "2026-10-30",
+      "age_bucket": "0–6 months",
+      "location": "Vestec / Prague-West (Prague area)",
+      "decision": "HOLD/QA",
+      "exact_legal_identity": "Registration name, IČO and date appear in secondary new-registration list; official ARES direct company record inaccessible",
+      "registered_owner": "NOT VERIFIED for exact new s.r.o.",
+      "offering": "Name suggests accounting services, but no directly attributable offering of the new legal entity verified",
+      "outside_customer_proof": "NOT VERIFIED for exact IČO; separate established Soňa Rezková accounting service appears in directories, identity/transfer relationship unverified",
+      "public_dedicated_contact": "NOT VERIFIED for exact new s.r.o.; do not attribute old operator's phone",
+      "first_party_official_site": null,
+      "site_evidence": "Older accounting listing points to ucetnivestec.wordpress.com; cannot attribute ownership or site transfer to new IČO. No-site gate NOT PASSED.",
+      "control_and_spv": "Ownership and association with older accounting operator NOT VERIFIED; neither group-control nor independence can be inferred",
+      "capacity": "NOT VERIFIED",
+      "blockers": [
+        "Legal owner and beneficial-control check incomplete",
+        "Older operating brand may be related; exact legal attribution unverified",
+        "No new-entity external customer proof",
+        "No dedicated new-entity public enquiry channel",
+        "No complete domain/alias audit or operating capacity proof"
+      ],
+      "source_urls": [
+        "https://www.chytryrejstrik.cz/prehled/nove-zalozene-firmy",
+        "https://www.idatabaze.cz/k/podvojne-ucetnictvi/vestec%3Apraha-zapad/"
+      ]
+    }
+  ],
+  "established_redesigns": "No newly approved redesign. Previous CYKLORD (older sole-trader IČO 40091309) and JIB (28969472) remain separate prior HOLD/QA investigations, not outreach-approved.",
+  "policy": "Registration, individual shareholding, name similarity, missing indexed site and old operator's customers/contact never satisfy standalone-brand/no-site qualification. Keep legacy 24 unchanged; never promote Orvex, TMZ, D&L BUILD MONT, Lupawood absent new affirmative evidence."
+}
