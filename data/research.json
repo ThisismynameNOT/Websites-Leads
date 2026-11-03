@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-02T17:55:00.553863+00:00",
+  "generated_at": "2026-11-03T15:51:01.004558+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -9145,7 +9145,7 @@
     "osm-node-12278479101": {
       "lead_id": "osm-node-12278479101",
       "name": "Studio PHX s.r.o.",
-      "checked_at": "2026-10-25",
+      "checked_at": "2026-11-03",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -9454,7 +9454,7 @@
     "osm-node-13229923199": {
       "lead_id": "osm-node-13229923199",
       "name": "Depositum CZ s.r.o.",
-      "checked_at": "2026-10-25",
+      "checked_at": "2026-11-03",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -9776,7 +9776,7 @@
     "osm-node-13432491655": {
       "lead_id": "osm-node-13432491655",
       "name": "AltruLinea",
-      "checked_at": "2026-10-25",
+      "checked_at": "2026-11-03",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -10036,7 +10036,7 @@
     "osm-node-13565444642": {
       "lead_id": "osm-node-13565444642",
       "name": "Realitní Kancelář RNDr. Eva Pavlíková",
-      "checked_at": "2026-10-26",
+      "checked_at": "2026-11-03",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -10795,7 +10795,7 @@
     "osm-node-1555858848": {
       "lead_id": "osm-node-1555858848",
       "name": "Realitní společnost Praha",
-      "checked_at": "2026-10-26",
+      "checked_at": "2026-11-03",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -11094,7 +11094,7 @@
     "osm-node-2318297306": {
       "lead_id": "osm-node-2318297306",
       "name": "Qarta architektura",
-      "checked_at": "2026-10-26",
+      "checked_at": "2026-11-03",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -11421,7 +11421,7 @@
     "osm-node-2475847880": {
       "lead_id": "osm-node-2475847880",
       "name": "HVB Real Estate",
-      "checked_at": "2026-10-26",
+      "checked_at": "2026-11-03",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -11716,7 +11716,7 @@
     "osm-node-2896861601": {
       "lead_id": "osm-node-2896861601",
       "name": "Orbium Reality",
-      "checked_at": "2026-10-26",
+      "checked_at": "2026-11-03",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -46057,6 +46057,1922 @@
         "https://ceska-jmena.cz/ondrej-mikulik",
         "https://www.nabytek-mikulik.cz/historie/",
         "https://www.youtube.com/@ondrejmikulik6014"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30138094": {
+      "lead_id": "res-30138094",
+      "name": "RDJ Consulting s.r.o.",
+      "checked_at": "2026-11-03",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"RDJ Consulting s.r.o.\" IČO 30138094 web",
+          "\"RDJ Consulting s.r.o.\" Praha Construction & property kontakt",
+          "\"RDJ Consulting s.r.o.\" \"Plzeňská 3352\" web",
+          "\"RDJ Consulting s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://www.rdjconsulting.cz/",
+            "title": "RDJ Consulting | Generální dodavatel a integrátor",
+            "snippet": "RDJ Consulting s.r.o. - generální dodavatel a integrátor. Propojujeme energetiku, stavebnictví, diagnostiku i správu objektů do jednoho zadání. Jedno kontaktní místo, jedna odpovědnost."
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30138094/rdj-consulting-s-r-o",
+            "title": "RDJ Consulting s.r.o. - jednatelé, obchodní rejstřík, databáze firem",
+            "snippet": "RDJ Consulting s.r.o. Sídlo Praha. IČO: 30138094. Majitelé a statutární orgány. Firemní rejstřík. Rok založení 2026. Kontrola rizik firmy."
+          },
+          {
+            "url": "https://detail-firem.cz/osoba/radim-hanzel-107ccfa42d530010",
+            "title": "RADIM HANZEL MSc., MBA - RDJ Consultin… a další firmy",
+            "snippet": "RADIM HANZEL MSc., MBA působí nebo působil(a) ve firmě RDJ Consulting s.r.o. a dalších jako jednatel - celkem 2 firmy v obchodním rejstříku."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [
+            "info@rdjconsulting.cz"
+          ],
+          "phones": [
+            "+420725822441",
+            "+420608000026"
+          ],
+          "source": "https://www.rdjconsulting.cz/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.rdjconsulting.cz/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.rdjconsulting.cz/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30138094",
+        "legal_name": "RDJ Consulting s.r.o.",
+        "registered_at": "2026-10-26",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30138094",
+        "decision_maker": {
+          "name": "DALIBOR DVOŘÁK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30138094",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "DALIBOR DVOŘÁK",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30138094",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "RADIM HANZEL",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30138094",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-11-03",
+        "website": "https://www.rdjconsulting.cz/",
+        "devices": {
+          "desktop": {
+            "title": "RDJ Consulting | Generální dodavatel a integrátor",
+            "description": "RDJ Consulting s.r.o. – generální dodavatel a integrátor. Propojujeme energetiku, stavebnictví, diagnostiku i správu objektů do jednoho zadání. Jedno kontaktní místo, jedna odpovědnost.",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 124,
+            "small_text_elements": 0,
+            "broken_images": 5,
+            "images_missing_alt": 0,
+            "images_count": 6,
+            "contact_action": true,
+            "form_count": 0,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "RDJ Consulting | Generální dodavatel a integrátor",
+            "description": "RDJ Consulting s.r.o. – generální dodavatel a integrátor. Propojujeme energetiku, stavebnictví, diagnostiku i správu objektů do jednoho zadání. Jedno kontaktní místo, jedna odpovědnost.",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 120,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 7,
+            "contact_action": true,
+            "form_count": 0,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.rdjconsulting.cz/"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30138094",
+          "date": "2026-10-26",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "RDJ Consulting s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Plzeňská 3352, Praha, 15000.",
+          "An independently identity-matched business website was found: https://www.rdjconsulting.cz/.",
+          "ARES confirms registration for IČO 30138094 dated 2026-10-26."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30138094",
+            "date": "2026-10-26",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30138094",
+          "https://www.rdjconsulting.cz/"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "DALIBOR DVOŘÁK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30138094",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.rdjconsulting.cz/",
+        "https://www.chytryrejstrik.cz/ico-30138094/rdj-consulting-s-r-o",
+        "https://detail-firem.cz/osoba/radim-hanzel-107ccfa42d530010"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [
+          "info@rdjconsulting.cz"
+        ],
+        "phones": [
+          "+420725822441",
+          "+420608000026"
+        ],
+        "source": "https://www.rdjconsulting.cz/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30173701": {
+      "lead_id": "res-30173701",
+      "name": "Společenství vlastníků pro dům Radlická 738/36, Praha 5",
+      "checked_at": "2026-11-03",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Společenství vlastníků pro dům Radlická 738/36, Praha 5\" IČO 30173701 web",
+          "\"Společenství vlastníků pro dům Radlická 738/36, Praha 5\" Praha Construction & property kontakt",
+          "\"Společenství vlastníků pro dům Radlická 738/36, Praha 5\" \"Radlická 738\" web",
+          "\"Společenství vlastníků pro dům Radlická 738/36, Praha 5\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia",
+            "title": "Communist Party of Bohemia and Moravia - Wikipedia",
+            "snippet": "The Communist Party of Bohemia and Moravia (Czech: Komunistická strana Čech a Moravy, KSČM) is a communist party [26] in the Czech Republic. [27] It is variously described as left-wing, [32] or far-left, [39] on the political spectrum. [40] It is one of the few former ruling parties in post-Communist Central Eastern Eu"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30173701/spolecenstvi-vlastniku-pro-dum-radlicka-738-36-praha-5/",
+            "title": "Společenství vlastníků pro dům Radlická 738/36, Praha 5 , IČO ...",
+            "snippet": "Společenství vlastníků pro dům Radlická 738/36, Praha 5 , IČO 30173701 - data ze statistického úřadu"
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30173701/spolecenstvi-vlastniku-pro-dum-radlicka-738-36-praha-5",
+            "title": "Společenství vlastníků pro dům Radlická 738/36, Praha 5",
+            "snippet": "Kde sídlí Společenství vlastníků pro dům Radlická 738/36, Praha 5 Sídlo SVJ je Radlická 738, 15000 Praha."
+          },
+          {
+            "url": "https://ceskadata.cz/27163857",
+            "title": "Construction & Property Management s.r.o., Praha – majitelé a ...",
+            "snippet": "Construction & Property Management s.r.o. (IČO 27163857). Ztráta 2025 10 mil. Kč. Společnost s ručením omezeným v Praze, vznik 2004, 1 - 5 zaměstnanců. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.bloomberg.com/europe",
+            "title": "Bloomberg Europe",
+            "snippet": "Bloomberg delivers business and markets news, data, analysis, and video to the world, featuring stories from Businessweek and Bloomberg News"
+          },
+          {
+            "url": "https://rejstrik.penize.cz/jiri-marek",
+            "title": "Jiří Marek - Obchodní rejstřík | Peníze.cz",
+            "snippet": "Jiří Marek výpis firem z Obchodního rejstříku, IČO firmy, adresa sídla firmy, pozice ve firmě, související firmy, vztahy ve firmách."
+          },
+          {
+            "url": "https://kapitan.eu/",
+            "title": "Kapitán Praha s.r.o.",
+            "snippet": "O nás info@kapitan.eu 736 625 474 Home Služby Vzorníky Reference Inspirace Ceník Kontakt Poptávka služeb"
+          },
+          {
+            "url": "https://agenturapohoda.cz/",
+            "title": "Úklid domácností a firem Praha | Agentura Pohoda",
+            "snippet": "Komplexní úklidové služby v Praze. Pravidelný i generální úklid, hospodyně do domácnosti, péče o dům a zahradu. Více než 30 let zkušeností."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://zieglerzz.cz/",
+            "title": "Ziegler ZZ s.r.o.",
+            "snippet": "zieglerzz@zieglerzz.cz Navigace O společnosti Služby Aktuality Reference Kariéra Poptávka Kontakty Služby Správa nemovitostí Energetika Technická zařízení budov Havarijní služba"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: oprava elektrického kotle, Praha 6 Řemeslné práce Plyn, voda, topení Řemeslné práce Topenáři, kamnaři okres Praha 3. 11. 2026 (dnes)"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.chytryrejstrik.cz/ico-30173701/spolecenstvi-vlastniku-pro-dum-radlicka-738-36-praha-5",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.chytryrejstrik.cz/ico-30173701/spolecenstvi-vlastniku-pro-dum-radlicka-738-36-praha-5",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30173701/spolecenstvi-vlastniku-pro-dum-radlicka-738-36-praha-5",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30173701",
+        "legal_name": "Společenství vlastníků pro dům Radlická 738/36, Praha 5",
+        "registered_at": "2026-10-27",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30173701",
+        "decision_maker": {
+          "name": "TEREZA MAŤKOVÁ",
+          "role": "předseda výboru",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30173701",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "TEREZA MAŤKOVÁ",
+            "role": "předseda výboru",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30173701",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "ALLAN ZÍPEK",
+            "role": "člen výboru",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30173701",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "MICHAELA ZÍPKOVÁ",
+            "role": "člen výboru",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30173701",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-11-03",
+        "website": "https://www.chytryrejstrik.cz/ico-30173701/spolecenstvi-vlastniku-pro-dum-radlicka-738-36-praha-5",
+        "devices": {
+          "desktop": {
+            "title": "Společenství vlastníků pro dům Radlická 738/36, Praha 5 - registr SVJ",
+            "description": "Společenství vlastníků pro dům Radlická 738/36, Praha 5 Sídlo Praha. IČO: 30173701. Firemní profil. Rok založení 2026. Kontrola rizik SVJ. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 159,
+            "small_text_elements": 1,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 44,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Společenství vlastníků pro dům Radlická 738/36, Praha 5 - registr SVJ",
+            "description": "Společenství vlastníků pro dům Radlická 738/36, Praha 5 Sídlo Praha. IČO: 30173701. Firemní profil. Rok založení 2026. Kontrola rizik SVJ. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 122,
+            "small_text_elements": 7,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 44,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.chytryrejstrik.cz/ico-30173701/spolecenstvi-vlastniku-pro-dum-radlicka-738-36-praha-5"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30173701",
+          "date": "2026-10-27",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Společenství vlastníků pro dům Radlická 738/36, Praha 5 — research dossier",
+        "facts": [
+          "The business is listed at Radlická 738, Praha, 15000.",
+          "An independently identity-matched business website was found: https://www.chytryrejstrik.cz/ico-30173701/spolecenstvi-vlastniku-pro-dum-radlicka-738-36-praha-5.",
+          "ARES confirms registration for IČO 30173701 dated 2026-10-27."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30173701",
+            "date": "2026-10-27",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30173701",
+          "https://www.chytryrejstrik.cz/ico-30173701/spolecenstvi-vlastniku-pro-dum-radlicka-738-36-praha-5"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "TEREZA MAŤKOVÁ",
+          "role": "předseda výboru",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30173701",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia",
+        "https://rejstrik-firem.kurzy.cz/30173701/spolecenstvi-vlastniku-pro-dum-radlicka-738-36-praha-5/",
+        "https://www.chytryrejstrik.cz/ico-30173701/spolecenstvi-vlastniku-pro-dum-radlicka-738-36-praha-5",
+        "https://ceskadata.cz/27163857",
+        "https://vces.cz/",
+        "https://www.bloomberg.com/europe",
+        "https://rejstrik.penize.cz/jiri-marek"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.chytryrejstrik.cz/ico-30173701/spolecenstvi-vlastniku-pro-dum-radlicka-738-36-praha-5",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30183413": {
+      "lead_id": "res-30183413",
+      "name": "LIVORA DOMUS s.r.o.",
+      "checked_at": "2026-11-03",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"LIVORA DOMUS s.r.o.\" IČO 30183413 web",
+          "\"LIVORA DOMUS s.r.o.\" Praha Construction & property kontakt",
+          "\"LIVORA DOMUS s.r.o.\" \"Chudenická 1059\" web",
+          "\"LIVORA DOMUS s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://messa-invest.cz/",
+            "title": "Messa Invest - výstavba rodinných domů Praha",
+            "snippet": "Pro bližší představu uvedeme naše hlavní služby, tj. výstavba rodinných domů, výstavba rodinných domů Praha, stavba domu na klíč a zděné domy na klíč."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://elektro-elefant.cz/",
+            "title": "Elektro pohotovost a servis Praha nonstop - Elektro-elefant.cz",
+            "snippet": "Pohotovost elektro, nonstop havarijní a poruchová služba pro Prahu a okolí. Včetně víkendů a svátků. Rychlý dojezd do 90 minut."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: oprava elektrického kotle, Praha 6 Řemeslné práce Plyn, voda, topení Řemeslné práce Topenáři, kamnaři okres Praha 3. 11. 2026 (dnes)"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://messa-invest.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://elektro-elefant.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30183413",
+        "legal_name": "LIVORA DOMUS s.r.o.",
+        "registered_at": "2026-10-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30183413",
+        "decision_maker": {
+          "name": "ALENA ULČÁKOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30183413",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "ALENA ULČÁKOVÁ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30183413",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30183413",
+          "date": "2026-10-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "LIVORA DOMUS s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Chudenická 1059, Praha, 10200.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30183413 dated 2026-10-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30183413",
+            "date": "2026-10-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30183413"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "ALENA ULČÁKOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30183413",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://dodavatele.epoptavka.cz/",
+        "https://messa-invest.cz/",
+        "https://www.epoptavka.cz/",
+        "https://zakazky.epoptavka.cz/",
+        "https://elektro-elefant.cz/",
+        "https://www.poptavky.cz/",
+        "https://poptavky.epoptavka.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30183464": {
+      "lead_id": "res-30183464",
+      "name": "Radienor s.r.o.",
+      "checked_at": "2026-11-03",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Radienor s.r.o.\" IČO 30183464 web",
+          "\"Radienor s.r.o.\" Praha Construction & property kontakt",
+          "\"Radienor s.r.o.\" \"Nurmiho 1668\" web",
+          "\"Radienor s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 4,
+        "candidates": [
+          {
+            "url": "https://www.podnikani.cz/30183464/radienor-sro/",
+            "title": "Radienor s.r.o. - obchodní rejstřík, vizualizace vztahů firem ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku Radienor s.r.o. Nurmiho 1668/1, Hostivař, 10200 Praha 10 , IČO: 30183464, Zákl. kapitál: 1000 Kč"
+          },
+          {
+            "url": "https://ceskadata.cz/27163857",
+            "title": "Construction & Property Management s.r.o., Praha – majitelé a ...",
+            "snippet": "Construction & Property Management s.r.o. (IČO 27163857). Ztráta 2025 10 mil. Kč. Společnost s ručením omezeným v Praze, vznik 2004, 1 - 5 zaměstnanců. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/konstruktis-praha-spol-s-ro",
+            "title": "Konstruktis Praha, spol. s ro - Petra Rezka 1723, 140 ... - Cybo",
+            "snippet": "Konstruktis Praha, spol. s ro Prague postal code 140 00. See Google profile, Phone, Website and more for this business. 3.0 Cybo Score. Review on Cybo."
+          },
+          {
+            "url": "https://www.lasalle.com/",
+            "title": "Homepage - LaSalle Investment Management",
+            "snippet": "Discover premier real estate investment opportunities with LaSalle Investment Management. Explore our global portfolio and insights. Investing today. For tomorrow."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/28262026/lama-energy-as/",
+            "title": "LAMA energy a.s. , Hradec nad Moravicí IČO 28262026 ...",
+            "snippet": "LAMA energy a.s., Gudrichova, Hradec nad Moravicí, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní společnosti, předměty činnosti, aktuální výpis LAMA energy a.s."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: oprava elektrického kotle, Praha 6 Řemeslné práce Plyn, voda, topení Řemeslné práce Topenáři, kamnaři okres Praha 3. 11. 2026 (dnes)"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          },
+          {
+            "url": "https://narran.cz/",
+            "title": "Laserové technologie - Narran",
+            "snippet": "Sep 24, 2026 · Servis a prodej laserových strojů, řezací a gravírovací lasery, čištění laserem, náhradní díly. Česká firma se světovým know-how."
+          }
+        ],
+        "errors": [],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30183464/radienor-sro/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://ceskadata.cz/27163857",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/konstruktis-praha-spol-s-ro",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.lasalle.com/",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30183464",
+        "legal_name": "Radienor s.r.o.",
+        "registered_at": "2026-10-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30183464",
+        "decision_maker": {
+          "name": "JAN ZRNO",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30183464",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "JAN ZRNO",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30183464",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30183464",
+          "date": "2026-10-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Radienor s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Nurmiho 1668, Praha, 10200.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30183464 dated 2026-10-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30183464",
+            "date": "2026-10-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30183464"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "JAN ZRNO",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30183464",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.podnikani.cz/30183464/radienor-sro/",
+        "https://ceskadata.cz/27163857",
+        "https://www.cybo.com/CZ-biz/konstruktis-praha-spol-s-ro",
+        "https://www.lasalle.com/",
+        "https://vces.cz/",
+        "https://rejstrik-firem.kurzy.cz/28262026/lama-energy-as/",
+        "https://www.skanska.com/cz/cs"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30185653": {
+      "lead_id": "res-30185653",
+      "name": "APT ASSETS, s. r. o.",
+      "checked_at": "2026-11-03",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"APT ASSETS, s. r. o.\" IČO 30185653 web",
+          "\"APT ASSETS, s. r. o.\" Praha Construction & property kontakt",
+          "\"APT ASSETS, s. r. o.\" \"U Tesly 470\" web",
+          "\"APT ASSETS, s. r. o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30185653/apt-assets-sro/",
+            "title": "APT ASSETS, s. r. o. , IČO 30185653 - Obchodní rejstřík firem",
+            "snippet": "APT ASSETS, s. r. o., , , výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní společnosti, předměty ..."
+          },
+          {
+            "url": "https://www.jenfirmy.cz/firma/30185653-apt-assets-s-r-o",
+            "title": "APT ASSETS, s. r. o. ⭐ Profil firmy | ⭐ JenFirmy.cz",
+            "snippet": "Prohlédněte si profil APT ASSETS, s. r. o. a zjistěte vše, co potřebujete vědět. Místo, kontakty i prověřené recenze zaměstnanců."
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30185653/apt-assets-s-r-o",
+            "title": "APT ASSETS, s. r. o. - majitelé, obchodní rejstřík, databáze ...",
+            "snippet": "APT ASSETS, s. r. o. Sídlo Praha. IČO: 30185653. Majitelé a statutární orgány. Firemní profil. Rok založení 2026. Rizikové signály firmy."
+          },
+          {
+            "url": "https://www.northdata.de/APT+ASSETS+s·r·o·,+Praha/ICO+30185653",
+            "title": "APT ASSETS s.r.o., Prag, Tschechien - North Data",
+            "snippet": "APT ASSETS s.r.o., Prag, Tschechien, ICO 30185653: Netzwerk, Wirtschaftsinfos Die Informationen dieser Seite wurden durch Analyse öffentlicher Quellen mittels eines voll-automatischen Algorithmus erstellt, und können teils oder weitgehend fehlerbehaftet sein."
+          },
+          {
+            "url": "https://ceskadata.cz/27163857",
+            "title": "Construction & Property Management s.r.o., Praha – majitelé a ...",
+            "snippet": "Construction & Property Management s.r.o. (IČO 27163857). Ztráta 2025 10 mil. Kč. Společnost s ručením omezeným v Praze, vznik 2004, 1 - 5 zaměstnanců. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://www.hlidacstatu.cz/Subjekt/Index/30185653",
+            "title": "APT ASSETS, s. r. o. - Hlídač státu.",
+            "snippet": "Firma nemá žádné smluvní vztahy evidované s veřejnou správou. , Byla založena 26. 10. 2026."
+          },
+          {
+            "url": "https://www.hlidacstatu.cz/subjekt/InsolvencniRejstrik/30185653",
+            "title": "APT ASSETS, s. r. o. - Insolvenční rejstřík - Hlídač státu.",
+            "snippet": "Firma nemá žádné smluvní vztahy evidované s veřejnou správou. , Byla založena 26. 10. 2026."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/00569861/apt-sro/",
+            "title": "APT, spol. s r.o. , Praha IČO 00569861 - Obchodní rejstřík firemENGLISH TRANSLATION DEMERGER BY SPIN-OFF PROJECTApt, Spol. S R.O. Company Profile - Czech Republic ... - EMISAPT, sp",
+            "snippet": "Výpis z obchodního (spolkového) rejstříku uváděný na stránkách serveru Kurzy.cz má pouze informativní hodnotu k datu uvedenému v záhlaví výpisu, nenahrazuje oficiální výpis z obchodního (spolkového) rejstříku a nelze jej použít při právních úkonech, např. při jednáních se státními úřady. Filling Ecosystem at a rate exc"
+          },
+          {
+            "url": "https://www.emis.com/php/company-profile/CZ/Apt_Spol_S_RO_en_1416298.html",
+            "title": "Apt, Spol. S R.O. Company Profile - Czech Republic ... - EMIS",
+            "snippet": "Oct 8, 2026 · Report with financial data, key executives contacts, ownership details & and more for Apt, Spol. S R.O. in Czech Republic. Report is available for immediate purchase & download from EMIS."
+          },
+          {
+            "url": "https://firmy.euro.cz/subjekt-apt-spol-s-r-o-00569861",
+            "title": "APT, spol. s r.o. IČO: 00569861, Praha, výpis z rejstříku 12. ...ENGLISH TRANSLATION - apt.czAPT ASSETS, s. r. o. , IČO 30185653 - Obchodní rejstřík firemSpolečnost APT, spol. s r.",
+            "snippet": "Nov 19, 1990 · APT, spol. s r.o. (00569861) je Společnost s ručením omezeným. Sídlí na adrese U Tesly 470/5, 19800 Praha. Do obchodního rejtříku byla zapsána dne 19. 11. 1990 a je stále aktivní. APT, spol. s r.o. má více oborů činností. Jako zdroj dat o APT, spol. s r.o. nám sloužily tyto stránky: The Demerging Company"
+          },
+          {
+            "url": "https://apt.cz/wp-content/uploads/2026/09/APT_Notice_to_Creditors_EN.pdf",
+            "title": "ENGLISH TRANSLATION - apt.cz",
+            "snippet": "The Demerging Company is preparing a demerger by spin-off involving the incorporation of the Successor Company and the transfer of part of the assets of the Demerging Company to the Successor Company within the meaning of Section 243(1)(b)(1) of the Act."
+          },
+          {
+            "url": "https://www.detail.cz/firma/569861-apt-spol-s-ro-u-tesly-470-5-praha/",
+            "title": "Společnost APT, spol. s r.o. | Detail.cz",
+            "snippet": "Nov 19, 1990 · Společnost „APT, spol. s r.o.“ byla založena před 35 roky v Praze. Mezi obory podnikání, které evidujeme, patří: Opravy elektrických zařízení, Výroba kovových konstrukcí a kovodělných výrobků, kromě strojů a zařízení, Výroba kovových konstrukcí a jejich dílů, ale zabývá se i dalšími 25 obory. Je aktivní "
+          },
+          {
+            "url": "https://apt.cz/wp-content/uploads/2026/09/APT_Demerger_Project_EN.pdf",
+            "title": "ENGLISH TRANSLATION DEMERGER BY SPIN-OFF PROJECT",
+            "snippet": "Filling Ecosystem at a rate exceeding 60 g H2/s. APT, spol. s r. o. remains the recipient of the support in full. The subsidy is earmarked solely for implementation of the stated project and excludes the use of subsidy funds f. r technical improvements to the spun-off assets. CDV informed the provider of the intend."
+          },
+          {
+            "url": "https://www.hlidacstatu.cz/subjekt/30185653",
+            "title": "APT ASSETS, s. r. o. - Hlídač státu.",
+            "snippet": "Firma nemá žádné smluvní vztahy evidované s veřejnou správou. , Byla založena 26. 10. 2026."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [
+            "info@jenfirmy.cz"
+          ],
+          "phones": [
+            "+420226216660"
+          ],
+          "source": "https://www.jenfirmy.cz/firma/30185653-apt-assets-s-r-o",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.jenfirmy.cz/firma/30185653-apt-assets-s-r-o",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.jenfirmy.cz/firma/30185653-apt-assets-s-r-o",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30185653",
+        "legal_name": "APT ASSETS, s. r. o.",
+        "registered_at": "2026-10-26",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30185653",
+        "decision_maker": {
+          "name": "VLADIMÍR DYNDA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30185653",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "VLADIMÍR DYNDA",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30185653",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "VÁCLAV PAŘÍZEK",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30185653",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-11-03",
+        "website": "https://www.jenfirmy.cz/firma/30185653-apt-assets-s-r-o",
+        "devices": {
+          "desktop": {
+            "title": "APT ASSETS, s. r. o. ⭐ Profil firmy | ⭐ JenFirmy.cz",
+            "description": "Prohlédněte si profil APT ASSETS, s. r. o. a zjistěte vše, co potřebujete vědět. Místo, kontakty i prověřené recenze zaměstnanců.",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 80,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 15,
+            "contact_action": true,
+            "form_count": 4,
+            "booking_links": 1,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "APT ASSETS, s. r. o. ⭐ Profil firmy | ⭐ JenFirmy.cz",
+            "description": "Prohlédněte si profil APT ASSETS, s. r. o. a zjistěte vše, co potřebujete vědět. Místo, kontakty i prověřené recenze zaměstnanců.",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 80,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 15,
+            "contact_action": true,
+            "form_count": 4,
+            "booking_links": 1,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.jenfirmy.cz/firma/30185653-apt-assets-s-r-o"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30185653",
+          "date": "2026-10-26",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "APT ASSETS, s. r. o. — research dossier",
+        "facts": [
+          "The business is listed at U Tesly 470, Praha, 19800.",
+          "An independently identity-matched business website was found: https://www.jenfirmy.cz/firma/30185653-apt-assets-s-r-o.",
+          "ARES confirms registration for IČO 30185653 dated 2026-10-26."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30185653",
+            "date": "2026-10-26",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30185653",
+          "https://www.jenfirmy.cz/firma/30185653-apt-assets-s-r-o"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "VLADIMÍR DYNDA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30185653",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30185653/apt-assets-sro/",
+        "https://www.jenfirmy.cz/firma/30185653-apt-assets-s-r-o",
+        "https://www.chytryrejstrik.cz/ico-30185653/apt-assets-s-r-o",
+        "https://www.northdata.de/APT+ASSETS+s·r·o·,+Praha/ICO+30185653",
+        "https://ceskadata.cz/27163857",
+        "https://www.hlidacstatu.cz/Subjekt/Index/30185653",
+        "https://www.hlidacstatu.cz/subjekt/InsolvencniRejstrik/30185653"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [
+          "info@jenfirmy.cz"
+        ],
+        "phones": [
+          "+420226216660"
+        ],
+        "source": "https://www.jenfirmy.cz/firma/30185653-apt-assets-s-r-o",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30185980": {
+      "lead_id": "res-30185980",
+      "name": "F&C Cancer Racing s.r.o.",
+      "checked_at": "2026-11-03",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"F&C Cancer Racing s.r.o.\" IČO 30185980 web",
+          "\"F&C Cancer Racing s.r.o.\" Praha Construction & property kontakt",
+          "\"F&C Cancer Racing s.r.o.\" \"Jugoslávská 620\" web",
+          "\"F&C Cancer Racing s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/rejstrik-firem/DO-30185980-f-c-cancer-racing-sro/",
+            "title": "F&C Cancer Racing s.r.o. - obchodní rejstřík, úplný výpis",
+            "snippet": "6 days ago · zapsáno 23. říjen 2026 Obchodní firma F&C Cancer Racing s.r.o. zapsáno 23. říjen 2026 Sídlo Jugoslávská 620/29, Vinohrady, 120 00 Praha 2 zapsáno 23. říjen 2026 Identifikační číslo 30185980 Právní forma Společnost s r.o. Předmět podnikání pronájem nemovitostí, bytů a nebytových prostor zapsáno 23. říjen 20"
+          },
+          {
+            "url": "https://rejstr.cz/30185980/f-a-c-cancer-racing",
+            "title": "F&C Cancer Racing s.r.o., IČO 30185980 | rejstr.cz",
+            "snippet": "F&C Cancer Racing s.r.o. (IČO 30185980) je aktivní společnost s ručením omezeným se sídlem Praha. V rejstříku od 23. 10. 2026."
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30185980/f-c-cancer-racing-s-r-o",
+            "title": "F&C Cancer Racing s.r.o. - rizika, majitelé, obchodní rejstřík",
+            "snippet": "F&C Cancer Racing s.r.o. Sídlo Praha. IČO: 30185980. Majitelé a statutární orgány. Registr firem. Rok založení 2026. Rizikové signály firmy."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+            "title": "Construction & Property Management s.r.o. , Praha IČO ...",
+            "snippet": "Kde je sídlo firmy Construction & Property Management s.r.o.? Sídlo firmy Construction & Property Management s.r.o. je Na příkopě 859/22, Nové Město (Praha 1), 110 00 Praha."
+          },
+          {
+            "url": "https://ceskadata.cz/27163857",
+            "title": "Construction & Property Management s.r.o., Praha – majitelé a ...",
+            "snippet": "Construction & Property Management s.r.o. (IČO 27163857). Ztráta 2025 10 mil. Kč. Společnost s ručením omezeným v Praze, vznik 2004, 1 - 5 zaměstnanců. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://www.elfracing.cz/kontakty",
+            "title": "Kontakt - Elfracing",
+            "snippet": "Na všechny emaily reagujeme!"
+          },
+          {
+            "url": "https://www.obchodnirejstrik.cz/",
+            "title": "Obchodní rejstřík firem",
+            "snippet": "Podnik nebo hospodářské zařízení sdružení Organizační jednotka sdružení Komora (s vyjímkou profesních komor) Zájmové sdružení právnických osob Obec nebo městská část hlavního města Prahy Podnikatel-fyzická osoba-zapsaný v obchodním rejstříku Samostatně hospodařící rolník nezapsaný v obchodním rejstříku Veřejná obchodní"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Virginia_Tech_shooting",
+            "title": "Virginia Tech shooting - Wikipedia",
+            "snippet": "The Virginia Tech shooting or at the time, the Virginia Tech massacre[8] was a mass shooting that occurred on Monday, April 16, 2007, comprising two attacks on the campus of the Virginia Polytechnic Institute and State University (Virginia Tech) in Blacksburg, Virginia, United States. Seung-Hui Cho, a 23-year-old under"
+          },
+          {
+            "url": "https://www.linkedin.com/in/robbiemontinola",
+            "title": "Robbie Montinola - VP @ SRO Motorsports America | Marketing ...Virginia Tech shooting - WikipediaGrant Gazette | Update : Colin Rogers just in case you did ...阿拉丁试剂 - 氢氧化钠 - CAS No",
+            "snippet": "A marketing professional with experience conceptualizing and producing award-winning integrated marketing solutions for the top brands in automotive, gaming, and technology. The Virginia Tech shooting or at the time, the Virginia Tech massacre[8] was a mass shooting that occurred on Monday, April 16, 2007, comprising t"
+          },
+          {
+            "url": "https://www.aladdin-e.com/zh_cn/s111502.html",
+            "title": "阿拉丁试剂 - 氢氧化钠 - CAS No. 1310-73-2",
+            "snippet": "阿拉丁试剂为您精选了相关的许多氢氧化钠,苛性钠 | 烧碱 | 火碱 | Caustic soda | Aetznatron | 06203 | 30620 | O0575 | S835850 | A16037 | A11397,Sodium hydroxide商品，你还可以按照人气、价格、销量和评价进行筛选查找氢氧化钠等商品."
+          },
+          {
+            "url": "https://ceskadata.cz/03496881",
+            "title": "BIOMED TRADING s.r.o., Praha – majitelé a vedení, IČO 03496881",
+            "snippet": "BIOMED TRADING s.r.o. (IČO 03496881): společnost s ručením omezeným v Praze, vznik 2014. Pronájem a správa vlastních nebo pronajatých nemovitostí. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://www.facebook.com/groups/627654914064313/posts/2473924539437332/",
+            "title": "Grant Gazette | Update : Colin Rogers just in case you did ...",
+            "snippet": "Jul 2, 2023 · Update : Colin Rogers just in case you did not know … we went to the prosecutor this morning. Because we wanted to find out the status of the two guys that grabbed my son’s arms and held them..."
+          },
+          {
+            "url": "https://jobtoday.com/gb/jobs-data-research/jarrow",
+            "title": "78 Best data research Jobs in Jarrow (November 2026) | JOB TODAY",
+            "snippet": "Apply to 78 data research jobs available and hiring now in Jarrow. New data research vacancies are added daily on JOB TODAY. Get set up in seconds & start chatting with employers in minutes!"
+          },
+          {
+            "url": "https://www.idatabaze.cz/katalog/poradenstvi/autorske-pravo/praha-6/",
+            "title": "Autorské právo – Praha 6 | idatabaze.cz",
+            "snippet": "⭐️ Autorské právo – v okrese Praha 6 a okolí naleznete aktuální a ověřené údaje u ⭐️ 26 firem, živnostníků a institucí."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://rejstr.cz/30185980/f-a-c-cancer-racing",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://rejstr.cz/30185980/f-a-c-cancer-racing",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://rejstr.cz/30185980/f-a-c-cancer-racing",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30185980",
+        "legal_name": "F&C Cancer Racing s.r.o.",
+        "registered_at": "2026-10-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30185980",
+        "decision_maker": {
+          "name": "RADIM KOČIŘÍK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30185980",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "RADIM KOČIŘÍK",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30185980",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "DAVID FOLDYNA",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30185980",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-11-03",
+        "website": "https://rejstr.cz/30185980/f-a-c-cancer-racing",
+        "devices": {
+          "desktop": {
+            "title": "F&C Cancer Racing s.r.o., IČO 30185980 | rejstr.cz",
+            "description": "F&C Cancer Racing s.r.o. (IČO 30185980) je aktivní společnost s ručením omezeným se sídlem Praha. V rejstříku od 23. 10. 2026.",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 106,
+            "small_text_elements": 2,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 13,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "F&C Cancer Racing s.r.o., IČO 30185980 | rejstr.cz",
+            "description": "F&C Cancer Racing s.r.o. (IČO 30185980) je aktivní společnost s ručením omezeným se sídlem Praha. V rejstříku od 23. 10. 2026.",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 106,
+            "small_text_elements": 1,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 13,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://rejstr.cz/30185980/f-a-c-cancer-racing"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30185980",
+          "date": "2026-10-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "F&C Cancer Racing s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Jugoslávská 620, Praha, 12000.",
+          "An independently identity-matched business website was found: https://rejstr.cz/30185980/f-a-c-cancer-racing.",
+          "ARES confirms registration for IČO 30185980 dated 2026-10-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30185980",
+            "date": "2026-10-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30185980",
+          "https://rejstr.cz/30185980/f-a-c-cancer-racing"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "RADIM KOČIŘÍK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30185980",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/rejstrik-firem/DO-30185980-f-c-cancer-racing-sro/",
+        "https://rejstr.cz/30185980/f-a-c-cancer-racing",
+        "https://www.chytryrejstrik.cz/ico-30185980/f-c-cancer-racing-s-r-o",
+        "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+        "https://ceskadata.cz/27163857",
+        "https://www.elfracing.cz/kontakty",
+        "https://www.obchodnirejstrik.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://rejstr.cz/30185980/f-a-c-cancer-racing",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30187311": {
+      "lead_id": "res-30187311",
+      "name": "Onest reality s.r.o.",
+      "checked_at": "2026-11-03",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Onest reality s.r.o.\" IČO 30187311 web",
+          "\"Onest reality s.r.o.\" Praha Construction & property kontakt",
+          "\"Onest reality s.r.o.\" \"Veltruská 535\" web",
+          "\"Onest reality s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30187311/onest-reality-sro/",
+            "title": "Onest reality s.r.o. , IČO 30187311 - data ze statistického ...",
+            "snippet": "Data ze statistického úřadu ČR Název: Onest reality s.r.o. IČO: 30187311 Právní forma: Společnost s ručením omezeným Adresa: Veltruská 535/17, Prosek, 19000 Praha 9 Datum vzniku: 23. říjen 2026 Počet zaměstnanců: Neuvedeno Seznam firem, subjektů podobného jména"
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: oprava elektrického kotle, Praha 6 Řemeslné práce Plyn, voda, topení Řemeslné práce Topenáři, kamnaři okres Praha 3. 11. 2026 (dnes)"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          },
+          {
+            "url": "https://webtrh.cz/",
+            "title": "Webtrh. Můj byznys roste.",
+            "snippet": "Místo pro potkávání nabídky a poptávky, prodeje projektů, pracovní nabídky, forum, vzdělání a mnoho dalšího."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://webtrh.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30187311",
+        "legal_name": "Onest reality s.r.o.",
+        "registered_at": "2026-10-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30187311",
+        "decision_maker": {
+          "name": "ONDŘEJ KULOVANÝ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30187311",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "ONDŘEJ KULOVANÝ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30187311",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "NATÁLIE NETOPILOVÁ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30187311",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30187311",
+          "date": "2026-10-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Onest reality s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Veltruská 535, Praha, 19000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30187311 dated 2026-10-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30187311",
+            "date": "2026-10-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30187311"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "ONDŘEJ KULOVANÝ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30187311",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30187311/onest-reality-sro/",
+        "https://dodavatele.epoptavka.cz/",
+        "https://www.epoptavka.cz/",
+        "https://zakazky.epoptavka.cz/",
+        "https://www.poptavky.cz/",
+        "https://poptavky.epoptavka.cz/",
+        "https://webtrh.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30188504": {
+      "lead_id": "res-30188504",
+      "name": "Ovenecká 35 s.r.o.",
+      "checked_at": "2026-11-03",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Ovenecká 35 s.r.o.\" IČO 30188504 web",
+          "\"Ovenecká 35 s.r.o.\" Praha Construction & property kontakt",
+          "\"Ovenecká 35 s.r.o.\" \"Sokolovská 4\" web",
+          "\"Ovenecká 35 s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://ceskadata.cz/27163857",
+            "title": "Construction & Property Management s.r.o., Praha – majitelé a ...",
+            "snippet": "Construction & Property Management s.r.o. (IČO 27163857). Ztráta 2025 10 mil. Kč. Společnost s ručením omezeným v Praze, vznik 2004, 1 - 5 zaměstnanců. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/konstruktis-praha-spol-s-ro",
+            "title": "Konstruktis Praha, spol. s ro - Petra Rezka 1723, 140 ... - Cybo",
+            "snippet": "Konstruktis Praha, spol. s ro Prague postal code 140 00. See Google profile, Phone, Website and more for this business. 3.0 Cybo Score. Review on Cybo."
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/to-rent-apartment-3-1-praha-10-slovinska-4428668",
+            "title": "To rent apartment 3+1 - Praha 10, Slovinská - REALCITY.cz",
+            "snippet": "1 day ago · Last update02.11.2026 Disposition3+1 Contract ID996818 Flooring120 m² Living area120 m² Tenureprivate Construction typemixed Property conditionvery good condition Floor4th floor Facilitiespartly furnished Gas (connection)installed Energy classC (83-120 kWh/m²/year) more information"
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://sagistgroup.wixsite.com/my-site-4/de/contact",
+            "title": "CONTACT | Sagist Group Luxury Furniture",
+            "snippet": "Learn how to contact Sagist Group, a luxury furniture manufacturer with offices in Istanbul, Dubai, and London. Find our global certifications and learn about our quality standards."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://hbreavis.com/",
+            "title": "HB Reavis | International Workspace Provider",
+            "snippet": "Oct 20, 2026 · We are an international workspace provider with a mission to create remarkable experiences through real estate solutions."
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Poptávám: přepravu materiálu sklápěcím návěsem, Praha - Borek a zpět před 12 minutami Praha Doprava Firma Praha zadáno 228 poptávek"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: oprava elektrického kotle, Praha 6 Řemeslné práce Plyn, voda, topení Řemeslné práce Topenáři, kamnaři okres Praha 3. 11. 2026 (dnes)"
+          },
+          {
+            "url": "https://akcnitisk.cz/",
+            "title": "Akční Tisk - Zaručeně Spolehlivá Tiskárna",
+            "snippet": "Váš partner pro ofsetový a digitální tisk - tiskárna, která zvládne vše od brožur po personalizované tisky. Vyzkoušejte naše komplexní tiskové služby a užijte si bezproblémový servis."
+          },
+          {
+            "url": "https://igea.cz/",
+            "title": "Hlavní strana - Igea",
+            "snippet": "Nezávazná poptávka Naše služby 0+ let zkušeností v oboru 0 pobočky na Moravě 0+ zaměstnanců"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://ceskadata.cz/27163857",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/konstruktis-praha-spol-s-ro",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/to-rent-apartment-3-1-praha-10-slovinska-4428668",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://sagistgroup.wixsite.com/my-site-4/de/contact",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://hbreavis.com/en/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30188504",
+        "legal_name": "Ovenecká 35 s.r.o.",
+        "registered_at": "2026-10-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30188504",
+        "decision_maker": {
+          "name": "JAN MORAVEC",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30188504",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "JAN MORAVEC",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30188504",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "PETR VOLF",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30188504",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "JAN POLÁK",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30188504",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30188504",
+          "date": "2026-10-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Ovenecká 35 s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Sokolovská 4, Praha, 18600.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30188504 dated 2026-10-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30188504",
+            "date": "2026-10-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30188504"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "JAN MORAVEC",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30188504",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://ceskadata.cz/27163857",
+        "https://www.cybo.com/CZ-biz/konstruktis-praha-spol-s-ro",
+        "https://www.realcity.cz/en/property/to-rent-apartment-3-1-praha-10-slovinska-4428668",
+        "https://vces.cz/",
+        "https://sagistgroup.wixsite.com/my-site-4/de/contact",
+        "https://www.skanska.com/cz/cs",
+        "https://hbreavis.com/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
