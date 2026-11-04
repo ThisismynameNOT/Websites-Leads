@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-03T15:46:33Z",
+  "generated_at": "2026-11-04T15:55:13Z",
   "collector": {
     "name": "ČSÚ RES primary + OSM supplemental + Kurzy.cz reviewed leads + ARES verification",
-    "segment": "trades",
+    "segment": "retail",
     "kurzy_crosschecks": 10,
     "kurzy_scope": "small public manually reviewed sample, not a complete licensed daily export",
     "res_candidates_loaded": 784,
-    "res_added_this_run": 222,
+    "res_added_this_run": 0,
     "res_snapshot_at": "2026-11-03T15:46:33.594802+00:00",
     "discovered_this_run": 0,
     "listings_examined": 0,
@@ -522,7 +522,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Mykhailo Yarych",
+      "registered_office_address": "U křížku 1391, Praha, 14000"
     },
     {
       "id": "res-30191432",
@@ -571,7 +573,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Společenství vlastníků Pod Vlachovkou 787/20, Libeň",
+      "registered_office_address": "Pod Vlachovkou 787, Praha, 18200"
     },
     {
       "id": "res-30191394",
@@ -620,7 +624,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "IKONIX Construction s.r.o.",
+      "registered_office_address": "Piskáčkových 1024, Praha, 19000"
     },
     {
       "id": "res-30191360",
@@ -669,7 +675,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Fontero s.r.o.",
+      "registered_office_address": "Dlouhá 727, Praha, 11000"
     },
     {
       "id": "res-30191351",
@@ -718,7 +726,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Meriggio s.r.o.",
+      "registered_office_address": "Dlouhá 727, Praha, 11000"
     },
     {
       "id": "res-30190916",
@@ -767,7 +777,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Bououd Home Solutions s.r.o.",
+      "registered_office_address": "Mánesova 1175, Praha, 12000"
     },
     {
       "id": "res-30190592",
@@ -816,7 +828,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Pozemky u Nymburka s.r.o.",
+      "registered_office_address": "Sokolská 1883, Praha, 12000"
     },
     {
       "id": "res-30189781",
@@ -865,7 +879,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Bohdana Matsiuk",
+      "registered_office_address": "Dandova 2619, Praha, 19300"
     },
     {
       "id": "res-30189276",
@@ -914,7 +930,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Wellnest Homes s.r.o.",
+      "registered_office_address": "Korunní 2569, Praha, 10100"
     },
     {
       "id": "res-30189101",
@@ -963,7 +981,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "IMLP a.s.",
+      "registered_office_address": "V parku 2316, Praha, 14800"
     },
     {
       "id": "res-30188831",
@@ -1012,7 +1032,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Vinohradská 222 s.r.o.",
+      "registered_office_address": "Kubelíkova 1548, Praha, 13000"
     },
     {
       "id": "res-30188504",
@@ -1061,7 +1083,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Ovenecká 35 s.r.o.",
+      "registered_office_address": "Sokolovská 4, Praha, 18600"
     },
     {
       "id": "res-30187311",
@@ -1110,7 +1134,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Onest reality s.r.o.",
+      "registered_office_address": "Veltruská 535, Praha, 19000"
     },
     {
       "id": "res-30185980",
@@ -1159,7 +1185,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "F&C Cancer Racing s.r.o.",
+      "registered_office_address": "Jugoslávská 620, Praha, 12000"
     },
     {
       "id": "res-30183464",
@@ -1208,7 +1236,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Radienor s.r.o.",
+      "registered_office_address": "Nurmiho 1668, Praha, 10200"
     },
     {
       "id": "res-30183413",
@@ -1257,7 +1287,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "LIVORA DOMUS s.r.o.",
+      "registered_office_address": "Chudenická 1059, Praha, 10200"
     },
     {
       "id": "res-30191301",
@@ -1306,7 +1338,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "FERRARIA  s.r.o.",
+      "registered_office_address": "Vratislavská 396, Praha, 18100"
     },
     {
       "id": "res-30191289",
@@ -1355,7 +1389,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "CELORDIA s.r.o.",
+      "registered_office_address": "Vratislavská 396, Praha, 18100"
     },
     {
       "id": "res-30195195",
@@ -1404,7 +1440,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Ema Jokelová",
+      "registered_office_address": "Bechlínská 705, Praha, 19000"
     },
     {
       "id": "res-30202329",
@@ -1453,7 +1491,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Ihor Yuzkiv",
+      "registered_office_address": "Tachovské náměstí 90, Praha, 13000"
     },
     {
       "id": "res-30201888",
@@ -1502,7 +1542,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Bohdan Stasiuk",
+      "registered_office_address": "Vojická 1064, Praha, 19300"
     },
     {
       "id": "res-30201373",
@@ -1551,7 +1593,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Musa Adaev",
+      "registered_office_address": "Záhořanského 1644, Praha, 12000"
     },
     {
       "id": "res-30201357",
@@ -1600,7 +1644,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Oleh Hudeichuk",
+      "registered_office_address": "Vlastislavova 1636, Praha, 14000"
     },
     {
       "id": "res-30200491",
@@ -1649,7 +1695,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Dmytro Kurbanov",
+      "registered_office_address": "Kuželova 576, Praha, 19900"
     },
     {
       "id": "res-30200369",
@@ -1698,7 +1746,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Ruslan Fedorov",
+      "registered_office_address": "náměstí Přátelství 1518, Praha, 10200"
     },
     {
       "id": "res-30200181",
@@ -1747,7 +1797,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Vasyl Bilanych",
+      "registered_office_address": "Dandova 2619, Praha, 19300"
     },
     {
       "id": "res-30199981",
@@ -1796,7 +1848,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Vitalii Bilmakovskyi",
+      "registered_office_address": "Sokolská 1883, Praha, 12000"
     },
     {
       "id": "res-30199921",
@@ -1845,7 +1899,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Michal Sýkora",
+      "registered_office_address": "Valčíkova 1147, Praha, 18200"
     },
     {
       "id": "res-30199271",
@@ -1894,7 +1950,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Bohdan-Arsen Tsapiv",
+      "registered_office_address": "Strážní 1946, Praha, 13000"
     },
     {
       "id": "res-30198623",
@@ -1943,7 +2001,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "V&V Instalatéři s.r.o.",
+      "registered_office_address": "Kurzova 2222, Praha, 15500"
     },
     {
       "id": "res-30198593",
@@ -1992,7 +2052,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Hennadii Huliaiev",
+      "registered_office_address": "Dandova 2619, Praha, 19300"
     },
     {
       "id": "res-30198569",
@@ -2041,7 +2103,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Jamshidbek Tursunov",
+      "registered_office_address": "Ctěnická 697, Praha, 19000"
     },
     {
       "id": "res-30198551",
@@ -2090,7 +2154,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "FKL GROUP 28 s.r.o.",
+      "registered_office_address": "Ocelářská 1354, Praha, 19000"
     },
     {
       "id": "res-30198496",
@@ -2139,7 +2205,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Andrei Moskalev",
+      "registered_office_address": "Vinohradská 2222, Praha, 13000"
     },
     {
       "id": "res-30198453",
@@ -2188,7 +2256,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Serhii Kobal",
+      "registered_office_address": "Pelzova 1514, Praha, 15600"
     },
     {
       "id": "res-30198259",
@@ -2237,7 +2307,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Marian Fediv",
+      "registered_office_address": "Hostýnská 2041, Praha, 10000"
     },
     {
       "id": "res-30197805",
@@ -2286,7 +2358,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Bohemia Operations s.r.o.",
+      "registered_office_address": "Kubelíkova 1258, Praha, 13000"
     },
     {
       "id": "res-30197449",
@@ -2335,7 +2409,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "WFP Future s.r.o.",
+      "registered_office_address": "Příčná 1892, Praha, 11000"
     },
     {
       "id": "res-30196256",
@@ -2384,7 +2460,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "NC Prime s.r.o.",
+      "registered_office_address": "Chudenická 1059, Praha, 10200"
     },
     {
       "id": "res-30195861",
@@ -2433,7 +2511,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Vasyl Hanhur",
+      "registered_office_address": "Žukovského 852, Praha, 16100"
     },
     {
       "id": "res-30195454",
@@ -2482,7 +2562,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Kyrylo Cherednyk",
+      "registered_office_address": "Francouzská 80, Praha, 12000"
     },
     {
       "id": "res-30195292",
@@ -2531,7 +2613,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Vira Kvasnevska",
+      "registered_office_address": "Na žertvách 2542, Praha, 18000"
     },
     {
       "id": "res-30195233",
@@ -2580,7 +2664,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "MM-Spolcar s.r.o.",
+      "registered_office_address": "Plzeňská 3352, Praha, 15000"
     },
     {
       "id": "res-30195071",
@@ -2629,7 +2715,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Roman Deiak",
+      "registered_office_address": "Kobylákova 1253, Praha, 10200"
     },
     {
       "id": "res-30194946",
@@ -2678,7 +2766,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Dmytro Levchuk",
+      "registered_office_address": "Francouzská 80, Praha, 12000"
     },
     {
       "id": "res-30194938",
@@ -2727,7 +2817,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Bohdan Rybii",
+      "registered_office_address": "Murmanská 1252, Praha, 10000"
     },
     {
       "id": "res-30194733",
@@ -2776,7 +2868,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Ruslan Zmykalo",
+      "registered_office_address": "Třeboradická 1070, Praha, 18200"
     },
     {
       "id": "res-30194644",
@@ -2825,7 +2919,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Pastavale s.r.o.",
+      "registered_office_address": "Korunní 2569, Praha, 10100"
     },
     {
       "id": "res-30194474",
@@ -2874,7 +2970,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "MM-Spolstav s.r.o.",
+      "registered_office_address": "Roháčova 145, Praha, 13000"
     },
     {
       "id": "res-30191645",
@@ -2923,7 +3021,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "INEP services s.r.o.",
+      "registered_office_address": "Na Václavce 1135, Praha, 15000"
     },
     {
       "id": "res-30191297",
@@ -2972,7 +3072,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "HKLogistic s.r.o.",
+      "registered_office_address": "Na Folimance 2155, Praha, 12000"
     },
     {
       "id": "res-30191220",
@@ -3021,7 +3123,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Persia Investment s.r.o.",
+      "registered_office_address": "Rybná 716, Praha, 11000"
     },
     {
       "id": "res-30191033",
@@ -3070,7 +3174,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "GG Property Development s.r.o.",
+      "registered_office_address": "U Trezorky 921, Praha, 15800"
     },
     {
       "id": "res-30191009",
@@ -3119,7 +3225,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "FF Property Development s.r.o.",
+      "registered_office_address": "U Trezorky 921, Praha, 15800"
     },
     {
       "id": "res-30185653",
@@ -3168,7 +3276,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "APT ASSETS, s. r. o.",
+      "registered_office_address": "U Tesly 470, Praha, 19800"
     },
     {
       "id": "res-30138094",
@@ -3217,7 +3327,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "RDJ Consulting s.r.o.",
+      "registered_office_address": "Plzeňská 3352, Praha, 15000"
     },
     {
       "id": "res-30204402",
@@ -3266,7 +3378,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Ivan Markovych",
+      "registered_office_address": "Vranská 978, Praha, 14200"
     },
     {
       "id": "res-30204232",
@@ -3315,7 +3429,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "GOLD KOV s.r.o.",
+      "registered_office_address": "Tachovské náměstí 90, Praha, 13000"
     },
     {
       "id": "res-30203716",
@@ -3364,7 +3480,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Golian & Juhas Partners s.r.o.",
+      "registered_office_address": "Melantrichova 470, Praha, 11000"
     },
     {
       "id": "res-30201454",
@@ -3413,7 +3531,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Bohuslav Jehlička",
+      "registered_office_address": "Čenětická 2413, Praha, 14900"
     },
     {
       "id": "res-30200911",
@@ -3462,7 +3582,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Victor Shevelev",
+      "registered_office_address": "U kříže 610, Praha, 15800"
     },
     {
       "id": "res-30200610",
@@ -3511,7 +3633,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "RP Jeneč, s.r.o.",
+      "registered_office_address": "Myslíkova 174, Praha, 11000"
     },
     {
       "id": "res-30198887",
@@ -3560,7 +3684,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Úklid od holek s.r.o.",
+      "registered_office_address": "Korunní 2569, Praha, 10100"
     },
     {
       "id": "res-30198801",
@@ -3609,7 +3735,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Almanovija, s.r.o.",
+      "registered_office_address": "U michelského mlýna 1492, Praha, 14000"
     },
     {
       "id": "res-30198038",
@@ -3658,7 +3786,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "PRAGWALL SYSTEMS s.r.o.",
+      "registered_office_address": "Chudenická 1059, Praha, 10200"
     },
     {
       "id": "res-30197970",
@@ -3707,7 +3837,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Cesta Hoštice s.r.o.",
+      "registered_office_address": "Kubelíkova 1258, Praha, 13000"
     },
     {
       "id": "res-30197848",
@@ -3756,7 +3888,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "BaKas stavební s.r.o.",
+      "registered_office_address": "Plzeňská 3352, Praha, 15000"
     },
     {
       "id": "res-30173701",
@@ -3805,7 +3939,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Společenství vlastníků pro dům Radlická 738/36, Praha 5",
+      "registered_office_address": "Radlická 738, Praha, 15000"
     },
     {
       "id": "res-30194067",
@@ -3854,7 +3990,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Vadym Hrytsan",
+      "registered_office_address": "Řehořova 27, Praha, 13000"
     },
     {
       "id": "res-30193427",
@@ -3903,7 +4041,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Mgr. Jan Hauzr",
+      "registered_office_address": "Přecechtělova 2241, Praha, 15500"
     },
     {
       "id": "res-30191793",
@@ -3952,7 +4092,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Daniel Blaško",
+      "registered_office_address": "Kurzova 2222, Praha, 15500"
     },
     {
       "id": "res-30191343",
@@ -4001,7 +4143,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "MiaMi Style s.r.o.",
+      "registered_office_address": "5. května 1007, Praha, 14000"
     },
     {
       "id": "res-30190851",
@@ -4050,7 +4194,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "PapacParrots s.r.o.",
+      "registered_office_address": "Radlická 806, Praha, 15000"
     },
     {
       "id": "res-30190843",
@@ -4099,7 +4245,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "FLAMEGO s.r.o.",
+      "registered_office_address": "V parku 2308, Praha, 14800"
     },
     {
       "id": "res-30190673",
@@ -4148,7 +4296,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Trivas365 s.r.o.",
+      "registered_office_address": "Kloboučnická 1735, Praha, 14000"
     },
     {
       "id": "res-30190533",
@@ -4197,7 +4347,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Hue Drink s.r.o.",
+      "registered_office_address": "Uralská 689, Praha, 16000"
     },
     {
       "id": "res-30190428",
@@ -4246,7 +4398,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "NNCo s.r.o.",
+      "registered_office_address": "Pernerova 727, Praha, 18600"
     },
     {
       "id": "res-30190223",
@@ -4295,7 +4449,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Hynek Peroutek s.r.o.",
+      "registered_office_address": "Rybná 716, Praha, 11000"
     },
     {
       "id": "res-30189951",
@@ -4344,7 +4500,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Jedlová development s.r.o.",
+      "registered_office_address": "Petrská 1426, Praha, 11000"
     },
     {
       "id": "res-30189870",
@@ -4393,7 +4551,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "BlazeHost s.r.o.",
+      "registered_office_address": "Příčná 1892, Praha, 11000"
     },
     {
       "id": "res-30189861",
@@ -4442,7 +4602,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Jekaterina Sumaroka",
+      "registered_office_address": "Školská 660, Praha, 11000"
     },
     {
       "id": "res-30189853",
@@ -4491,7 +4653,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "CORTELIS ESTATE s.r.o.",
+      "registered_office_address": "Na spojce 511, Praha, 10100"
     },
     {
       "id": "res-30189691",
@@ -4540,7 +4704,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Booutkam s.r.o.",
+      "registered_office_address": "Sokolská 1883, Praha, 12000"
     },
     {
       "id": "res-30189641",
@@ -4589,7 +4755,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Shara-Zdarma s.r.o.",
+      "registered_office_address": "Světova 523, Praha, 18000"
     },
     {
       "id": "res-30189624",
@@ -4638,7 +4806,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "importugal s.r.o.",
+      "registered_office_address": "Korunní 2569, Praha, 10100"
     },
     {
       "id": "res-30189616",
@@ -4687,7 +4857,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Vouchito s.r.o.",
+      "registered_office_address": "Světova 523, Praha, 18000"
     },
     {
       "id": "res-30189489",
@@ -4736,7 +4908,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "ProklepniFirmu s.r.o.",
+      "registered_office_address": "Příčná 1892, Praha, 11000"
     },
     {
       "id": "res-30199433",
@@ -4785,7 +4959,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Wasim Mkayes",
+      "registered_office_address": "Jeseniova 686, Praha, 13000"
     },
     {
       "id": "res-30198925",
@@ -4834,7 +5010,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Tomáš Draxl",
+      "registered_office_address": "Hartigova 1235, Praha, 13000"
     },
     {
       "id": "res-30191475",
@@ -4883,7 +5061,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Vorsten Group s.r.o.",
+      "registered_office_address": "Vosmíkových 930, Praha, 18000"
     },
     {
       "id": "res-30191441",
@@ -4932,7 +5112,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Short Fridays s.r.o.",
+      "registered_office_address": "náměstí 14. října 1307, Praha, 15000"
     },
     {
       "id": "res-30191611",
@@ -4981,7 +5163,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "KNEH SPOL s.r.o.",
+      "registered_office_address": "V podluží 672, Praha, 14000"
     },
     {
       "id": "res-30201845",
@@ -5030,7 +5214,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Radka Munzarová",
+      "registered_office_address": "Rozdělovská 2018, Praha, 16900"
     },
     {
       "id": "res-30200555",
@@ -5079,7 +5265,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Rebecca Lord",
+      "registered_office_address": "Děčínská 552, Praha, 18000"
     },
     {
       "id": "res-30200458",
@@ -5128,7 +5316,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Cédric Hnyda",
+      "registered_office_address": "Duškova 164, Praha, 15000"
     },
     {
       "id": "res-30199727",
@@ -5177,7 +5367,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Nhu Ymy Hoangová",
+      "registered_office_address": "Zelený pruh 716, Praha, 14700"
     },
     {
       "id": "res-30199620",
@@ -5226,7 +5418,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Gela Khmaladze",
+      "registered_office_address": "Kloboučnická 1735, Praha, 14000"
     },
     {
       "id": "res-30199417",
@@ -5275,7 +5469,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Matěj Malinovský",
+      "registered_office_address": "Biskupcova 2437, Praha, 13000"
     },
     {
       "id": "res-30199247",
@@ -5324,7 +5520,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Bc. Branislav Mathia",
+      "registered_office_address": "Kaprova 42, Praha, 11000"
     },
     {
       "id": "res-30198771",
@@ -5373,7 +5571,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Stepera s.r.o.",
+      "registered_office_address": "Na Čečeličce 425, Praha, 15000"
     },
     {
       "id": "res-30198755",
@@ -5422,7 +5622,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Viveno s.r.o.",
+      "registered_office_address": "Korunní 2569, Praha, 10100"
     },
     {
       "id": "res-30198607",
@@ -5471,7 +5673,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Leonid Horobets",
+      "registered_office_address": "Plzeňská 546, Praha, 15000"
     },
     {
       "id": "res-30198429",
@@ -5520,7 +5724,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Smíchov Group s.r.o.",
+      "registered_office_address": "Zahradníčkova 93, Praha, 15000"
     },
     {
       "id": "res-30198305",
@@ -5569,7 +5775,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Šárka Moravcová",
+      "registered_office_address": "Běchorská 583, Praha, 19300"
     },
     {
       "id": "res-30197783",
@@ -5618,7 +5826,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Lodestone Labs s.r.o.",
+      "registered_office_address": "Školská 1736, Praha, 11000"
     },
     {
       "id": "res-30197601",
@@ -5667,7 +5877,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Veronika Tereza Exnerová",
+      "registered_office_address": "Jeseniova 1908, Praha, 13000"
     },
     {
       "id": "res-30197571",
@@ -5716,7 +5928,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "AK Strategie s.r.o.",
+      "registered_office_address": "Žitná 562, Praha, 12000"
     },
     {
       "id": "res-30197520",
@@ -5765,7 +5979,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "MK Operations s.r.o.",
+      "registered_office_address": "Žitná 562, Praha, 12000"
     },
     {
       "id": "res-30197384",
@@ -5814,7 +6030,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Nomad Media Agency s.r.o.",
+      "registered_office_address": "Kurzova 2222, Praha, 15500"
     },
     {
       "id": "res-30196876",
@@ -5863,7 +6081,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Two Rivers Agency s.r.o.",
+      "registered_office_address": "Kurzova 2222, Praha, 15500"
     },
     {
       "id": "res-30196752",
@@ -5912,7 +6132,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "ZK Consulting s.r.o.",
+      "registered_office_address": "Fafkových 1058, Praha, 19000"
     },
     {
       "id": "res-30196469",
@@ -5961,7 +6183,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Pavlína Danešová",
+      "registered_office_address": "Na Kuthence 824, Praha, 16000"
     },
     {
       "id": "res-30196345",
@@ -6010,7 +6234,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "DAVEROX Logistic s.r.o.",
+      "registered_office_address": "U Kublova 130, Praha, 14700"
     },
     {
       "id": "res-30196272",
@@ -6059,7 +6285,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Snackomat Česko s.r.o.",
+      "registered_office_address": "Školská 660, Praha, 11000"
     },
     {
       "id": "res-30196086",
@@ -6108,7 +6336,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Pavla Slezáková",
+      "registered_office_address": "Sokolovská 1465, Praha, 18000"
     },
     {
       "id": "res-30196019",
@@ -6157,7 +6387,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Drunken Monkey Holding a.s.",
+      "registered_office_address": "Jugoslávská 620, Praha, 12000"
     },
     {
       "id": "res-30195888",
@@ -6206,7 +6438,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "AERO GRID s.r.o.",
+      "registered_office_address": "Neveklovská 523, Praha, 14000"
     },
     {
       "id": "res-30195811",
@@ -6255,7 +6489,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Bat&Rob 5.0. s.r.o.",
+      "registered_office_address": "Půtova 1166, Praha, 11000"
     },
     {
       "id": "res-30195501",
@@ -6304,7 +6540,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Satisfilled s.r.o.",
+      "registered_office_address": "K podjezdu 1445, Praha, 14000"
     },
     {
       "id": "res-30195365",
@@ -6353,7 +6591,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Digital IT Systems s.r.o.",
+      "registered_office_address": "Zbraslavská 12, Praha, 15900"
     },
     {
       "id": "res-30194822",
@@ -6402,7 +6642,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Bartuga Labs s.r.o.",
+      "registered_office_address": "Příčná 1892, Praha, 11000"
     },
     {
       "id": "res-30194652",
@@ -6451,7 +6693,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "RCM RENT Czech Republic s.r.o.",
+      "registered_office_address": "Daimlerova 2296, Praha, 14900"
     },
     {
       "id": "res-30193401",
@@ -6500,7 +6744,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Josef Pamětický",
+      "registered_office_address": "Zápasnická 876, Praha, 10200"
     },
     {
       "id": "res-30193141",
@@ -6549,7 +6795,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Vladyslav Kampo",
+      "registered_office_address": "Dandova 2619, Praha, 19300"
     },
     {
       "id": "res-30192609",
@@ -6598,7 +6846,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Jiří Pešta",
+      "registered_office_address": "Děčínská 552, Praha, 18000"
     },
     {
       "id": "res-30192510",
@@ -6647,7 +6897,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Korvanta Capital s.r.o.",
+      "registered_office_address": "Jaurisova 515, Praha, 14000"
     },
     {
       "id": "res-30191840",
@@ -6696,7 +6948,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "City Tago Taxi s.r.o.",
+      "registered_office_address": "Ortenovo náměstí 1488, Praha, 17000"
     },
     {
       "id": "res-30191564",
@@ -6745,7 +6999,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Navorexo s.r.o.",
+      "registered_office_address": "Jičínská 226, Praha, 13000"
     },
     {
       "id": "res-30189900",
@@ -6794,7 +7050,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Green Bear s.r.o.",
+      "registered_office_address": "Vratislavova 20, Praha, 12800"
     },
     {
       "id": "res-30189594",
@@ -6843,7 +7101,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Mirtheq s.r.o.",
+      "registered_office_address": "Dandova 2619, Praha, 19300"
     },
     {
       "id": "res-30185866",
@@ -6892,7 +7152,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Jan Mach",
+      "registered_office_address": "Filmařská 1155, Praha, 15200"
     },
     {
       "id": "res-30185394",
@@ -6941,7 +7203,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Pulok Kanti Das",
+      "registered_office_address": "Kurzova 2222, Praha, 15500"
     },
     {
       "id": "res-30185360",
@@ -6990,7 +7254,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Zahidul Islam",
+      "registered_office_address": "Kurzova 2222, Praha, 15500"
     },
     {
       "id": "res-30184711",
@@ -7039,7 +7305,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Porter Doctor s.r.o.",
+      "registered_office_address": "Korunní 2569, Praha, 10100"
     },
     {
       "id": "res-30173558",
@@ -7088,7 +7356,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Bohdana Danylo",
+      "registered_office_address": "Braunerova 2325, Praha, 18000"
     },
     {
       "id": "res-30169895",
@@ -7137,7 +7407,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Jasbir Singh",
+      "registered_office_address": "Černínova 1118, Praha, 13000"
     },
     {
       "id": "res-30166365",
@@ -7186,7 +7458,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Alžběta Ambrózová",
+      "registered_office_address": "Kurzova 2222, Praha, 15500"
     },
     {
       "id": "res-30161959",
@@ -7235,7 +7509,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Nhat Đông Tran",
+      "registered_office_address": "Novodvorská 1094, Praha, 14200"
     },
     {
       "id": "res-30203856",
@@ -7284,7 +7560,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Code & Copy s.r.o.",
+      "registered_office_address": "Vosmíkových 1683, Praha, 18000"
     },
     {
       "id": "res-30203791",
@@ -7333,7 +7611,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "DOMINANT VISION s.r.o.",
+      "registered_office_address": "Mattioliho 3274, Praha, 10600"
     },
     {
       "id": "res-30203694",
@@ -7382,7 +7662,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Code Black Digital s.r.o.",
+      "registered_office_address": "Novákových 358, Praha, 18000"
     },
     {
       "id": "res-30203546",
@@ -7431,7 +7713,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "SPV Rezidence Bohatice s.r.o.",
+      "registered_office_address": "Chudenická 1059, Praha, 10200"
     },
     {
       "id": "res-30203333",
@@ -7480,7 +7764,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "MCH1997 s.r.o.",
+      "registered_office_address": "V planinách 282, Praha, 11101"
     },
     {
       "id": "res-30202931",
@@ -7529,7 +7815,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Miroslav Nistor",
+      "registered_office_address": "Rybná 716, Praha, 11000"
     },
     {
       "id": "res-30202744",
@@ -7578,7 +7866,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Build&Keep s.r.o.",
+      "registered_office_address": "Štětkova 899, Praha, 14000"
     },
     {
       "id": "res-30202639",
@@ -7627,7 +7917,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Cinbu 26 s.r.o.",
+      "registered_office_address": "Před Cibulkami 320, Praha, 15000"
     },
     {
       "id": "res-30200229",
@@ -7676,7 +7968,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "ZARAFŠON s.r.o.",
+      "registered_office_address": "Vratislavská 396, Praha, 18100"
     },
     {
       "id": "res-30199743",
@@ -7725,7 +8019,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "MyRymbi s.r.o.",
+      "registered_office_address": "Uralská 689, Praha, 16000"
     },
     {
       "id": "res-30199662",
@@ -7774,7 +8070,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "VSX Digital s.r.o.",
+      "registered_office_address": "Příčná 1892, Praha, 11000"
     },
     {
       "id": "res-30199255",
@@ -7823,7 +8121,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "NM&VK production s.r.o.",
+      "registered_office_address": "Příčná 1892, Praha, 11000"
     },
     {
       "id": "res-30198895",
@@ -7872,7 +8172,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "TEON hub s.r.o.",
+      "registered_office_address": "Korunní 2569, Praha, 10100"
     },
     {
       "id": "res-30197694",
@@ -7921,7 +8223,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Tribau Power s.r.o.",
+      "registered_office_address": "Plzeňská 3352, Praha, 15000"
     },
     {
       "id": "res-30197333",
@@ -7970,7 +8274,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "PLENHAUS Europe s.r.o.",
+      "registered_office_address": "Petržílkova 2583, Praha, 15800"
     },
     {
       "id": "res-30193753",
@@ -8019,7 +8325,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Ability Language Centre s.r.o.",
+      "registered_office_address": "Na písku 147, Praha, 15400"
     },
     {
       "id": "res-30187796",
@@ -8068,7 +8376,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Ball Score Media s.r.o.",
+      "registered_office_address": "Na valech 275, Praha, 16000"
     },
     {
       "id": "res-30184932",
@@ -8117,7 +8427,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Elysian Dreams s.r.o.",
+      "registered_office_address": "Slezanů 2377, Praha, 16900"
     },
     {
       "id": "res-30172969",
@@ -8166,7 +8478,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Mgr. Karolína Herudková, advokátka",
+      "registered_office_address": "Na Pankráci 1683, Praha, 14000"
     },
     {
       "id": "res-30170311",
@@ -8215,7 +8529,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Mgr. Michal Jandus, advokát",
+      "registered_office_address": "Na příkopě 1096, Praha, 11000"
     },
     {
       "id": "res-30169224",
@@ -8264,7 +8580,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Mgr. Jan Adamov, advokát",
+      "registered_office_address": "Krymská 227, Praha, 10100"
     },
     {
       "id": "res-30169062",
@@ -8313,7 +8631,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Mgr. Adam Krejčí, advokát",
+      "registered_office_address": "Klimentská 1207, Praha, 11000"
     },
     {
       "id": "res-30168040",
@@ -8362,7 +8682,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "JUDr. Jaroslava Novotná, advokátka",
+      "registered_office_address": "Čenovická 2148, Praha, 19016"
     },
     {
       "id": "res-30164079",
@@ -8411,7 +8733,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Mgr. Tomáš Bendík, advokát",
+      "registered_office_address": "Hvězdova 1716, Praha, 14000"
     },
     {
       "id": "res-30163650",
@@ -8460,7 +8784,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Mgr. Dominik Špaček, advokát",
+      "registered_office_address": "Ovocný trh 573, Praha, 11000"
     },
     {
       "id": "res-30163382",
@@ -8509,7 +8835,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Mgr. Ján Mozoľ, advokát",
+      "registered_office_address": "V celnici 1034, Praha, 11000"
     },
     {
       "id": "res-30159547",
@@ -8558,7 +8886,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Mgr. Sofie Petrová, advokátka",
+      "registered_office_address": "Na Florenci 2116, Praha, 11000"
     },
     {
       "id": "res-30158605",
@@ -8607,7 +8937,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Mgr. Pavel Novotný, advokát",
+      "registered_office_address": "Jugoslávská 620, Praha, 12000"
     },
     {
       "id": "res-30147271",
@@ -8656,7 +8988,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Mgr. Romana Blažková, advokátka",
+      "registered_office_address": "Hvězdova 1716, Praha, 14000"
     },
     {
       "id": "res-30146119",
@@ -8705,7 +9039,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Mgr. Jan Prošek, advokát",
+      "registered_office_address": "Pujmanové 1753, Praha, 14000"
     },
     {
       "id": "res-30143667",
@@ -8754,7 +9090,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Mgr. Tomáš Blažek, advokát",
+      "registered_office_address": "V celnici 1034, Praha, 11000"
     },
     {
       "id": "res-30140251",
@@ -8803,7 +9141,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Mgr. Petra Miloschewitschová, advokátka",
+      "registered_office_address": "Na Pankráci 1683, Praha, 14000"
     },
     {
       "id": "res-30139627",
@@ -8852,7 +9192,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Mgr. Sára Bartlová, advokátka",
+      "registered_office_address": "Nepilova 903, Praha, 19000"
     },
     {
       "id": "res-30138281",
@@ -8901,7 +9243,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "JUDr. Anna Lešanská, advokátka",
+      "registered_office_address": "Na Pankráci 322, Praha, 14000"
     },
     {
       "id": "res-30135907",
@@ -8950,7 +9294,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Mgr. Jiří Krejča, advokát",
+      "registered_office_address": "Dlouhá 705, Praha, 11000"
     },
     {
       "id": "res-30200385",
@@ -8999,7 +9345,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Petr Novák",
+      "registered_office_address": "K Padesátníku 115, Praha, 16400"
     },
     {
       "id": "res-30191513",
@@ -9048,7 +9396,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "DK 69 s.r.o.",
+      "registered_office_address": "Bohdalecká 1460, Praha, 10100"
     },
     {
       "id": "res-30191505",
@@ -9097,7 +9447,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "DM home Reality s.r.o.",
+      "registered_office_address": "Bohdalecká 1460, Praha, 10100"
     },
     {
       "id": "res-30187923",
@@ -9146,7 +9498,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Vinizen s.r.o.",
+      "registered_office_address": "Na Folimance 2152, Praha, 12000"
     },
     {
       "id": "res-30202671",
@@ -9195,7 +9549,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Roland Csizmár",
+      "registered_office_address": "Zlochova 2230, Praha, 14300"
     },
     {
       "id": "res-30202361",
@@ -9244,7 +9600,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Vendula Bayerová",
+      "registered_office_address": "Bělehradská 900, Praha, 12000"
     },
     {
       "id": "res-30201152",
@@ -9293,7 +9651,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Olha Mykhalko",
+      "registered_office_address": "Galandova 1233, Praha, 16300"
     },
     {
       "id": "res-30201080",
@@ -9342,7 +9702,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Larysa Hormilina",
+      "registered_office_address": "Ortenovo náměstí 1488, Praha, 17000"
     },
     {
       "id": "res-30200768",
@@ -9391,7 +9753,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Mgr. art. Milan Mravčák",
+      "registered_office_address": "Černá 1705, Praha, 11000"
     },
     {
       "id": "res-30200431",
@@ -9440,7 +9804,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Karyna Kurylo",
+      "registered_office_address": "Kubelíkova 1258, Praha, 13000"
     },
     {
       "id": "res-30200318",
@@ -9489,7 +9855,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Anna Marie Andriško",
+      "registered_office_address": "Černochova 1291, Praha, 15800"
     },
     {
       "id": "res-30200202",
@@ -9538,7 +9906,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Sebastian Perkuhn",
+      "registered_office_address": "Na Zatlance 1362, Praha, 15000"
     },
     {
       "id": "res-30200199",
@@ -9587,7 +9957,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Emmanuel Chiziterem Ogbonna",
+      "registered_office_address": "Volkovova 643, Praha, 14900"
     },
     {
       "id": "res-30200164",
@@ -9636,7 +10008,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Thi Thuy Linh Bach",
+      "registered_office_address": "Mašovická 160, Praha, 14200"
     },
     {
       "id": "res-30199808",
@@ -9685,7 +10059,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Iryna Shapovalova",
+      "registered_office_address": "náměstí Přátelství 1518, Praha, 10200"
     },
     {
       "id": "res-30199735",
@@ -9734,7 +10110,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Lazhar Benseidi",
+      "registered_office_address": "Petrská 1166, Praha, 11000"
     },
     {
       "id": "res-30199646",
@@ -9783,7 +10161,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Dominika Garančovská",
+      "registered_office_address": "Mikovcova 582, Praha, 12000"
     },
     {
       "id": "res-30199506",
@@ -9832,7 +10212,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Melaniia Sahaidak",
+      "registered_office_address": "Uruguayská 77, Praha, 12000"
     },
     {
       "id": "res-30199298",
@@ -9881,7 +10263,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Tereza Hamšíková",
+      "registered_office_address": "Tálínská 1038, Praha, 19800"
     },
     {
       "id": "res-30198933",
@@ -9930,7 +10314,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Nelia Petrash",
+      "registered_office_address": "Sokolovská 359, Praha, 18600"
     },
     {
       "id": "res-30198780",
@@ -9979,7 +10365,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Pajas GOOD AUTO s.r.o.",
+      "registered_office_address": "Zenklova 24, Praha, 18000"
     },
     {
       "id": "res-30198631",
@@ -10028,7 +10416,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Miriam Kombercová",
+      "registered_office_address": "Högerova 1098, Praha, 15200"
     },
     {
       "id": "res-30198542",
@@ -10077,7 +10467,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Ing. Nikol Horáková",
+      "registered_office_address": "Svojšická 1430, Praha, 19016"
     },
     {
       "id": "res-30198321",
@@ -10126,7 +10518,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "VYVADIL VEHICLES s.r.o.",
+      "registered_office_address": "Zenklova 24, Praha, 18000"
     },
     {
       "id": "res-30197503",
@@ -10175,7 +10569,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Adam Bartoš",
+      "registered_office_address": "Šenácká 583, Praha, 14700"
     },
     {
       "id": "res-30197473",
@@ -10224,7 +10620,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Mgr. Tomáš Kunst",
+      "registered_office_address": "Zdiměřická 1434, Praha, 14900"
     },
     {
       "id": "res-30196043",
@@ -10273,7 +10671,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "NHV s.r.o.",
+      "registered_office_address": "Jičínská 226, Praha, 13000"
     },
     {
       "id": "res-30195837",
@@ -10322,7 +10722,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Milada Bihary",
+      "registered_office_address": "Pod Labuťkou 951, Praha, 18000"
     },
     {
       "id": "res-30195713",
@@ -10371,7 +10773,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Čestlická Vejmrda s.r.o.",
+      "registered_office_address": "Neveklovská 523, Praha, 14000"
     },
     {
       "id": "res-30195675",
@@ -10420,7 +10824,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "MIRVON s.r.o.",
+      "registered_office_address": "Bělehradská 858, Praha, 12000"
     },
     {
       "id": "res-30195284",
@@ -10469,7 +10875,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Adam Sobol",
+      "registered_office_address": "Eliášova 394, Praha, 16000"
     },
     {
       "id": "res-30194954",
@@ -10518,7 +10926,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Reformfamily s.r.o.",
+      "registered_office_address": "Pod Karlovarskou silnicí 1145, Praha, 16100"
     },
     {
       "id": "res-30194440",
@@ -10567,7 +10977,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Ladislava Ferková",
+      "registered_office_address": "Příčná 1892, Praha, 11000"
     },
     {
       "id": "res-30194318",
@@ -10616,7 +11028,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Ĺubomír Pôbiš",
+      "registered_office_address": "Trnkovo náměstí 1112, Praha, 15200"
     },
     {
       "id": "res-30193362",
@@ -10665,7 +11079,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Žaneta Slavatová",
+      "registered_office_address": "Železnobrodská 46, Praha, 19700"
     },
     {
       "id": "res-30193150",
@@ -10714,7 +11130,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Tomáš Hrnčíř Kobliha",
+      "registered_office_address": "Dandova 2619, Praha, 19300"
     },
     {
       "id": "res-30192960",
@@ -10763,7 +11181,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Simple Dumpl Ostrava s.r.o.",
+      "registered_office_address": "Ortenovo náměstí 1488, Praha, 17000"
     },
     {
       "id": "res-30192811",
@@ -10812,7 +11232,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Sakura Bubble Taste s.r.o.",
+      "registered_office_address": "Nýdecká 444, Praha, 19900"
     },
     {
       "id": "res-30192668",
@@ -10861,7 +11283,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Mgr. Josef Zběhlík",
+      "registered_office_address": "Káranská 641, Praha, 10800"
     },
     {
       "id": "res-30191661",
@@ -10910,7 +11334,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "INEP cars s.r.o.",
+      "registered_office_address": "Na Václavce 1135, Praha, 15000"
     },
     {
       "id": "res-30190401",
@@ -10959,7 +11385,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "VT26 s.r.o.",
+      "registered_office_address": "Vítkova 241, Praha, 18600"
     },
     {
       "id": "res-30188661",
@@ -11008,7 +11436,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "THE wellness Prague s.r.o.",
+      "registered_office_address": "Pobočná 1402, Praha, 14100"
     },
     {
       "id": "res-30187206",
@@ -11057,7 +11487,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "AY Goodies s.r.o.",
+      "registered_office_address": "Na Folimance 2155, Praha, 12000"
     },
     {
       "id": "res-10988556",
@@ -11106,7 +11538,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Michal Přibyl",
+      "registered_office_address": "Chabařovická 1322, Praha, 18200"
     },
     {
       "id": "res-30204178",
@@ -11155,7 +11589,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "42 Solutions s.r.o.",
+      "registered_office_address": "Dolnocholupická 2124, Praha, 14300"
     },
     {
       "id": "res-30201969",
@@ -11204,7 +11640,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "Olesja Andrijivna Matějková",
+      "registered_office_address": "Jaromírova 569, Praha, 12800"
     },
     {
       "id": "res-30196973",
@@ -11253,7 +11691,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "House Joy s.r.o.",
+      "registered_office_address": "Školská 660, Praha, 11000"
     },
     {
       "id": "res-06547699",
@@ -11302,7 +11742,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "K&L Company 4YOU s.r.o. v likvidaci",
+      "registered_office_address": "Rybná 716, Praha, 11000"
     },
     {
       "id": "res-21712948",
@@ -11351,7 +11793,9 @@
       "snapshot_event": "first_seen_in_filtered_snapshot",
       "data_origin": "ČSÚ RES",
       "manual": false,
-      "score": 0
+      "score": 0,
+      "legal_name": "INDUSTRIESTHEMES s.r.o.",
+      "registered_office_address": "Sokolova 719, Praha, 18600"
     },
     {
       "id": "res-87656001",
