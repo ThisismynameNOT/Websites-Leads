@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-04T16:00:13.897916+00:00",
+  "generated_at": "2026-11-05T16:05:13.784980+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -5250,33 +5250,23 @@
     "manual-elefant-praha-roofing": {
       "lead_id": "manual-elefant-praha-roofing",
       "name": "ELEFANT - PRAHA, s.r.o.",
-      "checked_at": "2026-10-22",
+      "checked_at": "2026-11-05",
       "engine_version": 8,
       "state": "audited",
       "discovery": {
-        "status": "partial_search",
+        "status": "searched",
         "queries": [
           "\"ELEFANT - PRAHA, s.r.o.\" IČO 64942988 web",
           "\"ELEFANT - PRAHA, s.r.o.\" Praha Construction & property kontakt",
           "\"ELEFANT - PRAHA, s.r.o.\" \"Dědinova 2007/11\" web",
           "\"ELEFANT - PRAHA, s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 1,
+        "successful_queries": 2,
         "candidates": [
           {
-            "url": "https://ifirmy.cz/firma/272126-elefant-praha-sro",
-            "title": "ELEFANT - PRAHA, s.r.o. - Praha 11 - rejstřík firem ifirmy.cz",
-            "snippet": "Další informace o firmě ELEFANT - PRAHA, s.r.o. IČ : 64942988 DIČ : CZ64942988 Počet zaměstnanců : 1"
-          },
-          {
             "url": "https://rejstrik-firem.kurzy.cz/64942988/elefant-praha-sro/",
-            "title": "ELEFANT - PRAHA, s.r.o. , Praha IČO 64942988 - Obchodní ...Elefant - Praha, s.r.o. | NejStav.cz: Specialista na stavební ...Elefant - Praha, s.r.o. • AAADodavatel.czELEFANT - PRAHA",
-            "snippet": "ELEFANT - PRAHA, s.r.o., Prašná, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní společnosti ... Lokalita: Praha 4, Prašná 130/4 O firmě: Profil společnosti. Stavební společnost ELEFANT - PRAHA spol. s r.o. byla založena v Praze v roce 1995. Firma byla založen"
-          },
-          {
-            "url": "https://nejstav.cz/firmy/detail/17620-elefant-praha-sro",
-            "title": "Elefant - Praha, s.r.o. | NejStav.cz: Specialista na stavební ...",
-            "snippet": "Lokalita: Praha 4, Prašná 130/4 O firmě: Profil společnosti. Stavební společnost ELEFANT - PRAHA spol. s r.o. byla založena v Praze v roce 1995. Firma byla založena se záměrem poskytovat dodávky v co nejširším spektru izolačních prací. Počínaje izolacemi spodních staveb,tepelnými izolacemi a konče izolačními systémy pl"
+            "title": "ELEFANT - PRAHA, s.r.o. , Praha IČO 64942988 - Obchodní ...Elefant - Praha, s.r.o. • AAADodavatel.czElefant - Praha, s.r.o. | NejStav.cz: Specialista na stavební ...ELEFANT - PRAHA",
+            "snippet": "ELEFANT - PRAHA, s.r.o., Prašná, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní společnosti ... Stavební společnost ELEFANT - PRAHA spol. s r.o. byla založena v Praze v roce 1995. Firma byla založena se záměrem poskytovat dodávky v co nejširším spektru izolač"
           },
           {
             "url": "https://www.aaadodavatel.cz/37563-elefant-praha-sro",
@@ -5284,9 +5274,19 @@
             "snippet": "Stavební společnost ELEFANT - PRAHA spol. s r.o. byla založena v Praze v roce 1995. Firma byla založena se záměrem poskytovat dodávky v co nejširším spektru izolačních prací."
           },
           {
+            "url": "https://nejstav.cz/firmy/detail/17620-elefant-praha-sro",
+            "title": "Elefant - Praha, s.r.o. | NejStav.cz: Specialista na stavební ...",
+            "snippet": "Lokalita: Praha 4, Prašná 130/4 O firmě: Profil společnosti. Stavební společnost ELEFANT - PRAHA spol. s r.o. byla založena v Praze v roce 1995. Firma byla založena se záměrem poskytovat dodávky v co nejširším spektru izolačních prací. Počínaje izolacemi spodních staveb,tepelnými izolacemi a konče izolačními systémy pl"
+          },
+          {
             "url": "https://www.acompio.cz/ELEFANT-PRAHA-sro-42521955.html",
             "title": "ELEFANT - PRAHA, s.r.o. | Acompio Czech Republic",
             "snippet": "You can reach ELEFANT - PRAHA, s.r.o. on the telephone number +420737291177. You can reach the company by post at Dědinova 11/2007 in 148 00 Praha 4-Chodov. Praha 4-Chodov is in the state Hlavní město Praha. Other contact details e-mail or the website. The company confirmed or changed the entry on 10/25/24. and looks f"
+          },
+          {
+            "url": "https://ifirmy.cz/firma/272126-elefant-praha-sro",
+            "title": "ELEFANT - PRAHA, s.r.o. - Praha 11 - rejstřík firem ifirmy.cz",
+            "snippet": "Další informace o firmě ELEFANT - PRAHA, s.r.o. IČ : 64942988 DIČ : CZ64942988 Počet zaměstnanců : 1"
           },
           {
             "url": "https://rejstrik-firem.kurzy.cz/64942988/elefant-praha-sro/statisticky-urad/",
@@ -5297,10 +5297,14 @@
             "url": "https://infirmy.cz/detail/139065-elefant-praha-sro",
             "title": "ELEFANT-PRAHA, s.r.o. - infirmy.cz",
             "snippet": "I vy s námi můžete nastartovat své podnikání! Aktivujte si rozšířený firemní záznam v katalogu InFirmy.cz a získejte zvýraznění oproti konkurenci. Buďte s námi vidět tam, kde vás zákazníci skutečně hledají."
+          },
+          {
+            "url": "https://elektro-elefant.cz/",
+            "title": "Elektro pohotovost a servis Praha nonstop - Elektro-elefant.cz",
+            "snippet": "Pohotovost elektro, nonstop havarijní a poruchová služba pro Prahu a okolí. Včetně víkendů a svátků. Rychlý dojezd do 90 minut."
           }
         ],
         "errors": [
-          "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
@@ -5329,7 +5333,7 @@
             "reason": "HTTP_401"
           },
           {
-            "url": "https://nejstav.cz/firmy/detail/17620-elefant-praha-sro",
+            "url": "https://www.aaadodavatel.cz/37563-elefant-praha-sro",
             "result": "ambiguous",
             "evidence": [
               "Matching business name on website",
@@ -5337,7 +5341,7 @@
             ]
           },
           {
-            "url": "https://www.aaadodavatel.cz/37563-elefant-praha-sro",
+            "url": "https://nejstav.cz/firmy/detail/17620-elefant-praha-sro",
             "result": "ambiguous",
             "evidence": [
               "Matching business name on website",
@@ -5385,7 +5389,7 @@
       },
       "audit": {
         "state": "observed",
-        "checked_at": "2026-10-22",
+        "checked_at": "2026-11-05",
         "website": "https://infirmy.cz/detail/139065-elefant-praha-sro",
         "devices": {
           "desktop": {
@@ -5471,11 +5475,11 @@
         ]
       },
       "candidate_search_sources": [
-        "https://ifirmy.cz/firma/272126-elefant-praha-sro",
         "https://rejstrik-firem.kurzy.cz/64942988/elefant-praha-sro/",
-        "https://nejstav.cz/firmy/detail/17620-elefant-praha-sro",
         "https://www.aaadodavatel.cz/37563-elefant-praha-sro",
+        "https://nejstav.cz/firmy/detail/17620-elefant-praha-sro",
         "https://www.acompio.cz/ELEFANT-PRAHA-sro-42521955.html",
+        "https://ifirmy.cz/firma/272126-elefant-praha-sro",
         "https://rejstrik-firem.kurzy.cz/64942988/elefant-praha-sro/statisticky-urad/",
         "https://infirmy.cz/detail/139065-elefant-praha-sro"
       ],
@@ -5741,7 +5745,7 @@
     "manual-kolos-praha-building": {
       "lead_id": "manual-kolos-praha-building",
       "name": "KOLOS Praha s.r.o.",
-      "checked_at": "2026-10-22",
+      "checked_at": "2026-11-05",
       "engine_version": 8,
       "state": "audited",
       "discovery": {
@@ -5752,7 +5756,7 @@
           "\"KOLOS Praha s.r.o.\" \"Výrobní 2/45\" web",
           "\"KOLOS Praha s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 2,
+        "successful_queries": 3,
         "candidates": [
           {
             "url": "https://www.kolos.cz/",
@@ -5766,18 +5770,23 @@
           },
           {
             "url": "https://www.firmy.cz/detail/2428565-kolos-praha-praha.html",
-            "title": "KOLOS Praha, s.r.o. - Firmy.czKOLOS Praha s.r.o. - aaadodavatel.czKOLOS Praha s.r.o. - Praha 10 - rejstřík firem ifirmy.czSpolečnost KOLOS Praha s.r.o. | Detail.czKOLOS Praha s.r.o",
-            "snippet": "Aktuální ověřené informace: adresa, telefon, e-mail a provozní hodiny KOLOS Praha, s.r.o., Praha. Telefon: 272 700 … Nová 213, Mukařov, 25162 Hlavní město Praha Web www.kolos.cz Telefon +420 603 199 901 E-mail mptacek@kolos.cz Klíčová slova stavebnictví rekonstrukce instalace topení sádrokarton podlahy obklady dlažby z"
+            "title": "KOLOS Praha, s.r.o. - Firmy.czKonstruktis Praha, spol. s ro - Petra Rezka 1723, 140 ... - CyboKOLOS Praha s.r.o. - Praha 10 - rejstřík firem ifirmy.czKOLOS Praha s.r.o., 27573257 V",
+            "snippet": "Aktuální ověřené informace: adresa, telefon, e-mail a provozní hodiny KOLOS Praha, s.r.o., Praha. Telefon: 272 700 … Konstruktis Praha, spol. s ro Prague postal code 140 00. See Google profile, Phone, Website and more for this business. 3.0 Cybo Score. Review on Cybo. Předmět činnosti firmy KOLOS Praha s.r.o. Rekonstru"
           },
           {
-            "url": "https://www.aaadodavatel.cz/28143-kolos-praha-sro",
-            "title": "KOLOS Praha s.r.o. - aaadodavatel.cz",
-            "snippet": "Nová 213, Mukařov, 25162 Hlavní město Praha Web www.kolos.cz Telefon +420 603 199 901 E-mail mptacek@kolos.cz Klíčová slova stavebnictví rekonstrukce instalace topení sádrokarton podlahy obklady dlažby zdění rekonstrukční práce obkladačské práce koupelna bytové jádro stavební práce stavba výstavba rodinný dům garáže pl"
+            "url": "https://www.cybo.com/CZ-biz/konstruktis-praha-spol-s-ro",
+            "title": "Konstruktis Praha, spol. s ro - Petra Rezka 1723, 140 ... - Cybo",
+            "snippet": "Konstruktis Praha, spol. s ro Prague postal code 140 00. See Google profile, Phone, Website and more for this business. 3.0 Cybo Score. Review on Cybo."
           },
           {
             "url": "https://ifirmy.cz/firma/048917-kolos-praha-sro",
             "title": "KOLOS Praha s.r.o. - Praha 10 - rejstřík firem ifirmy.cz",
             "snippet": "Předmět činnosti firmy KOLOS Praha s.r.o. Rekonstrukce bytů, domů a nebytových prostor. Zednické služby v Praze a okolí. Celkové zateplení fasád, střech a sklepů a další stavební práce, včetně výstavby domů, garáží a plotů."
+          },
+          {
+            "url": "https://virtalist.com/cz/rejstrik/firmy/27573257/kolos-praha-sro/",
+            "title": "KOLOS Praha s.r.o., 27573257 Vše na 1 klik Bez reklam",
+            "snippet": "Údaje, historie i prověření KOLOS Praha s.r.o. na jednom místě. Data z rejstříku. Vše zkopírujete na klik. Hlavička do smlouvy, sdílení emailem. Bez reklam"
           },
           {
             "url": "https://www.detail.cz/firma/27573257-kolos-praha-sro-nova-213-mukarov/",
@@ -5790,13 +5799,17 @@
             "snippet": "Kontakty Výrobní 2/45, 102 00 Praha-Štěrboholy-Štěrboholy okres Hlavní město Praha, Hlavní město Praha kolos@kolos.cz IČ: 27573257"
           },
           {
+            "url": "https://rejstrik-firem.kurzy.cz/27573257/kolos-praha-sro/",
+            "title": "KOLOS Praha s.r.o. , Mukařov IČO 27573257 - Obchodní rejstřík ...",
+            "snippet": "Tato stránka obsahuje aktuální výpis údajů firmy KOLOS Praha s.r.o. Údaje byly staženy 30. října 2026 z datové služby justice.cz dle IČO 27573257 a údaje ve výpise nebyly dle systému ARES do dnešního dne změněny. Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob. Kompletní vý"
+          },
+          {
             "url": "https://www.poptavky.cz/firmy/detail/137372-kolos-praha-sro",
             "title": "KOLOS Praha s.r.o. • Katalog firem • Poptavky.cz",
             "snippet": "Projekt Poptávky.cz sdružuje poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky s revolučním konce"
           }
         ],
         "errors": [
-          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
         "public_site_contacts": {
@@ -5823,12 +5836,14 @@
             ]
           },
           {
-            "url": "https://www.aaadodavatel.cz/28143-kolos-praha-sro",
-            "result": "ambiguous",
-            "evidence": [
-              "Matching business name on website",
-              "Prague mentioned on website"
-            ]
+            "url": "https://www.cybo.com/CZ-biz/konstruktis-praha-spol-s-ro",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://virtalist.com/cz/rejstrik/firmy/27573257/kolos-praha-sro/",
+            "result": "unreachable",
+            "reason": "HTTP_403"
           },
           {
             "url": "https://www.detail.cz/firma/27573257-kolos-praha-sro-nova-213-mukarov/",
@@ -5849,7 +5864,7 @@
         "registered_at": "2006-07-26",
         "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=27573257",
         "decision_maker": {
-          "name": "MARTIN PTÁČEK",
+          "name": "JIŘÍ PTÁČEK",
           "role": "jednatel",
           "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=27573257",
           "verified_scope": "Public statutory member; marketing purchasing authority unverified"
@@ -5857,13 +5872,13 @@
         "contact_verified": false,
         "statutory_members": [
           {
-            "name": "MARTIN PTÁČEK",
+            "name": "JIŘÍ PTÁČEK",
             "role": "jednatel",
             "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=27573257",
             "verified_scope": "Public statutory member; marketing purchasing authority unverified"
           },
           {
-            "name": "JIŘÍ PTÁČEK",
+            "name": "MARTIN PTÁČEK",
             "role": "jednatel",
             "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=27573257",
             "verified_scope": "Public statutory member; marketing purchasing authority unverified"
@@ -5872,7 +5887,7 @@
       },
       "audit": {
         "state": "observed",
-        "checked_at": "2026-10-22",
+        "checked_at": "2026-11-05",
         "website": "https://www.detail.cz/firma/27573257-kolos-praha-sro-nova-213-mukarov/",
         "devices": {
           "desktop": {
@@ -5944,7 +5959,7 @@
           95000
         ],
         "decision_maker": {
-          "name": "MARTIN PTÁČEK",
+          "name": "JIŘÍ PTÁČEK",
           "role": "jednatel",
           "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=27573257",
           "verified_scope": "Public statutory member; marketing purchasing authority unverified"
@@ -5961,10 +5976,10 @@
         "https://www.kolos.cz/",
         "https://www.kolos.cz/kontakty/index.html",
         "https://www.firmy.cz/detail/2428565-kolos-praha-praha.html",
-        "https://www.aaadodavatel.cz/28143-kolos-praha-sro",
+        "https://www.cybo.com/CZ-biz/konstruktis-praha-spol-s-ro",
         "https://ifirmy.cz/firma/048917-kolos-praha-sro",
-        "https://www.detail.cz/firma/27573257-kolos-praha-sro-nova-213-mukarov/",
-        "https://www.mistriremesel.cz/profil/H1175808"
+        "https://virtalist.com/cz/rejstrik/firmy/27573257/kolos-praha-sro/",
+        "https://www.detail.cz/firma/27573257-kolos-praha-sro-nova-213-mukarov/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
@@ -6444,7 +6459,7 @@
     "osm-node-10118560658": {
       "lead_id": "osm-node-10118560658",
       "name": "EUROCONT REALITY s.r.o.",
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-05",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -6776,7 +6791,7 @@
     "osm-node-10118560659": {
       "lead_id": "osm-node-10118560659",
       "name": "EGYPT REALITY",
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-05",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -16095,7 +16110,7 @@
     "osm-node-9920800818": {
       "lead_id": "osm-node-9920800818",
       "name": "Maxxus Realty",
-      "checked_at": "2026-10-29",
+      "checked_at": "2026-11-05",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -16327,7 +16342,7 @@
     "osm-node-9991267555": {
       "lead_id": "osm-node-9991267555",
       "name": "RAMSS spol. s r.o.",
-      "checked_at": "2026-10-29",
+      "checked_at": "2026-11-05",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -16633,7 +16648,7 @@
     "osm-way-132113757": {
       "lead_id": "osm-way-132113757",
       "name": "ELSA Consulting s.r.o.",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-05",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -17377,7 +17392,7 @@
     "osm-way-1415360885": {
       "lead_id": "osm-way-1415360885",
       "name": "Remax",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-05",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -49817,6 +49832,1808 @@
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
       "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30191220": {
+      "lead_id": "res-30191220",
+      "name": "Persia Investment s.r.o.",
+      "checked_at": "2026-11-05",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Persia Investment s.r.o.\" IČO 30191220 web",
+          "\"Persia Investment s.r.o.\" Praha Construction & property kontakt",
+          "\"Persia Investment s.r.o.\" \"Rybná 716\" web",
+          "\"Persia Investment s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 4,
+        "candidates": [
+          {
+            "url": "https://ares.cz/subjekt/30191220-persia-investment-s-r-o/",
+            "title": "Persia Investment s.r.o. — IČO 30191220 | ARES.CZ",
+            "snippet": "Detail subjektu Persia Investment s.r.o. (IČO 30191220). Sídlo, DIČ, předmět činnosti, statutární orgány a další veřejné údaje z rejstříků."
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30191220/persia-investment-s-r-o",
+            "title": "Persia Investment s.r.o. - rizika, jednatel, obchodní rejstřík",
+            "snippet": "Persia Investment s.r.o. Sídlo Praha. IČO: 30191220. Majitelé a statutární orgány. Rejstřík firem. Rok založení 2026. Kontrola rizik firmy."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-persia-investment-s-r-o-30191220/vedeni-firmy",
+            "title": "Persia Investment s.r.o. Praha IČO 30191220 kontakty 05.11.2026 ...",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Persia Investment s.r.o., která sídlí v obci Praha a bylo jí přiděleno IČO 30191220."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-persia-investment-s-r-o-30191220/vlastnici-firmy",
+            "title": "Persia Investment s.r.o. IČO: 30191220 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Persia Investment s.r.o. IČO 30191220 kontakty 03.11.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
+          },
+          {
+            "url": "https://www.jenfirmy.cz/firma/30191220-persia-investment-s-r-o",
+            "title": "Persia Investment s.r.o. ⭐ Profil firmy | ⭐ JenFirmy.cz",
+            "snippet": "Prohlédněte si profil Persia Investment s.r.o. a zjistěte vše, co potřebujete vědět. Místo, kontakty i prověřené recenze zaměstnanců."
+          },
+          {
+            "url": "https://www.jenprace.cz/firmy/30191220-persia-investment-s-r-o",
+            "title": "Práce v Persia Investment s.r.o. Zaměstnání, volná místa",
+            "snippet": "JenPráce.cz — každý den aktuální nabídky práce a brigád v České republice i zahraničí"
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/konstruktis-praha-spol-s-ro",
+            "title": "Konstruktis Praha, spol. s ro - Petra Rezka 1723, 140 ... - Cybo",
+            "snippet": "Konstruktis Praha, spol. s ro Prague postal code 140 00. See Google profile, Phone, Website and more for this business. 3.0 Cybo Score. Review on Cybo."
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/to-rent-apartment-1-1-praha-8-4428978",
+            "title": "To rent apartment 1+1 - Praha 8 - REALCITY.cz",
+            "snippet": "2 days ago · To rent apartment 1+1 40 m² - Praha 8 Last update03.11.2026 Disposition1+1 Contract ID11838 Build-up area202 m² Flooring40 m² Tenureprivate Construction typebrick Floor3rd floor Facilitiesunfurnished Energy classG (>256 kWh/m²/year) more information"
+          },
+          {
+            "url": "https://ceskadata.cz/27163857",
+            "title": "Construction & Property Management s.r.o., Praha – majitelé a ...",
+            "snippet": "Construction & Property Management s.r.o. (IČO 27163857). Ztráta 2025 10 mil. Kč. Společnost s ručením omezeným v Praze, vznik 2004, 1 - 5 zaměstnanců. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://cz.jooble.org/práce-property-management/Praha",
+            "title": "Práce: Property management - Praha - 2026 ... - Jooble",
+            "snippet": "Více než 1 472 pracovních nabídek - Property management v Praze • Konkurenční plat • Plný nebo částečný úvazek a brigády • Najděte si novou práci na Jooble!"
+          },
+          {
+            "url": "https://www.sreality.cz/en/project-detail/rohan-city-ii-etapa-specto-karlin/39989",
+            "title": "ROHAN CITY, II. ETAPA - SPECTO KARLÍN • Sreality.cz",
+            "snippet": "0 properties in the current offer of properties in the development project ROHAN CITY, II. ETAPA - SPECTO KARLÍN The largest offer of real estate in the Czech Republic (110,832 estates) with search on the map and filtering with dozens of parameters"
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.profesia.sk/praca/zoznam-spolocnosti/",
+            "title": "PROFESIA.SK | Zoznam spoločností",
+            "snippet": "Viete, v akej firme by ste chceli pracovať. Vyberte si so zoznamu firiem a nájdite si vo vybranej firme novú prácu."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/adresa-praha-rybna-716-24-21723613",
+            "title": "Rybná 716/24 Praha 11000 (02.11.2026) - Rejstříky.finance.cz",
+            "snippet": "Feb 9, 2017 · Rybná 716/24 Praha 11000 – seznam všech firem a osob, které se na této adrese nachází a mají záznam ve veřejných rejstřících, mapa, GPS souřadnice"
+          }
+        ],
+        "errors": [],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://ares.cz/subjekt/30191220-persia-investment-s-r-o/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://ares.cz/subjekt/30191220-persia-investment-s-r-o/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://ares.cz/subjekt/30191220-persia-investment-s-r-o/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30191220",
+        "legal_name": "Persia Investment s.r.o.",
+        "registered_at": "2026-10-26",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191220",
+        "decision_maker": {
+          "name": "YAVOR PETROV NINOV",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191220",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "YAVOR PETROV NINOV",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191220",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-11-05",
+        "website": "https://ares.cz/subjekt/30191220-persia-investment-s-r-o/",
+        "devices": {
+          "desktop": {
+            "title": "Persia Investment s.r.o. — IČO 30191220 | ARES.CZ",
+            "description": "Detail subjektu Persia Investment s.r.o. (IČO 30191220). Sídlo, DIČ, předmět činnosti, statutární orgány a další veřejné údaje z rejstříků.",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 227,
+            "small_text_elements": 2,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 9,
+            "contact_action": false,
+            "form_count": 4,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Persia Investment s.r.o. — IČO 30191220 | ARES.CZ",
+            "description": "Detail subjektu Persia Investment s.r.o. (IČO 30191220). Sídlo, DIČ, předmět činnosti, statutární orgány a další veřejné údaje z rejstříků.",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 231,
+            "small_text_elements": 2,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 7,
+            "contact_action": false,
+            "form_count": 4,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://ares.cz/subjekt/30191220-persia-investment-s-r-o/"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191220",
+          "date": "2026-10-26",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Persia Investment s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Rybná 716, Praha, 11000.",
+          "An independently identity-matched business website was found: https://ares.cz/subjekt/30191220-persia-investment-s-r-o/.",
+          "ARES confirms registration for IČO 30191220 dated 2026-10-26."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191220",
+            "date": "2026-10-26",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30191220",
+          "https://ares.cz/subjekt/30191220-persia-investment-s-r-o/"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "YAVOR PETROV NINOV",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191220",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://ares.cz/subjekt/30191220-persia-investment-s-r-o/",
+        "https://www.chytryrejstrik.cz/ico-30191220/persia-investment-s-r-o",
+        "https://rejstriky.finance.cz/firma-persia-investment-s-r-o-30191220/vedeni-firmy",
+        "https://rejstriky.finance.cz/firma-persia-investment-s-r-o-30191220/vlastnici-firmy",
+        "https://www.jenfirmy.cz/firma/30191220-persia-investment-s-r-o",
+        "https://www.jenprace.cz/firmy/30191220-persia-investment-s-r-o",
+        "https://www.cybo.com/CZ-biz/konstruktis-praha-spol-s-ro"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://ares.cz/subjekt/30191220-persia-investment-s-r-o/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30191289": {
+      "lead_id": "res-30191289",
+      "name": "CELORDIA s.r.o.",
+      "checked_at": "2026-11-05",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"CELORDIA s.r.o.\" IČO 30191289 web",
+          "\"CELORDIA s.r.o.\" Praha Construction & property kontakt",
+          "\"CELORDIA s.r.o.\" \"Vratislavská 396\" web",
+          "\"CELORDIA s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30191289/celordia-sro/",
+            "title": "CELORDIA s.r.o. , IČO 30191289 - data ze statistického úřadu",
+            "snippet": "Oct 27, 2026 · CELORDIA s.r.o., IČO 30191289 data ze statistického úřadu české republiky. Databáze IČO. Předměty činnosti ze statistického úřadu."
+          },
+          {
+            "url": "https://www.podnikani.cz/30191289/celordia-sro/",
+            "title": "CELORDIA s.r.o. - obchodní rejstřík, vizualizace vztahů firem ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku CELORDIA s.r.o. Vratislavská 396/6, Bohnice, 18100 Praha 8 , IČO: 30191289, Právní forma: Společnost s r.o."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30191289/celordia-sro/zivnosti/",
+            "title": "CELORDIA s.r.o. - Živnostenský rejstřík | Kurzy.cz",
+            "snippet": "Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob. Kompletní výpis včetně dat narození a adres naleznete v originálním výpisu živnostenského rejstříku získáte po zadání IČO 30191289 na stránkách www.rzp.cz."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-celordia-s-r-o-30191289",
+            "title": "CELORDIA s.r.o. Praha IČO 30191289 kontakty 05.11.2026 ...",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu CELORDIA s.r.o., která sídlí v obci Praha a bylo jí přiděleno IČO 30191289."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-celordia-s-r-o-30191289/kontakty",
+            "title": "CELORDIA s.r.o. IČO 30191289 kontakty 03.11.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě CELORDIA s.r.o. IČO 30191289 kontakty 03.11.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+          },
+          {
+            "url": "https://www.jenfirmy.cz/firma/30191289-celordia-s-r-o",
+            "title": "CELORDIA s.r.o. ⭐ Profil firmy | ⭐ JenFirmy.cz",
+            "snippet": "Prohlédněte si profil CELORDIA s.r.o. a zjistěte vše, co potřebujete vědět. Místo, kontakty i prověřené recenze zaměstnanců."
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30191289/celordia-s-r-o",
+            "title": "CELORDIA s.r.o. - majitel, obchodní rejstřík, databáze firem",
+            "snippet": "CELORDIA s.r.o. Sídlo Praha. IČO: 30191289. Majitelé a statutární orgány. Firemní rejstřík. Rok založení 2026. Kontrola rizik firmy."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [
+            "info@jenfirmy.cz"
+          ],
+          "phones": [
+            "+420226216660"
+          ],
+          "source": "https://www.jenfirmy.cz/firma/30191289-celordia-s-r-o",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.jenfirmy.cz/firma/30191289-celordia-s-r-o",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30191289/celordia-sro/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.jenfirmy.cz/firma/30191289-celordia-s-r-o",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30191289",
+        "legal_name": "CELORDIA s.r.o.",
+        "registered_at": "2026-10-24",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191289",
+        "decision_maker": {
+          "name": "RADEK PŘIBYL",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191289",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "RADEK PŘIBYL",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191289",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-11-05",
+        "website": "https://www.jenfirmy.cz/firma/30191289-celordia-s-r-o",
+        "devices": {
+          "desktop": {
+            "title": "CELORDIA s.r.o. ⭐ Profil firmy | ⭐ JenFirmy.cz",
+            "description": "Prohlédněte si profil CELORDIA s.r.o. a zjistěte vše, co potřebujete vědět. Místo, kontakty i prověřené recenze zaměstnanců.",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 80,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 15,
+            "contact_action": true,
+            "form_count": 4,
+            "booking_links": 1,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "CELORDIA s.r.o. ⭐ Profil firmy | ⭐ JenFirmy.cz",
+            "description": "Prohlédněte si profil CELORDIA s.r.o. a zjistěte vše, co potřebujete vědět. Místo, kontakty i prověřené recenze zaměstnanců.",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 80,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 15,
+            "contact_action": true,
+            "form_count": 4,
+            "booking_links": 1,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.jenfirmy.cz/firma/30191289-celordia-s-r-o"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191289",
+          "date": "2026-10-24",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "CELORDIA s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Vratislavská 396, Praha, 18100.",
+          "An independently identity-matched business website was found: https://www.jenfirmy.cz/firma/30191289-celordia-s-r-o.",
+          "ARES confirms registration for IČO 30191289 dated 2026-10-24."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191289",
+            "date": "2026-10-24",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30191289",
+          "https://www.jenfirmy.cz/firma/30191289-celordia-s-r-o"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "RADEK PŘIBYL",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191289",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30191289/celordia-sro/",
+        "https://www.podnikani.cz/30191289/celordia-sro/",
+        "https://rejstrik-firem.kurzy.cz/30191289/celordia-sro/zivnosti/",
+        "https://rejstriky.finance.cz/firma-celordia-s-r-o-30191289",
+        "https://rejstriky.finance.cz/firma-celordia-s-r-o-30191289/kontakty",
+        "https://www.jenfirmy.cz/firma/30191289-celordia-s-r-o",
+        "https://www.chytryrejstrik.cz/ico-30191289/celordia-s-r-o"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [
+          "info@jenfirmy.cz"
+        ],
+        "phones": [
+          "+420226216660"
+        ],
+        "source": "https://www.jenfirmy.cz/firma/30191289-celordia-s-r-o",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30191297": {
+      "lead_id": "res-30191297",
+      "name": "HKLogistic s.r.o.",
+      "checked_at": "2026-11-05",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"HKLogistic s.r.o.\" IČO 30191297 web",
+          "\"HKLogistic s.r.o.\" Praha Construction & property kontakt",
+          "\"HKLogistic s.r.o.\" \"Na Folimance 2155\" web",
+          "\"HKLogistic s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://ares.cz/subjekt/30191297-hklogistic-s-r-o/",
+            "title": "HKLogistic s.r.o. — IČO 30191297 | ARES.CZ",
+            "snippet": "Oct 29, 2026 · QR kód a odznak pro faktury a web Zákazníci si naskenováním ověří vaše údaje ve veřejných registrech. Zdarma. Vytvořit QR kód Označení ve smlouvě: DodavatelOdběratelProdávajícíKupující HKLogistic s.r.o. IČO: 30191297 se sídlem Na Folimance 2155/15, 120 00 Praha spisová značka C 458768 vedená u Městského "
+          },
+          {
+            "url": "https://www.jenfirmy.cz/firma/30191297-hklogistic-s-r-o",
+            "title": "HKLogistic s.r.o. ⭐ Profil firmy | ⭐ JenFirmy.cz",
+            "snippet": "Prohlédněte si profil HKLogistic s.r.o. a zjistěte vše, co potřebujete vědět. Místo, kontakty i prověřené recenze zaměstnanců."
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30191297/hklogistic-s-r-o",
+            "title": "HKLogistic s.r.o. - rizika, majitel, obchodní rejstřík",
+            "snippet": "HKLogistic s.r.o. Sídlo Praha. IČO: 30191297. Majitelé a statutární orgány. Registr firem. Rok založení 2026. Kontrola rizik firmy."
+          },
+          {
+            "url": "https://regiony.kurzy.cz/praha/na-folimance/2155-15/firmy-vypis/",
+            "title": "Na Folimance 2155/15, Vinohrady, 120 00 Praha 2, objekt ...Na Folimance 2155/15 Praha 12000 (01.11.2026)Firma na adrese Na Folimance 2155/15, 120 00 Praha ...Na Folimance 2155/15 (",
+            "snippet": "Na Folimance 2155/15, Vinohrady, 120 00 Praha 2 - mapa, informace o poště a PSČ, údaje z katastru nemovitostí a katastrální mapa, statistické údaje o objektu, GPS pozice pro navigaci, informace o firmách, osobách a živnostech z veřejného rejstříku. Mar 18, 2017 · Na Folimance 2155/15 Praha 12000 – seznam všech firem a "
+          },
+          {
+            "url": "https://rejstriky.finance.cz/adresa-praha-na-folimance-2155-15-21756929",
+            "title": "Na Folimance 2155/15 Praha 12000 (01.11.2026)Firma na adrese Na Folimance 2155/15, 120 00 Praha ...Na Folimance 2155/15 (Adresa) • Mapy.com",
+            "snippet": "Mar 18, 2017 · Na Folimance 2155/15 Praha 12000 – seznam všech firem a osob, které se na této adrese nachází a mají záznam ve veřejných rejstřících, mapa, GPS… Firmy na adrese: Na Folimance 2155/15, 120 00 Praha - Vinohrady Všechny společnosti, nadace, spolky, družstva či jiné ekonomické subjekty, které sídlí na adrese"
+          },
+          {
+            "url": "https://rejstrik.penize.cz/adresa-firmy/praha-vinohrady-na-folimance-215515-psc-120-00",
+            "title": "Firma na adrese Na Folimance 2155/15, 120 00 Praha ...",
+            "snippet": "Firmy na adrese: Na Folimance 2155/15, 120 00 Praha - Vinohrady Všechny společnosti, nadace, spolky, družstva či jiné ekonomické subjekty, které sídlí na adrese Na Folimance 2155/15, 120 00 Praha - Vinohrady. Souhrnné informace, GPS souřadnice, přehledná mapa."
+          },
+          {
+            "url": "https://mapy.com/cs/?source=addr&id=8942365",
+            "title": "Na Folimance 2155/15 (Adresa) • Mapy.com",
+            "snippet": "Mapa Na Folimance 2155/15 (Adresa) – detailní mapa okolí (základní, turistická, satelitní, panoramatická, atd.), plánování trasy, GPS a mnoho dalšího na Mapy.com."
+          },
+          {
+            "url": "https://www.poptavky.cz/poptavky/logisticke-sluzby",
+            "title": "Logistické služby •Katalog poptávek • Poptavky.cz",
+            "snippet": "okres Praha 9. 12. 2025 200 000 korun Podrobný popis: - předmětem veřejné zakázky je optimalizace pro systém řízení logistiky Lokalita: - Česká republika Termín pro podání nabídek: - 18.12.2025 v 10:00 hodin Doprava logistické služby"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.poptavky.cz/pro-sluzby",
+            "title": "Poptávky pro služby - Poptavky.cz",
+            "snippet": "Monitorujeme pro Vás a kategorizujeme poptávky a veřejné zakázky z nejvýznamnějších zdrojů."
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
+            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+          },
+          {
+            "url": "https://www.poptavka24.cz/",
+            "title": "Poptávky, katalog firem a veřejné zakázky | Poptavka24.cz",
+            "snippet": "Aktuální poptávky, katalog hodnocených firem a veřejné zakázky na jednom místě. Zadejte poptávku zdarma a oslovte ověřené dodavatele z celé ČR."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          },
+          {
+            "url": "https://www.poptavka-eu.cz/poptavky",
+            "title": "Přehled aktuálních poptávek a veřejných zakázek malého ...",
+            "snippet": "1 day ago · Přehled poptávek Vybírejte denně aktuální poptávky z vašeho oboru činnosti a lokality bez paušalních poplatků a provizí. 100 % poptávek je telefonicky ověřeno a zkontrolováno našimi pracovníky. Nové obchodní příležitosti ve vašem kraji či okresu najdete ve výpisu poptávek."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://ares.cz/subjekt/30191297-hklogistic-s-r-o/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://ares.cz/subjekt/30191297-hklogistic-s-r-o/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://ares.cz/subjekt/30191297-hklogistic-s-r-o/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30191297",
+        "legal_name": "HKLogistic s.r.o.",
+        "registered_at": "2026-10-26",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191297",
+        "decision_maker": {
+          "name": "PETR TOBOLKA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191297",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "PETR TOBOLKA",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191297",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-11-05",
+        "website": "https://ares.cz/subjekt/30191297-hklogistic-s-r-o/",
+        "devices": {
+          "desktop": {
+            "title": "HKLogistic s.r.o. — IČO 30191297 | ARES.CZ",
+            "description": "Detail subjektu HKLogistic s.r.o. (IČO 30191297). Sídlo, DIČ, předmět činnosti, statutární orgány a další veřejné údaje z rejstříků.",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 223,
+            "small_text_elements": 2,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 11,
+            "contact_action": false,
+            "form_count": 4,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "HKLogistic s.r.o. — IČO 30191297 | ARES.CZ",
+            "description": "Detail subjektu HKLogistic s.r.o. (IČO 30191297). Sídlo, DIČ, předmět činnosti, statutární orgány a další veřejné údaje z rejstříků.",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 227,
+            "small_text_elements": 2,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 7,
+            "contact_action": false,
+            "form_count": 4,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://ares.cz/subjekt/30191297-hklogistic-s-r-o/"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191297",
+          "date": "2026-10-26",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "HKLogistic s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Na Folimance 2155, Praha, 12000.",
+          "An independently identity-matched business website was found: https://ares.cz/subjekt/30191297-hklogistic-s-r-o/.",
+          "ARES confirms registration for IČO 30191297 dated 2026-10-26."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191297",
+            "date": "2026-10-26",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30191297",
+          "https://ares.cz/subjekt/30191297-hklogistic-s-r-o/"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "PETR TOBOLKA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191297",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://ares.cz/subjekt/30191297-hklogistic-s-r-o/",
+        "https://www.jenfirmy.cz/firma/30191297-hklogistic-s-r-o",
+        "https://www.chytryrejstrik.cz/ico-30191297/hklogistic-s-r-o",
+        "https://regiony.kurzy.cz/praha/na-folimance/2155-15/firmy-vypis/",
+        "https://rejstriky.finance.cz/adresa-praha-na-folimance-2155-15-21756929",
+        "https://rejstrik.penize.cz/adresa-firmy/praha-vinohrady-na-folimance-215515-psc-120-00",
+        "https://mapy.com/cs/?source=addr&id=8942365"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://ares.cz/subjekt/30191297-hklogistic-s-r-o/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30191301": {
+      "lead_id": "res-30191301",
+      "name": "FERRARIA  s.r.o.",
+      "checked_at": "2026-11-05",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"FERRARIA  s.r.o.\" IČO 30191301 web",
+          "\"FERRARIA  s.r.o.\" Praha Construction & property kontakt",
+          "\"FERRARIA  s.r.o.\" \"Vratislavská 396\" web",
+          "\"FERRARIA  s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30191301/ferraria-sro/",
+            "title": "FERRARIA s.r.o. , IČO 30191301 - Obchodní rejstřík firem",
+            "snippet": "FERRARIA s.r.o. – obchodní rejstřík, aktuální výpis Datum vzniku a zápisu 24. říjen 2026 Spisová značka C 458769/MSPH Městský soud v Praze Obchodní firma FERRARIA s.r.o. Sídlo Vratislavská 396/6, Bohnice, 181 00 Praha 8 Identifikační číslo 30191301 Právní forma Společnost s r.o. Předmět podnikání výroba, obchod a služb"
+          },
+          {
+            "url": "https://www.podnikani.cz/30191301/ferraria-sro/",
+            "title": "FERRARIA s.r.o. - obchodní rejstřík, vizualizace vztahů firem ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku FERRARIA s.r.o. Vratislavská 396/6, Bohnice, 18100 Praha 8 , IČO: 30191301, Právní forma: Společnost s r.o."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30191301/ferraria-sro/zivnosti/",
+            "title": "FERRARIA s.r.o. - Živnostenský rejstřík | Kurzy.cz",
+            "snippet": "FERRARIA s.r.o., firma – kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/konstruktis-praha-spol-s-ro",
+            "title": "Konstruktis Praha, spol. s ro - Petra Rezka 1723, 140 ... - Cybo",
+            "snippet": "Konstruktis Praha, spol. s ro Prague postal code 140 00. See Google profile, Phone, Website and more for this business. 3.0 Cybo Score. Review on Cybo."
+          },
+          {
+            "url": "https://ceskadata.cz/27163857",
+            "title": "Construction & Property Management s.r.o., Praha – majitelé a ...",
+            "snippet": "Construction & Property Management s.r.o. (IČO 27163857). Ztráta 2025 10 mil. Kč. Společnost s ručením omezeným v Praze, vznik 2004, 1 - 5 zaměstnanců. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://www.thierra.com/cs/kontakt",
+            "title": "Kontakt - THIERRA",
+            "snippet": "THIERRA Construction s.r.o. sídlo + oblast Morava-jih Trnitá 491/3, 602 00 Brno (Triniti office) +420 771 171 111 info@thierra.com oblast Čechy"
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/to-rent-apartment-1-1-praha-8-4428978",
+            "title": "To rent apartment 1+1 - Praha 8 - REALCITY.cz",
+            "snippet": "2 days ago · To rent apartment 1+1 40 m² - Praha 8 Last update03.11.2026 Disposition1+1 Contract ID11838 Build-up area202 m² Flooring40 m² Tenureprivate Construction typebrick Floor3rd floor Facilitiesunfurnished Energy classG (>256 kWh/m²/year) more information"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavej.cz/",
+            "title": "Poptávky a veřejné zakázky | Poptávej.cz",
+            "snippet": "Poptávej.cz je poptávkový systém zaměřený na porovnání nabídky služeb a zboží z celé ČR, kde je zadání poptávky zcela zdarma. Každá poptávka zároveň slouží jako zdroj obchodních příležitostí pro firmy."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30191301/ferraria-sro/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/konstruktis-praha-spol-s-ro",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://ceskadata.cz/27163857",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.thierra.com/cs/kontakt",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/to-rent-apartment-1-1-praha-8-4428978",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavej.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30191301",
+        "legal_name": "FERRARIA  s.r.o.",
+        "registered_at": "2026-10-24",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191301",
+        "decision_maker": {
+          "name": "RADEK PŘIBYL",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191301",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "RADEK PŘIBYL",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191301",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191301",
+          "date": "2026-10-24",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "FERRARIA  s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Vratislavská 396, Praha, 18100.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30191301 dated 2026-10-24."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191301",
+            "date": "2026-10-24",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30191301"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "RADEK PŘIBYL",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191301",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30191301/ferraria-sro/",
+        "https://www.podnikani.cz/30191301/ferraria-sro/",
+        "https://rejstrik-firem.kurzy.cz/30191301/ferraria-sro/zivnosti/",
+        "https://www.cybo.com/CZ-biz/konstruktis-praha-spol-s-ro",
+        "https://ceskadata.cz/27163857",
+        "https://www.thierra.com/cs/kontakt",
+        "https://www.realcity.cz/en/property/to-rent-apartment-1-1-praha-8-4428978"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30191351": {
+      "lead_id": "res-30191351",
+      "name": "Meriggio s.r.o.",
+      "checked_at": "2026-11-05",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Meriggio s.r.o.\" IČO 30191351 web",
+          "\"Meriggio s.r.o.\" Praha Construction & property kontakt",
+          "\"Meriggio s.r.o.\" \"Dlouhá 727\" web",
+          "\"Meriggio s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://www.podnikani.cz/30191351/meriggio-sro/",
+            "title": "Meriggio s.r.o. - obchodní rejstřík, vizualizace vztahů firem ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku Meriggio s.r.o. Dlouhá 727/39, Staré Město, 11000 Praha 1 , IČO: 30191351, Právní forma: Společnost s r.o."
+          },
+          {
+            "url": "https://beerweb.cz/pivovar/monopol",
+            "title": "Pivovar Monopol, Teplice - beerweb.cz",
+            "snippet": "Monopol, Teplice, Ústecký kraj. Adresa: Masarykova třída 433/42, 41501 Teplice, Rok vzniku: 2015"
+          },
+          {
+            "url": "https://www.ecolonial.com/",
+            "title": "Home - Colonial Parking",
+            "snippet": "JOIN. SAVE. REPEAT. INTRODUCING COLONIALFLEX™—POWERED BY SPOTHERO— A FREE PROGRAM DESIGNED TO REWARD YOUR LOYALTY!"
+          },
+          {
+            "url": "https://md.gov.cz/getattachment/5e1bae54-df53-4e5e-a985-de4d501decbf/26_10_22_seznam-abecedni.pdf.aspx",
+            "title": "Udělené akreditace k provádění dopravně psychologického ...",
+            "snippet": "Jméno dopravního psychologa - schválené pracoviště k provádění dopravně psychologického vyšetření"
+          },
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12617277/",
+            "title": "Protein Kinase C Family: Structures, Biological Functions ...",
+            "snippet": "The protein kinase C (PKC) family represents pivotal regulators in cellular signaling, whose dysregulation has been implicated in diverse human diseases, including cancer, neurodegenerative disorders, and metabolic syndromes. PKCs transduce ..."
+          },
+          {
+            "url": "https://ceskadata.cz/24159484",
+            "title": "Rezidence Oskarka s.r.o., v likvidaci, Praha – majitelé a ...",
+            "snippet": "Rezidence Oskarka s.r.o., v likvidaci (IČO 24159484). Smlouvy se státem za 211 tis. Kč. Společnost s ručením omezeným v Praze, vznik 2011. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://www.ancora.cz/pobytove-zajezdy/bulharsko/burgas/primorsko/hotel-inna?idTerminu=420206",
+            "title": "Hotel INNA - Primorsko - Pobytové zájezdy - CK ANCORA",
+            "snippet": "Úvod Pobytové zájezdy Bulharsko Burgas Primorsko First minuteVelmi oblíbený rodinný hotel Vybraný termín Termín: 12.06. - 19.06.2027 vybrat jiný termín Délka: 7 nocí sobota - sobota Strava: bez stravy Ubytování: Hotel 16 590 Kč od 14 931 Kč za osobu Objednat Termíny O zájezdu Hotel Pokoje Doprava Slevy a příplatky Mapa"
+          },
+          {
+            "url": "https://www.nejremeslnici.cz/poptavka/1101826-uprava-vodomerne-sachty",
+            "title": "Úprava vodoměrné šachty. (Praha) • Vodoměr • NejŘemeslníci.cz",
+            "snippet": "Úprava vodoměrné šachty. Vodoměr je umístěn pod hladinou podzemní vody. Potřebovali bychom vodoměr zvednout výše, aby byl nad hladinou podzemní vody. Základní parametry Místo realizace: Praha Datum zadání:"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavej.cz/",
+            "title": "Poptávky a veřejné zakázky | Poptávej.cz",
+            "snippet": "Poptávej.cz je poptávkový systém zaměřený na porovnání nabídky služeb a zboží z celé ČR, kde je zadání poptávky zcela zdarma. Každá poptávka zároveň slouží jako zdroj obchodních příležitostí pro firmy."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "O projektu Projekt Poptávky.cz sdružuje 940 279 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30191351/meriggio-sro/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://beerweb.cz/pivovar/monopol",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website"
+            ]
+          },
+          {
+            "url": "https://www.ecolonial.com/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://md.gov.cz/getattachment/5e1bae54-df53-4e5e-a985-de4d501decbf/26_10_22_seznam-abecedni.pdf.aspx",
+            "result": "unreachable",
+            "reason": "not_html"
+          },
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12617277/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://ceskadata.cz/24159484",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.ancora.cz:443/pobytove-zajezdy/bulharsko/burgas/primorsko/hotel-inna",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.nejremeslnici.cz/poptavka/1101826-uprava-vodomerne-sachty",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30191351",
+        "legal_name": "Meriggio s.r.o.",
+        "registered_at": "2026-10-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191351",
+        "decision_maker": {
+          "name": "HELENA LUDVÍKOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191351",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "HELENA LUDVÍKOVÁ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191351",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191351",
+          "date": "2026-10-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Meriggio s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Dlouhá 727, Praha, 11000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30191351 dated 2026-10-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191351",
+            "date": "2026-10-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30191351"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "HELENA LUDVÍKOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191351",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.podnikani.cz/30191351/meriggio-sro/",
+        "https://beerweb.cz/pivovar/monopol",
+        "https://www.ecolonial.com/",
+        "https://md.gov.cz/getattachment/5e1bae54-df53-4e5e-a985-de4d501decbf/26_10_22_seznam-abecedni.pdf.aspx",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12617277/",
+        "https://ceskadata.cz/24159484",
+        "https://www.ancora.cz/pobytove-zajezdy/bulharsko/burgas/primorsko/hotel-inna?idTerminu=420206"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30191360": {
+      "lead_id": "res-30191360",
+      "name": "Fontero s.r.o.",
+      "checked_at": "2026-11-05",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Fontero s.r.o.\" IČO 30191360 web",
+          "\"Fontero s.r.o.\" Praha Construction & property kontakt",
+          "\"Fontero s.r.o.\" \"Dlouhá 727\" web",
+          "\"Fontero s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://ares.cz/subjekt/30191360-fontero-s-r-o/",
+            "title": "Fontero s.r.o. — IČO 30191360 | ARES.CZ",
+            "snippet": "Oct 25, 2026 · Detail subjektu Fontero s.r.o. (IČO 30191360). Sídlo, DIČ, předmět činnosti, statutární orgány a další veřejné údaje z rejstříků."
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30191360/fontero-s-r-o",
+            "title": "Fontero s.r.o. - majitel, obchodní rejstřík, databáze firem",
+            "snippet": "Fontero s.r.o. Sídlo Praha. IČO: 30191360. Majitelé a statutární orgány. Firemní profil. Rok založení 2026. Kontrola rizik firmy."
+          },
+          {
+            "url": "https://www.podnikani.cz/30191360/fontero-sro/",
+            "title": "Fontero s.r.o. - obchodní rejstřík, vizualizace vztahů firem ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku Fontero s.r.o. Dlouhá 727/39, Staré Město, 11000 Praha 1 , IČO: 30191360, Právní forma: Společnost s r.o."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/ico/databaze/",
+            "title": "Databáze IČO, rejstřík IČO, registr IČO - Kurzy.cz",
+            "snippet": "Vyhledávání v registrech a databázích podle IČO Pro vyhledání právnické osoby nebo fyzické osoby - podnikatele podle IČO v jednotlivých registrech a databázích vedených státními orgány je dobré znát rozdíly mezi těmito databázemi. Informace poskytované v nich se podstatně liší a některé subjekty nebo některé údaje najd"
+          },
+          {
+            "url": "https://ares.cz/obchodni-rejstrik/",
+            "title": "Obchodní rejstřík firem ČR — vyhledávání podle IČO | ARES.CZ",
+            "snippet": "3 days ago · Bezplatné vyhledávání v obchodním rejstříku — firma podle IČO, názvu nebo sídla. Statutární orgány, sbírka listin, právní forma."
+          },
+          {
+            "url": "https://detail-firem.cz/",
+            "title": "Rejstřík firem – hledání podle IČO, jména a vazeb | Detail firem",
+            "snippet": "5 days ago · Vyhledejte firmu, živnostníka nebo osobu podle IČO, názvu či jména. Jednatelé, společníci, provozovny a vazby z veřejného rejstříku, ARES a ČSÚ."
+          },
+          {
+            "url": "https://en.firmy.cz/ico",
+            "title": "Registration numbers (IČ) from Justice and Ares databases ...",
+            "snippet": "Searching for companies by registration number, tax number, company name on Firmy.cz by Seznam. You will find up-to-date information about current and defunct companies. We have data on more than 550,000 companies and sole traders."
+          },
+          {
+            "url": "https://www.epoptavka.cz/reference",
+            "title": "Reference | ePoptávka.cz",
+            "snippet": "Reference od dodavatelů BS textil s.r.o. Ing. Bohuslav Voda Společnost BS textil s.r.o. se zabývá bytovým textilem, potahovými a dekoračními materiály v metráži. Poptávkový systém ePoptávka.cz využívají již od jeho vzniku."
+          },
+          {
+            "url": "https://www.poptavej.cz/poptavky/sluzby",
+            "title": "Služby - Poptávky | Poptávej.cz",
+            "snippet": "Poptávky z oboru Služby Široký výběr poptávek z oboru Služby a poradenství. Aktuální poptávky se zájmem o finanční a bezpečnostní služby, právní poradenství, úklidové služby nebo například kurzy a školení. Realizujte vámi vybranou poptávku z vaši lokality a oboru podnikání."
+          },
+          {
+            "url": "https://www.poptavky.cz/pro-sluzby",
+            "title": "Poptávky pro služby - Poptavky.cz",
+            "snippet": "Monitorujeme pro Vás a kategorizujeme poptávky a veřejné zakázky z nejvýznamnějších zdrojů."
+          },
+          {
+            "url": "https://www.poptavka.net/",
+            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
+            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+          },
+          {
+            "url": "https://www.poptavka-eu.cz/poptavky",
+            "title": "Přehled aktuálních poptávek a veřejných zakázek malého ...",
+            "snippet": "1 day ago · Přehled poptávek Vybírejte denně aktuální poptávky z vašeho oboru činnosti a lokality bez paušalních poplatků a provizí. 100 % poptávek je telefonicky ověřeno a zkontrolováno našimi pracovníky. Nové obchodní příležitosti ve vašem kraji či okresu najdete ve výpisu poptávek."
+          },
+          {
+            "url": "https://www.poptavka24.cz/",
+            "title": "Poptávky, katalog firem a veřejné zakázky | Poptavka24.cz",
+            "snippet": "Aktuální poptávky, katalog hodnocených firem a veřejné zakázky na jednom místě. Zadejte poptávku zdarma a oslovte ověřené dodavatele z celé ČR."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://ares.cz/subjekt/30191360-fontero-s-r-o/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://ares.cz/subjekt/30191360-fontero-s-r-o/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://ares.cz/subjekt/30191360-fontero-s-r-o/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30191360",
+        "legal_name": "Fontero s.r.o.",
+        "registered_at": "2026-10-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191360",
+        "decision_maker": {
+          "name": "HELENA LUDVÍKOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191360",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "HELENA LUDVÍKOVÁ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191360",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-11-05",
+        "website": "https://ares.cz/subjekt/30191360-fontero-s-r-o/",
+        "devices": {
+          "desktop": {
+            "title": "Fontero s.r.o. — IČO 30191360 | ARES.CZ",
+            "description": "Detail subjektu Fontero s.r.o. (IČO 30191360). Sídlo, DIČ, předmět činnosti, statutární orgány a další veřejné údaje z rejstříků.",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 217,
+            "small_text_elements": 2,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 9,
+            "contact_action": false,
+            "form_count": 4,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Fontero s.r.o. — IČO 30191360 | ARES.CZ",
+            "description": "Detail subjektu Fontero s.r.o. (IČO 30191360). Sídlo, DIČ, předmět činnosti, statutární orgány a další veřejné údaje z rejstříků.",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 221,
+            "small_text_elements": 2,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 7,
+            "contact_action": false,
+            "form_count": 4,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://ares.cz/subjekt/30191360-fontero-s-r-o/"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191360",
+          "date": "2026-10-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Fontero s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Dlouhá 727, Praha, 11000.",
+          "An independently identity-matched business website was found: https://ares.cz/subjekt/30191360-fontero-s-r-o/.",
+          "ARES confirms registration for IČO 30191360 dated 2026-10-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191360",
+            "date": "2026-10-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30191360",
+          "https://ares.cz/subjekt/30191360-fontero-s-r-o/"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "HELENA LUDVÍKOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191360",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://ares.cz/subjekt/30191360-fontero-s-r-o/",
+        "https://www.chytryrejstrik.cz/ico-30191360/fontero-s-r-o",
+        "https://www.podnikani.cz/30191360/fontero-sro/",
+        "https://rejstrik-firem.kurzy.cz/ico/databaze/",
+        "https://ares.cz/obchodni-rejstrik/",
+        "https://detail-firem.cz/",
+        "https://en.firmy.cz/ico"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://ares.cz/subjekt/30191360-fontero-s-r-o/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30191394": {
+      "lead_id": "res-30191394",
+      "name": "IKONIX Construction s.r.o.",
+      "checked_at": "2026-11-05",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"IKONIX Construction s.r.o.\" IČO 30191394 web",
+          "\"IKONIX Construction s.r.o.\" Praha Construction & property kontakt",
+          "\"IKONIX Construction s.r.o.\" \"Piskáčkových 1024\" web",
+          "\"IKONIX Construction s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30191394/ikonix-construction-sro/zivnosti/",
+            "title": "IKONIX Construction s.r.o. - Živnostenský rejstřík | Kurzy.cz",
+            "snippet": "Oct 28, 2026 · Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob. Kompletní výpis včetně dat narození a adres naleznete v originálním výpisu živnostenského rejstříku získáte po zadání IČO 30191394 na stránkách www.rzp.cz."
+          },
+          {
+            "url": "https://www.podnikani.cz/30191394/ikonix-construction-sro/",
+            "title": "IKONIX Construction s.r.o. - obchodní rejstřík, vizualizace ...",
+            "snippet": "Hledej IKONIX Construction s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. * Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku IKONIX Construction s.r.o. Piskáčkových 1024/1, Vysočany, 19000 Praha 9 , IČO: 30191394, Právní forma: Společnost s r.o."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30191394/ikonix-construction-sro/",
+            "result": "ambiguous",
+            "evidence": []
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30191394",
+        "legal_name": "IKONIX Construction s.r.o.",
+        "registered_at": "2026-10-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191394",
+        "decision_maker": null,
+        "contact_verified": false,
+        "statutory_members": []
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191394",
+          "date": "2026-10-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "IKONIX Construction s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Piskáčkových 1024, Praha, 19000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30191394 dated 2026-10-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191394",
+            "date": "2026-10-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30191394"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30191394/ikonix-construction-sro/zivnosti/",
+        "https://www.podnikani.cz/30191394/ikonix-construction-sro/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30191432": {
+      "lead_id": "res-30191432",
+      "name": "Společenství vlastníků Pod Vlachovkou 787/20, Libeň",
+      "checked_at": "2026-11-05",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Společenství vlastníků Pod Vlachovkou 787/20, Libeň\" IČO 30191432 web",
+          "\"Společenství vlastníků Pod Vlachovkou 787/20, Libeň\" Praha Construction & property kontakt",
+          "\"Společenství vlastníků Pod Vlachovkou 787/20, Libeň\" \"Pod Vlachovkou 787\" web",
+          "\"Společenství vlastníků Pod Vlachovkou 787/20, Libeň\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30191432/spolecenstvi-vlastniku-pod-vlachovkou-787-20-liben/",
+            "title": "Společenství vlastníků Pod Vlachovkou 787/20, Libeň , IČO ...",
+            "snippet": "Oct 28, 2026 · Kde je sídlo firmy Společenství vlastníků Pod Vlachovkou 787/20, Libeň? Sídlo firmy Společenství vlastníků Pod Vlachovkou 787/20, Libeň je Pod Vlachovkou 787/20, Libeň, 18200 Praha 8. Další firmy na této adrese."
+          },
+          {
+            "url": "https://rejstr.cz/en/30191432/spolecenstvi-vlastniku-pod-vlachovkou-787-20-liben",
+            "title": "Společenství vlastníků Pod Vlachovkou 787/20, Libeň",
+            "snippet": "Oct 24, 2026 · Společenství vlastníků Pod Vlachovkou 787/20, Libeň (company ID 30191432) is an active homeowners' association based in Praha. Registered on 23 October 2026."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30191432/spolecenstvi-vlastniku-pod-vlachovkou-787-20-liben/zivnosti/",
+            "title": "Společenství vlastníků Pod Vlachovkou 787/20, Libeň ...",
+            "snippet": "Společenství vlastníků Pod Vlachovkou 787/20, Libeň, firma – kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
+          },
+          {
+            "url": "https://www.podnikani.cz/30191432/spolecenstvi-vlastniku-pod-vlachovkou-787-20-liben/",
+            "title": "Společenství vlastníků Pod Vlachovkou 787/20, Libeň ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku Společenství vlastníků Pod Vlachovkou 787/20, Libeň Pod Vlachovkou 787/20, Libeň, 18200 Praha 8 , IČO: 30191432, Právní forma: Společen.vlast.jednot."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30191432/spolecenstvi-vlastniku-pod-vlachovkou-787-20-liben/statisticky-urad/",
+            "title": "Společenství vlastníků Pod Vlachovkou 787/20, Libeň , IČO ...",
+            "snippet": "6 days ago · Společenství vlastníků Pod Vlachovkou 787/20, Libeň, IČO 30191432 data ze statistického úřadu české republiky. Databáze IČO. Předměty činnosti ze statistického úřadu."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavej.cz/",
+            "title": "Poptávky a veřejné zakázky | Poptávej.cz",
+            "snippet": "Poptávej.cz je poptávkový systém zaměřený na porovnání nabídky služeb a zboží z celé ČR, kde je zadání poptávky zcela zdarma. Každá poptávka zároveň slouží jako zdroj obchodních příležitostí pro firmy."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://rejstr.cz/en/30191432/spolecenstvi-vlastniku-pod-vlachovkou-787-20-liben",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://rejstr.cz/en/30191432/spolecenstvi-vlastniku-pod-vlachovkou-787-20-liben",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://rejstr.cz/en/30191432/spolecenstvi-vlastniku-pod-vlachovkou-787-20-liben",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30191432",
+        "legal_name": "Společenství vlastníků Pod Vlachovkou 787/20, Libeň",
+        "registered_at": "2026-10-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191432",
+        "decision_maker": null,
+        "contact_verified": false,
+        "statutory_members": []
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-11-05",
+        "website": "https://rejstr.cz/en/30191432/spolecenstvi-vlastniku-pod-vlachovkou-787-20-liben",
+        "devices": {
+          "desktop": {
+            "title": "Společenství vlastníků Pod Vlachovkou 787/20, Libeň, company ID 30191432 | rejstr.cz",
+            "description": "Společenství vlastníků Pod Vlachovkou 787/20, Libeň (company ID 30191432) is an active homeowners' association based in Praha. Registered on 23 October 2026.",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 91,
+            "small_text_elements": 2,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 13,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Společenství vlastníků Pod Vlachovkou 787/20, Libeň, company ID 30191432 | rejstr.cz",
+            "description": "Společenství vlastníků Pod Vlachovkou 787/20, Libeň (company ID 30191432) is an active homeowners' association based in Praha. Registered on 23 October 2026.",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 91,
+            "small_text_elements": 1,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 13,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://rejstr.cz/en/30191432/spolecenstvi-vlastniku-pod-vlachovkou-787-20-liben"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191432",
+          "date": "2026-10-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Společenství vlastníků Pod Vlachovkou 787/20, Libeň — research dossier",
+        "facts": [
+          "The business is listed at Pod Vlachovkou 787, Praha, 18200.",
+          "An independently identity-matched business website was found: https://rejstr.cz/en/30191432/spolecenstvi-vlastniku-pod-vlachovkou-787-20-liben.",
+          "ARES confirms registration for IČO 30191432 dated 2026-10-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191432",
+            "date": "2026-10-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30191432",
+          "https://rejstr.cz/en/30191432/spolecenstvi-vlastniku-pod-vlachovkou-787-20-liben"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30191432/spolecenstvi-vlastniku-pod-vlachovkou-787-20-liben/",
+        "https://rejstr.cz/en/30191432/spolecenstvi-vlastniku-pod-vlachovkou-787-20-liben",
+        "https://rejstrik-firem.kurzy.cz/30191432/spolecenstvi-vlastniku-pod-vlachovkou-787-20-liben/zivnosti/",
+        "https://www.podnikani.cz/30191432/spolecenstvi-vlastniku-pod-vlachovkou-787-20-liben/",
+        "https://rejstrik-firem.kurzy.cz/30191432/spolecenstvi-vlastniku-pod-vlachovkou-787-20-liben/statisticky-urad/",
+        "https://www.epoptavka.cz/",
+        "https://www.poptavej.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://rejstr.cz/en/30191432/spolecenstvi-vlastniku-pod-vlachovkou-787-20-liben",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
       "owner_verified": false,
       "buyer_interest_verified": false
     }
