@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-05T16:05:13.784980+00:00",
+  "generated_at": "2026-11-06T15:42:48.228341+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -7082,7 +7082,7 @@
     "osm-node-10927835114": {
       "lead_id": "osm-node-10927835114",
       "name": "Collcoll",
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-06",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -7376,7 +7376,7 @@
     "osm-node-11041819250": {
       "lead_id": "osm-node-11041819250",
       "name": "de.fakto CZ, s.r.o.",
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-06",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -7992,7 +7992,7 @@
     "osm-node-11065024432": {
       "lead_id": "osm-node-11065024432",
       "name": "100 klíčů",
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-06",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -8886,7 +8886,7 @@
     "osm-node-11782384941": {
       "lead_id": "osm-node-11782384941",
       "name": "WADE Atelier - design a realizace",
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-06",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -14333,7 +14333,7 @@
     "manual-strecha-servis-zbiral": {
       "lead_id": "manual-strecha-servis-zbiral",
       "name": "Střecha servis – Zbíral",
-      "checked_at": "2026-10-23",
+      "checked_at": "2026-11-06",
       "engine_version": 8,
       "state": "audited",
       "discovery": {
@@ -14344,7 +14344,7 @@
           "\"Střecha servis – Zbíral\" \"Branická 213/53\" web",
           "\"Střecha servis – Zbíral\" Praha služby reference poptávka"
         ],
-        "successful_queries": 2,
+        "successful_queries": 3,
         "candidates": [
           {
             "url": "https://en.firmy.cz/company/846854-strecha-servis-zbiral-praha-branik.html",
@@ -14354,7 +14354,12 @@
           {
             "url": "https://www.firmy.cz/detail/846854-strecha-servis-zbiral-praha-branik.html",
             "title": "Střecha servis - Zbíral (Praha, Braník) • Firmy.czStřecha servis - ZbíralStřecha servis - Zbíral (Tesařství a pokrývačství) • Mapy.comStřecha servis - Zbíral (Carpentry and roofing",
-            "snippet": "Aktuální ověřené informace: adresa, telefon, e-mail a hodnocení Střecha servis - Zbíral, Praha, Braník. Telefon: 602 202 … Provádíme rekonstrukce eternitových střech, detaily střešních plášťů, klempířské, tesařské a pokrývačské práce, pokládání lehkých střešních krytin. Vyrábíme atypické klempířské výrobky. Věnujeme se"
+            "snippet": "Aktuální ověřené informace: adresa, telefon, e-mail a hodnocení Střecha servis - Zbíral, Praha, Braník. Telefon: 602 202 … Adresa Branická 213/53 Praha, Braník 14700, Hlavní město Praha + Otevřít mapu v novém okně Tesařství a pokrývačství Branická 213/53, 14700 Praha 4 - Braník, Česko Trasa Uložit Sdílet Výlet Přidat h"
+          },
+          {
+            "url": "https://www.firmablizko.cz/230913-strecha-servis-zbiral",
+            "title": "Střecha servis - Zbíral",
+            "snippet": "Adresa Branická 213/53 Praha, Braník 14700, Hlavní město Praha + Otevřít mapu v novém okně"
           },
           {
             "url": "https://mapy.com/cs/?source=firm&id=846854",
@@ -14364,36 +14369,50 @@
           {
             "url": "https://mapy.com/?source=firm&id=846854",
             "title": "Střecha servis - Zbíral (Carpentry and roofing) • Mapy.com",
-            "snippet": "We provide reconstruction of eternit roofs, roofing details, plumbing, carpentry and roofing work, laying of lightweight roofing. We produce atypical..."
+            "snippet": "Střecha servis - Zbíral Carpentry and roofing Branická 213/53, 14700 Prague 4 - Braník, Czechia Directions"
           },
           {
-            "url": "https://www.firmy.cz/Remesla-a-sluzby/Remesla/Tesarstvi-pokryvacstvi-a-klempirstvi/kraj-praha?page=11",
-            "title": "Tesařství, pokrývačství a klempířství Praha - Firmy.cz",
-            "snippet": "Pplk. Sochora 982/19, Praha, Holešovice Zajišťujeme rekonstrukce střešních plášťů včetně hydroizolací spodních staveb a stavebního klempířství."
+            "url": "https://www.firmy.cz/Remesla-a-sluzby/Remesla/Tesarstvi-pokryvacstvi-a-klempirstvi/kraj-praha/praha-4",
+            "title": "Tesařství, pokrývačství a klempířství Praha 4 - Firmy.cz",
+            "snippet": "CZ Isolation s.r.o. 2 hodnocení Tesařství, pokrývačství a klempířství Vídeňská 286/144, Praha, Kunratice"
           },
           {
-            "url": "https://www.firmablizko.cz/230913-strecha-servis-zbiral",
-            "title": "Střecha servis - Zbíral",
-            "snippet": "Provádíme rekonstrukce eternitových střech, detaily střešních plášťů, klempířské, tesařské a pokrývačské práce, pokládání lehkých střešních krytin. Vyrábíme atypické klempířské výrobky. Věnujeme se dílenskému klempířství a kusové výrobě střešních prvků.,"
+            "url": "https://en.firmy.cz/Stores-and-shops/Building-supplies/Sellers-of-building-products/Sellers-of-roofing-materials/kraj-praha/praha-4",
+            "title": "Sellers of roofing materials District Prague - Firmy.cz",
+            "snippet": "We offer a complete roof fabrication service. Our product range includes metal sheets, gutter systems, roofing materials, fasteners and tools. We also sell plumbing supplies, sealants, chemicals, adhesives and skylights. We also operate a construction tile lift rental business."
           },
           {
             "url": "https://en.firmy.cz/Wholesale-and-production/Producers-of-building-supplies/Producers-of-building-products/Producers-of-roofing-materials/kraj-praha/praha-4",
             "title": "Producers of roofing materials District Prague • Firmy.cz",
-            "snippet": "At Firmy.cz you can find 16 businesses in the category Producers of roofing materials in District Prague and nearby. You can choose from businesses near you, for example Střecha servis - Zbíral, ONDULINE - stavební materiály, spol. s r.o., KERAMET, spol. s r.o.,..."
+            "snippet": "Střecha servis - Zbíral Carpentry, roofing and plumbing Branická 213/53, Praha, Braník"
+          },
+          {
+            "url": "https://www.firmy.cz/Obchody-a-obchudky/Prodejci-stavebnin/Prodejci-stavebniho-materialu/Prodejci-stresnich-krytin/kraj-praha",
+            "title": "Prodej střešních krytin Praha - Firmy.cz",
+            "snippet": "Střecha servis - Zbíral 2,9Průměrné(6) Prodej střešních krytin Branická 213/53, Praha, Braník"
           },
           {
             "url": "https://zakazky.epoptavka.cz/",
             "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
-            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+            "snippet": "Služby v oblasti IT Dnes (6. 11. 2026) Praha Služby 200 000 — 1 000 000 Kč Zobrazit všechny poptávky od veřejných subjektů +420 251 510 908 info@epoptavka.cz"
           },
           {
-            "url": "https://krolan.cz/",
-            "title": "Homepage - Krolan",
-            "snippet": "Kompletní realizace a rekonstrukce střech rodinných, průmyslových i historických budov. Výroba dřevostaveb, pergol, teras, garážových stání."
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: oprava myčky nádobí, Ikea Lagan 45, Servis Servis Bílá technika okres Praha 6. 11. 2026 (dnes)"
+          },
+          {
+            "url": "https://webtrh.cz/",
+            "title": "Webtrh. Můj byznys roste.",
+            "snippet": "Místo pro potkávání nabídky a poptávky, prodeje projektů, pracovní nabídky, forum, vzdělání a mnoho dalšího."
           }
         ],
         "errors": [
-          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
         "public_site_contacts": {
@@ -14422,11 +14441,6 @@
         "examined": [
           {
             "url": "https://www.strechaservis.cz/",
-            "result": "ambiguous",
-            "evidence": []
-          },
-          {
-            "url": "https://mapy.com/en/?source=firm&id=846854",
             "result": "ambiguous",
             "evidence": []
           },
@@ -14461,7 +14475,7 @@
       },
       "audit": {
         "state": "observed",
-        "checked_at": "2026-10-23",
+        "checked_at": "2026-11-06",
         "website": "https://www.firmablizko.cz/230913-strecha-servis-zbiral",
         "devices": {
           "desktop": {
@@ -14547,11 +14561,11 @@
       "candidate_search_sources": [
         "https://en.firmy.cz/company/846854-strecha-servis-zbiral-praha-branik.html",
         "https://www.firmy.cz/detail/846854-strecha-servis-zbiral-praha-branik.html",
+        "https://www.firmablizko.cz/230913-strecha-servis-zbiral",
         "https://mapy.com/cs/?source=firm&id=846854",
         "https://mapy.com/?source=firm&id=846854",
-        "https://www.firmy.cz/Remesla-a-sluzby/Remesla/Tesarstvi-pokryvacstvi-a-klempirstvi/kraj-praha?page=11",
-        "https://www.firmablizko.cz/230913-strecha-servis-zbiral",
-        "https://en.firmy.cz/Wholesale-and-production/Producers-of-building-supplies/Producers-of-building-products/Producers-of-roofing-materials/kraj-praha/praha-4"
+        "https://www.firmy.cz/Remesla-a-sluzby/Remesla/Tesarstvi-pokryvacstvi-a-klempirstvi/kraj-praha/praha-4",
+        "https://en.firmy.cz/Stores-and-shops/Building-supplies/Sellers-of-building-products/Sellers-of-roofing-materials/kraj-praha/praha-4"
       ],
       "website_need_verified": false,
       "contact_method": "matched_business_website",
@@ -14802,7 +14816,7 @@
     "manual-strechy-adapt-hrouda": {
       "lead_id": "manual-strechy-adapt-hrouda",
       "name": "STŘECHY ADAPT HROUDA s.r.o.",
-      "checked_at": "2026-10-23",
+      "checked_at": "2026-11-06",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -14816,24 +14830,14 @@
         "successful_queries": 1,
         "candidates": [
           {
-            "url": "https://star-transit.cz/",
-            "title": "Překladatelské služby, tlumočení, AI překlad | STAR Czech",
-            "snippet": "Překladatelské služby pro firmy: odborné a technické překlady Profesionální překladatelská agentura specializovaná na technické, právní a odborné dokumenty, včetně AI překladů s korekturou, tlumočení a dalších jazykových služeb v různých jazycích. Více než 40 let mezinárodních zkušeností."
-          },
-          {
-            "url": "https://ipkamerypraha.cz/",
-            "title": "ipkamerypraha.cz",
-            "snippet": "Montáž bezdrátových kamer Praha a okolí Instalace kamer pro domy, byty i firmy bez sekání a kabeláže. Rychlá montáž do, ovládání odkudkoliv přes mobil. Nezávazná poptávka – odpovíme do 24h"
-          },
-          {
             "url": "https://zakazky.epoptavka.cz/",
             "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
-            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+            "snippet": "Služby v oblasti IT Dnes (6. 11. 2026) Praha Služby 200 000 — 1 000 000 Kč Zobrazit všechny poptávky od veřejných subjektů +420 251 510 908 info@epoptavka.cz"
           },
           {
-            "url": "https://www.facebook.com/groups/bydleni.nabidka.poptavka/",
-            "title": "Praha - BYDLENÍ SPOLUBYDLENÍ NABÍDKA , POPTÁVKA - Facebook",
-            "snippet": "1 day ago · Skupina je určena pro NABÍDKU a POPTÁVKU bydlení či SPOLUBYDLENÍ v Praze a okolí. Skupinu pro Vás dlouhodobě spravuje Smart Homes a Expert Rent V případě..."
+            "url": "https://www.aaapoptavka.cz/nova-poptavka/montaz-ikea-praha",
+            "title": "Poptáváte montáž IKEA Praha? Najděte dodavatele zdarma ve ...",
+            "snippet": "Montáž nábytku z IKEA může být časově náročná a obtížná, zvláště pokud nejste zkušení v podobných úkolech. Profesionální montážní služby zajistí, že váš nábytek bude sestaven přesně podle návodu a bez problémů. Tím ušetříte čas, vyhnete se zbytečným chybám a zajistíte, že váš nový interiér bude vypadat a fungovat přesn"
           },
           {
             "url": "https://www.epoptavka.cz/",
@@ -14841,14 +14845,24 @@
             "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
           },
           {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: oprava myčky nádobí, Ikea Lagan 45, Servis Servis Bílá technika okres Praha 6. 11. 2026 (dnes)"
+          },
+          {
             "url": "https://www.tlumoceni-preklady.cz/",
             "title": "Registr překladatelů ČR - Tlumočení-Překlady.cz",
             "snippet": "Překlady Praha Ceny, reference a nabídka služeb překladatelů v Praze. Doporučení, ceník, služby. Překlady Brno Využijte zkušenosti překladatelů a překladatelek v Brně. Překlady České Budějovice Doporučeni překladatelé, překladatelky a překladatelské firmy a agentury z Českých Budějovic. Překlady Ostrava"
           },
           {
-            "url": "https://www.poptavky.cz/",
-            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
-            "snippet": "Poptávka: výměna hlavního uzávěru vody, Praha-Vysočany Řemeslné práce Instalatéři Řemeslné práce Plyn, voda, topení okres Praha 23. 10. 2026 (dnes)"
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          },
+          {
+            "url": "https://incien.org/podpora-cirkularity/",
+            "title": "Podpora INCIEN - Institut cirkulární ekonomiky",
+            "snippet": "Chcete podpořit cirkulární budoucnost? Pošlete dar organizaci an její činnost a nebo si vyberte konkrétní projekt, který chcete podpořit."
           }
         ],
         "errors": [
@@ -14868,21 +14882,14 @@
             ]
           },
           {
-            "url": "https://star-transit.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://ipkamerypraha.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
             "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.aaapoptavka.cz/nova-poptavka/montaz-ikea-praha",
             "result": "ambiguous",
             "evidence": [
               "Prague mentioned on website"
@@ -14896,6 +14903,13 @@
             ]
           },
           {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
             "url": "https://www.tlumoceni-preklady.cz/",
             "result": "ambiguous",
             "evidence": [
@@ -14903,7 +14917,14 @@
             ]
           },
           {
-            "url": "https://www.poptavky.cz/",
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://incien.org/podpora-cirkularity/",
             "result": "ambiguous",
             "evidence": [
               "Prague mentioned on website"
@@ -14976,13 +14997,13 @@
         ]
       },
       "candidate_search_sources": [
-        "https://star-transit.cz/",
-        "https://ipkamerypraha.cz/",
         "https://zakazky.epoptavka.cz/",
-        "https://www.facebook.com/groups/bydleni.nabidka.poptavka/",
+        "https://www.aaapoptavka.cz/nova-poptavka/montaz-ikea-praha",
         "https://www.epoptavka.cz/",
+        "https://www.poptavky.cz/",
         "https://www.tlumoceni-preklady.cz/",
-        "https://www.poptavky.cz/"
+        "https://poptavky.epoptavka.cz/",
+        "https://incien.org/podpora-cirkularity/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
@@ -15252,22 +15273,91 @@
     "manual-tomas-majer-roofing": {
       "lead_id": "manual-tomas-majer-roofing",
       "name": "Pokrývačství Tomáš Majer",
-      "checked_at": "2026-10-23",
+      "checked_at": "2026-11-06",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "search_unavailable",
+        "status": "searched",
         "queries": [
           "\"Pokrývačství Tomáš Majer\" IČO 71141162 web",
           "\"Pokrývačství Tomáš Majer\" Praha Construction & property kontakt",
           "\"Pokrývačství Tomáš Majer\" \"Ke mlýnu 10\" web",
           "\"Pokrývačství Tomáš Majer\" Praha služby reference poptávka"
         ],
-        "successful_queries": 0,
-        "candidates": [],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://ceskadata.cz/27163857",
+            "title": "Construction & Property Management s.r.o., Praha – majitelé a ...",
+            "snippet": "Construction & Property Management s.r.o. (IČO 27163857). Ztráta 2025 10 mil. Kč. Společnost s ručením omezeným v Praze, vznik 2004, 1 - 5 zaměstnanců. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/to-rent-apartment-2-1-praha-8-kostalkova-4429548",
+            "title": "To rent apartment 2+1 - Praha 8, Košťálkova - REALCITY.cz",
+            "snippet": "1 day ago · To rent apartment 2+1 - Praha 8, Košťálkova Price 20 000 CZK per month +poplatky+kauce+provize RK news 24 fotografíí"
+          },
+          {
+            "url": "https://www.databaze-ico.cz/subjekt/amz-property-group-sro-v-likvidaci-praha-24161713",
+            "title": "AMZ Property Group s.r.o. v likvidaci (Praha) – IČO 24161713 ...",
+            "snippet": "Jan 28, 2025 · AMZ Property Group s.r.o. v likvidaci působí už 15 let v Praze v oboru pátrací činnosti a činnosti soukromých bezpečnostních agentur. 2 společníci."
+          },
+          {
+            "url": "https://ctp.eu/",
+            "title": "Parkmakers - Commercial Real Estate Developer And Manager",
+            "snippet": "CTP is Europe’s largest listed owner, developer, and manager of logistics and industrial real estate by gross lettable area across 11 countries. Full-service developer and property manager."
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/dopravní-stavby-kolín-as",
+            "title": "DOPRAVNÍ STAVBY KOLÍN, as - nám. Přátelství 1518, 102 00… - Cybo",
+            "snippet": "DOPRAVNÍ STAVBY KOLÍN, as Prague postal code 102 00. See 2 social pages including Facebook and Google, Phone and more for this business. Review on Cybo."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://smlouvy.gov.cz/smlouva/soubor/222753/obj_825-2016.pdf",
+            "title": "OBJEDNÁVKA : 825 /16 - 0 -VU - Registr smluv",
+            "snippet": "0 - VUS Tomáš Majer Ke mlýnu 10 Praha-Újezd IČO: 71141162"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Služby v oblasti IT Dnes (6. 11. 2026) Praha Služby 200 000 — 1 000 000 Kč Zobrazit všechny poptávky od veřejných subjektů +420 251 510 908 info@epoptavka.cz"
+          },
+          {
+            "url": "https://www.idatabaze.cz/katalog/bezpecnostni-sluzby/patrani-po-osobach-a-vecech/praha-kobylisy:praha-8/",
+            "title": "Pátrání po osobách a věcech – Praha - Kobylisy, Praha 8 ...",
+            "snippet": "⭐️ Pátrání po osobách a věcech – v okrese Praha - Kobylisy a okolí naleznete aktuální a ověřené údaje u ⭐️ 10 firem, živnostníků a institucí."
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: oprava myčky nádobí, Ikea Lagan 45, Servis Servis Bílá technika okres Praha 6. 11. 2026 (dnes)"
+          },
+          {
+            "url": "https://mirasro.eu/",
+            "title": "MIRA expert s.r.o. | Čistě pro Vás...",
+            "snippet": "Profesionální služby pro každého. Správa nemovitostí, úklidové služby, čištění graffiti, antigraffiti nátěry a mnohem více. Vše na jednom místě."
+          }
+        ],
         "errors": [
-          "DDGSException: No results found.",
-          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
         "state": "AMBIGUOUS",
@@ -15279,6 +15369,54 @@
             "evidence": [
               "Matching distinctive business-name words on website"
             ]
+          },
+          {
+            "url": "https://ceskadata.cz/27163857",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/to-rent-apartment-2-1-praha-8-kostalkova-4429548",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.databaze-ico.cz/subjekt/amz-property-group-sro-v-likvidaci-praha-24161713",
+            "result": "unreachable",
+            "reason": "HTTP_503"
+          },
+          {
+            "url": "https://ctp.eu/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/dopravní-stavby-kolín-as",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://smlouvy.gov.cz/smlouva/soubor/222753/obj_825-2016.pdf",
+            "result": "unreachable",
+            "reason": "not_html"
           }
         ],
         "no_website_proven": false
@@ -15341,7 +15479,15 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [],
+      "candidate_search_sources": [
+        "https://ceskadata.cz/27163857",
+        "https://www.realcity.cz/en/property/to-rent-apartment-2-1-praha-8-kostalkova-4429548",
+        "https://www.databaze-ico.cz/subjekt/amz-property-group-sro-v-likvidaci-praha-24161713",
+        "https://ctp.eu/",
+        "https://www.cybo.com/CZ-biz/dopravní-stavby-kolín-as",
+        "https://vces.cz/",
+        "https://www.skanska.com/cz/cs"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -16935,91 +17081,22 @@
     "manual-jan-kazimour-architects": {
       "lead_id": "manual-jan-kazimour-architects",
       "name": "KAZIMOUR ARCHITEKTI — Ing. arch. Jan Kazimour",
-      "checked_at": "2026-10-23",
+      "checked_at": "2026-11-06",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "searched",
+        "status": "search_unavailable",
         "queries": [
           "\"KAZIMOUR ARCHITEKTI — Ing. arch. Jan Kazimour\" IČO 76291499 web",
           "\"KAZIMOUR ARCHITEKTI — Ing. arch. Jan Kazimour\" Praha Construction & property kontakt",
           "\"KAZIMOUR ARCHITEKTI — Ing. arch. Jan Kazimour\" \"Čajkovského 492/35\" web",
           "\"KAZIMOUR ARCHITEKTI — Ing. arch. Jan Kazimour\" Praha služby reference poptávka"
         ],
-        "successful_queries": 3,
-        "candidates": [
-          {
-            "url": "https://www.facebook.com/DaramisGroup/",
-            "title": "Daramis | Prague - FacebookSkanska v České republiceSkupina VCESZahradní architektura Lenka Bulová Ing. - Dolní náves 27, 250 ...Bloomberg Europe:ةيبرعلا 153",
-            "snippet": "Oct 15, 2026 · Daramis, Prague. 5,984 followers · 21 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy. Skanska je jedna z největších stavebních a developerských společností na světě. Zaměřujeme se na generální dodávky staveb a komplexní develo"
-          },
-          {
-            "url": "https://www.cybo.com/CZ-biz/zahradní-architektura-lenka-bulová-ing",
-            "title": "Zahradní architektura Lenka Bulová Ing. - Dolní náves 27, 250 ...",
-            "snippet": "Zahradní architektura Lenka Bulová Ing. Jenštejn postal code 250 73. See Google profile, Hours, Phone, Website and more for this business. Review on Cybo."
-          },
-          {
-            "url": "https://www.bloomberg.com/europe",
-            "title": "Bloomberg Europe",
-            "snippet": "Bloomberg delivers business and markets news, data, analysis, and video to the world, featuring stories from Businessweek and Bloomberg News"
-          },
-          {
-            "url": "https://m.media-amazon.com/images/I/C15Tq-DbxGL.pdf?ref=dp_product_quick_view",
-            "title": ":ةيبرعلا 153",
-            "snippet": "*For direct access, replace \"xxx\" with the product's model number given on the product rating label or packaging."
-          },
-          {
-            "url": "https://www.linkedin.com/search/results/all/",
-            "title": "LinkedIn",
-            "snippet": "We would like to show you a description here but the site won’t allow us."
-          },
-          {
-            "url": "https://www.skanska.com/cz/cs",
-            "title": "Skanska v České republice",
-            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
-          },
-          {
-            "url": "https://vces.cz/",
-            "title": "Skupina VCES",
-            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
-          },
-          {
-            "url": "https://www.poptavky.cz/",
-            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
-            "snippet": "Poptávka: výměna hlavního uzávěru vody, Praha-Vysočany Řemeslné práce Instalatéři Řemeslné práce Plyn, voda, topení okres Praha 23. 10. 2026 (dnes)"
-          },
-          {
-            "url": "https://dodavatele.epoptavka.cz/",
-            "title": "Katalog dodavatelů | ePoptávka.cz",
-            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
-          },
-          {
-            "url": "https://rytinafacility.cz/",
-            "title": "RYTINA – Malířské a úklidové služby Praha",
-            "snippet": "Malířské práce a úklidové služby pro domácnosti, firmy a SVJ v Praze a okolí. Malování bytů, kanceláří, společných prostor a profesionální úklid."
-          },
-          {
-            "url": "https://www.firmy.cz/stitek/inzenyrske-site/kraj-praha",
-            "title": "Inženýrské sítě Praha • Firmy.cz",
-            "snippet": "Svým zákazníkům nabízíme služby zahrnující kompletní nabídku stavebních materiálů pro celou stavbu, zpracování rozpočtů na stavbu, samotnou realizaci stavby s provedením všech souvisejících prací."
-          },
-          {
-            "url": "https://www.epoptavka.cz/",
-            "title": "Poptávky a zakázky | ePoptávka.cz",
-            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
-          },
-          {
-            "url": "https://zakazky.epoptavka.cz/",
-            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
-            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
-          },
-          {
-            "url": "https://webtrh.cz/",
-            "title": "Webtrh. Můj byznys roste.",
-            "snippet": "Místo pro potkávání nabídky a poptávky, prodeje projektů, pracovní nabídky, forum, vzdělání a mnoho dalšího."
-          }
-        ],
+        "successful_queries": 0,
+        "candidates": [],
         "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
         "state": "AMBIGUOUS",
@@ -17029,56 +17106,6 @@
             "url": "https://www.kazimour.com/",
             "result": "unreachable",
             "reason": "SSLError"
-          },
-          {
-            "url": "https://www.cybo.com/CZ-biz/zahradní-architektura-lenka-bulová-ing",
-            "result": "unreachable",
-            "reason": "HTTP_403"
-          },
-          {
-            "url": "https://www.bloomberg.com/europe",
-            "result": "unreachable",
-            "reason": "HTTP_403"
-          },
-          {
-            "url": "https://m.media-amazon.com/images/I/C15Tq-DbxGL.pdf?ref=dp_product_quick_view",
-            "result": "unreachable",
-            "reason": "not_html"
-          },
-          {
-            "url": "https://www.skanska.com/cz/cs",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://vces.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.poptavky.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://dodavatele.epoptavka.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://rytinafacility.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
           }
         ],
         "no_website_proven": false
@@ -17132,15 +17159,7 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [
-        "https://www.facebook.com/DaramisGroup/",
-        "https://www.cybo.com/CZ-biz/zahradní-architektura-lenka-bulová-ing",
-        "https://www.bloomberg.com/europe",
-        "https://m.media-amazon.com/images/I/C15Tq-DbxGL.pdf?ref=dp_product_quick_view",
-        "https://www.linkedin.com/search/results/all/",
-        "https://www.skanska.com/cz/cs",
-        "https://vces.cz/"
-      ],
+      "candidate_search_sources": [],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
@@ -51634,6 +51653,1626 @@
         "source": "https://rejstr.cz/en/30191432/spolecenstvi-vlastniku-pod-vlachovkou-787-20-liben",
         "evidence": "Explicit mailto/tel links on identity-matched business website"
       },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30191645": {
+      "lead_id": "res-30191645",
+      "name": "INEP services s.r.o.",
+      "checked_at": "2026-11-06",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"INEP services s.r.o.\" IČO 30191645 web",
+          "\"INEP services s.r.o.\" Praha Construction & property kontakt",
+          "\"INEP services s.r.o.\" \"Na Václavce 1135\" web",
+          "\"INEP services s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30191645/inep-services-sro/",
+            "title": "INEP services s.r.o. , IČO 30191645 - data ze statistického ...",
+            "snippet": "6 days ago · INEP services s.r.o., IČO 30191645 data ze statistického úřadu české republiky. Databáze IČO. Předměty činnosti ze statistického úřadu."
+          },
+          {
+            "url": "https://www.podnikani.cz/30191645/inep-services-sro/",
+            "title": "INEP services s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
+            "snippet": "Hledej INEP services s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. * Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku INEP services s.r.o. Na Václavce 1135/9, Smíchov, 15000 Praha 5 , IČO: 30191645, Zákl. kapitál: 200000 Kč"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30191645/inep-services-sro/",
+            "result": "ambiguous",
+            "evidence": []
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30191645",
+        "legal_name": "INEP services s.r.o.",
+        "registered_at": "2026-10-26",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191645",
+        "decision_maker": {
+          "name": "ONDŘEJ FIALA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191645",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "ONDŘEJ FIALA",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191645",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "ALEXANDER NAWKA",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191645",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "LUCIE BOROŠOVÁ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191645",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191645",
+          "date": "2026-10-26",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "INEP services s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Na Václavce 1135, Praha, 15000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30191645 dated 2026-10-26."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191645",
+            "date": "2026-10-26",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30191645"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "ONDŘEJ FIALA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191645",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30191645/inep-services-sro/",
+        "https://www.podnikani.cz/30191645/inep-services-sro/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30191751": {
+      "lead_id": "res-30191751",
+      "name": "Mykhailo Yarych",
+      "checked_at": "2026-11-06",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Mykhailo Yarych\" IČO 30191751 web",
+          "\"Mykhailo Yarych\" Praha Construction & property kontakt",
+          "\"Mykhailo Yarych\" \"U křížku 1391\" web",
+          "\"Mykhailo Yarych\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-mykhailo-yarych-30191751/kontakty",
+            "title": "Mykhailo Yarych IČO 30191751 kontakty 02.11.2026 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Mykhailo Yarych, která sídlí v obci a bylo jí přiděleno IČO 30191751. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://ceskadata.cz/27163857",
+            "title": "Construction & Property Management s.r.o., Praha – majitelé a ...",
+            "snippet": "Construction & Property Management s.r.o. (IČO 27163857). Ztráta 2025 10 mil. Kč. Společnost s ručením omezeným v Praze, vznik 2004, 1 - 5 zaměstnanců. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/ares/21525633-mykhailo-yarynych",
+            "title": "Mykhailo Yarynych, Praha, IČO: 21525633 - ARES | Peníze.cz",
+            "snippet": "Registr ekonomických subjektů - Mykhailo Yarynych, IČO: 21525633, sídlo firmy, předmět podnikání firmy Mykhailo Yarynych."
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-22651381/mykhailo-todavchych",
+            "title": "Mykhailo Todavchych, Praha - rejstřík OSVČ",
+            "snippet": "Nejdostupnější data o podnikatelích Časté dotazy k podnikateli IČO podnikatele je 22651381. Ano, Mykhailo Todavchych (Praha) je aktivní OSVČ. Sídlo podnikatele je Lupáčova 891, 13000 Praha. Vznik podnikatele Mykhailo Todavchych je před 1 lety, 24.02.2025. Mykhailo Todavchych nyní vlastní a provozuje 1 vozidel podle Reg"
+          },
+          {
+            "url": "https://aleo.com/int/company/mykhailo-yarych-bud-costrakt",
+            "title": "Company MYKHAILO YARYCH BUD-COSTRAKT, Czernica - NIP, KRS ...",
+            "snippet": "Check NIP, REGON and KRS of the MYKHAILO YARYCH BUD-COSTRAKT company. See the customers' opinions. Get to know the connections between companies. Data is fetched from CEIDG register."
+          },
+          {
+            "url": "https://www.firmy.cz/detail/13792613-stavebni-prace-mykhailo-syvous-praha-lhotka.html",
+            "title": "Stavební práce Mykhailo Syvous (Praha, Lhotka) • Firmy.cz",
+            "snippet": "Většina mobilů vizitku ihned rozezná a kontakt si můžete uložit. Nabídka zednických, podlahářských, obkladačských a instalatérských prací. Dále provádím sádrokarton, kompletní rekonstrukce bytů, pokojů, kuchyní, koupelen a úklidové služby. Zdá se vám nějaký údaj chybný nebo byste rádi něco doplnili?"
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-29626188/mykhailo-bilan",
+            "title": "Mykhailo Bilan, Praha - rejstřík OSVČ",
+            "snippet": "Mykhailo Bilan Sídlo Praha. IČO: 29626188. Rejstřík podnikatelů. Obchodní rejstřík. Rok založení 2026. Kontrola rizik podnikatele."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Služby v oblasti IT Dnes (6. 11. 2026) Praha Služby 200 000 — 1 000 000 Kč Zobrazit všechny poptávky od veřejných subjektů +420 251 510 908 info@epoptavka.cz"
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: oprava myčky nádobí, Ikea Lagan 45, Servis Servis Bílá technika okres Praha 6. 11. 2026 (dnes)"
+          },
+          {
+            "url": "https://www.cargoprague.cz/",
+            "title": "Cargo Prague - Tuzemská i mezinárodní doprava po celé Evropě",
+            "snippet": "Vnitrostátní a mezinárodní kamionová přeprava, sběrná služba a dokládky, námořní přeprava, železniční přeprava, skladování a logistika, celní služby."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://ceskadata.cz/27163857",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-22651381/mykhailo-todavchych",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://aleo.com/int/company/mykhailo-yarych-bud-costrakt",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.cargoprague.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30191751",
+        "legal_name": "Mykhailo Yarych",
+        "registered_at": "2026-10-23",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191751",
+        "decision_maker": {
+          "name": "Mykhailo Yarych",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191751",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191751",
+          "date": "2026-10-23",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Mykhailo Yarych — research dossier",
+        "facts": [
+          "The business is listed at U křížku 1391, Praha, 14000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30191751 dated 2026-10-23."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191751",
+            "date": "2026-10-23",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30191751"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Mykhailo Yarych",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30191751",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-mykhailo-yarych-30191751/kontakty",
+        "https://ceskadata.cz/27163857",
+        "https://rejstrik.penize.cz/ares/21525633-mykhailo-yarynych",
+        "https://www.chytryrejstrik.cz/ico-22651381/mykhailo-todavchych",
+        "https://aleo.com/int/company/mykhailo-yarych-bud-costrakt",
+        "https://www.firmy.cz/detail/13792613-stavebni-prace-mykhailo-syvous-praha-lhotka.html",
+        "https://www.chytryrejstrik.cz/ico-29626188/mykhailo-bilan"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30194474": {
+      "lead_id": "res-30194474",
+      "name": "MM-Spolstav s.r.o.",
+      "checked_at": "2026-11-06",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"MM-Spolstav s.r.o.\" IČO 30194474 web",
+          "\"MM-Spolstav s.r.o.\" Praha Construction & property kontakt",
+          "\"MM-Spolstav s.r.o.\" \"Roháčova 145\" web",
+          "\"MM-Spolstav s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Služby v oblasti IT Dnes (6. 11. 2026) Praha Služby 200 000 — 1 000 000 Kč Zobrazit všechny poptávky od veřejných subjektů +420 251 510 908 info@epoptavka.cz"
+          },
+          {
+            "url": "https://www.nejremeslnici.cz/poptavka/1104979-montaz-zaluzie-na-fasadu-3ti-patro-novostavba",
+            "title": "Montáž žaluzie na fasádu - 3tí patro , novostavba. (Praha ...",
+            "snippet": "4té patro, montáž do přípraveného boxu, skládačka. délka žaluzie 2 metry. Váha cca 12kg. Nutno navrtat i vodící lišty na jedné straně kam se ze vnitřní strany nedostaneme. Možno i delší spolupráce. Základní parametry Místo realizace: Praha Datum zadání:"
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://bba.cz/",
+            "title": "Eventová agentura Praha – BBA Group",
+            "snippet": "Jsme eventová a reklamní agentura. Pořádáme firemní akce, teambuilding akce. Event management. Máme vlastní grafické studio."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: oprava myčky nádobí, Ikea Lagan 45, Servis Servis Bílá technika okres Praha 6. 11. 2026 (dnes)"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.nejremeslnici.cz/poptavka/1104979-montaz-zaluzie-na-fasadu-3ti-patro-novostavba",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://bba.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30194474",
+        "legal_name": "MM-Spolstav s.r.o.",
+        "registered_at": "2026-10-26",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194474",
+        "decision_maker": {
+          "name": "MARTIN MAĽA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194474",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "MARTIN MAĽA",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194474",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194474",
+          "date": "2026-10-26",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "MM-Spolstav s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Roháčova 145, Praha, 13000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30194474 dated 2026-10-26."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194474",
+            "date": "2026-10-26",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30194474"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "MARTIN MAĽA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194474",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://zakazky.epoptavka.cz/",
+        "https://www.nejremeslnici.cz/poptavka/1104979-montaz-zaluzie-na-fasadu-3ti-patro-novostavba",
+        "https://dodavatele.epoptavka.cz/",
+        "https://www.epoptavka.cz/",
+        "https://bba.cz/",
+        "https://www.poptavky.cz/",
+        "https://poptavky.epoptavka.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30194644": {
+      "lead_id": "res-30194644",
+      "name": "Pastavale s.r.o.",
+      "checked_at": "2026-11-06",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Pastavale s.r.o.\" IČO 30194644 web",
+          "\"Pastavale s.r.o.\" Praha Construction & property kontakt",
+          "\"Pastavale s.r.o.\" \"Korunní 2569\" web",
+          "\"Pastavale s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://ceskadata.cz/27163857",
+            "title": "Construction & Property Management s.r.o., Praha – majitelé a ...",
+            "snippet": "Construction & Property Management s.r.o. (IČO 27163857). Ztráta 2025 10 mil. Kč. Společnost s ručením omezeným v Praze, vznik 2004, 1 - 5 zaměstnanců. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://cz.jooble.org/práce-property-management/Praha",
+            "title": "Práce: Property management - Praha - 2026 ... - Jooble",
+            "snippet": "Více než 1 472 pracovních nabídek - Property management v Praze • Konkurenční plat • Plný nebo částečný úvazek a brigády • Najděte si novou práci na Jooble!"
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/dopravní-stavby-kolín-as",
+            "title": "DOPRAVNÍ STAVBY KOLÍN, as - nám. Přátelství 1518, 102 00… - Cybo",
+            "snippet": "DOPRAVNÍ STAVBY KOLÍN, as Prague postal code 102 00. See 2 social pages including Facebook and Google, Phone and more for this business. Review on Cybo."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://www.7rsa.pl/",
+            "title": "Deweloper Magazynowy. Magazyny do Wynajęcia w Polsce - 7R",
+            "snippet": "7R to deweloper nowoczesnych powierzchni magazynowych i logistycznych. Oferujemy magazyny na wynajem, obiekty BTS oraz parki logistyczne."
+          },
+          {
+            "url": "https://bratislava.sk/",
+            "title": "Domov – Mesto Bratislava",
+            "snippet": "Oficiálna stránka Hlavného mesta SR Bratislavy so všetkými aktuálnymi informáciami ohľadom fungovania mesta, služieb, regulácií a podujatí."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Služby v oblasti IT Dnes (6. 11. 2026) Praha Služby 200 000 — 1 000 000 Kč Zobrazit všechny poptávky od veřejných subjektů +420 251 510 908 info@epoptavka.cz"
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://www.poptavej.cz/poptavka/20999501-spravcovske-sluzby-pro-bytovy-dum-1-vchod-6-bytovych-jednotek",
+            "title": "Správcovské služby pro bytový dům, 1 vchod, 6 bytových ...",
+            "snippet": "Paušální poptávka Poptávám správcovské služby:Popis: - správcovské služby pro bytový dům a výkon funkce profesionálního předsedy SVJ - 1 vchod, 6 bytových jednotek - komplexní správa bytového domu ekonomická, administrativní a technická - dokumentace v příloze aktivní po zobrazení kontaktu Specifikace: - právní jednání"
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: oprava myčky nádobí, Ikea Lagan 45, Servis Servis Bílá technika okres Praha 6. 11. 2026 (dnes)"
+          },
+          {
+            "url": "https://www.zivefirmy.cz/praha_c554782",
+            "title": "Největší nezávislý katalog českých firem - Živéfirmy.cz",
+            "snippet": "Zdravotnictví, zdravotní služby a technika Jsme dlouholetým partnerem předních evropských producentů, působících v oblasti výroby a dodávek zařízení na úpravu pitných, užitkových a technologických vod. Naše produktové portfolio zahrnuje dodávky od malých náhradních dílů až po velká zařízení na úpravu vod."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://ceskadata.cz/27163857",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://cz.jooble.org/práce-property-management/Praha",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/dopravní-stavby-kolín-as",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.7rsa.pl/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://bratislava.sk/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30194644",
+        "legal_name": "Pastavale s.r.o.",
+        "registered_at": "2026-10-26",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194644",
+        "decision_maker": {
+          "name": "RÓBERT FRIGA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194644",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "RÓBERT FRIGA",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194644",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194644",
+          "date": "2026-10-26",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Pastavale s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Korunní 2569, Praha, 10100.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30194644 dated 2026-10-26."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194644",
+            "date": "2026-10-26",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30194644"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "RÓBERT FRIGA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194644",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://ceskadata.cz/27163857",
+        "https://cz.jooble.org/práce-property-management/Praha",
+        "https://www.cybo.com/CZ-biz/dopravní-stavby-kolín-as",
+        "https://vces.cz/",
+        "https://www.skanska.com/cz/cs",
+        "https://www.7rsa.pl/",
+        "https://bratislava.sk/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30194733": {
+      "lead_id": "res-30194733",
+      "name": "Ruslan Zmykalo",
+      "checked_at": "2026-11-06",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Ruslan Zmykalo\" IČO 30194733 web",
+          "\"Ruslan Zmykalo\" Praha Construction & property kontakt",
+          "\"Ruslan Zmykalo\" \"Třeboradická 1070\" web",
+          "\"Ruslan Zmykalo\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-ruslan-zmykalo-30194733/obory-cinnosti",
+            "title": "Ruslan Zmykalo IČO 30194733 kontakty 02.11.2026 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Ruslan Zmykalo, která sídlí v obci a bylo jí přiděleno IČO 30194733. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://ceskadata.cz/27163857",
+            "title": "Construction & Property Management s.r.o., Praha – majitelé a ...",
+            "snippet": "Construction & Property Management s.r.o. (IČO 27163857). Ztráta 2025 10 mil. Kč. Společnost s ručením omezeným v Praze, vznik 2004, 1 - 5 zaměstnanců. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://www.yelp.com/biz/yuriy-zmykalo-praha",
+            "title": "YURIY ZMYKALO - Netušilská 1538, Praha, Czech Republic ...",
+            "snippet": "Yuriy Zmykalo in Praha, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Praha and beyond."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/yuriy-zmykalo",
+            "title": "Yuriy Zmykalo - Obchodní rejstřík | Peníze.cz",
+            "snippet": "Yuriy Zmykalo výpis firem z Obchodního rejstříku, IČO firmy, adresa sídla firmy, pozice ve firmě, související firmy, vztahy ve firmách."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-vasyl-zmykalo-69447039",
+            "title": "Vasyl Zmykalo IČO 69447039 kontakty 12.12.2025 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Vasyl Zmykalo IČO 69447039 kontakty 12.12.2025 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/vasyl-zmykalo-23101342/",
+            "title": "Vasyl Zmykalo - IČO 23101342 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Sídlo podnikání: Taussigova 1157/17, Praha, 182 00, Česká republika Působí ve firmě ZMYKALO s.r.o. Vasyl Zmykalo Sídlo podnikání: Topčina 266, Zakarpatská obl., Ukrajina Vasyl Zmykalo Sídlo podnikání: Seredna 86, Vodica, Ukrajina Vasyl Zmykalo Sídlo podnikání: Bouc 28, Zakarpatská oblast, Tjačivskyy okres, Hl. Potik, U"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/zivnostnik/a3CaqpqamKc=",
+            "title": "Vasyl Zmykalo okres Praha-východ - Živnostenský rejstřík",
+            "snippet": "Vasyl Zmykalo, podnikatel okres Praha-východ – kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Služby v oblasti IT Dnes (6. 11. 2026) Praha Služby 200 000 — 1 000 000 Kč Zobrazit všechny poptávky od veřejných subjektů +420 251 510 908 info@epoptavka.cz"
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: oprava myčky nádobí, Ikea Lagan 45, Servis Servis Bílá technika okres Praha 6. 11. 2026 (dnes)"
+          },
+          {
+            "url": "https://www.cargoprague.cz/",
+            "title": "Cargo Prague - Tuzemská i mezinárodní doprava po celé Evropě",
+            "snippet": "Vnitrostátní a mezinárodní kamionová přeprava, sběrná služba a dokládky, námořní přeprava, železniční přeprava, skladování a logistika, celní služby."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://ceskadata.cz/27163857",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.cargoprague.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30194733",
+        "legal_name": "Ruslan Zmykalo",
+        "registered_at": "2026-10-26",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194733",
+        "decision_maker": {
+          "name": "Ruslan Zmykalo",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194733",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194733",
+          "date": "2026-10-26",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Ruslan Zmykalo — research dossier",
+        "facts": [
+          "The business is listed at Třeboradická 1070, Praha, 18200.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30194733 dated 2026-10-26."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194733",
+            "date": "2026-10-26",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30194733"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Ruslan Zmykalo",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194733",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-ruslan-zmykalo-30194733/obory-cinnosti",
+        "https://ceskadata.cz/27163857",
+        "https://www.yelp.com/biz/yuriy-zmykalo-praha",
+        "https://rejstrik.penize.cz/yuriy-zmykalo",
+        "https://rejstriky.finance.cz/firma-vasyl-zmykalo-69447039",
+        "https://www.podnikatel.cz/rejstrik/vasyl-zmykalo-23101342/",
+        "https://rejstrik-firem.kurzy.cz/zivnostnik/a3CaqpqamKc="
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30194938": {
+      "lead_id": "res-30194938",
+      "name": "Bohdan Rybii",
+      "checked_at": "2026-11-06",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Bohdan Rybii\" IČO 30194938 web",
+          "\"Bohdan Rybii\" Praha Construction & property kontakt",
+          "\"Bohdan Rybii\" \"Murmanská 1252\" web",
+          "\"Bohdan Rybii\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://www.linkedin.com/pub/dir/+/Rybii",
+            "title": "30+ \"Rybii\" profiles | LinkedIn",
+            "snippet": "Bogdan Rybii Cybersecurity & IT Infrastructure (Systems, Networks, Servers) | GRC | LL.M. Prague Metropolitan Area Flash Style QA Start Up - IT School, +2 more"
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: oprava myčky nádobí, Ikea Lagan 45, Servis Servis Bílá technika okres Praha 6. 11. 2026 (dnes)"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          },
+          {
+            "url": "https://webtrh.cz/",
+            "title": "Webtrh. Můj byznys roste.",
+            "snippet": "Místo pro potkávání nabídky a poptávky, prodeje projektů, pracovní nabídky, forum, vzdělání a mnoho dalšího."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://webtrh.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30194938",
+        "legal_name": "Bohdan Rybii",
+        "registered_at": "2026-10-26",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194938",
+        "decision_maker": {
+          "name": "Bohdan Rybii",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194938",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194938",
+          "date": "2026-10-26",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Bohdan Rybii — research dossier",
+        "facts": [
+          "The business is listed at Murmanská 1252, Praha, 10000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30194938 dated 2026-10-26."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194938",
+            "date": "2026-10-26",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30194938"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Bohdan Rybii",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194938",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://dodavatele.epoptavka.cz/",
+        "https://www.linkedin.com/pub/dir/+/Rybii",
+        "https://www.epoptavka.cz/",
+        "https://zakazky.epoptavka.cz/",
+        "https://www.poptavky.cz/",
+        "https://poptavky.epoptavka.cz/",
+        "https://webtrh.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30194946": {
+      "lead_id": "res-30194946",
+      "name": "Dmytro Levchuk",
+      "checked_at": "2026-11-06",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Dmytro Levchuk\" IČO 30194946 web",
+          "\"Dmytro Levchuk\" Praha Construction & property kontakt",
+          "\"Dmytro Levchuk\" \"Francouzská 80\" web",
+          "\"Dmytro Levchuk\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://cs.wikipedia.org/wiki/Špilberk",
+            "title": "Špilberk – Wikipedie",
+            "snippet": "Špilberk (německy Spielberg, v hantecu Špilas) je hrad a pevnost tvořící dominantu města Brna. Nachází se na vrcholu stejnojmenného kopce, který leží v městské části Brno-střed, na západě katastrálního území Město Brno. Hrad byl založen ve druhé polovině 13. století moravským markrabětem (a později i českým králem) Pře"
+          },
+          {
+            "url": "https://ua.linkedin.com/in/dmytro-levchuk",
+            "title": "Dmytro Levchuk – Currently in Kyiv, Ukraine | LinkedInTop StoriesŠpilberk – WikipedieRestaurace PRAHA 7 | DnešníOběd.czDynamix Corp Rg-A 12 - patria.czLoutna – InfopediaNine Casino",
+            "snippet": "Currently in Kyiv, Ukraine · I'm highly competent and confident, always striving to achieve the best of my abilities with a flexible approach. 10+ years of Project Management. A highly motivated individual who works well within a team but also as an individual. Excellent Management skills with experience in working to "
+          },
+          {
+            "url": "https://www.patria.cz/Stocks/default.aspx/7d3b4e67-c0aa-41ef-bae9-2a177084a847/3xs-eurrbi-open/",
+            "title": "Dynamix Corp Rg-A 12 - patria.cz",
+            "snippet": "Ceny průmyslových výrobců - Graf (ČR) Ceny průmyslových výrobců - Kalendář (ČR) Ceny průmyslových výrobců - Zpravodajství CORPORATE WEB SOLUTION DATA EXPORT Databanka - Akcie Databanka - Ceny"
+          },
+          {
+            "url": "https://ninecz.cz/",
+            "title": "Nine Casino – Bezpečné a Důvěryhodné Online Kasino",
+            "snippet": "🎰 Nine Casino je spolehlivý web s kasinem pro hráče v Czech Republic. Bezpečné online hazardní hry, licencované kasino. Zahrajte si nyní! 🔥💎"
+          },
+          {
+            "url": "https://www.dnesniobed.cz/restaurace-hospoda/obec=praha-7",
+            "title": "Restaurace PRAHA 7 | DnešníOběd.cz",
+            "snippet": "Vyberte si restauraci a oběd ve Vaší oblíbené lokalitě PRAHA 7"
+          },
+          {
+            "url": "https://infopedia.cz/index.php/Loutna",
+            "title": "Loutna – Infopedia",
+            "snippet": "Loutna je historický drnkací strunný nástroj z rodiny krkových chordofonů, který se vyznačuje klenutým korpusem polokulovitého či hruškovitého tvaru, plochou rezonanční deskou s vyřezávanou rozetou a krkem zakončeným lomenou kolíkovou skříňkou. Charakteristickým rysem evropských louten je sborové ostrunění, při němž js"
+          },
+          {
+            "url": "https://www.datart.cz/sendvicovace.html/filter/o:10",
+            "title": "Nejprodávanější sendvičovače - DATART",
+            "snippet": "DATART - přední český prodejce elektroniky. Vaše zboží připravíme na prodejně už do 30 minut nebo doručíme po celé ČR."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.patria.cz/Stocks/default.aspx/7d3b4e67-c0aa-41ef-bae9-2a177084a847/3xs-eurrbi-open/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://ninecz.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website"
+            ]
+          },
+          {
+            "url": "https://www.dnesniobed.cz/restaurace-hospoda/obec=praha-7",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://infopedia.cz/index.php/Loutna",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website"
+            ]
+          },
+          {
+            "url": "https://www.datart.cz/sendvicovace.html/filter/o:10",
+            "result": "unreachable",
+            "reason": "ConnectTimeout"
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30194946",
+        "legal_name": "Dmytro Levchuk",
+        "registered_at": "2026-10-26",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194946",
+        "decision_maker": {
+          "name": "Dmytro Levchuk",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194946",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194946",
+          "date": "2026-10-26",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Dmytro Levchuk — research dossier",
+        "facts": [
+          "The business is listed at Francouzská 80, Praha, 12000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30194946 dated 2026-10-26."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194946",
+            "date": "2026-10-26",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30194946"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Dmytro Levchuk",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30194946",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://cs.wikipedia.org/wiki/Špilberk",
+        "https://ua.linkedin.com/in/dmytro-levchuk",
+        "https://www.patria.cz/Stocks/default.aspx/7d3b4e67-c0aa-41ef-bae9-2a177084a847/3xs-eurrbi-open/",
+        "https://ninecz.cz/",
+        "https://www.dnesniobed.cz/restaurace-hospoda/obec=praha-7",
+        "https://infopedia.cz/index.php/Loutna",
+        "https://www.datart.cz/sendvicovace.html/filter/o:10"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30195071": {
+      "lead_id": "res-30195071",
+      "name": "Roman Deiak",
+      "checked_at": "2026-11-06",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Roman Deiak\" IČO 30195071 web",
+          "\"Roman Deiak\" Praha Construction & property kontakt",
+          "\"Roman Deiak\" \"Kobylákova 1253\" web",
+          "\"Roman Deiak\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/roman-deiak-67281761/",
+            "title": "Roman Deiak - IČO 67281761 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Podrobnosti o firmě Roman Deiak - IČO 67281761 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního rejstříku…"
+          },
+          {
+            "url": "https://www.edb.cz/firma-684463-roman-deiak",
+            "title": "Roman Deiak - Evropská databanka",
+            "snippet": "Hledáte kvalitní firmu na rekonstrukci domu nebo úpravu interiéru? Roman Deiak z Velkého Beranova nabízí komplexní služby v oblasti rekonstrukcí domů, interiérů i veškerých zednických prací. S důrazem na detail a osobní přístup se postaráme o to, aby váš domov odpovídal vašim představám."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-roman-deiak-05483913/kontakty",
+            "title": "Roman Deiak Velký Beranov IČO 05483913 kontakty 22.03.2026 ...",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Roman Deiak, která sídlí v obci Velký Beranov a bylo jí přiděleno IČO 05483913. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://www.mesec.cz/rejstrik-firem/firma-roman-deiak-05483913",
+            "title": "Roman Deiak, IČO: (05483913), výpis z rejstříků firem a OSVČ ...",
+            "snippet": "Najdete zde informace o Roman Deiak. Výpis dat z živnostenského i obchodního rejstříku a ze statistického úřadu"
+          },
+          {
+            "url": "https://firmy.euro.cz/subjekt-roman-deiak-67281761",
+            "title": "Roman Deiak IČO: 67281761, , výpis z rejstříku 11.11.2024 ...",
+            "snippet": "Výpis dat pro Roman Deiak na portále firmy.euro.cz obsahuje pouze takové informace, které lze dle zákona č. 101/2000 Sb., o ochraně osobních údajů, zveřejňovat i bez souhlasu subjektu těchto údajů."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/ares/05483913-roman-deiak",
+            "title": "Roman Deiak, Velký Beranov, IČO: 05483913 - ARES | Peníze.cz",
+            "snippet": "Registr ekonomických subjektů - Roman Deiak, IČO: 05483913, sídlo firmy, předmět podnikání firmy Roman Deiak."
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/roman-deiak-05483913/",
+            "title": "Roman Deiak - IČO 05483913 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Jakékoli požadavky na jejich úpravu či odstranění je proto nutné směřovat na zdroj MFČR, konkrétně na e-mail: ares@mfcr.cz. Data ohledně právní formy, předmětu podnikání, kapitálu, odpovědných osobách a ostatních skutečnostech jsou přebírána z veřejné databáze Ministerstva spravedlnosti ČR (MSČR)."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Služby v oblasti IT Dnes (6. 11. 2026) Praha Služby 200 000 — 1 000 000 Kč Zobrazit všechny poptávky od veřejných subjektů +420 251 510 908 info@epoptavka.cz"
+          },
+          {
+            "url": "https://rejstrik.penize.cz/dph/cz7905319961-roman-deiak",
+            "title": "Roman Deiak, DIČ: CZ7905319961 - Registr DPH | Peníze.cz",
+            "snippet": "Jan 8, 2026 · Tento výpis z Registru DPH obsahuje údaje o společnosti Roman Deiak Údaje byly staženy 6. 1. 2026 z datové služby dle DIČ CZ7905319961. Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.edb.cz/firma-684463-roman-deiak",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.mesec.cz/rejstrik-firem/firma-roman-deiak-05483913",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website"
+            ]
+          },
+          {
+            "url": "https://firmy.euro.cz/subjekt-roman-deiak-67281761",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30195071",
+        "legal_name": "Roman Deiak",
+        "registered_at": "2026-10-26",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195071",
+        "decision_maker": {
+          "name": "Roman Deiak",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195071",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195071",
+          "date": "2026-10-26",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Roman Deiak — research dossier",
+        "facts": [
+          "The business is listed at Kobylákova 1253, Praha, 10200.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30195071 dated 2026-10-26."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195071",
+            "date": "2026-10-26",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30195071"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Roman Deiak",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195071",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.podnikatel.cz/rejstrik/roman-deiak-67281761/",
+        "https://www.edb.cz/firma-684463-roman-deiak",
+        "https://rejstriky.finance.cz/firma-roman-deiak-05483913/kontakty",
+        "https://www.mesec.cz/rejstrik-firem/firma-roman-deiak-05483913",
+        "https://firmy.euro.cz/subjekt-roman-deiak-67281761",
+        "https://rejstrik.penize.cz/ares/05483913-roman-deiak",
+        "https://www.podnikatel.cz/rejstrik/roman-deiak-05483913/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
       "owner_verified": false,
       "buyer_interest_verified": false
     }
