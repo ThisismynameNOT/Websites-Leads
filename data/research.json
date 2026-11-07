@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-06T15:42:48.228341+00:00",
+  "generated_at": "2026-11-07T14:42:21.550265+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -9160,7 +9160,7 @@
     "osm-node-12278479101": {
       "lead_id": "osm-node-12278479101",
       "name": "Studio PHX s.r.o.",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-07",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -9469,7 +9469,7 @@
     "osm-node-13229923199": {
       "lead_id": "osm-node-13229923199",
       "name": "Depositum CZ s.r.o.",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-07",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -9791,7 +9791,7 @@
     "osm-node-13432491655": {
       "lead_id": "osm-node-13432491655",
       "name": "AltruLinea",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-07",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -10051,7 +10051,7 @@
     "osm-node-13565444642": {
       "lead_id": "osm-node-13565444642",
       "name": "Realitní Kancelář RNDr. Eva Pavlíková",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-07",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -10810,7 +10810,7 @@
     "osm-node-1555858848": {
       "lead_id": "osm-node-1555858848",
       "name": "Realitní společnost Praha",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-07",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -11109,7 +11109,7 @@
     "osm-node-2318297306": {
       "lead_id": "osm-node-2318297306",
       "name": "Qarta architektura",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-07",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -11436,7 +11436,7 @@
     "osm-node-2475847880": {
       "lead_id": "osm-node-2475847880",
       "name": "HVB Real Estate",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-07",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -11731,7 +11731,7 @@
     "osm-node-2896861601": {
       "lead_id": "osm-node-2896861601",
       "name": "Orbium Reality",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-07",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -53268,6 +53268,1618 @@
         "https://firmy.euro.cz/subjekt-roman-deiak-67281761",
         "https://rejstrik.penize.cz/ares/05483913-roman-deiak",
         "https://www.podnikatel.cz/rejstrik/roman-deiak-05483913/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30195195": {
+      "lead_id": "res-30195195",
+      "name": "Ema Jokelová",
+      "checked_at": "2026-11-07",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Ema Jokelová\" IČO 30195195 web",
+          "\"Ema Jokelová\" Praha Construction & property kontakt",
+          "\"Ema Jokelová\" \"Bechlínská 705\" web",
+          "\"Ema Jokelová\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+            "title": "Construction & Property Management s.r.o. , Praha IČO ...",
+            "snippet": "Kde je sídlo firmy Construction & Property Management s.r.o.? Sídlo firmy Construction & Property Management s.r.o. je Na příkopě 859/22, Nové Město (Praha 1), 110 00 Praha."
+          },
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles.scf_property_services_as.46654a0835ee4e7008a41af5ec4cb218.html",
+            "title": "SCF Property Services, a.s. Company Profile | Praha, Hlavní ...Kontakt - www.apollonproperty.czMaGe Construction, s.r.o. , Praha IČO 24166189 - Obchodní ...Contact - www.apollonpro",
+            "snippet": "Find company research, competitor information, contact details & financial data for SCF Property Services, a.s. of Praha, Hlavní město Praha. Get the latest business insights from Dun & Bradstreet. Apollon Property je investiční a developerská společnost působící přes 18 let na českém realitním trhu. Investiční divize "
+          },
+          {
+            "url": "https://www.apollonproperty.cz/kontakt/",
+            "title": "Kontakt - www.apollonproperty.cz",
+            "snippet": "Apollon Property je investiční a developerská společnost působící přes 18 let na českém realitním trhu. Investiční divize pro krátkodobý i dlouhodobý pronájem a developerská divize pro výstavbu a prodej."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/24166189/mage-construction-sro/",
+            "title": "MaGe Construction, s.r.o. , Praha IČO 24166189 - Obchodní ...Contact - www.apollonproperty.comKontakt - Construction ManagementAdresář zaměstnanců - Praha - MHMP",
+            "snippet": "2 days ago · Jaký je kontakt na firmu MaGe Construction, s.r.o.? Email: info@mageco.cz. Další kontakty na firmu MaGe Construction, s.r.o. MaGe Construction, s.r.o. – obchodní rejstřík, aktuální výpis. Apollon Property is an investment and development company with over 18 years on the Czech real estate market. Investmen"
+          },
+          {
+            "url": "https://www.apollonproperty.com/contact/",
+            "title": "Contact - www.apollonproperty.com",
+            "snippet": "Apollon Property is an investment and development company with over 18 years on the Czech real estate market. Investment division for short- and long-term rentals and development division for construction and sales."
+          },
+          {
+            "url": "https://www.construction-management.cz/kontakt/",
+            "title": "Kontakt - Construction Management",
+            "snippet": "Jaroslav Sysel - autorizovaný stavitel - www.construction-management.cz - působíme v oblasti Praha a Středočeský kraj."
+          },
+          {
+            "url": "https://praha.eu/adresar-zamestnancu",
+            "title": "Adresář zaměstnanců - Praha - MHMP",
+            "snippet": "Kontakty Potřebuji řešit Tiskový servis Magistrát Úřední doba Odbory Úřední deska Volná pracovní místa Kontakt +420 800 100 000 Městské části Městské organizace Ochrana osobních údajů Prohlášení o přístupnosti"
+          },
+          {
+            "url": "https://www.bing.com/aclick?ld=e8hmUgr3FC8rwC6qZ9lpH5ETVUCUyBSN87y3_Ucd5Ei6uhkN8e5wh3vryGY-rJVWvLzyeMuKsrbExjL8RkUs-PSpedYKBAGSm7HSG9FhO2aNn23VBUNj0o4wc7vLQl6OHRiCfAWN5ie8nOLZ0l7Sypiqof3LwhgFTFgMi65BGTWJ17VVqIzuT9f0ilc-AhDJOYgKg1Ea0t0Icex90Q2OLI0ECvOV4&u=aHR0cHMlM2ElMmYlMmZ3d3cuaGdzLmN6JTNmdXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkU0UlMjUyME9zdGF0biUyNUMzJTI1QUQlMjUyMHAlMjVDNSUyNTk5ZXNuJTI1QzMlMjVBOSUyNTIwQjROJTI2dXRtX2lkJTNkMjEyOTIwODI4NjUlMjZtc2Nsa2lkJTNkMTBhYmEzODdjMWRhMThhMTlkN2FjOTY4ZjlmY2Q4YWYlMjZ1dG1fdGVybSUzZGZhY2lsaXR5JTI1MjBzbHUlYzUlYmVieSUyNnV0bV9jb250ZW50JTNkRmFjaWxpdHk&rlid=10aba387c1da18a19d7ac968f9fcd8af",
+            "title": "Profesionální facility služby - Komerční a výrobní nemovitosti",
+            "snippet": "Úklidový servis, čištění technologií, venkovní úklid, údržba zeleně, temporary help atd. Zavedené postupy a procesy. Služby na míru a flexibilita, zkušenosti a reference. Služby, Údržba zeleně, Pravidelné Zajištění, Venkovní mytí budov, Úklid and more"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Služby v oblasti IT Včera (6. 11. 2026) Praha Služby 200 000 — 1 000 000 Kč Zobrazit všechny poptávky od veřejných subjektů +420 251 510 908 info@epoptavka.cz"
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.holocaust.cz/en/database-of-victims/victim/96472-ema-jokelova/",
+            "title": "Ema Jokelová | Database of victims | Holocaust",
+            "snippet": "historical context U (28. 01. 1942, Brno -> Terezín) deported: 1001 murdered: 910 survived: 91 More"
+          },
+          {
+            "url": "https://bba.cz/",
+            "title": "Eventová agentura Praha – BBA Group",
+            "snippet": "Jsme eventová a reklamní agentura. Pořádáme firemní akce, teambuilding akce. Event management. Máme vlastní grafické studio."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: vývoz žumpy, Žiželice Služby Likvidace odpadů, kontejnery Stavby (části) Kanalizace, odpady okres Louny 6. 11. 2026 (včera)"
+          },
+          {
+            "url": "https://www.cargoprague.cz/",
+            "title": "Cargo Prague - Tuzemská i mezinárodní doprava po celé Evropě",
+            "snippet": "Vnitrostátní a mezinárodní kamionová přeprava, sběrná služba a dokládky, námořní přeprava, železniční přeprava, skladování a logistika, celní služby."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles.scf_property_services_as.46654a0835ee4e7008a41af5ec4cb218.html",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.apollonproperty.cz/kontakt/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.apollonproperty.com/contact/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.construction-management.cz/kontakt/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://praha.eu/adresar-zamestnancu",
+            "result": "unreachable",
+            "reason": "SSLError"
+          },
+          {
+            "url": "https://www.hgs.cz?utm_source=bing&utm_medium=cpc&utm_campaign=SE%20Ostatn%C3%AD%20p%C5%99esn%C3%A9%20B4N&utm_id=21292082865&msclkid=10aba387c1da18a19d7ac968f9fcd8af&utm_term=facility%20slu%C5%BEby&utm_content=Facility",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.holocaust.cz/en/database-of-victims/victim/96472-ema-jokelova/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30195195",
+        "legal_name": "Ema Jokelová",
+        "registered_at": "2026-10-25",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195195",
+        "decision_maker": {
+          "name": "Ema Jokelová",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195195",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195195",
+          "date": "2026-10-25",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Ema Jokelová — research dossier",
+        "facts": [
+          "The business is listed at Bechlínská 705, Praha, 19000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30195195 dated 2026-10-25."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195195",
+            "date": "2026-10-25",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30195195"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Ema Jokelová",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195195",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+        "https://www.dnb.com/business-directory/company-profiles.scf_property_services_as.46654a0835ee4e7008a41af5ec4cb218.html",
+        "https://www.apollonproperty.cz/kontakt/",
+        "https://rejstrik-firem.kurzy.cz/24166189/mage-construction-sro/",
+        "https://www.apollonproperty.com/contact/",
+        "https://www.construction-management.cz/kontakt/",
+        "https://praha.eu/adresar-zamestnancu"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30195233": {
+      "lead_id": "res-30195233",
+      "name": "MM-Spolcar s.r.o.",
+      "checked_at": "2026-11-07",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"MM-Spolcar s.r.o.\" IČO 30195233 web",
+          "\"MM-Spolcar s.r.o.\" Praha Construction & property kontakt",
+          "\"MM-Spolcar s.r.o.\" \"Plzeňská 3352\" web",
+          "\"MM-Spolcar s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 4,
+        "candidates": [
+          {
+            "url": "https://www.instagram.com/reel/DbZ2t6tPU5Z/",
+            "title": "@chipmunk.30195233 on Instagram",
+            "snippet": "30 likes, 0 comments - chipmunk.30195233 on July 29, 2026"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/28927877/p-mm-sro/",
+            "title": "P-MM s.r.o. , Praha IČO 28927877 - Obchodní rejstřík firemÚspěšný web s.r.o. , Rakovník IČO 24209007 - Obchodní ...MM GASTRO s.r.o. , Praha IČO 08312010 - Obchodní rejstřík ...MM F",
+            "snippet": "2 days ago · Kompletní výpis včetně dat narození a adres lze zobrazit po zadání IČO 28927877 na originální stránce obchodního rejstříku justice.cz. Kompletní výpis včetně dat narození a adres lze zobrazit po zadání IČO 24209007 na originální stránce obchodního rejstříku justice.cz. Oct 25, 2026 · Kompletní výpis včetně"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/24209007/uspesny-web-sro/",
+            "title": "Úspěšný web s.r.o. , Rakovník IČO 24209007 - Obchodní ...",
+            "snippet": "Kompletní výpis včetně dat narození a adres lze zobrazit po zadání IČO 24209007 na originální stránce obchodního rejstříku justice.cz."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/08312010/mm-gastro-sro/",
+            "title": "MM GASTRO s.r.o. , Praha IČO 08312010 - Obchodní rejstřík ...MM Fix unit s.r.o. , Praha IČO 07077599 - Obchodní rejstřík ...Web Retail s.r.o. , Praha IČO 28876431 - Obchodní rejstř",
+            "snippet": "Oct 25, 2026 · Kompletní výpis včetně dat narození a adres lze zobrazit po zadání IČO 08312010 na originální stránce obchodního rejstříku justice.cz. Oct 28, 2026 · Kompletní výpis včetně dat narození a adres lze zobrazit po zadání IČO 07077599 na originální stránce obchodního rejstříku justice.cz. 2 days ago · Komplet"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/07077599/mm-fix-unit-sro/",
+            "title": "MM Fix unit s.r.o. , Praha IČO 07077599 - Obchodní rejstřík ...",
+            "snippet": "Oct 28, 2026 · Kompletní výpis včetně dat narození a adres lze zobrazit po zadání IČO 07077599 na originální stránce obchodního rejstříku justice.cz."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/28876431/web-retail-sro/",
+            "title": "Web Retail s.r.o. , Praha IČO 28876431 - Obchodní rejstřík firem",
+            "snippet": "2 days ago · Kompletní výpis včetně dat narození a adres lze zobrazit po zadání IČO 28876431 na originální stránce obchodního rejstříku justice.cz."
+          },
+          {
+            "url": "https://www.orsr.sk/search_subjekt.asp?lan=en",
+            "title": "Business Register of the Slovak Republic on Internet ...",
+            "snippet": "Business Register of the Slovak Republic on Internet - searching by business name Way of searching : string anywhere in the name Scope of searching : in actual records only"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30195233/mm-spolcar-sro/",
+            "title": "MM-Spolcar s.r.o. , IČO 30195233 - Obchodní rejstřík firem",
+            "snippet": "Kde je sídlo firmy MM-Spolcar s.r.o.? Sídlo firmy MM-Spolcar s.r.o. je Plzeňská 3352/156, Smíchov, 15000 Praha 5. Další firmy na této adrese. X Kurzy.cz > Obchodní rejstřík > MM-Spolcar s.r.o."
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/to-rent-apartment-1-1-praha-8-4428978",
+            "title": "To rent apartment 1+1 - Praha 8 - REALCITY.cz",
+            "snippet": "4 days ago · To rent apartment 1+1 40 m² - Praha 8 Last update03.11.2026 Disposition1+1 Contract ID11838 Build-up area202 m² Flooring40 m² Tenureprivate Construction typebrick Floor3rd floor Facilitiesunfurnished Energy classG (>256 kWh/m²/year) more information"
+          },
+          {
+            "url": "https://ceskadata.cz/25692003",
+            "title": "1Life wellness s.r.o. v likvidaci, Praha – majitelé a vedení ...",
+            "snippet": "1Life wellness s.r.o. v likvidaci (IČO 25692003): společnost s ručením omezeným v Praze, vznik 1998. Velkoobchod, kromě motorových vozidel. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/dopravní-stavby-kolín-as",
+            "title": "DOPRAVNÍ STAVBY KOLÍN, as - nám. Přátelství 1518, 102 00… - Cybo",
+            "snippet": "DOPRAVNÍ STAVBY KOLÍN, as Prague postal code 102 00. See 2 social pages including Facebook and Google, Phone and more for this business. Review on Cybo."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://www.sreality.cz/en/project-detail/rohan-city-ii-etapa-specto-karlin/39989",
+            "title": "ROHAN CITY, II. ETAPA - SPECTO KARLÍN • Sreality.cz",
+            "snippet": "0 properties in the current offer of properties in the development project ROHAN CITY, II. ETAPA - SPECTO KARLÍN The largest offer of real estate in the Czech Republic (110,832 estates) with search on the map and filtering with dozens of parameters"
+          }
+        ],
+        "errors": [],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.orsr.sk/search_subjekt.asp?lan=en",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/to-rent-apartment-1-1-praha-8-4428978",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://ceskadata.cz/25692003",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/dopravní-stavby-kolín-as",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.sreality.cz/en/project-detail/rohan-city-ii-etapa-specto-karlin/39989",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30195233",
+        "legal_name": "MM-Spolcar s.r.o.",
+        "registered_at": "2026-10-26",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195233",
+        "decision_maker": {
+          "name": "MARTIN MAĽA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195233",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "MARTIN MAĽA",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195233",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195233",
+          "date": "2026-10-26",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "MM-Spolcar s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Plzeňská 3352, Praha, 15000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30195233 dated 2026-10-26."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195233",
+            "date": "2026-10-26",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30195233"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "MARTIN MAĽA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195233",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.instagram.com/reel/DbZ2t6tPU5Z/",
+        "https://rejstrik-firem.kurzy.cz/28927877/p-mm-sro/",
+        "https://rejstrik-firem.kurzy.cz/24209007/uspesny-web-sro/",
+        "https://rejstrik-firem.kurzy.cz/08312010/mm-gastro-sro/",
+        "https://rejstrik-firem.kurzy.cz/07077599/mm-fix-unit-sro/",
+        "https://rejstrik-firem.kurzy.cz/28876431/web-retail-sro/",
+        "https://www.orsr.sk/search_subjekt.asp?lan=en"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30195292": {
+      "lead_id": "res-30195292",
+      "name": "Vira Kvasnevska",
+      "checked_at": "2026-11-07",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Vira Kvasnevska\" IČO 30195292 web",
+          "\"Vira Kvasnevska\" Praha Construction & property kontakt",
+          "\"Vira Kvasnevska\" \"Na žertvách 2542\" web",
+          "\"Vira Kvasnevska\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30195292",
+        "legal_name": "Vira Kvasnevska",
+        "registered_at": "2026-10-26",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195292",
+        "decision_maker": {
+          "name": "Vira Kvasnevska",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195292",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195292",
+          "date": "2026-10-26",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Vira Kvasnevska — research dossier",
+        "facts": [
+          "The business is listed at Na žertvách 2542, Praha, 18000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30195292 dated 2026-10-26."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195292",
+            "date": "2026-10-26",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30195292"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Vira Kvasnevska",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195292",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30195454": {
+      "lead_id": "res-30195454",
+      "name": "Kyrylo Cherednyk",
+      "checked_at": "2026-11-07",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Kyrylo Cherednyk\" IČO 30195454 web",
+          "\"Kyrylo Cherednyk\" Praha Construction & property kontakt",
+          "\"Kyrylo Cherednyk\" \"Francouzská 80\" web",
+          "\"Kyrylo Cherednyk\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-kyrylo-cherednyk-30195454",
+            "title": "Kyrylo Cherednyk Praha IČO 30195454 kontakty 06.11.2026 ...",
+            "snippet": "Podrobnosti o firmě Kyrylo Cherednyk Praha IČO 30195454 kontakty 06.11.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických…"
+          },
+          {
+            "url": "https://www.linkedin.com/pub/dir/Kyrylo/Cherednyk",
+            "title": "Kyrylo Cherednyk - Дніпровська митниця | LinkedIn",
+            "snippet": "View Kyrylo Cherednyk’s profile on LinkedIn, a professional community of 1 billion members."
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/to-rent-apartment-1-1-praha-8-4428978",
+            "title": "To rent apartment 1+1 - Praha 8 - REALCITY.cz",
+            "snippet": "4 days ago · To rent apartment 1+1 40 m² - Praha 8 Last update03.11.2026 Disposition1+1 Contract ID11838 Build-up area202 m² Flooring40 m² Tenureprivate Construction typebrick Floor3rd floor Facilitiesunfurnished Energy classG (>256 kWh/m²/year) more information"
+          },
+          {
+            "url": "https://ceskadata.cz/24218081",
+            "title": "BYTOMA s.r.o., Praha – majitelé a vedení, IČO 24218081",
+            "snippet": "BYTOMA s.r.o. (IČO 24218081): společnost s ručením omezeným v Praze, vznik 2012. Pronájem a správa vlastních nebo pronajatých nemovitostí. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://www.sreality.cz/en/project-detail/rohan-city-ii-etapa-specto-karlin/39989",
+            "title": "ROHAN CITY, II. ETAPA - SPECTO KARLÍN • Sreality.cz",
+            "snippet": "0 properties in the current offer of properties in the development project ROHAN CITY, II. ETAPA - SPECTO KARLÍN The largest offer of real estate in the Czech Republic (110,832 estates) with search on the map and filtering with dozens of parameters"
+          },
+          {
+            "url": "https://cz.linkedin.com/in/gorbunov",
+            "title": "Kirill Gorbunov – 10+ years in Project Management, Digital ...",
+            "snippet": "10+ years in Project Management, Digital Transformation, Customer Relations and Business Process Optimization. · Seasoned business professional with 10+ years in Strategic Development, Digital Transformation, Customer Relations and Business Process Optimization. Strong strategic thinker, zealous innovator and experienc"
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Služby v oblasti IT Včera (6. 11. 2026) Praha Služby 200 000 — 1 000 000 Kč Zobrazit všechny poptávky od veřejných subjektů +420 251 510 908 info@epoptavka.cz"
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: vývoz žumpy, Žiželice Služby Likvidace odpadů, kontejnery Stavby (části) Kanalizace, odpady okres Louny 6. 11. 2026 (včera)"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.realcity.cz/en/property/to-rent-apartment-1-1-praha-8-4428978",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://ceskadata.cz/24218081",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.sreality.cz/en/project-detail/rohan-city-ii-etapa-specto-karlin/39989",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30195454",
+        "legal_name": "Kyrylo Cherednyk",
+        "registered_at": "2026-10-26",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195454",
+        "decision_maker": {
+          "name": "Kyrylo Cherednyk",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195454",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195454",
+          "date": "2026-10-26",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Kyrylo Cherednyk — research dossier",
+        "facts": [
+          "The business is listed at Francouzská 80, Praha, 12000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30195454 dated 2026-10-26."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195454",
+            "date": "2026-10-26",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30195454"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Kyrylo Cherednyk",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195454",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-kyrylo-cherednyk-30195454",
+        "https://www.linkedin.com/pub/dir/Kyrylo/Cherednyk",
+        "https://www.realcity.cz/en/property/to-rent-apartment-1-1-praha-8-4428978",
+        "https://ceskadata.cz/24218081",
+        "https://www.sreality.cz/en/project-detail/rohan-city-ii-etapa-specto-karlin/39989",
+        "https://cz.linkedin.com/in/gorbunov",
+        "https://www.skanska.com/cz/cs"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30195861": {
+      "lead_id": "res-30195861",
+      "name": "Vasyl Hanhur",
+      "checked_at": "2026-11-07",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Vasyl Hanhur\" IČO 30195861 web",
+          "\"Vasyl Hanhur\" Praha Construction & property kontakt",
+          "\"Vasyl Hanhur\" \"Žukovského 852\" web",
+          "\"Vasyl Hanhur\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/osoba/756595/",
+            "title": "Vasyl Hanhur Ukrajina - Obchodní rejstřík | Kurzy.cz",
+            "snippet": "May 26, 2011 · Tato stránka obsahuje informace o osobě Vasyl Hanhur Ukrajina, které jsou uvedeny ve veřejných rejstřících a jsou tedy ze zákona veřejné *. Osoba Vasyl Hanhur aktuálně působí a působila v 1 společnosti."
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/vasyl-hanhur-19781105/",
+            "title": "Vasyl Hanhur - IČO 19781105 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Podrobnosti o firmě Vasyl Hanhur - IČO 19781105 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://rejstrik.penize.cz/vasyl-hanhur",
+            "title": "Vasyl Hanhur - Obchodní rejstřík | Peníze.cz",
+            "snippet": "Aug 30, 2024 · Vasyl Hanhur výpis firem z Obchodního rejstříku, IČO firmy, adresa sídla firmy, pozice ve firmě, související firmy, vztahy ve firmách."
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/26750431-vasyl-hanhur",
+            "title": "Vasyl Hanhur, IČO: 26750431 - ARES - Finmag.cz",
+            "snippet": "Obchodní firma Vasyl Hanhur se sídlem Praha - Zbraslav, Závist 1546, 15600 a identifikačním číslem (IČO) 26750431."
+          },
+          {
+            "url": "https://www.finreg.sk/subjekt/3120938040",
+            "title": "Vasyl Hanhur, Svätoplukovo 196, Svätoplukovo - finančný ...",
+            "snippet": "Finančné informácie o Vasyl Hanhur - (zisk,tržby, dlhy, daňové priznania a DPH) | FinReg.sk - finančný register"
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/vasyl-hanhur-21995427/",
+            "title": "Vasyl Hanhur - IČO 21995427 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Podrobnosti o firmě Vasyl Hanhur - IČO 21995427 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://www.facebook.com/61561371515924/",
+            "title": "Vasyl Hanhur - Facebook",
+            "snippet": "Vasyl Hanhur is on Facebook. Join Facebook to connect with Vasyl Hanhur and others you may know. Facebook gives people the power to share and makes the..."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-vasyl-hanhur-24557633/kontakty",
+            "title": "Vasyl Hanhur Praha 4 IČO 24557633 kontakty 17.05.2026 ...",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Vasyl Hanhur, která sídlí v obci Praha 4 a bylo jí přiděleno IČO 24557633. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-vasyl-hanhur-24413569",
+            "title": "Vasyl Hanhur Praha IČO: 24413569 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Vasyl Hanhur, která sídlí v obci Praha a bylo jí přiděleno IČO 24413569. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/ares/24533785-vasyl-hanhur",
+            "title": "Vasyl Hanhur, Praha, IČO: 24533785 - ARES | Peníze.cz",
+            "snippet": "Registr ekonomických subjektů - Vasyl Hanhur, IČO: 24533785, sídlo firmy, předmět podnikání firmy Vasyl Hanhur."
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/vasyl-hanhur-19435754/",
+            "title": "Vasyl Hanhur - IČO 19435754 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Podrobnosti o firmě Vasyl Hanhur - IČO 19435754 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://firmastat.cz/firma/07714777",
+            "title": "Vasyl Hanhur (IČO 07714777) — Firmastat",
+            "snippet": "Vasyl Hanhur, IČO 07714777, Fyzická osoba podnikající dle živnostenského zákona, sídlo Hartigova 945/75, 130 00 Praha. Aktivní subjekt — základní údaje, statut…"
+          },
+          {
+            "url": "https://www.yelp.com/biz/vasyl-hanhur-praha",
+            "title": "VASYL HANHUR - Strouhalova 295/6, Praha, Czech Republic ...",
+            "snippet": "Vasyl Hanhur in Praha, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Praha and beyond."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.finreg.sk/subjekt/3120938040",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website"
+            ]
+          },
+          {
+            "url": "https://firmastat.cz/firma/07714777",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30195861",
+        "legal_name": "Vasyl Hanhur",
+        "registered_at": "2026-10-26",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195861",
+        "decision_maker": {
+          "name": "Vasyl Hanhur",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195861",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195861",
+          "date": "2026-10-26",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Vasyl Hanhur — research dossier",
+        "facts": [
+          "The business is listed at Žukovského 852, Praha, 16100.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30195861 dated 2026-10-26."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195861",
+            "date": "2026-10-26",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30195861"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Vasyl Hanhur",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30195861",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/osoba/756595/",
+        "https://www.podnikatel.cz/rejstrik/vasyl-hanhur-19781105/",
+        "https://rejstrik.penize.cz/vasyl-hanhur",
+        "https://www.finmag.cz/obchodni-rejstrik/ares/26750431-vasyl-hanhur",
+        "https://www.finreg.sk/subjekt/3120938040",
+        "https://www.podnikatel.cz/rejstrik/vasyl-hanhur-21995427/",
+        "https://www.facebook.com/61561371515924/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30196256": {
+      "lead_id": "res-30196256",
+      "name": "NC Prime s.r.o.",
+      "checked_at": "2026-11-07",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"NC Prime s.r.o.\" IČO 30196256 web",
+          "\"NC Prime s.r.o.\" Praha Construction & property kontakt",
+          "\"NC Prime s.r.o.\" \"Chudenická 1059\" web",
+          "\"NC Prime s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30196256/nc-prime-sro/",
+            "title": "NC Prime s.r.o. , IČO 30196256 - data ze statistického úřadu",
+            "snippet": "NC Prime s.r.o., IČO 30196256 data ze statistického úřadu české republiky. Databáze IČO. Předměty činnosti ze statistického úřadu."
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/to-rent-apartment-1-1-praha-8-4428978",
+            "title": "To rent apartment 1+1 - Praha 8 - REALCITY.cz",
+            "snippet": "4 days ago · To rent apartment 1+1 40 m² - Praha 8 Last update03.11.2026 Disposition1+1 Contract ID11838 Build-up area202 m² Flooring40 m² Tenureprivate Construction typebrick Floor3rd floor Facilitiesunfurnished Energy classG (>256 kWh/m²/year) more information"
+          },
+          {
+            "url": "https://cz.jooble.org/práce-property-management/Praha",
+            "title": "Práce: Property management - Praha - 2026 ... - Jooble",
+            "snippet": "Více než 1 472 pracovních nabídek - Property management v Praze • Konkurenční plat • Plný nebo částečný úvazek a brigády • Najděte si novou práci na Jooble!"
+          },
+          {
+            "url": "https://ceskadata.cz/24218081",
+            "title": "BYTOMA s.r.o., Praha – majitelé a vedení, IČO 24218081",
+            "snippet": "BYTOMA s.r.o. (IČO 24218081): společnost s ručením omezeným v Praze, vznik 2012. Pronájem a správa vlastních nebo pronajatých nemovitostí. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/dopravní-stavby-kolín-as",
+            "title": "DOPRAVNÍ STAVBY KOLÍN, as - nám. Přátelství 1518, 102 00… - Cybo",
+            "snippet": "DOPRAVNÍ STAVBY KOLÍN, as Prague postal code 102 00. See 2 social pages including Facebook and Google, Phone and more for this business. Review on Cybo."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.realcity.cz/en/property/to-rent-apartment-1-1-praha-8-4428978",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://cz.jooble.org/práce-property-management/Praha",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://ceskadata.cz/24218081",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/dopravní-stavby-kolín-as",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30196256",
+        "legal_name": "NC Prime s.r.o.",
+        "registered_at": "2026-10-26",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30196256",
+        "decision_maker": {
+          "name": "VERONIKA CRMANOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30196256",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "VERONIKA CRMANOVÁ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30196256",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30196256",
+          "date": "2026-10-26",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "NC Prime s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Chudenická 1059, Praha, 10200.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30196256 dated 2026-10-26."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30196256",
+            "date": "2026-10-26",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30196256"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "VERONIKA CRMANOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30196256",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30196256/nc-prime-sro/",
+        "https://www.realcity.cz/en/property/to-rent-apartment-1-1-praha-8-4428978",
+        "https://cz.jooble.org/práce-property-management/Praha",
+        "https://ceskadata.cz/24218081",
+        "https://vces.cz/",
+        "https://www.cybo.com/CZ-biz/dopravní-stavby-kolín-as",
+        "https://www.skanska.com/cz/cs"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30197449": {
+      "lead_id": "res-30197449",
+      "name": "WFP Future s.r.o.",
+      "checked_at": "2026-11-07",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"WFP Future s.r.o.\" IČO 30197449 web",
+          "\"WFP Future s.r.o.\" Praha Construction & property kontakt",
+          "\"WFP Future s.r.o.\" \"Příčná 1892\" web",
+          "\"WFP Future s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30197449/wfp-future-sro/",
+            "title": "WFP Future s.r.o. , IČO 30197449 - data ze statistického ...",
+            "snippet": "WFP Future s.r.o., IČO 30197449 data ze statistického úřadu české republiky. Databáze IČO. Předměty činnosti ze statistického úřadu."
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/to-rent-apartment-1-1-praha-8-4428978",
+            "title": "To rent apartment 1+1 - Praha 8 - REALCITY.cz",
+            "snippet": "4 days ago · To rent apartment 1+1 40 m² - Praha 8 Last update03.11.2026 Disposition1+1 Contract ID11838 Build-up area202 m² Flooring40 m² Tenureprivate Construction typebrick Floor3rd floor Facilitiesunfurnished Energy classG (>256 kWh/m²/year) more information"
+          },
+          {
+            "url": "https://www.databaze-ico.cz/subjekt/ferrum-bau-sro-v-likvidaci-praha-29375789",
+            "title": "Ferrum Bau s.r.o. v likvidaci (Praha) – IČO 29375789 ...",
+            "snippet": "Apr 2, 2025 · Ferrum Bau s.r.o. v likvidaci se sídlem v Praze je v likvidaci, vznikla v roce 2012. 1 jednatel, 1 společník. V reportu i mapa vztahů."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.sreality.cz/en/project-detail/rohan-city-ii-etapa-specto-karlin/39989",
+            "title": "ROHAN CITY, II. ETAPA - SPECTO KARLÍN • Sreality.cz",
+            "snippet": "0 properties in the current offer of properties in the development project ROHAN CITY, II. ETAPA - SPECTO KARLÍN The largest offer of real estate in the Czech Republic (110,832 estates) with search on the map and filtering with dozens of parameters"
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://www.wood-re.com/",
+            "title": "WOOD Real Estate | Home",
+            "snippet": "We live for real estate. We are leaders on the Central European real estate market."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.realcity.cz/en/property/to-rent-apartment-1-1-praha-8-4428978",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.databaze-ico.cz/subjekt/ferrum-bau-sro-v-likvidaci-praha-29375789",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.sreality.cz/en/project-detail/rohan-city-ii-etapa-specto-karlin/39989",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.wood-re.com/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30197449",
+        "legal_name": "WFP Future s.r.o.",
+        "registered_at": "2026-10-26",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30197449",
+        "decision_maker": {
+          "name": "MYKOLA URSAKI",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30197449",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "MYKOLA URSAKI",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30197449",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30197449",
+          "date": "2026-10-26",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "WFP Future s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Příčná 1892, Praha, 11000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30197449 dated 2026-10-26."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30197449",
+            "date": "2026-10-26",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30197449"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "MYKOLA URSAKI",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30197449",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30197449/wfp-future-sro/",
+        "https://www.realcity.cz/en/property/to-rent-apartment-1-1-praha-8-4428978",
+        "https://www.databaze-ico.cz/subjekt/ferrum-bau-sro-v-likvidaci-praha-29375789",
+        "https://vces.cz/",
+        "https://www.sreality.cz/en/project-detail/rohan-city-ii-etapa-specto-karlin/39989",
+        "https://www.skanska.com/cz/cs",
+        "https://www.wood-re.com/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30197805": {
+      "lead_id": "res-30197805",
+      "name": "Bohemia Operations s.r.o.",
+      "checked_at": "2026-11-07",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Bohemia Operations s.r.o.\" IČO 30197805 web",
+          "\"Bohemia Operations s.r.o.\" Praha Construction & property kontakt",
+          "\"Bohemia Operations s.r.o.\" \"Kubelíkova 1258\" web",
+          "\"Bohemia Operations s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30197805/bohemia-operations-sro/",
+            "title": "Bohemia Operations s.r.o. , IČO 30197805 - data ze ...",
+            "snippet": "Oct 31, 2026 · Data ze statistického úřadu ČR Název: Bohemia Operations s.r.o. IČO: 30197805 Právní forma: Společnost s ručením omezeným Adresa: Kubelíkova 1258/43, Žižkov, 13000 Praha 3 Datum vzniku: 26. říjen 2026 Počet zaměstnanců: Neuvedeno Seznam firem, subjektů podobného jména"
+          },
+          {
+            "url": "https://cz.jooble.org/práce-property-management/Praha",
+            "title": "Práce: Property management - Praha - 2026 ... - Jooble",
+            "snippet": "Více než 1 472 pracovních nabídek - Property management v Praze • Konkurenční plat • Plný nebo částečný úvazek a brigády • Najděte si novou práci na Jooble!"
+          },
+          {
+            "url": "https://ceskadata.cz/24218081",
+            "title": "BYTOMA s.r.o., Praha – majitelé a vedení, IČO 24218081",
+            "snippet": "BYTOMA s.r.o. (IČO 24218081): společnost s ručením omezeným v Praze, vznik 2012. Pronájem a správa vlastních nebo pronajatých nemovitostí. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://www.databaze-ico.cz/subjekt/ferrum-bau-sro-v-likvidaci-praha-29375789",
+            "title": "Ferrum Bau s.r.o. v likvidaci (Praha) – IČO 29375789 ...",
+            "snippet": "Apr 2, 2025 · Ferrum Bau s.r.o. v likvidaci se sídlem v Praze je v likvidaci, vznikla v roce 2012. 1 jednatel, 1 společník. V reportu i mapa vztahů."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.sreality.cz/en/project-detail/rohan-city-ii-etapa-specto-karlin/39989",
+            "title": "ROHAN CITY, II. ETAPA - SPECTO KARLÍN • Sreality.cz",
+            "snippet": "0 properties in the current offer of properties in the development project ROHAN CITY, II. ETAPA - SPECTO KARLÍN The largest offer of real estate in the Czech Republic (110,832 estates) with search on the map and filtering with dozens of parameters"
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Služby v oblasti IT Včera (6. 11. 2026) Praha Služby 200 000 — 1 000 000 Kč Zobrazit všechny poptávky od veřejných subjektů +420 251 510 908 info@epoptavka.cz"
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://bba.cz/",
+            "title": "Eventová agentura Praha – BBA Group",
+            "snippet": "Jsme eventová a reklamní agentura. Pořádáme firemní akce, teambuilding akce. Event management. Máme vlastní grafické studio."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: oprava spotřebiče, Praha Zličín Elektro Elektrické spotřebiče Servis Bílá technika okres Praha 6. 11. 2026 (včera)"
+          },
+          {
+            "url": "https://www.mha.cz/",
+            "title": "MHA - REALIZUJEME MARKETING,",
+            "snippet": "REALIZUJEME MARKETING, KTERÝ JE VIDĚT Od nápadu až po dokončený projekt. Vše z jednoho místa. naše služby poptávka"
+          },
+          {
+            "url": "https://stehovanibohemia.cz/",
+            "title": "Domů - Česká stěhovací firma, která má osobní přístup ke ...",
+            "snippet": "Profesionální stěhovací a vyklízecí služby s osobním přístupem. Naše firma nabízí komplexní služby v oboru stěhování a vyklízení po celé čr a eu."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://cz.jooble.org/práce-property-management/Praha",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://ceskadata.cz/24218081",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.databaze-ico.cz/subjekt/ferrum-bau-sro-v-likvidaci-praha-29375789",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.sreality.cz/en/project-detail/rohan-city-ii-etapa-specto-karlin/39989",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://bba.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30197805",
+        "legal_name": "Bohemia Operations s.r.o.",
+        "registered_at": "2026-10-26",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30197805",
+        "decision_maker": {
+          "name": "ION ŞIMAN",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30197805",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "ION ŞIMAN",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30197805",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30197805",
+          "date": "2026-10-26",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Bohemia Operations s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Kubelíkova 1258, Praha, 13000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30197805 dated 2026-10-26."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30197805",
+            "date": "2026-10-26",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30197805"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "ION ŞIMAN",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30197805",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30197805/bohemia-operations-sro/",
+        "https://cz.jooble.org/práce-property-management/Praha",
+        "https://ceskadata.cz/24218081",
+        "https://www.databaze-ico.cz/subjekt/ferrum-bau-sro-v-likvidaci-praha-29375789",
+        "https://vces.cz/",
+        "https://www.sreality.cz/en/project-detail/rohan-city-ii-etapa-specto-karlin/39989",
+        "https://www.skanska.com/cz/cs"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
