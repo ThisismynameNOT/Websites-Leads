@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "review_date": "2026-11-07",
+  "scope": "On-demand independent public-facing Czech business and new-registration lead spin, Prague prioritised. Not an approved outreach list.",
+  "methodology": "Business registry + first party/domain discovery + commercial service directories + actual customer reviews checked. No scraped-directory absence is proof no business-owned website exists; unknown means hold. Do not claim buyer budget, owner interest, or company independence from name alone.",
+  "summary": {
+    "new_registrations_checked": 4,
+    "independently_operating_small_businesses_worth_further_verification": 2,
+    "approved_outreach": 0,
+    "verified_no_owned_website": 0,
+    "excluded_known_group_owned": 2
+  },
+  "priority_research": [
+    {
+      "name": "Karel Habr – Zakázkové truhlářství, hodinový manžel",
+      "ico": "08519196",
+      "location": "Praha 8 – Troja (public sales listing); official trade business seat Mikulášovice; verify actual current service area",
+      "legal_form": "OSVČ individual",
+      "registered_since": "2019-09-17",
+      "outside_customer_evidence": "Firmy.cz customer ratings and a 2026-04-15 first-hand service review; another rating 2026-08-18",
+      "public_contact": {
+        "phone": "+420 602 179 256",
+        "email": "khabr@seznam.cz"
+      },
+      "market_presence": "Public sales listing linked to Facebook /truhlarstvihabr",
+      "own_website": "NOT CONFIRMED; no attributable dedicated site found during scoped search; repeat exact-IČO search and confirm with operator",
+      "status": "RESEARCH ONLY – no outreach approval until website and current service-area confirmation",
+      "fit": "Static one-page Czech service menu + before/after owner-provided photos + call CTA",
+      "sources": [
+        "https://www.firmy.cz/detail/13657748-zakazkove-truhlarstvi-hodinovy-manzel-karel-habr-praha-troja.html",
+        "https://www.zivefirmy.cz/zakazkove-truhlarstvi-hodinovy-manzel-_f1819279",
+        "https://www.finmag.cz/obchodni-rejstrik/zivnostensky-rejstrik/08519196-karel-habr"
+      ]
+    },
+    {
+      "name": "BodyLab Prague – Tereza Malíková",
+      "ico": "21020949",
+      "location": "Praha 3 – Žižkov, Domažlická 1256/1, registered ATEVI BEAUTY SALON operating location",
+      "legal_form": "OSVČ individual",
+      "registered_since": "2023-12-13; massage trade authorised 2025-03-12",
+      "outside_customer_evidence": "5 Firmy.cz customer reviews including February 2026 first-hand massage experience; active registered massage activity and operating location",
+      "public_contact": {
+        "phone": "+420 739 506 984",
+        "email": "terezamalikkova@seznam.cz"
+      },
+      "market_presence": "Instagram @bodylab.prague, Firmy.cz + Živéfirmy",
+      "own_website": "NOT CONFIRMED; no attributable dedicated site found during scoped search; verify before outreach",
+      "status": "RESEARCH ONLY – no outreach approval until website and independent branding/service operator confirmed",
+      "fit": "Static landing page showing treatments, owner-approved gallery, contact or existing booking CTA",
+      "sources": [
+        "https://www.firmy.cz/detail/13957527-bodylab-tereza-malikova-praha-zizkov.html",
+        "https://rejstrik.penize.cz/rzp/21020949-tereza-malikova",
+        "https://www.zivefirmy.cz/bodylab-prague-%7C-lymfomodeling-%7C-maderoterapie-%7C-ems-zero-%7C-lpg-endermologie_f1922718"
+      ]
+    }
+  ],
+  "qa_and_exclusions": [
+    {
+      "name": "Úklid od holek s.r.o.",
+      "ico": "30198887",
+      "registered": "2026-10-27",
+      "status": "HOLD",
+      "reason": "100% owned by named individual; registered cleaning-related activities but no attributable independent client reviews/projects or first-party public sales contact; 100% legal owner alone is inadequate",
+      "sources": [
+        "https://ov.ihned.cz/zapis/25446706",
+        "https://www.podnikatel.cz/rejstrik/uklid-od-holek-s-r-o-30198887/"
+      ]
+    },
+    {
+      "name": "Jazykoví machři s.r.o.",
+      "ico": "30226821",
+      "registered": "2026-11-04",
+      "status": "HOLD",
+      "reason": "Two individual 50% shareholders and training license, but no independently verified customer-serving operations or public channel, not enough to list as a public facing company",
+      "sources": [
+        "https://ov.gov.cz/zapis/25468526"
+      ]
+    },
+    {
+      "name": "PRAGUE CREW s.r.o.",
+      "ico": "30223261",
+      "registered": "2026-11-04",
+      "status": "EXCLUDED – corporate-owned",
+      "reason": "Simply Office s.r.o. shown as 100% shareholder, no first party public contact",
+      "sources": [
+        "https://www.bizly.cz/30223261/prague-crew-sro"
+      ]
+    },
+    {
+      "name": "ELEMENTFITNESS s.r.o.",
+      "ico": "30217750",
+      "registered": "2026-11-04",
+      "status": "EXCLUDED – corporate-owned",
+      "reason": "Simply Office s.r.o. shown as 100% shareholder",
+      "sources": [
+        "https://www.bizly.cz/30217750/elementfitness-sro"
+      ]
+    },
+    {
+      "name": "Opravíme Raz Dva",
+      "claimed_ico": "25479784",
+      "status": "EXCLUDED – material company-identity defect",
+      "reason": "Firmy.cz listing claims IČO 25479784, but registry identifies this number as 3D PLASTIC s.r.o., terminated 2025-10-14. Not a safe outreach lead without correct contracting identity.",
+      "sources": [
+        "https://www.firmy.cz/detail/13290052-opravime-raz-dva-praha-strasnice.html",
+        "https://www.finmag.cz/obchodni-rejstrik/ares/25479784-3d-plastic-s-r-o"
+      ]
+    },
+    {
+      "name": "MiraAteliér",
+      "ico": "17785626",
+      "status": "EXCLUDED – owns functioning website",
+      "reason": "Initial directory points to Facebook but first-party operating e-commerce/landing site exists at miraatelier.cz; legal terms match exact IČO",
+      "sources": [
+        "https://www.miraatelier.cz/",
+        "https://www.miraatelier.cz/obchodni-podminky/"
+      ]
+    }
+  ],
+  "final_decision": "Zero fully outreach-qualified new no-site businesses. Two credible existing independently registered operators to manually verify for one-page website opportunity. Newly registered Nov 2026 entities reviewed did not pass real outside-customer branding and ownership checks."
+}
