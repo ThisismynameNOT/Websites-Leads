@@ -1,0 +1,243 @@
+{
+  "date": "2026-10-24",
+  "market": "Czech Republic — Prague first; 0–24 month new registrations, emphasis 0–6 months",
+  "official_source": {
+    "publisher": "ČSÚ",
+    "dataset": "RES open data",
+    "snapshot_as_of": "2026-10-15",
+    "published": "2026-10-16",
+    "catalogue": "https://csu.gov.cz/produkty/registr-ekonomickych-subjektu-otevrena-data",
+    "publication_evidence": "https://csu.gov.cz/ulk/kraj-ustecky",
+    "schema": "https://opendata.csu.gov.cz/soubory/od/od_org03/res_data-metadata.json",
+    "csv": "https://opendata.csu.gov.cz/soubory/od/od_org03/res_data.csv",
+    "limitation": "Full CSV not ingested: web fetch returns unsupported text/csv, container cannot resolve external hosts. Registrations after 15 Oct discovered from recent registry-derived listings and cross-checked where available. Not exhaustive."
+  },
+  "discovery_sources": [
+    "https://www.chytryrejstrik.cz/prehled/nove-zalozene-firmy",
+    "https://fakturujzdarma.cz/firmy/nove",
+    "https://ov.gov.cz/vysledky"
+  ],
+  "qualified_first_website": [],
+  "qualified_redesign": [],
+  "outreach_ready": 0,
+  "screened_new_registrations": [
+    {
+      "age_bucket": "0–6 months",
+      "candidate_tier": "FIRST_WEBSITE_SCREEN_ONLY",
+      "status": "HOLD_QA_NOT_OUTREACH",
+      "external_customer_evidence": "NOT VERIFIED",
+      "brand_independently_marketed": "NOT VERIFIED",
+      "company_specific_contact": "NOT VERIFIED",
+      "site_status": "UNKNOWN — not verified absent",
+      "site_alias_audit": "INCOMPLETE",
+      "capacity_and_budget": "UNKNOWN",
+      "buyer_interest": "UNKNOWN",
+      "independent_operator": "NOT VERIFIED",
+      "not_spv_or_captive": "NOT VERIFIED",
+      "qualified": false,
+      "name": "ZTI a UT Systems s.r.o.",
+      "ico": "30172381",
+      "registration_date": "2026-10-20",
+      "city": "Praha 9",
+      "registered_activities": "Broad free trade; company name suggests sanitary/heating installation, but exact commercial service offer is not independently marketed or proven.",
+      "registered_shareholders": [
+        {
+          "name": "László Koroly",
+          "share": "100%",
+          "source": "https://www.chytryrejstrik.cz/ico-30172381/zti-a-ut-systems-s-r-o"
+        }
+      ],
+      "associated_entities": [
+        {
+          "name": "PureClean 2026 s.r.o.",
+          "ico": "30172411",
+          "relation": "Same sole shareholder/director and registered address; two distinct legal entities. Neither is shown to own the other; do not label parent/subsidiary."
+        }
+      ],
+      "sources": [
+        "https://www.chytryrejstrik.cz/ico-30172381/zti-a-ut-systems-s-r-o",
+        "https://ov.gov.cz/vysledky",
+        "https://www.chytryrejstrik.cz/ico-30172411/pureclean-2026-s-r-o"
+      ],
+      "blockers": [
+        "No independently attributable outside clients or contracts",
+        "No company-specific public phone/email/enquiry channel",
+        "Brand operations, associated-brand role and beneficial control not proven",
+        "No comprehensive exact-IČO first-party site/alias verification"
+      ]
+    },
+    {
+      "age_bucket": "0–6 months",
+      "candidate_tier": "FIRST_WEBSITE_SCREEN_ONLY",
+      "status": "HOLD_QA_NOT_OUTREACH",
+      "external_customer_evidence": "NOT VERIFIED",
+      "brand_independently_marketed": "NOT VERIFIED",
+      "company_specific_contact": "NOT VERIFIED",
+      "site_status": "UNKNOWN — not verified absent",
+      "site_alias_audit": "INCOMPLETE",
+      "capacity_and_budget": "UNKNOWN",
+      "buyer_interest": "UNKNOWN",
+      "independent_operator": "NOT VERIFIED",
+      "not_spv_or_captive": "NOT VERIFIED",
+      "qualified": false,
+      "name": "PureClean 2026 s.r.o.",
+      "ico": "30172411",
+      "registration_date": "2026-10-20",
+      "city": "Praha 9",
+      "registered_activities": "Exact marketed cleaning offer unverified; name alone is not proof of cleaning operations.",
+      "registered_shareholders": [
+        {
+          "name": "László Koroly",
+          "share": "100%",
+          "source": "https://www.chytryrejstrik.cz/ico-30172411/pureclean-2026-s-r-o"
+        }
+      ],
+      "associated_entities": [
+        {
+          "name": "ZTI a UT Systems s.r.o.",
+          "ico": "30172381",
+          "relation": "Same sole shareholder/director and registered address; association is NOT corporate-parent evidence."
+        }
+      ],
+      "sources": [
+        "https://www.chytryrejstrik.cz/ico-30172411/pureclean-2026-s-r-o",
+        "https://www.chytryrejstrik.cz/ico-30172381/zti-a-ut-systems-s-r-o"
+      ],
+      "blockers": [
+        "No independently verified customer jobs or commercial cleaning service offering",
+        "No dedicated public business contact",
+        "Operational role relative to the same-owner entity unresolved",
+        "First-party site status and control chain not fully audited"
+      ]
+    },
+    {
+      "age_bucket": "0–6 months",
+      "candidate_tier": "FIRST_WEBSITE_SCREEN_ONLY",
+      "status": "HOLD_QA_NOT_OUTREACH",
+      "external_customer_evidence": "NOT VERIFIED",
+      "brand_independently_marketed": "NOT VERIFIED",
+      "company_specific_contact": "NOT VERIFIED",
+      "site_status": "UNKNOWN — not verified absent",
+      "site_alias_audit": "INCOMPLETE",
+      "capacity_and_budget": "UNKNOWN",
+      "buyer_interest": "UNKNOWN",
+      "independent_operator": "NOT VERIFIED",
+      "not_spv_or_captive": "NOT VERIFIED",
+      "qualified": false,
+      "name": "V.I.O. ELEKTRO s.r.o.",
+      "ico": "30175658",
+      "registration_date": "2026-10-21",
+      "city": "Stráž pod Ralskem, Liberecký kraj",
+      "registered_activities": "Electrical equipment installation, repairs, inspections and testing are licensed; active customer service not demonstrated.",
+      "registered_shareholders": [],
+      "shareholder_status": "Not retrieved; do not infer sole owner",
+      "sources": [
+        "https://www.chytryrejstrik.cz/ico-30175658/v-i-o-elektro-s-r-o",
+        "https://www.chytryrejstrik.cz/prehled/nove-zalozene-firmy"
+      ],
+      "blockers": [
+        "Legal shareholder and control check incomplete",
+        "No independent customer/project proof",
+        "No dedicated attributable business phone/email",
+        "No exhaustive site/alias verification"
+      ]
+    },
+    {
+      "age_bucket": "0–6 months",
+      "candidate_tier": "FIRST_WEBSITE_SCREEN_ONLY",
+      "status": "HOLD_QA_NOT_OUTREACH",
+      "external_customer_evidence": "NOT VERIFIED",
+      "brand_independently_marketed": "NOT VERIFIED",
+      "company_specific_contact": "NOT VERIFIED",
+      "site_status": "UNKNOWN — not verified absent",
+      "site_alias_audit": "INCOMPLETE",
+      "capacity_and_budget": "UNKNOWN",
+      "buyer_interest": "UNKNOWN",
+      "independent_operator": "NOT VERIFIED",
+      "not_spv_or_captive": "NOT VERIFIED",
+      "qualified": false,
+      "name": "AGE stav s.r.o.",
+      "ico": "30165041",
+      "registration_date": "2026-10-20",
+      "city": "Brno",
+      "registered_activities": "Registry lists real-estate administration and business-administration services; despite name, roofing/construction customer work is not established.",
+      "registered_shareholders": [
+        {
+          "name": "Petr Gadlina",
+          "share": "50%",
+          "source": "https://rejstr.cz/30165041/age-stav"
+        },
+        {
+          "name": "Jiří Střálka",
+          "share": "50%",
+          "source": "https://rejstr.cz/30165041/age-stav"
+        }
+      ],
+      "sources": [
+        "https://rejstr.cz/30165041/age-stav",
+        "https://www.chytryrejstrik.cz/ico-30165041/age-stav-s-r-o"
+      ],
+      "blockers": [
+        "No attributable outside-client work or marketed offer",
+        "Name 'stav' does not prove construction operations",
+        "No company-specific public contact",
+        "Owned-site/aliases and non-captive operational status unresolved"
+      ]
+    }
+  ],
+  "established_redesign_carryover": [
+    {
+      "name": "JIB s.r.o.",
+      "ico": "28969472",
+      "registration_date": "2009-10-02",
+      "age_bucket": "established",
+      "status": "HOLD_QA_REDESIGN_ONLY",
+      "brand_offering": "Landscaping, public green-space maintenance, earthworks and tree work",
+      "external_customer_proof": "2020-02-05 contract award from Město Pečky names IČO 28969472, value CZK 4,480,442.10; historical contract value is NOT current revenue or web budget.",
+      "external_customer_sources": [
+        "https://cz.openprocurements.com/tender/2019-revitalizace-centralniho-mestskeho-parku-v-peckach-sever/",
+        "https://www.vhodne-uverejneni.cz/index.php?a=download&document=89511&h=contractdocument&m=xenorders"
+      ],
+      "company_specific_contact": {
+        "phone": "+420 603 858 915",
+        "email": "jib@jibsro.cz",
+        "source": "https://jib-s-r-o.webnode.cz/kontakt/"
+      },
+      "first_party_site": "https://jib-s-r-o.webnode.cz/",
+      "historical_alias": "http://www.jibsro.cz/",
+      "historical_alias_evidence": "2020 Pečky award notice cites www.jibsro.cz; currently accessible content not verified, so cannot assume alias inactive or absent.",
+      "observed_redesign_needs": [
+        "Webnode promotional footer on first-party site",
+        "General headline and service content not structured around buyer types",
+        "Project references require independent full UX audit before claims about performance"
+      ],
+      "owner_control": "Previously reported individual shareholders 49/49/2; full beneficial-control verification still incomplete",
+      "blockers": [
+        "Unresolved historical domain jibsro.cz",
+        "Beneficial-control and group/associated-brand checks incomplete",
+        "No verified buyer interest or current web budget",
+        "No instrumented mobile/performance/accessibility test"
+      ],
+      "sources": [
+        "https://jib-s-r-o.webnode.cz/",
+        "https://jib-s-r-o.webnode.cz/kontakt/",
+        "https://cz.openprocurements.com/tender/2019-revitalizace-centralniho-mestskeho-parku-v-peckach-sever/"
+      ]
+    }
+  ],
+  "legacy_cohort": {
+    "window": "2026-10-03 to 2026-10-06",
+    "screened": 24,
+    "verified_standalone_brands": 0,
+    "outreach_ready": 0,
+    "priority_research": 0,
+    "source": "data/october-review.json"
+  },
+  "limitations": [
+    "No individual newly registered company was demonstrated to have both external clients and an attributable independent marketed brand.",
+    "No full beneficial-control investigation possible for all new registrations; individual shareholding does not establish operating independence.",
+    "No exhaustive domain ownership and aliases audit completed; website absence is NOT verified.",
+    "No independently sourced capacity, website buying intent or buyer budget; no scores or price suggestions.",
+    "Live browser/mobile tests and Pages publication not performed."
+  ]
+}

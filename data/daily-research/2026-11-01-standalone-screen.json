@@ -1,0 +1,200 @@
+{
+  "schema_version": 1,
+  "research_date": "2026-11-01",
+  "scope": "Targeted registry-derived discovery; official ČSÚ RES catalogue and 30 Oct publication calendar reviewed. Full CSV not ingested; direct ARES dynamic page inaccessible. NOT exhaustive national or Prague sweep.",
+  "official_sources_checked": [
+    {
+      "url": "https://csu.gov.cz/produkty/registr-ekonomickych-subjektu-otevrena-data",
+      "finding": "ČSÚ RES open-data catalogue; twice monthly snapshots"
+    },
+    {
+      "url": "https://csu.gov.cz/produkty/newsletter-44-kalendarni-tyden-2026",
+      "finding": "30 Oct ČSÚ newsletter schedules 31 Oct RES snapshot release for 2 Nov 2026. 15 Oct snapshot remains latest confirmed released."
+    }
+  ],
+  "discovery_sources": [
+    {
+      "url": "https://rejstr.cz/firmy/nove",
+      "finding": "Registry-derived recently incorporated company listings (not proof of operations)."
+    }
+  ],
+  "summary": {
+    "new_registrations_reviewed": 4,
+    "new_first_website_outreach_ready": 0,
+    "established_redesigns_with_verified_website_defects": 1,
+    "established_redesigns_outreach_approved": 0,
+    "hold_qa_new": 4,
+    "established_redesign_status": "HOLD/QA pending capacity and decision-maker readiness",
+    "historical_october_3_to_6_cohort": "24 records, zero standalone public-facing brands verified, zero outreach-ready; unchanged",
+    "no_prices_or_scores_added": true
+  },
+  "new_registrations": [
+    {
+      "age_bucket": "0–6 months",
+      "outreach_approved": false,
+      "first_website_qualified": false,
+      "capacity_or_budget": "NOT VERIFIED; do not infer from share capital or operations",
+      "first_party_absence_verified": false,
+      "name": "VZSERVICE - ZELENKA s.r.o.",
+      "ico": "30186200",
+      "registration_date": "2026-10-30",
+      "location": "Roudné, South Bohemia",
+      "status": "HOLD/QA — existing related-brand website; not a first-site lead",
+      "ownership": "Registered individual shareholders Vladimír Zelenka 50%, Jitka Zelenková 50%; independent new-entity customer contracts and beneficial control not fully verified.",
+      "marketed_offering": "Registered machinery service/repair and related trades; VZ Service brand publicly sells/repairs construction machinery, but its site identifies a DIFFERENT IČO.",
+      "outside_customers": "Public VZ Service sales and servicing offer historically under sole trader IČO 88015769; NOT proof of outside clients of new s.r.o. IČO 30186200.",
+      "direct_contact": "info@vzservice.cz / +420 722 211 050 belongs to VZ Service sole trader IČO 88015769, not verified transferred to new s.r.o.",
+      "official_site": "https://www.vzservice.cz/",
+      "site_attribution": "First-party site explicitly identifies IČO 88015769, NOT 30186200. Never classify the new entity as no-site merely because new IČO absent from footer.",
+      "spv_captive": "Individual owners in register-derived record; actual independently operating role of new s.r.o. unresolved.",
+      "blockers": [
+        "New-entity external customer work and direct sales contact not established",
+        "Website ownership/transfer from old IČO to new IČO not documented",
+        "Operating capacity, beneficial control and buying interest unverified"
+      ],
+      "source_urls": [
+        "https://rejstr.cz/30186200/vzservice-zelenka",
+        "https://www.vzservice.cz/",
+        "https://www.vzservice.cz/kontakty",
+        "https://www.edb.cz/firma-1053198-vladimir-zelenka-ceske-budejovice/kontakt"
+      ]
+    },
+    {
+      "age_bucket": "0–6 months",
+      "outreach_approved": false,
+      "first_website_qualified": false,
+      "capacity_or_budget": "NOT VERIFIED; do not infer from share capital or operations",
+      "first_party_absence_verified": false,
+      "name": "Cyklo-RD s.r.o.",
+      "ico": "30208076",
+      "registration_date": "2026-10-29",
+      "location": "Pardubice",
+      "status": "HOLD/QA — related existing brand site; do not pitch new entity as no-site",
+      "ownership": "Jakub Ingršt sole registered individual shareholder. Shared name/physical shop with established Dušan Ingršt business does not prove ownership control or asset transfer.",
+      "marketed_offering": "Licensed bicycle production, servicing, retail; independently marketed CYKLORD shop and customers exist under older legal IČO 40091309.",
+      "outside_customers": "Customer reviews and publicly documented retail bicycle sales/servicing attach to old IČO 40091309, not new IČO 30208076.",
+      "direct_contact": "info@cyklord.cz / +420 773 009 200 currently listed by existing site under IČO 40091309; new-entity attribution unverified.",
+      "official_site": "https://www.cyklord.cz/",
+      "site_attribution": "Website footer/contact identifies IČO 40091309 (Dušan Ingršt); new 30208076 does not have verified independent site. Existing brand is NOT a no-site prospect.",
+      "spv_captive": "New s.r.o. non-captive role unverified; old entity is sole trader, not a parent corporation.",
+      "blockers": [
+        "No independently verified new-entity outside customers",
+        "No company-specific sales contact attributed to new s.r.o.",
+        "Existing brand site belongs to different IČO; transfer or affiliation unresolved",
+        "Budget and operating capacity of new entity unknown"
+      ],
+      "source_urls": [
+        "https://rejstr.cz/30208076/cyklo-rd",
+        "https://www.cyklord.cz/kontakt",
+        "https://www.firmy.cz/detail/694203-cyklo-rd-pardubice-popkovice.html"
+      ]
+    },
+    {
+      "age_bucket": "0–6 months",
+      "outreach_approved": false,
+      "first_website_qualified": false,
+      "capacity_or_budget": "NOT VERIFIED; do not infer from share capital or operations",
+      "first_party_absence_verified": false,
+      "name": "ELVION s.r.o.",
+      "ico": "30206146",
+      "registration_date": "2026-10-29",
+      "location": "Bystřice pod Lopeníkem, Zlín Region",
+      "status": "HOLD/QA",
+      "ownership": "Bohdan Petrůj sole registered individual shareholder; ultimate control and commercial independence unverified.",
+      "marketed_offering": "Electrical installation/revision and masonry trades registered; no independently attributable marketed customer offer verified.",
+      "outside_customers": "NOT VERIFIED for exact IČO",
+      "direct_contact": "NOT VERIFIED for exact IČO",
+      "official_site": null,
+      "site_attribution": "UNKNOWN. elvionbrand.com is a US-facing unrelated commerce brand and must not be attributed to this Czech legal entity.",
+      "spv_captive": "Independent non-SPV/non-captive operations not positively verified.",
+      "blockers": [
+        "No independently attributable external clients",
+        "No company-specific public enquiry channel",
+        "No verified independent commercial brand",
+        "No comprehensive first-party alias/domain ownership audit",
+        "No operating-capacity evidence"
+      ],
+      "source_urls": [
+        "https://rejstr.cz/30206146/elvion",
+        "https://elvionbrand.com/pages/contact"
+      ]
+    },
+    {
+      "age_bucket": "0–6 months",
+      "outreach_approved": false,
+      "first_website_qualified": false,
+      "capacity_or_budget": "NOT VERIFIED; do not infer from share capital or operations",
+      "first_party_absence_verified": false,
+      "name": "SALON ASTRID BRIDAL s.r.o.",
+      "ico": "30207240",
+      "registration_date": "2026-10-29",
+      "location": "Roudnice, Hradec Králové Region",
+      "status": "HOLD/QA",
+      "ownership": "Stanislav Vognar sole registered individual shareholder; actual independent operation and ultimate control unverified.",
+      "marketed_offering": "Registered clothing manufacturing/retail/rental; name suggests bridal salon but customer-facing salon activity not verified.",
+      "outside_customers": "NOT VERIFIED for exact IČO",
+      "direct_contact": "NOT VERIFIED for exact IČO",
+      "official_site": null,
+      "site_attribution": "UNKNOWN; no comprehensive exact-IČO, trade-name and alias/domain ownership verification completed.",
+      "spv_captive": "Independent non-SPV/non-captive operations not positively verified.",
+      "blockers": [
+        "No verified salon bookings or outside customers",
+        "No dedicated company-specific booking/enquiry channel",
+        "No established marketed operating brand tied to exact IČO",
+        "No complete first-party domain audit or operating-capacity proof"
+      ],
+      "source_urls": [
+        "https://rejstr.cz/30207240/salon-astrid-bridal"
+      ]
+    }
+  ],
+  "established_redesign_research": [
+    {
+      "name": "CYKLORD (Dušan Ingršt)",
+      "ico": "40091309",
+      "registration_date": "1991-05-17",
+      "age_bucket": "established",
+      "location": "Pardubice - Popkovice",
+      "status": "VERIFIED EXISTING-SITE DEFECT; HOLD/QA FOR OUTREACH until capacity and commercial fit checked",
+      "legal_identity": "Sole trader Dušan Ingršt, IČO 40091309, confirmed on first-party contact page and registry-derived sources.",
+      "independence": "Independently marketed sole-trader retail/service business; no corporate parent structure applicable; no SPV indications. Distinct new Cyklo-RD s.r.o. IČO 30208076 must not be conflated.",
+      "marketed_offering": "Physical bicycle retail, repairs, custom bike builds, e-bike and parts sales.",
+      "outside_customer_proof": "Public 4.8/5 with 10 customer ratings and identifiable customer reviews on Firmy.cz (including 2025 review about obtaining goods); shop has public product sales and third-party Trek dealer listing.",
+      "official_site": "https://www.cyklord.cz/",
+      "direct_contact": {
+        "email": "info@cyklord.cz",
+        "phone": "+420 773 009 200",
+        "source_url": "https://www.cyklord.cz/kontakt"
+      },
+      "verified_website_defects": [
+        "Homepage and contact page render raw PHP 'Undefined array key kosik' and absolute filesystem path; observed on live publicly fetched HTML.",
+        "Product detail pages render PHP warnings for missing product fields and display 0 Kč and broken product text, potentially damaging trust. Do not claim checkout or payment actually failed without a transaction test."
+      ],
+      "capacity_or_budget": "Unknown; shop operations and customer reviews are NOT evidence of website budget or buying intent.",
+      "outreach_approved": false,
+      "first_website_qualified": false,
+      "redesign_opportunity": "Technical repair or rebuild of storefront and product detail pages; scope requires investigation of PHP backend, inventory data, and checkout integration. Not a static brochure job.",
+      "blockers": [
+        "No confirmed website budget, technical ownership, decision-maker availability or interest",
+        "Website production defects need manual browser reproduction before quoting",
+        "New s.r.o. and old sole-trader legal/contracting relationship unresolved"
+      ],
+      "source_urls": [
+        "https://www.cyklord.cz/",
+        "https://www.cyklord.cz/kontakt",
+        "https://www.cyklord.cz/produkty/detail/trek-top-fuel-5-lithium-grey",
+        "https://www.firmy.cz/detail/694203-cyklo-rd-pardubice-popkovice.html",
+        "https://rejstr.cz/30208076/cyklo-rd",
+        "https://www.finmag.cz/obchodni-rejstrik/ares/40091309-dusan-ingrst"
+      ]
+    }
+  ],
+  "safety": {
+    "outreach_sent": false,
+    "production_files_modified": false,
+    "legacy_radar_preserved": true,
+    "historical_september_preserved": true,
+    "existing_october_24_records_unchanged": true,
+    "ci_browser_pages_not_yet_verified": true
+  }
+}

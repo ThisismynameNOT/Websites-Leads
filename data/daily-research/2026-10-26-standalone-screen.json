@@ -1,0 +1,232 @@
+{
+  "date": "2026-10-26",
+  "market": "Czech Republic; Prague-first, 0–24 months focus 0–6",
+  "outcome": {
+    "qualified_first_website": 0,
+    "qualified_redesign": 0,
+    "outreach_ready": 0,
+    "screened_new_cases": 3,
+    "screened_older_recent_case": 1,
+    "established_case_revisited": 1
+  },
+  "official_res": {
+    "catalogue": "https://csu.gov.cz/produkty/registr-ekonomickych-subjektu-otevrena-data",
+    "publication_confirmation": "https://csu.gov.cz/produkty/newsletter-42-kalendarni-tyden-2026",
+    "last_confirmed_snapshot": "2026-10-15",
+    "published": "2026-10-16",
+    "csv": "https://opendata.csu.gov.cz/soubory/od/od_org03/res_data.csv",
+    "csv_ingested": false,
+    "limitation": "Web client rejected text/csv; local container DNS failed. Registration discovery from ARES-derived pages, not a comprehensive official CSV scan."
+  },
+  "research_cases": [
+    {
+      "name": "TimberCore s.r.o.",
+      "ico": "30187907",
+      "registration_date": "2026-10-22",
+      "age_bucket": "0–6 months",
+      "city": "Praha 6",
+      "status": "HOLD_QA_NOT_OUTREACH",
+      "registered_activities": "Roofing/carpentry, joinery, wood products and construction-related trades; registration only, no independently marketed service proven",
+      "ownership": {
+        "registered_shareholder": "Veronika Kováříková",
+        "share": "100%",
+        "other_link": "Holky v zástěrách s.r.o. (same director per ARES-derived listing)",
+        "control_conclusion": "Individual shareholder and unrelated company link; neither proves independent customer operations nor corporate parent control."
+      },
+      "external_customer_proof": "None attributable to exact IČO",
+      "dedicated_sales_contact": "None verified; directory profile not owner-completed",
+      "official_site": "UNKNOWN",
+      "site_aliases": [
+        "timbercore.cz (directory auto-generated estimate; NOT verified ownership)"
+      ],
+      "non_spv": "UNKNOWN, not assumed",
+      "capacity": "UNKNOWN",
+      "blockers": [
+        "No external customers/projects",
+        "No independently marketed brand",
+        "No dedicated enquiry channel",
+        "No exhaustive first-party website attribution",
+        "Associated company operational relationship unresolved"
+      ],
+      "sources": [
+        "https://fakturujzdarma.cz/firma/30187907-timbercore-s-r-o"
+      ]
+    },
+    {
+      "name": "STAV-MAXX s.r.o.",
+      "ico": "30187516",
+      "registration_date": "2026-10-22",
+      "age_bucket": "0–6 months",
+      "city": "Praha 11",
+      "status": "HOLD_QA_NOT_OUTREACH",
+      "registered_activities": "Specialist construction/technical services and property activities; not proof of an operating offer",
+      "ownership": {
+        "registered_shareholder": "Ivan Sasyn",
+        "share": "100%",
+        "other_link": "THE BEST CONSTRUCTION COMPANY s.r.o. v likvidaci (same person listed as director); additional historical director links on source",
+        "control_conclusion": "No verified corporate shareholder; related directorship is QA, not proof of parent or SPV."
+      },
+      "external_customer_proof": "None attributable to exact IČO",
+      "dedicated_sales_contact": "None verified",
+      "official_site": "UNKNOWN",
+      "site_aliases": [
+        "stav-maxx.cz (directory auto-generated estimate; NOT verified ownership)"
+      ],
+      "non_spv": "UNKNOWN; real-estate trade category does not prove SPV",
+      "capacity": "UNKNOWN",
+      "blockers": [
+        "No outside customers/projects",
+        "No independently marketed brand",
+        "No dedicated sales channel",
+        "No verified first-party site status",
+        "Related-company role unresolved"
+      ],
+      "sources": [
+        "https://fakturujzdarma.cz/firma/30187516-stav-maxx-s-r-o"
+      ]
+    },
+    {
+      "name": "Bohemia Security Audit s.r.o.",
+      "ico": "30187869",
+      "registration_date": "2026-10-22",
+      "age_bucket": "0–6 months",
+      "city": "Praha 6",
+      "status": "HOLD_QA_NOT_OUTREACH",
+      "registered_activities": "Company name suggests security audit, but exact customer service and operating activity not verified",
+      "ownership": {
+        "status": "NOT_VERIFIED",
+        "note": "Legal identity checked in ARES-derived profile; shareholder/control verification incomplete"
+      },
+      "external_customer_proof": "None attributable to exact IČO",
+      "dedicated_sales_contact": "None verified; profile says owner has not added contacts",
+      "official_site": "UNKNOWN",
+      "site_aliases": [],
+      "non_spv": "UNKNOWN",
+      "capacity": "UNKNOWN",
+      "blockers": [
+        "Ownership/control not verified",
+        "No actual customer work",
+        "No company-specific enquiry channel",
+        "No marketed offering proven",
+        "No site status/aliases verified"
+      ],
+      "sources": [
+        "https://fakturujzdarma.cz/firma/30187869-bohemia-security-audit-s-r-o"
+      ]
+    },
+    {
+      "name": "Střechy Šmídl s.r.o.",
+      "ico": "24457949",
+      "registration_date": "2026-02-03",
+      "age_bucket": "6–24 months",
+      "city": "Horní Bříza, Plzeň Region",
+      "status": "HOLD_QA_EXISTING_ASSOCIATED_BRAND_SITE",
+      "registered_activities": "Roofing/carpentry/joinery",
+      "ownership": {
+        "registered_shareholder": "Jan Šmídl",
+        "share": "100%",
+        "associated_operator": "Jan Šmídl, sole trader IČO 69935068, same Horní Bříza address, established pre-2026",
+        "control_conclusion": "New company and older sole trader share founder and brand; not a corporate parent finding. Transfer of customer contracts/website rights to new IČO unverified."
+      },
+      "external_customer_proof": "Older sole trader has public trade listing, but new s.r.o. outside customers not verified",
+      "dedicated_sales_contact": "Older sole trader's published phone +420 604 485 564 and info@strechysmidl.cz; NOT attributable as sales channel of new s.r.o.",
+      "official_site": "EXISTING BRAND-ASSOCIATED SITE; ownership by new IČO unverified",
+      "site_aliases": [
+        "strechysmidl.cz (listed for older sole trader IČO 69935068)",
+        "tesarstvismidl.cz (listed for older sole trader IČO 69935068)"
+      ],
+      "non_spv": "UNKNOWN for new IČO",
+      "capacity": "Not proven for new IČO",
+      "blockers": [
+        "Pre-existing website/brand tied to older legal operator: cannot claim first-website need",
+        "No s.r.o.-specific external clients",
+        "Domain and sales channel legal attribution unresolved"
+      ],
+      "sources": [
+        "https://rejstrik.ai/ico/24457949-strechy-smidl-s-r-o",
+        "https://www.zivefirmy.cz/strechy-smidl_f1234904",
+        "https://www.ceskaporadna.cz/profil/jan-smidl",
+        "https://www.mesec.cz/rejstrik-firem/adresni-misto-horni-briza-360-33012-595772"
+      ]
+    },
+    {
+      "name": "BOHUC stav s.r.o.",
+      "ico": "04916514",
+      "registration_date": "2016-03-18",
+      "age_bucket": "established",
+      "city": "Praha 8",
+      "status": "HOLD_QA_NOT_OUTREACH",
+      "registered_activities": "Construction and demolition/site preparation; recruitment also for cleaning positions",
+      "ownership": {
+        "registered_shareholder": "Andriy Bohutskyy",
+        "share": "100%",
+        "control_conclusion": "No corporate shareholder in cited register-derived snapshot, but no independent branded customer channel or beneficial control verification"
+      },
+      "external_customer_proof": "Hlídač státu reports 26 historical register contracts, but public summary does not establish that BOHUC was supplier to external customers; buyer/seller roles must be checked.",
+      "dedicated_sales_contact": "NO. +420 777 767 187 and h.bohutska1@seznam.cz are publicly listed only as recruitment contact, not customer sales channel.",
+      "official_site": "UNKNOWN; no first-party site attributable by exact IČO in limited checks, NOT proof absent",
+      "site_aliases": [
+        "BOHUC stav",
+        "BOHUC",
+        "04916514"
+      ],
+      "non_spv": "Unverified independent customer-facing operations; no SPV claim",
+      "capacity": "2024 turnover band 30–60m CZK and employees 50–99 per commercial aggregator, not website budget/intent",
+      "blockers": [
+        "No verified independently marketed direct-customer offering",
+        "HR-only public contact; sales contact missing",
+        "Contract role as external supplier not independently confirmed",
+        "No comprehensive site/alias audit",
+        "No credible redesign evidence"
+      ],
+      "sources": [
+        "https://www.hlidacstatu.cz/subjekt/04916514",
+        "https://www.chytryrejstrik.cz/ico-04916514/bohuc-stav-s-r-o",
+        "https://prace.kurzy.cz/urad-prace/nabidka-prace/ostatni-uklizeci-pomocnici-ostatni-uklizeci-pomocnici-z-praha-7c03af6aa.html",
+        "https://www.finmag.cz/obchodni-rejstrik/04916514-bohuc-stav-s-r-o"
+      ]
+    }
+  ],
+  "established_redesign_carryover": {
+    "name": "JIB s.r.o.",
+    "ico": "28969472",
+    "registration_date": "2009-10-02",
+    "age_bucket": "established",
+    "status": "HOLD_QA_REDESIGN_ONLY",
+    "outside_customer_proof": "Public tender profile lists named municipalities as customers in 2020–21; existing site independently confirmed",
+    "ownership": "Three individual shareholders 49/49/2; ultimate control not independently verified",
+    "official_site": "https://jib-s-r-o.webnode.cz/",
+    "historical_alias": "http://www.jibsro.cz/ (procurement profile; content inaccessible via web client, not proof of absence)",
+    "direct_sales_channel": "Published company website phone +420 603 858 915; email jib@jibsro.cz on contact page",
+    "website_opportunity": "Webnode branding, weak homepage service hierarchy and portfolio organization; no quantified performance claim",
+    "blockers": [
+      "Current historical alias content not verified",
+      "Beneficial control incomplete",
+      "No buying interest/budget"
+    ],
+    "sources": [
+      "https://jib-s-r-o.webnode.cz/",
+      "https://www.vhodne-uverejneni.cz/profil/jib-s-r-o",
+      "https://www.finmag.cz/obchodni-rejstrik/28969472-jib-s-r-o"
+    ]
+  },
+  "legacy_october_cohort": {
+    "records": 24,
+    "verified_standalone_brands": 0,
+    "outreach_ready": 0,
+    "unchanged": true
+  },
+  "verification": {
+    "official_ares_direct_api": "NOT_AVAILABLE",
+    "beneficial_ownership_public_access": "RESTRICTED",
+    "first_website_verified_absent": 0,
+    "outreach_sent": false,
+    "prices_or_scores_invented": false
+  },
+  "limitations": [
+    "Targeted ARES-derived 22 October registrations, not comprehensive ČSÚ CSV ingestion",
+    "No new company passed all positive independence, outside customer, dedicated sales and website gates",
+    "Pre-existing sole-trader website must not be counted as no-site for newly incorporated related company",
+    "No contact listed for recruitment should be treated as customer enquiry channel"
+  ]
+}

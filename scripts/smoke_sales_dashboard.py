@@ -22,7 +22,7 @@ def main():
                     errors=[]
                     page.on("pageerror",lambda err:errors.append(str(err)))
                     page.goto(f"http://127.0.0.1:{server.server_address[1]}/index.html",wait_until="domcontentloaded")
-                    page.wait_for_function('document.getElementById("data-message").textContent.includes("24 October registrations")')
+                    page.wait_for_function('document.getElementById("data-message").textContent.includes("Historical Oct 3–6 cohort") && document.getElementById("data-message").textContent.includes("24 registrations screened")')
                     assert page.get_by_text("No proven independent public-facing brands.").count()==1
                     assert page.get_by_text("0 outreach approved").count()==1
                     assert page.locator(".priority").count()==0
