@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-13T15:56:24.923578+00:00",
+  "generated_at": "2026-11-14T14:48:01.476955+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -6459,7 +6459,7 @@
     "osm-node-10118560658": {
       "lead_id": "osm-node-10118560658",
       "name": "EUROCONT REALITY s.r.o.",
-      "checked_at": "2026-11-10",
+      "checked_at": "2026-11-14",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -6791,7 +6791,7 @@
     "osm-node-10118560659": {
       "lead_id": "osm-node-10118560659",
       "name": "EGYPT REALITY",
-      "checked_at": "2026-11-10",
+      "checked_at": "2026-11-14",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -7082,7 +7082,7 @@
     "osm-node-10927835114": {
       "lead_id": "osm-node-10927835114",
       "name": "Collcoll",
-      "checked_at": "2026-11-10",
+      "checked_at": "2026-11-14",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -7376,7 +7376,7 @@
     "osm-node-11041819250": {
       "lead_id": "osm-node-11041819250",
       "name": "de.fakto CZ, s.r.o.",
-      "checked_at": "2026-11-10",
+      "checked_at": "2026-11-14",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -14077,7 +14077,7 @@
     "osm-node-4585304756": {
       "lead_id": "osm-node-4585304756",
       "name": "SNEO, a.s.",
-      "checked_at": "2026-11-08",
+      "checked_at": "2026-11-14",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -15955,7 +15955,7 @@
     "osm-node-7837764654": {
       "lead_id": "osm-node-7837764654",
       "name": "Ateliér Emil",
-      "checked_at": "2026-11-08",
+      "checked_at": "2026-11-14",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -16256,7 +16256,7 @@
     "osm-node-9920800818": {
       "lead_id": "osm-node-9920800818",
       "name": "Maxxus Realty",
-      "checked_at": "2026-11-10",
+      "checked_at": "2026-11-14",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -16488,7 +16488,7 @@
     "osm-node-9991267555": {
       "lead_id": "osm-node-9991267555",
       "name": "RAMSS spol. s r.o.",
-      "checked_at": "2026-11-10",
+      "checked_at": "2026-11-14",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -19628,9 +19628,9 @@
     "res-30068321": {
       "lead_id": "res-30068321",
       "name": "NEXCORE s.r.o.",
-      "checked_at": "2026-10-15",
+      "checked_at": "2026-11-14",
       "engine_version": 8,
-      "state": "researched",
+      "state": "audited",
       "discovery": {
         "status": "searched",
         "queries": [
@@ -19639,52 +19639,62 @@
           "\"NEXCORE s.r.o.\" \"Chudenická 1059\" web",
           "\"NEXCORE s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 2,
+        "successful_queries": 3,
         "candidates": [
           {
             "url": "https://rejstrik-firem.kurzy.cz/30068321/nexcore-sro/",
             "title": "NEXCORE s.r.o. , IČO 30068321 - Obchodní rejstřík firem",
-            "snippet": "Kde je sídlo firmy NEXCORE s.r.o.? Sídlo firmy NEXCORE s.r.o. je Chudenická 1059/30, Hostivař, 10200 Praha 10. Další firmy na této adrese. X Kurzy.cz > Obchodní rejstřík > NEXCORE s.r.o."
+            "snippet": "Tato stránka obsahuje aktuální výpis údajů firmy NEXCORE s.r.o. Údaje byly staženy 28. září 2026 z datové služby justice.cz dle IČO 30068321 a údaje ve výpise nebyly dle systému ARES do dnešního dne změněny."
           },
           {
-            "url": "https://www.digireality.cz/inzerat/6ad0a48d5a5c25d95dbe5ee4",
-            "title": "Four-bedroom House Praha",
-            "snippet": "12 hours ago · Welcome to a newly built family home with a swimming pool in the sought-after location of Prague 6 - Nebušice. It is situated in a quiet street within walking distance to the International School of Prague in Nebušice (ISP). This property features a serviced 5+kk layout, 184 m² with a private maintained "
+            "url": "https://www.chytryrejstrik.cz/ico-30068321/nexcore-s-r-o",
+            "title": "NEXCORE s.r.o. - rizika, jednatelé, obchodní rejstřík",
+            "snippet": "NEXCORE s.r.o. Sídlo Praha. IČO: 30068321. Majitelé a statutární orgány. Rejstřík podnikatelů. Rok založení 2026. Kontrola rizik firmy."
           },
           {
-            "url": "https://www.realcity.cz/en/property/for-sale-apartment-2-1-praha-9-trinecka-4424898",
-            "title": "For sale apartment 2+1 - Praha 9, Třinecká - REALCITY.cz",
-            "snippet": "2 days ago · For sale apartment 2+1 55 m² - Praha 9, Třinecká Other listings from this agency Praha 9, 2+1 52 m² 8 300 000 CZK Praha 2, 2+1 104 m² 17 955 168 CZK"
+            "url": "https://www.podnikatel.cz/rejstrik/nexcore-s-r-o-30068321/",
+            "title": "NEXCORE s.r.o. - IČO 30068321 - Obchodní rejstřík na ...",
+            "snippet": "Podrobnosti o firmě NEXCORE s.r.o. - IČO 30068321 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
           },
           {
-            "url": "https://www.skanska.com/cz/cs",
-            "title": "Skanska v České republice",
-            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+            "url": "https://rejstriky.finance.cz/firma-nexcore-s-r-o-30068321/obory-cinnosti",
+            "title": "NEXCORE s.r.o. IČO 30068321 kontakty 28.09.2026 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu NEXCORE s.r.o., která sídlí v obci a bylo jí přiděleno IČO 30068321. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP). Firma s názvem NEXCORE s.r.o.byla založena v roce 2026."
           },
           {
-            "url": "https://vces.cz/",
-            "title": "Skupina VCES",
-            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+            "url": "https://www.detail.cz/firma/30068321-nexcore-sro-chudenicka-1059-30-praha/",
+            "title": "Společnost NEXCORE s.r.o. | Detail.cz",
+            "snippet": "Společnost NEXCORE s.r.o. (IČO: 30068321) byla založena dne 24. září 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti."
           },
           {
-            "url": "https://www.hays.cz/",
-            "title": "Pracovní příležitosti v České republice | Personální agentura ...",
-            "snippet": "Jste připraveni získat novou, lepší práci? Nabízíme příležitosti na trvalý i dočasný pracovní poměr nebo na kontrakt po celé České republice. Využijte zkušeností a podpory našich odborných."
+            "url": "https://rejstriky.finance.cz/firma-nexcore-s-r-o-30068321/vedeni-firmy",
+            "title": "NEXCORE s.r.o. Praha 10 IČO 30068321 kontakty 26.10.2026 ...",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu NEXCORE s.r.o., která sídlí v obci Praha 10 a bylo jí přiděleno IČO 30068321. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
           },
           {
-            "url": "https://www.facebook.com/DaramisGroup/",
-            "title": "Daramis | Prague - Facebook",
-            "snippet": "Daramis, Prague. 5,981 followers · 11 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy."
+            "url": "https://www.podnikani.cz/30068321/nexcore-sro/",
+            "title": "NEXCORE s.r.o. - obchodní rejstřík, vizualizace vztahů firem ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku NEXCORE s.r.o. Chudenická 1059/30, Hostivař, 102 00 Praha , IČO: 30068321, Zákl. kapitál: 1000 Kč"
           },
           {
-            "url": "https://dodavatele.epoptavka.cz/",
-            "title": "Katalog dodavatelů | ePoptávka.cz",
-            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+            "url": "https://www.findglocal.com/CZ/Prague/123804033991586/Šmolík-Servis-oken",
+            "title": "Šmolík Servis oken, Miroslava Hajna 759/1, Praha (2026)",
+            "snippet": "Miroslava Hajna 759/1, PrahaMontáž a oprava oken pro domácnosti Adresa Web Kontaktovat společnost"
           },
           {
-            "url": "https://www.epoptavka.cz/",
-            "title": "Poptávky a zakázky | ePoptávka.cz",
-            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+            "url": "https://www.aaadodavatel.cz/201787-euroasist-sro",
+            "title": "EUROASIST s.r.o. • AAADodavatel.cz",
+            "snippet": "Provádím kompletní rekonstrukce bytů, domů a komerčních prostor včetně veškerých dílčích stavebních prací. Specializuji se na renovace interiérů, opravy a úpravy stavebních konstrukcí, instalace podlah, malířské a natěračské práce, obklady a dlažby, výměny elektroinstalací a vodoinstalací, montáž sádrokartonu a další o"
+          },
+          {
+            "url": "https://www.firmy.cz/stitek/servis-rolet",
+            "title": "Servis rolet • Firmy.cz",
+            "snippet": "Na Firmy.cz najdete 31 firem, které nabízí Servis rolet. Vybrat si můžete z firem v okolí, třeba VAŠE OKNA, Roman Szathmáry - Servis oken a dveří, Okna v Klidu,..."
+          },
+          {
+            "url": "https://ceskadata.cz/10686550",
+            "title": "Este Real Consulting a.s., Praha – majitelé a vedení, IČO ...",
+            "snippet": "Este Real Consulting a.s. (IČO 10686550): akciová společnost v Praze, vznik 2021. Pronájem a správa vlastních nebo pronajatých nemovitostí. Vedení a vlastníci, postavení v oboru a konkurence."
           },
           {
             "url": "https://zakazky.epoptavka.cz/",
@@ -19692,82 +19702,42 @@
             "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
           },
           {
-            "url": "https://www.facebook.com/groups/992561254672777/",
-            "title": "Poptávka-řemeslníci, zedníci, stavaři.. - Facebook",
-            "snippet": "5 hours ago · Vyberte si dodavatele podle hodnocení a referencí na facebooku,můžete si vybrat z nabídek na našich stránkách nebo poptat firmy/živnostníky dle požadavků.Kontaktovat vás mohou na telefonu nebo jestli jste časově zaneprázděný,přes zprávy."
+            "url": "https://jetstream.cz/",
+            "title": "Stavební firma JetStream | Demolice, rekonstrukce, sanace",
+            "snippet": "Profesionální stavební firma specializující se na demolice, rekonstrukce a komplexní stavební práce. Služby po celé ČR s důrazem na kvalitu a bezpečnost."
           },
           {
             "url": "https://www.poptavky.cz/",
             "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
-            "snippet": "Poptávka: stříška pro venkovní výtah, Praha 2 Stavby (části) Vchodové stříšky okres Praha 15. 10. 2026 (dnes)"
-          },
-          {
-            "url": "https://profi-firmy.cz/",
-            "title": "Profi-firmy.cz – Databáze ověřených firem a řemeslníků po ...",
-            "snippet": "Poptávka zdarma Jedním formulářem oslovíte víc firem najednou. Bez registrace a poplatků."
+            "snippet": "O projektu Projekt Poptávky.cz sdružuje 944 214 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
           }
         ],
         "errors": [
-          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "AMBIGUOUS",
-        "website": "",
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.chytryrejstrik.cz/ico-30068321/nexcore-s-r-o",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.chytryrejstrik.cz/ico-30068321/nexcore-s-r-o",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
         "examined": [
           {
-            "url": "https://www.digireality.cz/inzerat/6ad0a48d5a5c25d95dbe5ee4",
-            "result": "unreachable",
-            "reason": "HTTP_403"
-          },
-          {
-            "url": "https://www.realcity.cz/en/property/for-sale-apartment-2-1-praha-9-trinecka-4424898",
-            "result": "unreachable",
-            "reason": "HTTP_403"
-          },
-          {
-            "url": "https://www.skanska.com/cz/cs",
-            "result": "ambiguous",
+            "url": "https://www.chytryrejstrik.cz/ico-30068321/nexcore-s-r-o",
+            "result": "identity_match",
             "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://vces.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.hays.cz/",
-            "result": "ambiguous",
-            "evidence": []
-          },
-          {
-            "url": "https://dodavatele.epoptavka.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.epoptavka.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://zakazky.epoptavka.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.poptavky.cz/",
-            "result": "ambiguous",
-            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
               "Prague mentioned on website"
             ]
           }
@@ -19803,8 +19773,53 @@
         ]
       },
       "audit": {
-        "state": "not_run",
-        "reason": "No independently verified company website"
+        "state": "observed",
+        "checked_at": "2026-11-14",
+        "website": "https://www.chytryrejstrik.cz/ico-30068321/nexcore-s-r-o",
+        "devices": {
+          "desktop": {
+            "title": "NEXCORE s.r.o. - rizika, jednatelé, obchodní rejstřík",
+            "description": "NEXCORE s.r.o. Sídlo Praha. IČO: 30068321. Majitelé a statutární orgány. Rejstřík podnikatelů. Rok založení 2026. Kontrola rizik firmy. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 160,
+            "small_text_elements": 1,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 40,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "NEXCORE s.r.o. - rizika, jednatelé, obchodní rejstřík",
+            "description": "NEXCORE s.r.o. Sídlo Praha. IČO: 30068321. Majitelé a statutární orgány. Rejstřík podnikatelů. Rok založení 2026. Kontrola rizik firmy. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 123,
+            "small_text_elements": 9,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 40,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.chytryrejstrik.cz/ico-30068321/nexcore-s-r-o"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
       },
       "buying_signals": [
         {
@@ -19818,11 +19833,11 @@
         "title": "NEXCORE s.r.o. — research dossier",
         "facts": [
           "The business is listed at Chudenická 1059, Praha, 10200.",
-          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "An independently identity-matched business website was found: https://www.chytryrejstrik.cz/ico-30068321/nexcore-s-r-o.",
           "ARES confirms registration for IČO 30068321 dated 2026-09-24."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
         "observed_issues": [],
         "buying_signals": [
           {
@@ -19834,7 +19849,8 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30068321"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30068321",
+          "https://www.chytryrejstrik.cz/ico-30068321/nexcore-s-r-o"
         ],
         "estimated_deal_czk": [
           30000,
@@ -19856,17 +19872,22 @@
       },
       "candidate_search_sources": [
         "https://rejstrik-firem.kurzy.cz/30068321/nexcore-sro/",
-        "https://www.digireality.cz/inzerat/6ad0a48d5a5c25d95dbe5ee4",
-        "https://www.realcity.cz/en/property/for-sale-apartment-2-1-praha-9-trinecka-4424898",
-        "https://www.skanska.com/cz/cs",
-        "https://vces.cz/",
-        "https://www.hays.cz/",
-        "https://www.facebook.com/DaramisGroup/"
+        "https://www.chytryrejstrik.cz/ico-30068321/nexcore-s-r-o",
+        "https://www.podnikatel.cz/rejstrik/nexcore-s-r-o-30068321/",
+        "https://rejstriky.finance.cz/firma-nexcore-s-r-o-30068321/obory-cinnosti",
+        "https://www.detail.cz/firma/30068321-nexcore-sro-chudenicka-1059-30-praha/",
+        "https://rejstriky.finance.cz/firma-nexcore-s-r-o-30068321/vedeni-firmy",
+        "https://www.podnikani.cz/30068321/nexcore-sro/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {},
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.chytryrejstrik.cz/ico-30068321/nexcore-s-r-o",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
       "owner_verified": false,
       "buyer_interest_verified": false
     },
@@ -19967,7 +19988,7 @@
     "res-30068495": {
       "lead_id": "res-30068495",
       "name": "Denys Matviiuk",
-      "checked_at": "2026-10-15",
+      "checked_at": "2026-11-14",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -19981,14 +20002,24 @@
         "successful_queries": 2,
         "candidates": [
           {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/30068495-denys-matviiuk",
+            "title": "Denys Matviiuk, IČO: 30068495 - ARES - Finmag.cz",
+            "snippet": "Denys Matviiuk, IČO: 30068495 - RES Obchodní firma Denys Matviiuk se sídlem Praha - Kobylisy, Čimická 634/20, 18200 a identifikačním číslem (IČO) 30068495."
+          },
+          {
             "url": "https://rejstriky.finance.cz/firma-denys-matviiuk-23899026",
             "title": "Denys Matviiuk IČO 23899026 kontakty 24.11.2025 - Finance.cz",
             "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Denys Matviiuk, která sídlí v obci a bylo jí přiděleno IČO 23899026. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
           },
           {
-            "url": "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
-            "title": "Construction & Property Management s.r.o. , Praha IČO ...",
-            "snippet": "May 12, 2026 · Kde je sídlo firmy Construction & Property Management s.r.o.? Sídlo firmy Construction & Property Management s.r.o. je Na příkopě 859/22, Nové Město (Praha 1), 110 00 Praha."
+            "url": "https://www.podnikatel.cz/rejstrik/denys-matviiuk-23899026/",
+            "title": "Denys Matviiuk - IČO 23899026 - Obchodní rejstřík na ...",
+            "snippet": "Podrobnosti o firmě Denys Matviiuk - IČO 23899026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-denys-matkovskyi-22657401/kontakty",
+            "title": "Denys Matkovskyi Praha 10 IČO 22657401 kontakty 18.09.2026 ...",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Denys Matkovskyi, která sídlí v obci Praha 10 a bylo jí přiděleno IČO 22657401. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
           },
           {
             "url": "https://www.finmag.cz/obchodni-rejstrik/ares/23899026-denys-matviiuk",
@@ -19996,39 +20027,29 @@
             "snippet": "Základní informace o Denys Matviiuk ... Informace o podnikání a činnosti Denys Matviiuk ... Kontaktní údaje Pro tento subjekt neevidujeme žádné kontaktní údaje. Přidat kontaktní údaje"
           },
           {
+            "url": "https://www.denys.com/en/",
+            "title": "Experienced partner for complex construction projects &… | Denys",
+            "snippet": "Relying on an experience of almost 100 years in linear projects over large distances, such as pipeline construction and rail works, Denys has become a specialist in the installation of underground high voltage cables since the last decade."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+            "title": "Construction & Property Management s.r.o. , Praha IČO ...",
+            "snippet": "Kde je sídlo firmy Construction & Property Management s.r.o.? Sídlo firmy Construction & Property Management s.r.o. je Na příkopě 859/22, Nové Město (Praha 1), 110 00 Praha."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/ares/23899026-denys-matviiuk",
+            "title": "Denys Matviiuk, Náchod, IČO: 23899026 - ARES | Peníze.cz",
+            "snippet": "Dec 5, 2025 · Tento výpis z RES obsahuje údaje o společnosti Denys Matviiuk. Údaje byly staženy 17. 11. 2025 z datové služby dle IČO 23899026. Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob."
+          },
+          {
             "url": "https://rejstriky.finance.cz/firma-denys-matviiuk-23899026/kontakty",
             "title": "Denys Matviiuk Náchod IČO 23899026 kontakty 15.01.2026 ...",
             "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Denys Matviiuk, která sídlí v obci Náchod a bylo jí přiděleno IČO 23899026. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
           },
           {
-            "url": "https://www.facebook.com/p/Denys-Matviiuk-100084768453856/",
-            "title": "Denys Matviiuk - Facebook",
-            "snippet": "Denys Matviiuk is on Facebook. Join Facebook to connect with Denys Matviiuk and others you may know. Facebook gives people the power to share and makes..."
-          },
-          {
-            "url": "https://rejstrik.penize.cz/ares/23899026-denys-matviiuk",
-            "title": "Denys Matviiuk, Náchod, IČO: 23899026 - ARES | Peníze.cz",
-            "snippet": "Dec 5, 2025 · Registr ekonomických subjektů - Denys Matviiuk, IČO: 23899026, sídlo firmy, předmět podnikání firmy Denys Matviiuk."
-          },
-          {
-            "url": "https://www.dnb.com/business-directory/company-profiles.property_consult_spol_s_ro.b870d3d092f20d6a99ebeecbc7251fbb.html",
-            "title": "Property Consult, spol. s r.o., Company Profile | Praha ...",
-            "snippet": "Find company research, competitor information, contact details & financial data for Property Consult, spol. s r.o., of Praha, Hlavní město Praha. Get the latest business insights from Dun & Bradstreet."
-          },
-          {
-            "url": "https://www.epoptavka.cz/",
-            "title": "Poptávky a zakázky | ePoptávka.cz",
-            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
-          },
-          {
-            "url": "https://zakazky.epoptavka.cz/",
-            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
-            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
-          },
-          {
-            "url": "https://www.poptavky.cz/",
-            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
-            "snippet": "Poptávka: stříška pro venkovní výtah, Praha 2 Stavby (části) Vchodové stříšky okres Praha 15. 10. 2026 (dnes)"
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
           }
         ],
         "errors": [
@@ -20039,26 +20060,12 @@
         "website": "",
         "examined": [
           {
-            "url": "https://www.dnb.com/business-directory/company-profiles.property_consult_spol_s_ro.b870d3d092f20d6a99ebeecbc7251fbb.html",
-            "result": "unreachable",
-            "reason": "HTTP_403"
-          },
-          {
-            "url": "https://www.epoptavka.cz/",
+            "url": "https://www.denys.com/en/",
             "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
+            "evidence": []
           },
           {
-            "url": "https://zakazky.epoptavka.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.poptavky.cz/",
+            "url": "https://poptavky.epoptavka.cz/",
             "result": "ambiguous",
             "evidence": [
               "Prague mentioned on website"
@@ -20136,13 +20143,13 @@
         ]
       },
       "candidate_search_sources": [
+        "https://www.finmag.cz/obchodni-rejstrik/ares/30068495-denys-matviiuk",
         "https://rejstriky.finance.cz/firma-denys-matviiuk-23899026",
-        "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+        "https://www.podnikatel.cz/rejstrik/denys-matviiuk-23899026/",
+        "https://rejstriky.finance.cz/firma-denys-matkovskyi-22657401/kontakty",
         "https://www.finmag.cz/obchodni-rejstrik/ares/23899026-denys-matviiuk",
-        "https://rejstriky.finance.cz/firma-denys-matviiuk-23899026/kontakty",
-        "https://www.facebook.com/p/Denys-Matviiuk-100084768453856/",
-        "https://rejstrik.penize.cz/ares/23899026-denys-matviiuk",
-        "https://www.dnb.com/business-directory/company-profiles.property_consult_spol_s_ro.b870d3d092f20d6a99ebeecbc7251fbb.html"
+        "https://www.denys.com/en/",
+        "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
@@ -20248,7 +20255,7 @@
     "res-30068584": {
       "lead_id": "res-30068584",
       "name": "Yeva Sipailova",
-      "checked_at": "2026-10-15",
+      "checked_at": "2026-11-14",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -20270,6 +20277,31 @@
             "url": "https://rejstriky.finance.cz/firma-yeva-sipailova-30068584",
             "title": "Yeva Sipailova IČO 30068584 kontakty 04.10.2026 - Finance.cz",
             "snippet": "Výpis dat pro firmu Yeva Sipailova obsahuje pouze taková data, která lze dle zákona č. 110/2019 Sb., o zpracování osobních údajů, zveřejňovat i bez souhlasu subjektu těchto údajů."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+            "title": "Construction & Property Management s.r.o. , Praha IČO ...",
+            "snippet": "Kde je sídlo firmy Construction & Property Management s.r.o.? Sídlo firmy Construction & Property Management s.r.o. je Na příkopě 859/22, Nové Město (Praha 1), 110 00 Praha."
+          },
+          {
+            "url": "https://smpc.vinci-construction.cz/kontakt",
+            "title": "Kontakt | SMP Construction",
+            "snippet": "Kontaktujte nás SMP Construction a.s. Vyskočilova 1566 140 00 Praha 4 IČO: 11965584 DIČ: CZ699007986 Spisová značka B 26741 vedená u Městského soudu v Praze."
+          },
+          {
+            "url": "https://smpc.vinci-construction.cz/en/contact",
+            "title": "Contact | SMP Construction",
+            "snippet": "Address SMP Construction a.s. Vyskočilova 1566 140 00 Prague 4 Czech Republic Contact smc-info@vinci-construction.com Follow us Reg. No.: 11965584 VAT ID: CZ699007986 Registered under B 26741 with the Municipal Court in Prague"
+          },
+          {
+            "url": "https://www.sreality.cz/adresar/property-management-services-praha-krc/22887/makleri/315802",
+            "title": "Eva Pospíšilová makléř v Property Management Services",
+            "snippet": "Aktuální informace o makléři Eva Pospíšilová z realitní kanceláře Property Management Services na sreality.cz s kontakty, aktuálně nabízenými realitami a recenzemi."
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/yeva-sipailova-30068584/",
+            "title": "Yeva Sipailova - IČO 30068584 - Obchodní rejstřík na ...",
+            "snippet": "Jakékoli požadavky na jejich úpravu či odstranění je proto nutné směřovat na zdroj MFČR, konkrétně na e-mail: ares@mfcr.cz. Data ohledně právní formy, předmětu podnikání, kapitálu, odpovědných osobách a ostatních skutečnostech jsou přebírána z veřejné databáze Ministerstva spravedlnosti ČR (MSČR)."
           }
         ],
         "errors": [
@@ -20277,9 +20309,24 @@
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "state": "SEARCH_UNAVAILABLE",
+        "state": "AMBIGUOUS",
         "website": "",
-        "examined": [],
+        "examined": [
+          {
+            "url": "https://smpc.vinci-construction.cz/kontakt",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.sreality.cz/adresar/property-management-services-praha-krc/22887/makleri/315802",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
         "no_website_proven": false
       },
       "registry": {
@@ -20342,7 +20389,12 @@
       },
       "candidate_search_sources": [
         "https://rejstriky.finance.cz/firma-yeva-sipailova-30068584/kontakty",
-        "https://rejstriky.finance.cz/firma-yeva-sipailova-30068584"
+        "https://rejstriky.finance.cz/firma-yeva-sipailova-30068584",
+        "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+        "https://smpc.vinci-construction.cz/kontakt",
+        "https://smpc.vinci-construction.cz/en/contact",
+        "https://www.sreality.cz/adresar/property-management-services-praha-krc/22887/makleri/315802",
+        "https://www.podnikatel.cz/rejstrik/yeva-sipailova-30068584/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
@@ -30401,7 +30453,7 @@
     "res-30016541": {
       "lead_id": "res-30016541",
       "name": "COMESTA s.r.o.",
-      "checked_at": "2026-10-16",
+      "checked_at": "2026-11-14",
       "engine_version": 8,
       "state": "audited",
       "discovery": {
@@ -30417,7 +30469,12 @@
           {
             "url": "https://rejstrik-firem.kurzy.cz/30016541/comesta-sro/",
             "title": "COMESTA s.r.o. , IČO 30016541 - Obchodní rejstřík firem",
-            "snippet": "Tato stránka obsahuje aktuální výpis údajů firmy COMESTA s.r.o. Údaje byly staženy 12. října 2026 z datové služby justice.cz dle IČO 30016541 a údaje ve výpise nebyly dle systému ARES do dnešního dne změněny. Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob."
+            "snippet": "Oct 12, 2026 · Sídlo firmy COMESTA s.r.o. je Jeremenkova 763/88, Podolí, 14000 Praha 4. Další firmy na této adrese."
+          },
+          {
+            "url": "https://www.detail.cz/firma/30016541-comesta-sro-jeremenkova-763-88-praha/",
+            "title": "Společnost COMESTA s.r.o. | Detail.cz",
+            "snippet": "Kontakty Adresa Jeremenkova 763/88 140 00 Praha Hlavní město Praha Okres: Praha 4 Navigovat"
           },
           {
             "url": "https://www.podnikani.cz/30016541/comesta-sro/",
@@ -30425,24 +30482,9 @@
             "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku COMESTA s.r.o. Jeremenkova 763/88, Podolí, 14000 Praha 4 , IČO: 30016541, Zákl. kapitál: 10 Kč"
           },
           {
-            "url": "https://www.adresarfiriem.sk/comesta-sro-bratislava-mestska-cast-stare-mesto/",
-            "title": "COMESTA, s.r.o., Bratislava - mestská časť Staré Mesto ...",
-            "snippet": "COMESTA, s.r.o., Bratislava - mestská časť Staré Mesto - Lízingové spoločnosti"
-          },
-          {
-            "url": "https://www.azet.sk/firma/1543105/comesta-sro/",
-            "title": "COMESTA, s.r.o. - Azet.sk",
-            "snippet": "Fakturačné údaje COMESTA, s.r.o. Názov:COMESTA, s.r.o. Sídlo:Landererova 8, 81109 Bratislava-Staré Mesto IČO:55104410"
-          },
-          {
-            "url": "https://dlznik.zoznam.sk/socialna-siet/spolocnost-comesta-sro",
-            "title": "COMESTA, s.r.o. – Výpis z obchodného registra a profil firmy",
-            "snippet": "Sep 7, 2024 · Profil subjektu COMESTA, s.r.o. v sociálnej sieti firiem Slovenska s možnosťou overenia zadlženosti. Vždy overené a spoľahlivé informácie."
-          },
-          {
-            "url": "https://ctp.eu/",
-            "title": "Parkmakers - Commercial Real Estate Developer And Manager",
-            "snippet": "CTP is Europe’s largest listed owner, developer, and manager of logistics and industrial real estate by gross lettable area across 11 countries. Full-service developer and property manager."
+            "url": "https://www.cybo.com/CZ-biz/stavby-felix",
+            "title": "Stavby Felix - Ohradní 1443, 140 00 Praha 4, Czechia - Cybo",
+            "snippet": "Stavby Felix Prague postal code 140 00. See 2 social pages including Facebook and Google, Phone, Website and more for this business. Review on Cybo."
           },
           {
             "url": "https://www.skanska.com/cz/cs",
@@ -30455,9 +30497,29 @@
             "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
           },
           {
-            "url": "https://www.hays.cz/",
-            "title": "Pracovní příležitosti v České republice | Personální agentura ...",
-            "snippet": "Jste připraveni získat novou, lepší práci? Nabízíme příležitosti na trvalý i dočasný pracovní poměr nebo na kontrakt po celé České republice. Využijte zkušeností a podpory našich odborných."
+            "url": "https://mapy.com/",
+            "title": "Mapy.com",
+            "snippet": "6. 11. 2026 Downloaded offline maps now update automatically. You will have new hiking trails and cycle paths at hand without having to check for updates. Show all new features"
+          },
+          {
+            "url": "https://www.firmy.cz/detail/175868-capgemini-czech-republic-praha-nusle.html",
+            "title": "Capgemini Czech Republic (Praha, Nusle) • Firmy.czTrailer rental District Prague • Firmy.czD DEVELOPMENT, s.r.o., Praha – tržby 2022: 27 tis. Kč, IČO ...Petr Špaček - rejstříky, ud",
+            "snippet": "Aktuální ověřené informace: adresa, telefon, e-mail a provozní hodiny Capgemini Czech Republic, Praha, Nusle. Telefon: 222 803 … At Firmy.cz you can find 41 businesses in the category Trailer rental in District Prague and nearby. You can choose from businesses near you, for example AA Půjčovna vozíků, Autopůjčovna - J-"
+          },
+          {
+            "url": "https://en.firmy.cz/Automotive/Automotive-services/Car-rental/Trailer-rental/kraj-praha/praha-6",
+            "title": "Trailer rental District Prague • Firmy.cz",
+            "snippet": "At Firmy.cz you can find 41 businesses in the category Trailer rental in District Prague and nearby. You can choose from businesses near you, for example AA Půjčovna vozíků, Autopůjčovna - J-M Motors s.r.o., Připojsimě.cz,..."
+          },
+          {
+            "url": "https://ceskadata.cz/07224435",
+            "title": "D DEVELOPMENT, s.r.o., Praha – tržby 2022: 27 tis. Kč, IČO ...",
+            "snippet": "D DEVELOPMENT, s.r.o. (IČO 07224435). Tržby 2022: 27 tis. Kč, ztráta 1 tis. Kč, 4835. z 4 921 firem oboru se známými tržbami. Společnost s ručením omezeným v Praze, vznik 2018. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/osoby/794787/",
+            "title": "Petr Špaček - rejstříky, události | Kurzy.cz",
+            "snippet": "Statistické údaje o jméně Petr Spacek v rejstřících V existujících společnostech je zapsáno 43 různých osob. Jméno bylo nebo je zapsáno v 130 existujících společnostech a má celkem 135 aktuálních záznamů a celkem 266 historických záznamů. Jméno bylo zapsáno v 31 zaniklých společnostech. Jméno Petr Spacek bylo či je zap"
           }
         ],
         "errors": [
@@ -30465,15 +30527,13 @@
           "DDGSException: No results found."
         ],
         "public_site_contacts": {
-          "emails": [
-            "info@aliaweb.cz"
-          ],
+          "emails": [],
           "phones": [],
-          "source": "https://www.podnikani.cz/30016541/comesta-sro/",
+          "source": "https://www.detail.cz/firma/30016541-comesta-sro-jeremenkova-763-88-praha/",
           "evidence": "Explicit mailto/tel links on identity-matched business website"
         },
         "contact_matches": [],
-        "website": "https://www.podnikani.cz/30016541/comesta-sro/",
+        "website": "https://www.detail.cz/firma/30016541-comesta-sro-jeremenkova-763-88-praha/",
         "state": "VERIFIED_WEBSITE",
         "identity": [
           "Matching IČO on website",
@@ -30483,7 +30543,7 @@
         ],
         "examined": [
           {
-            "url": "https://www.podnikani.cz/30016541/comesta-sro/",
+            "url": "https://www.detail.cz/firma/30016541-comesta-sro-jeremenkova-763-88-praha/",
             "result": "identity_match",
             "evidence": [
               "Matching IČO on website",
@@ -30519,39 +30579,39 @@
       },
       "audit": {
         "state": "observed",
-        "checked_at": "2026-10-16",
-        "website": "https://www.podnikani.cz/30016541/comesta-sro/",
+        "checked_at": "2026-11-14",
+        "website": "https://www.detail.cz/firma/30016541-comesta-sro-jeremenkova-763-88-praha/",
         "devices": {
           "desktop": {
-            "title": "COMESTA s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
-            "description": "COMESTA s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě COMESTA s.r.o. z českého obchodního rejstříku a živnostenskéh",
+            "title": "Společnost COMESTA s.r.o. | Detail.cz",
+            "description": "Společnost COMESTA s.r.o. (IČO: 30016541) byla založena dne 9. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
             "viewport_meta": true,
-            "h1_count": 5,
+            "h1_count": 16,
             "horizontal_overflow_px": 0,
-            "visible_text_elements": 40,
+            "visible_text_elements": 57,
             "small_text_elements": 0,
             "broken_images": 0,
-            "images_missing_alt": 3,
-            "images_count": 20,
+            "images_missing_alt": 0,
+            "images_count": 14,
             "contact_action": true,
-            "form_count": 2,
+            "form_count": 1,
             "booking_links": 0,
             "http_status": 200
           },
           "navigation_errors": [],
           "mobile": {
-            "title": "COMESTA s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
-            "description": "COMESTA s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě COMESTA s.r.o. z českého obchodního rejstříku a živnostenskéh",
+            "title": "Společnost COMESTA s.r.o. | Detail.cz",
+            "description": "Společnost COMESTA s.r.o. (IČO: 30016541) byla založena dne 9. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
             "viewport_meta": true,
-            "h1_count": 5,
-            "horizontal_overflow_px": 486,
-            "visible_text_elements": 40,
+            "h1_count": 16,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 54,
             "small_text_elements": 0,
             "broken_images": 0,
-            "images_missing_alt": 3,
-            "images_count": 20,
+            "images_missing_alt": 0,
+            "images_count": 10,
             "contact_action": true,
-            "form_count": 2,
+            "form_count": 1,
             "booking_links": 0,
             "http_status": 200
           }
@@ -30559,16 +30619,9 @@
         "transport": {
           "state": "https_available",
           "http_url": null,
-          "observed_url": "https://www.podnikani.cz/30016541/comesta-sro/"
+          "observed_url": "https://www.detail.cz/firma/30016541-comesta-sro-jeremenkova-763-88-praha/"
         },
-        "objective_issues": [
-          {
-            "issue": "Measured mobile horizontal overflow",
-            "detail": "486 CSS pixels",
-            "method": "Playwright viewport 390px",
-            "url": "https://www.podnikani.cz/30016541/comesta-sro/"
-          }
-        ],
+        "objective_issues": [],
         "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
         "visual_design_review": "human_review_required",
         "website_score": null
@@ -30585,20 +30638,12 @@
         "title": "COMESTA s.r.o. — research dossier",
         "facts": [
           "The business is listed at Jeremenkova 763, Praha, 14000.",
-          "An independently identity-matched business website was found: https://www.podnikani.cz/30016541/comesta-sro/.",
-          "ARES confirms registration for IČO 30016541 dated 2026-10-09.",
-          "Browser-observed issue: Measured mobile horizontal overflow."
+          "An independently identity-matched business website was found: https://www.detail.cz/firma/30016541-comesta-sro-jeremenkova-763-88-praha/.",
+          "ARES confirms registration for IČO 30016541 dated 2026-10-09."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Show a measured measured mobile horizontal overflow fix in a private demo, and ask if improving enquiries is a priority.",
-        "observed_issues": [
-          {
-            "issue": "Measured mobile horizontal overflow",
-            "detail": "486 CSS pixels",
-            "method": "Playwright viewport 390px",
-            "url": "https://www.podnikani.cz/30016541/comesta-sro/"
-          }
-        ],
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
         "buying_signals": [
           {
             "claim": "Registered in the previous 24 months (ARES)",
@@ -30610,7 +30655,7 @@
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
           "https://ares.gov.cz/ekonomicke-subjekty?ico=30016541",
-          "https://www.podnikani.cz/30016541/comesta-sro/"
+          "https://www.detail.cz/firma/30016541-comesta-sro-jeremenkova-763-88-praha/"
         ],
         "estimated_deal_czk": [
           30000,
@@ -30632,22 +30677,20 @@
       },
       "candidate_search_sources": [
         "https://rejstrik-firem.kurzy.cz/30016541/comesta-sro/",
+        "https://www.detail.cz/firma/30016541-comesta-sro-jeremenkova-763-88-praha/",
         "https://www.podnikani.cz/30016541/comesta-sro/",
-        "https://www.adresarfiriem.sk/comesta-sro-bratislava-mestska-cast-stare-mesto/",
-        "https://www.azet.sk/firma/1543105/comesta-sro/",
-        "https://dlznik.zoznam.sk/socialna-siet/spolocnost-comesta-sro",
-        "https://ctp.eu/",
-        "https://www.skanska.com/cz/cs"
+        "https://www.cybo.com/CZ-biz/stavby-felix",
+        "https://www.skanska.com/cz/cs",
+        "https://vces.cz/",
+        "https://mapy.com/"
       ],
-      "website_need_verified": true,
+      "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
       "verified_site_public_contacts": {
-        "emails": [
-          "info@aliaweb.cz"
-        ],
+        "emails": [],
         "phones": [],
-        "source": "https://www.podnikani.cz/30016541/comesta-sro/",
+        "source": "https://www.detail.cz/firma/30016541-comesta-sro-jeremenkova-763-88-praha/",
         "evidence": "Explicit mailto/tel links on identity-matched business website"
       },
       "owner_verified": false,
@@ -30716,7 +30759,7 @@
     "res-30086281": {
       "lead_id": "res-30086281",
       "name": "Nové klíče s.r.o.",
-      "checked_at": "2026-10-16",
+      "checked_at": "2026-11-14",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -30730,39 +30773,39 @@
         "successful_queries": 1,
         "candidates": [
           {
-            "url": "https://zakazky.epoptavka.cz/",
-            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
-            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+            "url": "https://en.wikipedia.org/wiki/Prague",
+            "title": "Prague - Wikipedia",
+            "snippet": "Prague (/ ˈprɑːɡ / PRAHG ⓘ; Czech: Praha [ˈpraɦa] ⓘ) [a] is the capital and largest city of the Czech Republic [8] and the historical capital of Bohemia. Located on the Vltava River, the city has a population of about 1.4 million, making it the twelfth-largest city in the European Union."
           },
           {
-            "url": "https://www.epoptavka.cz/",
-            "title": "Poptávky a zakázky | ePoptávka.cz",
-            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+            "url": "https://en.wikipedia.org/wiki/Leopard_2",
+            "title": "Leopard 2 - WikipediaKontakt | Phoenix ContactBrowse a list of Google’s office locations - About Google",
+            "snippet": "A Leopard 2 PT15 with 105 mm smoothbore gun A Leopard 2 prototype (1983) The Leopard 2 T14 mod. with the modified turret housing composite armour Following the end of the Gilded Leopard study in 1967, the West German government decided to focus on the Experimentalentwicklung (experimental development) in a feasibility "
           },
           {
-            "url": "https://www.poptavka.net/",
-            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
-            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+            "url": "https://www.dnb.com/business-directory/company-profiles.new_phoenix_srl_odštěpný_závod.66603e0af590c220b003e5c594c226fe.html",
+            "title": "NEW PHOENIX S.R.L., odštěpný závod Company Profile | Praha ...",
+            "snippet": "Find company research, competitor information, contact details & financial data for NEW PHOENIX S.R.L., odštěpný závod of Praha, Hlavní město Praha. Get the latest business insights from Dun & Bradstreet."
           },
           {
-            "url": "https://www.poptavej.cz/",
-            "title": "Poptávky a veřejné zakázky | Poptávej.cz",
-            "snippet": "Poptávej.cz je poptávkový systém zaměřený na porovnání nabídky služeb a zboží z celé ČR, kde je zadání poptávky zcela zdarma. Každá poptávka zároveň slouží jako zdroj obchodních příležitostí pro firmy."
+            "url": "https://rejstrik-firem.kurzy.cz/28938852/phoenix-construction-sro/",
+            "title": "Phoenix Construction s.r.o. , Praha IČO 28938852 - Obchodní ...",
+            "snippet": "Feb 8, 2013 · Tato stránka obsahuje aktuální výpis údajů firmy Phoenix Construction s.r.o. Údaje byly staženy 4. května 2021 z datové služby justice.cz dle IČO 28938852 a údaje ve výpise nebyly dle systému ARES do dnešního dne změněny."
           },
           {
-            "url": "https://profi-firmy.cz/",
-            "title": "Profi-firmy.cz – Databáze ověřených firem a řemeslníků po ...",
-            "snippet": "Poptávka zdarma Jedním formulářem oslovíte víc firem najednou. Bez registrace a poplatků."
+            "url": "https://www.phoenixcontact.com/cs-cz/sluzby-a-podpora/contact",
+            "title": "Kontakt | Phoenix Contact",
+            "snippet": "Kontakt Náš zákaznický servis vám pomůže s technickými dotazy, objednávkami i aplikacemi – telefonicky, e-mailem nebo prostřednictvím kontaktního formuláře."
           },
           {
-            "url": "https://poptavky.epoptavka.cz/",
-            "title": "Databáze poptávek",
-            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+            "url": "https://about.google/company-info/locations/",
+            "title": "Browse a list of Google’s office locations - About Google",
+            "snippet": "Paris (2) Google Paris - 8 Rue de Londres 8 Rue de Londres, 75009 Paris, France Google Paris - 14 Rue de Londres 14 Rue de Londres, 75009 Paris, France Prague Stroupežnického 3191/17, 150 00 Praha 5-Smíchov, Czechia Stockholm Kungsbron 2, 111 22 Stockholm, Sweden"
           },
           {
-            "url": "https://www.poptavky.cz/",
-            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
-            "snippet": "Monitorujeme pro Vás a kategorizujeme poptávky a veřejné zakázky z nejvýznamnějších zdrojů."
+            "url": "https://mapy.com/",
+            "title": "Mapy.com",
+            "snippet": "6. 11. 2026 Downloaded offline maps now update automatically. You will have new hiking trails and cycle paths at hand without having to check for updates. Show all new features"
           }
         ],
         "errors": [
@@ -30774,51 +30817,26 @@
         "website": "",
         "examined": [
           {
-            "url": "https://zakazky.epoptavka.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.epoptavka.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.poptavka.net/",
-            "result": "ambiguous",
-            "evidence": [
-              "Matching distinctive business-name words on website",
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.poptavej.cz/",
+            "url": "https://www.dnb.com/business-directory/company-profiles.new_phoenix_srl_odštěpný_závod.66603e0af590c220b003e5c594c226fe.html",
             "result": "unreachable",
-            "reason": "ConnectTimeout"
+            "reason": "HTTP_403"
           },
           {
-            "url": "https://profi-firmy.cz/",
+            "url": "https://www.phoenixcontact.com/cs-cz/sluzby-a-podpora/contact",
             "result": "unreachable",
-            "reason": "HTTP_500"
+            "reason": "HTTP_403"
           },
           {
-            "url": "https://poptavky.epoptavka.cz/",
+            "url": "https://about.google/company-info/locations/",
             "result": "ambiguous",
             "evidence": [
               "Prague mentioned on website"
             ]
           },
           {
-            "url": "https://www.poptavky.cz/",
+            "url": "https://mapy.com/en/",
             "result": "ambiguous",
-            "evidence": [
-              "Matching Prague street address on website",
-              "Prague mentioned on website"
-            ]
+            "evidence": []
           }
         ],
         "no_website_proven": false
@@ -30898,13 +30916,13 @@
         ]
       },
       "candidate_search_sources": [
-        "https://zakazky.epoptavka.cz/",
-        "https://www.epoptavka.cz/",
-        "https://www.poptavka.net/",
-        "https://www.poptavej.cz/",
-        "https://profi-firmy.cz/",
-        "https://poptavky.epoptavka.cz/",
-        "https://www.poptavky.cz/"
+        "https://en.wikipedia.org/wiki/Prague",
+        "https://en.wikipedia.org/wiki/Leopard_2",
+        "https://www.dnb.com/business-directory/company-profiles.new_phoenix_srl_odštěpný_závod.66603e0af590c220b003e5c594c226fe.html",
+        "https://rejstrik-firem.kurzy.cz/28938852/phoenix-construction-sro/",
+        "https://www.phoenixcontact.com/cs-cz/sluzby-a-podpora/contact",
+        "https://about.google/company-info/locations/",
+        "https://mapy.com/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
@@ -30916,113 +30934,27 @@
     "res-30116783": {
       "lead_id": "res-30116783",
       "name": "DoBo Jizera s.r.o.",
-      "checked_at": "2026-10-16",
+      "checked_at": "2026-11-14",
       "engine_version": 8,
-      "state": "audited",
+      "state": "researched",
       "discovery": {
-        "status": "searched",
+        "status": "search_unavailable",
         "queries": [
           "\"DoBo Jizera s.r.o.\" IČO 30116783 web",
           "\"DoBo Jizera s.r.o.\" Praha Construction & property kontakt",
           "\"DoBo Jizera s.r.o.\" \"Dlouhá 715\" web",
           "\"DoBo Jizera s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 2,
-        "candidates": [
-          {
-            "url": "https://rejstrik-firem.kurzy.cz/30116783/dobo-jizera-sro/",
-            "title": "DoBo Jizera s.r.o. , IČO 30116783 - Obchodní rejstřík firem",
-            "snippet": "DoBo Jizera s.r.o. – obchodní rejstřík, aktuální výpis Datum vzniku a zápisu 8. říjen 2026 Spisová značka C 457483/MSPH Městský soud v Praze Obchodní firma DoBo Jizera s.r.o. Sídlo Dlouhá 715/38, Staré Město, 110 00 Praha 1 Identifikační číslo 30116783 Právní forma Společnost s r.o. Předmět činnosti pronájem nemovitost"
-          },
-          {
-            "url": "https://www.podnikani.cz/30116783/dobo-jizera-sro/",
-            "title": "DoBo Jizera s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
-            "snippet": "DoBo Jizera s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. Vizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě DoBo Jizera s.r.o. z českého obchodního rejstříku a živnostenského rejstříku v přehledné grafické podobě."
-          },
-          {
-            "url": "https://www.skanska.com/cz/cs",
-            "title": "Skanska v České republice",
-            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
-          },
-          {
-            "url": "https://www.hays.cz/",
-            "title": "Pracovní příležitosti v České republice | Personální agentura ...",
-            "snippet": "Jste připraveni získat novou, lepší práci? Nabízíme příležitosti na trvalý i dočasný pracovní poměr nebo na kontrakt po celé České republice. Využijte zkušeností a podpory našich odborných."
-          },
-          {
-            "url": "https://vces.cz/",
-            "title": "Skupina VCES",
-            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
-          },
-          {
-            "url": "https://rejstrik-firem.kurzy.cz/06264808/alu-casting-sro/",
-            "title": "Alu - casting s.r.o. , Nový Bor IČO 06264808 - Obchodní ...",
-            "snippet": "Oct 3, 2026 · Alu - casting s.r.o., Železná, Nový Bor, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní ..."
-          },
-          {
-            "url": "https://www.expats.cz/",
-            "title": "Expats.cz for news, jobs and real estate in Prague and the ...",
-            "snippet": "12 hours ago · We are the Czech Republic's leading English-language media supporting English speakers with helpful services such as latest news, job offers, real estate listings and more."
-          },
-          {
-            "url": "https://rejstrik-firem.kurzy.cz/30116783/dobo-jizera-sro/zivnosti/",
-            "title": "DoBo Jizera s.r.o. - Živnostenský rejstřík | Kurzy.cz",
-            "snippet": "DoBo Jizera s.r.o., firma – kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
-          },
-          {
-            "url": "https://zakazky.epoptavka.cz/",
-            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
-            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
-          },
-          {
-            "url": "https://www.poptavka.net/",
-            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
-            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
-          },
-          {
-            "url": "https://www.poptavej.cz/",
-            "title": "Poptávky a veřejné zakázky | Poptávej.cz",
-            "snippet": "Poptávej.cz je poptávkový systém zaměřený na porovnání nabídky služeb a zboží z celé ČR, kde je zadání poptávky zcela zdarma. Každá poptávka zároveň slouží jako zdroj obchodních příležitostí pro firmy."
-          },
-          {
-            "url": "https://www.poptavky.cz/",
-            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
-            "snippet": "O projektu Projekt Poptávky.cz sdružuje 931 481 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
-          }
-        ],
+        "successful_queries": 0,
+        "candidates": [],
         "errors": [
+          "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "public_site_contacts": {
-          "emails": [
-            "info@aliaweb.cz"
-          ],
-          "phones": [],
-          "source": "https://www.podnikani.cz/30116783/dobo-jizera-sro/",
-          "evidence": "Explicit mailto/tel links on identity-matched business website"
-        },
-        "contact_matches": [],
-        "website": "https://www.podnikani.cz/30116783/dobo-jizera-sro/",
-        "state": "VERIFIED_WEBSITE",
-        "identity": [
-          "Matching IČO on website",
-          "Matching business name on website",
-          "Matching Prague street address on website",
-          "Prague mentioned on website"
-        ],
-        "examined": [
-          {
-            "url": "https://www.podnikani.cz/30116783/dobo-jizera-sro/",
-            "result": "identity_match",
-            "evidence": [
-              "Matching IČO on website",
-              "Matching business name on website",
-              "Matching Prague street address on website",
-              "Prague mentioned on website"
-            ]
-          }
-        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
         "no_website_proven": false
       },
       "registry": {
@@ -31054,60 +30986,8 @@
         ]
       },
       "audit": {
-        "state": "observed",
-        "checked_at": "2026-10-16",
-        "website": "https://www.podnikani.cz/30116783/dobo-jizera-sro/",
-        "devices": {
-          "desktop": {
-            "title": "DoBo Jizera s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
-            "description": "DoBo Jizera s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě DoBo Jizera s.r.o. z českého obchodního rejstříku a živno",
-            "viewport_meta": true,
-            "h1_count": 5,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 40,
-            "small_text_elements": 0,
-            "broken_images": 0,
-            "images_missing_alt": 5,
-            "images_count": 22,
-            "contact_action": true,
-            "form_count": 2,
-            "booking_links": 0,
-            "http_status": 200
-          },
-          "navigation_errors": [],
-          "mobile": {
-            "title": "DoBo Jizera s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
-            "description": "DoBo Jizera s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě DoBo Jizera s.r.o. z českého obchodního rejstříku a živno",
-            "viewport_meta": true,
-            "h1_count": 5,
-            "horizontal_overflow_px": 486,
-            "visible_text_elements": 40,
-            "small_text_elements": 0,
-            "broken_images": 0,
-            "images_missing_alt": 5,
-            "images_count": 22,
-            "contact_action": true,
-            "form_count": 2,
-            "booking_links": 0,
-            "http_status": 200
-          }
-        },
-        "transport": {
-          "state": "https_available",
-          "http_url": null,
-          "observed_url": "https://www.podnikani.cz/30116783/dobo-jizera-sro/"
-        },
-        "objective_issues": [
-          {
-            "issue": "Measured mobile horizontal overflow",
-            "detail": "486 CSS pixels",
-            "method": "Playwright viewport 390px",
-            "url": "https://www.podnikani.cz/30116783/dobo-jizera-sro/"
-          }
-        ],
-        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
-        "visual_design_review": "human_review_required",
-        "website_score": null
+        "state": "not_run",
+        "reason": "No independently verified company website"
       },
       "buying_signals": [
         {
@@ -31121,20 +31001,12 @@
         "title": "DoBo Jizera s.r.o. — research dossier",
         "facts": [
           "The business is listed at Dlouhá 715, Praha, 11000.",
-          "An independently identity-matched business website was found: https://www.podnikani.cz/30116783/dobo-jizera-sro/.",
-          "ARES confirms registration for IČO 30116783 dated 2026-10-08.",
-          "Browser-observed issue: Measured mobile horizontal overflow."
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30116783 dated 2026-10-08."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Show a measured measured mobile horizontal overflow fix in a private demo, and ask if improving enquiries is a priority.",
-        "observed_issues": [
-          {
-            "issue": "Measured mobile horizontal overflow",
-            "detail": "486 CSS pixels",
-            "method": "Playwright viewport 390px",
-            "url": "https://www.podnikani.cz/30116783/dobo-jizera-sro/"
-          }
-        ],
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
         "buying_signals": [
           {
             "claim": "Registered in the previous 24 months (ARES)",
@@ -31145,8 +31017,7 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30116783",
-          "https://www.podnikani.cz/30116783/dobo-jizera-sro/"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30116783"
         ],
         "estimated_deal_czk": [
           30000,
@@ -31166,33 +31037,18 @@
           "Screenshots and DOM observations are not a human/AI aesthetic design review."
         ]
       },
-      "candidate_search_sources": [
-        "https://rejstrik-firem.kurzy.cz/30116783/dobo-jizera-sro/",
-        "https://www.podnikani.cz/30116783/dobo-jizera-sro/",
-        "https://www.skanska.com/cz/cs",
-        "https://www.hays.cz/",
-        "https://vces.cz/",
-        "https://rejstrik-firem.kurzy.cz/06264808/alu-casting-sro/",
-        "https://www.expats.cz/"
-      ],
-      "website_need_verified": true,
+      "candidate_search_sources": [],
+      "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {
-        "emails": [
-          "info@aliaweb.cz"
-        ],
-        "phones": [],
-        "source": "https://www.podnikani.cz/30116783/dobo-jizera-sro/",
-        "evidence": "Explicit mailto/tel links on identity-matched business website"
-      },
+      "verified_site_public_contacts": {},
       "owner_verified": false,
       "buyer_interest_verified": false
     },
     "res-30120659": {
       "lead_id": "res-30120659",
       "name": "Vaši Výškaři s.r.o.",
-      "checked_at": "2026-10-16",
+      "checked_at": "2026-11-14",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -31206,39 +31062,39 @@
         "successful_queries": 1,
         "candidates": [
           {
-            "url": "https://www.epoptavka.cz/",
-            "title": "Poptávky a zakázky | ePoptávka.cz",
-            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+            "url": "https://en.wikipedia.org/wiki/Leopard_2",
+            "title": "Leopard 2 - WikipediaGlobal Construction & Infrastructure Group – HOCHTIEFStarwood Capital Group | Global Real Estate Investment Firm",
+            "snippet": "A Leopard 2 PT15 with 105 mm smoothbore gun A Leopard 2 prototype (1983) The Leopard 2 T14 mod. with the modified turret housing composite armour Following the end of the Gilded Leopard study in 1967, the West German government decided to focus on the Experimentalentwicklung (experimental development) in a feasibility "
           },
           {
-            "url": "https://www.facebook.com/groups/992561254672777/",
-            "title": "Poptávka-řemeslníci, zedníci, stavaři.. - Facebook",
-            "snippet": "1 day ago · Vyberte si dodavatele podle hodnocení a referencí na facebooku,můžete si vybrat z nabídek na našich stránkách nebo poptat firmy/živnostníky dle požadavků.Kontaktovat vás mohou na telefonu nebo jestli jste časově zaneprázděný,přes zprávy."
+            "url": "https://ceskadata.cz/02222418",
+            "title": "Prague Construction Services s.r.o., Praha – majitelé a ...",
+            "snippet": "Prague Construction Services s.r.o. (IČO 02222418): společnost s ručením omezeným v Praze, vznik 2013, 1 - 5 zaměstnanců. Výstavba bytových a nebytových budov. Vedení a vlastníci, postavení v oboru a konkurence."
           },
           {
-            "url": "https://profi-firmy.cz/",
-            "title": "Profi-firmy.cz – Databáze ověřených firem a řemeslníků po ...",
-            "snippet": "Poptávka zdarma Jedním formulářem oslovíte víc firem najednou. Bez registrace a poplatků."
+            "url": "https://www.hochtief.com/",
+            "title": "Global Construction & Infrastructure Group – HOCHTIEF",
+            "snippet": "HOCHTIEF is an engineering-led global infrastructure group delivering construction, services and PPP concessions across Australia, North America and Europe."
           },
           {
-            "url": "https://www.poptavka.net/",
-            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
-            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
           },
           {
-            "url": "https://www.poptavej.cz/",
-            "title": "Poptávky a veřejné zakázky | Poptávej.cz",
-            "snippet": "Poptávej.cz je poptávkový systém zaměřený na porovnání nabídky služeb a zboží z celé ČR, kde je zadání poptávky zcela zdarma. Každá poptávka zároveň slouží jako zdroj obchodních příležitostí pro firmy."
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
           },
           {
-            "url": "https://poptavky.epoptavka.cz/",
-            "title": "Databáze poptávek",
-            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+            "url": "https://mapy.com/",
+            "title": "Mapy.com",
+            "snippet": "6. 11. 2026 Downloaded offline maps now update automatically. You will have new hiking trails and cycle paths at hand without having to check for updates. Show all new features"
           },
           {
-            "url": "https://www.poptavky.cz/",
-            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
-            "snippet": "Monitorujeme pro Vás a kategorizujeme poptávky a veřejné zakázky z nejvýznamnějších zdrojů."
+            "url": "https://www.starwoodcapital.com/",
+            "title": "Starwood Capital Group | Global Real Estate Investment Firm",
+            "snippet": "Starwood Capital Group is a global investment firm shaping the future of real estate with innovation, sound judgment, and a focus on exceptional outcomes."
           }
         ],
         "errors": [
@@ -31250,42 +31106,40 @@
         "website": "",
         "examined": [
           {
-            "url": "https://www.epoptavka.cz/",
+            "url": "https://ceskadata.cz/02222418",
             "result": "ambiguous",
             "evidence": [
               "Prague mentioned on website"
             ]
           },
           {
-            "url": "https://profi-firmy.cz/",
-            "result": "unreachable",
-            "reason": "HTTP_500"
+            "url": "https://www.hochtief.com/",
+            "result": "ambiguous",
+            "evidence": []
           },
           {
-            "url": "https://www.poptavka.net/",
+            "url": "https://vces.cz/",
             "result": "ambiguous",
             "evidence": [
               "Prague mentioned on website"
             ]
           },
           {
-            "url": "https://www.poptavej.cz/",
-            "result": "unreachable",
-            "reason": "ConnectTimeout"
-          },
-          {
-            "url": "https://poptavky.epoptavka.cz/",
+            "url": "https://www.skanska.com/cz/cs",
             "result": "ambiguous",
             "evidence": [
               "Prague mentioned on website"
             ]
           },
           {
-            "url": "https://www.poptavky.cz/",
+            "url": "https://mapy.com/en/",
             "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
+            "evidence": []
+          },
+          {
+            "url": "https://www.starwoodcapital.com/",
+            "result": "ambiguous",
+            "evidence": []
           }
         ],
         "no_website_proven": false
@@ -31365,13 +31219,13 @@
         ]
       },
       "candidate_search_sources": [
-        "https://www.epoptavka.cz/",
-        "https://www.facebook.com/groups/992561254672777/",
-        "https://profi-firmy.cz/",
-        "https://www.poptavka.net/",
-        "https://www.poptavej.cz/",
-        "https://poptavky.epoptavka.cz/",
-        "https://www.poptavky.cz/"
+        "https://en.wikipedia.org/wiki/Leopard_2",
+        "https://ceskadata.cz/02222418",
+        "https://www.hochtief.com/",
+        "https://vces.cz/",
+        "https://www.skanska.com/cz/cs",
+        "https://mapy.com/",
+        "https://www.starwoodcapital.com/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
@@ -31383,61 +31237,42 @@
     "res-30120730": {
       "lead_id": "res-30120730",
       "name": "Chabry Landbank s.r.o.",
-      "checked_at": "2026-10-16",
+      "checked_at": "2026-11-14",
       "engine_version": 8,
       "state": "audited",
       "discovery": {
-        "status": "searched",
+        "status": "partial_search",
         "queries": [
           "\"Chabry Landbank s.r.o.\" IČO 30120730 web",
           "\"Chabry Landbank s.r.o.\" Praha Construction & property kontakt",
           "\"Chabry Landbank s.r.o.\" \"Generála Píky 430\" web",
           "\"Chabry Landbank s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 2,
+        "successful_queries": 1,
         "candidates": [
           {
             "url": "https://rejstrik-firem.kurzy.cz/30120730/chabry-landbank-sro/",
-            "title": "Chabry Landbank s.r.o. , IČO 30120730 - Obchodní rejstřík firem",
-            "snippet": "Tato stránka obsahuje aktuální výpis údajů firmy Chabry Landbank s.r.o. Údaje byly staženy 12. října 2026 z datové služby justice.cz dle IČO 30120730 a údaje ve výpise nebyly dle systému ARES do dnešního dne změněny. Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob."
+            "title": "Chabry Landbank s.r.o. , Praha IČO 30120730 - Obchodní ...",
+            "snippet": "Kde je sídlo firmy Chabry Landbank s.r.o.? Sídlo firmy Chabry Landbank s.r.o. je Generála Píky 430/26, Dejvice, 160 00 Praha. Další firmy na této adrese."
           },
           {
             "url": "https://www.detail.cz/firma/30120730-chabry-landbank-sro-generala-piky-430-26-praha/",
             "title": "Společnost Chabry Landbank s.r.o. | Detail.cz",
-            "snippet": "Společnost Chabry Landbank s.r.o. (IČO: 30120730) byla založena dne 9. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti."
-          },
-          {
-            "url": "https://www.podnikani.cz/30120730/chabry-landbank-sro/",
-            "title": "Chabry Landbank s.r.o. - obchodní rejstřík, vizualizace ...",
-            "snippet": "Hledej Chabry Landbank s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. * Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku Chabry Landbank s.r.o. Generála Píky 430/26, Dejvice, 16000 Praha 6 , IČO: 30120730, Zákl. kapitál: 20000 Kč"
+            "snippet": "Oct 9, 2026 · Společnost „Chabry Landbank s.r.o.“ byla založena před méně než rokem v Praze. Je aktivní bez omezení činnosti. V jejím vedení se po dobu fungování vystřídali 2 lidé. Pro tento subjekt neevidujeme. Nejedná se o výsledky Chabry Landbank s.r.o., ale pouze o ukázku dat. Vyzkoušejte zdarma Merk. Metodika výpo"
           },
           {
             "url": "https://rejstrik-firem.kurzy.cz/30120730/chabry-landbank-sro/zivnosti/",
             "title": "Chabry Landbank s.r.o. - Živnostenský rejstřík | Kurzy.cz",
-            "snippet": "Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob. Kompletní výpis včetně dat narození a adres naleznete v originálním výpisu živnostenského rejstříku získáte po zadání IČO 30120730 na stránkách www.rzp.cz."
+            "snippet": "Chabry Landbank s.r.o., firma – kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
           },
           {
-            "url": "https://www.dnb.com/business-directory/company-information.construction.cz.na.praha_8_-_dolni_chabry.html",
-            "title": "Find Construction Companies in Praha 8 - Dolni Chabry - Dun ...",
-            "snippet": "Find info on Construction companies in Praha 8 - Dolni Chabry, including financial statements, sales and marketing contacts, top competitors, and firmographic insights."
-          },
-          {
-            "url": "https://www.dnb.com/business-directory/company-information.residential_building_construction.cz.na.praha_8_-_dolní_chabry.html",
-            "title": "Residential Building Construction Companies in Praha 8 ...",
-            "snippet": "Find info on Residential Building Construction companies in Praha 8 - Dolní Chabry, including financial statements, sales and marketing contacts, top competitors, and firmographic insights."
-          },
-          {
-            "url": "https://www.novechabry.cz/en",
-            "title": "New flats Prague 8 - accessibility, attractive location",
-            "snippet": "Nové Chabry family apartments Prague 8 - perfect amenities, excellent public transport, school, kindergarten, shops, future tram stop"
-          },
-          {
-            "url": "https://www.stargroup.cz/en",
-            "title": "Star Group",
-            "snippet": "We have just launched sales of the last apartments in Nove Chabry in the phase called Gemini. It consists of two organic apartment buildings with receding floors and smart layouts. There are a total of 62 apartments on offer, from studios to family 3- and 4-bedroom units with terraces. All apartments have a beautiful v"
+            "url": "https://www.podnikani.cz/30120730/chabry-landbank-sro/",
+            "title": "Chabry Landbank s.r.o. - obchodní rejstřík, vizualizace ...",
+            "snippet": "Vizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě Chabry Landbank s.r.o. z českého obchodního rejstříku a živnostenského rejstříku v přehledné grafické podobě."
           }
         ],
         "errors": [
+          "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
@@ -31500,14 +31335,14 @@
       },
       "audit": {
         "state": "observed",
-        "checked_at": "2026-10-16",
+        "checked_at": "2026-11-14",
         "website": "https://www.detail.cz/firma/30120730-chabry-landbank-sro-generala-piky-430-26-praha/",
         "devices": {
           "desktop": {
             "title": "Společnost Chabry Landbank s.r.o. | Detail.cz",
             "description": "Společnost Chabry Landbank s.r.o. (IČO: 30120730) byla založena dne 9. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
             "viewport_meta": true,
-            "h1_count": 15,
+            "h1_count": 16,
             "horizontal_overflow_px": 0,
             "visible_text_elements": 57,
             "small_text_elements": 0,
@@ -31524,7 +31359,7 @@
             "title": "Společnost Chabry Landbank s.r.o. | Detail.cz",
             "description": "Společnost Chabry Landbank s.r.o. (IČO: 30120730) byla založena dne 9. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
             "viewport_meta": true,
-            "h1_count": 15,
+            "h1_count": 16,
             "horizontal_overflow_px": 0,
             "visible_text_elements": 54,
             "small_text_elements": 0,
@@ -31599,11 +31434,8 @@
       "candidate_search_sources": [
         "https://rejstrik-firem.kurzy.cz/30120730/chabry-landbank-sro/",
         "https://www.detail.cz/firma/30120730-chabry-landbank-sro-generala-piky-430-26-praha/",
-        "https://www.podnikani.cz/30120730/chabry-landbank-sro/",
         "https://rejstrik-firem.kurzy.cz/30120730/chabry-landbank-sro/zivnosti/",
-        "https://www.dnb.com/business-directory/company-information.construction.cz.na.praha_8_-_dolni_chabry.html",
-        "https://www.dnb.com/business-directory/company-information.residential_building_construction.cz.na.praha_8_-_dolní_chabry.html",
-        "https://www.novechabry.cz/en"
+        "https://www.podnikani.cz/30120730/chabry-landbank-sro/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",

@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T15:52:08Z",
+  "generated_at": "2026-11-14T14:42:56Z",
   "collector": {
     "name": "ČSÚ RES primary + OSM supplemental + Kurzy.cz reviewed leads + ARES verification",
-    "segment": "food",
+    "segment": "services",
     "kurzy_crosschecks": 10,
     "kurzy_scope": "small public manually reviewed sample, not a complete licensed daily export",
     "res_candidates_loaded": 784,
     "res_added_this_run": 0,
     "res_snapshot_at": "2026-11-03T15:46:33.594802+00:00",
-    "discovered_this_run": 0,
-    "listings_examined": 0,
+    "discovered_this_run": 56,
+    "listings_examined": 321,
     "notes": "No-website tag denotes a missing directory URL, not independently verified absence of a website. Scores are preliminary."
   },
   "leads": [
@@ -40840,7 +40840,7 @@
         "https://www.openstreetmap.org/node/449771792"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 60,
@@ -40874,7 +40874,7 @@
         "https://www.openstreetmap.org/node/8567616342"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 60,
@@ -40908,7 +40908,7 @@
         "https://www.openstreetmap.org/node/12813965813"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 60,
@@ -40942,7 +40942,7 @@
         "https://www.openstreetmap.org/node/7837717785"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 55,
@@ -40976,7 +40976,7 @@
         "https://www.openstreetmap.org/node/9561493512"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 55,
@@ -41010,7 +41010,7 @@
         "https://www.openstreetmap.org/node/12289693137"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 55,
@@ -41044,7 +41044,7 @@
         "https://www.openstreetmap.org/node/13865633001"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 55,
@@ -41078,7 +41078,7 @@
         "https://www.openstreetmap.org/way/1422351460"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 55,
@@ -41113,7 +41113,7 @@
         "https://ares.gov.cz/ekonomicke-subjekty?ico=67985726"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41147,7 +41147,7 @@
         "https://www.openstreetmap.org/node/296687123"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41181,7 +41181,7 @@
         "https://www.openstreetmap.org/node/296755395"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41215,7 +41215,7 @@
         "https://www.openstreetmap.org/node/296756731"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41249,7 +41249,7 @@
         "https://www.openstreetmap.org/node/332224314"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41283,7 +41283,7 @@
         "https://www.openstreetmap.org/node/1241790358"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41317,7 +41317,7 @@
         "https://www.openstreetmap.org/node/1431740991"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41351,7 +41351,7 @@
         "https://www.openstreetmap.org/node/1844022517"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41385,7 +41385,7 @@
         "https://www.openstreetmap.org/node/2375131037"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41419,7 +41419,7 @@
         "https://www.openstreetmap.org/node/2494978585"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41453,7 +41453,7 @@
         "https://www.openstreetmap.org/node/2517378372"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41487,7 +41487,7 @@
         "https://www.openstreetmap.org/node/2552564571"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41521,7 +41521,7 @@
         "https://www.openstreetmap.org/node/2708515786"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41555,7 +41555,7 @@
         "https://www.openstreetmap.org/node/2921908544"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41589,7 +41589,7 @@
         "https://www.openstreetmap.org/node/3336741793"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41623,7 +41623,7 @@
         "https://www.openstreetmap.org/node/3566162201"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41657,7 +41657,7 @@
         "https://www.openstreetmap.org/node/3566162202"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41691,7 +41691,7 @@
         "https://www.openstreetmap.org/node/3607335990"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41725,7 +41725,7 @@
         "https://www.openstreetmap.org/node/3680499846"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41759,7 +41759,7 @@
         "https://www.openstreetmap.org/node/3777785585"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41793,7 +41793,7 @@
         "https://www.openstreetmap.org/node/4078350378"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41827,7 +41827,7 @@
         "https://www.openstreetmap.org/node/4155010716"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41861,7 +41861,7 @@
         "https://www.openstreetmap.org/node/4230904526"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41895,7 +41895,7 @@
         "https://www.openstreetmap.org/node/4492202901"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41929,7 +41929,7 @@
         "https://www.openstreetmap.org/node/4679976264"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41963,7 +41963,7 @@
         "https://www.openstreetmap.org/node/4715149865"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -41997,7 +41997,7 @@
         "https://www.openstreetmap.org/node/4759343451"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42031,7 +42031,7 @@
         "https://www.openstreetmap.org/node/4822265054"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42065,7 +42065,7 @@
         "https://www.openstreetmap.org/node/4945953952"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42099,7 +42099,7 @@
         "https://www.openstreetmap.org/node/4966380569"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42133,7 +42133,7 @@
         "https://www.openstreetmap.org/node/4998818945"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42167,7 +42167,7 @@
         "https://www.openstreetmap.org/node/4999295859"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42201,7 +42201,7 @@
         "https://www.openstreetmap.org/node/5013929093"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42235,7 +42235,7 @@
         "https://www.openstreetmap.org/node/5161955945"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42269,7 +42269,7 @@
         "https://www.openstreetmap.org/node/5267687531"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42303,7 +42303,7 @@
         "https://www.openstreetmap.org/node/5285781149"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42337,7 +42337,7 @@
         "https://www.openstreetmap.org/node/5484506318"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42371,7 +42371,7 @@
         "https://www.openstreetmap.org/node/5607635323"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42405,7 +42405,7 @@
         "https://www.openstreetmap.org/node/5694690708"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42439,7 +42439,7 @@
         "https://www.openstreetmap.org/node/5853348083"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42473,7 +42473,7 @@
         "https://www.openstreetmap.org/node/5884208985"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42507,7 +42507,7 @@
         "https://www.openstreetmap.org/node/5938647491"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42541,7 +42541,7 @@
         "https://www.openstreetmap.org/node/6068295692"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42575,7 +42575,7 @@
         "https://www.openstreetmap.org/node/6207303234"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42609,7 +42609,7 @@
         "https://www.openstreetmap.org/node/6335265587"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42643,7 +42643,7 @@
         "https://www.openstreetmap.org/node/6463640486"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42677,7 +42677,7 @@
         "https://www.openstreetmap.org/node/6463642885"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42711,7 +42711,7 @@
         "https://www.openstreetmap.org/node/6464961464"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42745,7 +42745,7 @@
         "https://www.openstreetmap.org/node/6464961465"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42779,7 +42779,7 @@
         "https://www.openstreetmap.org/node/6464961543"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42813,7 +42813,7 @@
         "https://www.openstreetmap.org/node/6464961544"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42847,7 +42847,7 @@
         "https://www.openstreetmap.org/node/6464992919"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42881,7 +42881,7 @@
         "https://www.openstreetmap.org/node/6464992920"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42915,7 +42915,7 @@
         "https://www.openstreetmap.org/node/6464996107"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42949,7 +42949,7 @@
         "https://www.openstreetmap.org/node/6464996108"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -42983,7 +42983,7 @@
         "https://www.openstreetmap.org/node/6464996909"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43017,7 +43017,7 @@
         "https://www.openstreetmap.org/node/6465000400"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43051,7 +43051,7 @@
         "https://www.openstreetmap.org/node/6466507547"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43085,7 +43085,7 @@
         "https://www.openstreetmap.org/node/6466507548"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43119,7 +43119,7 @@
         "https://www.openstreetmap.org/node/6466507549"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43153,7 +43153,7 @@
         "https://www.openstreetmap.org/node/6466507786"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43187,7 +43187,7 @@
         "https://www.openstreetmap.org/node/6466601546"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43221,7 +43221,7 @@
         "https://www.openstreetmap.org/node/6466614234"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43255,7 +43255,7 @@
         "https://www.openstreetmap.org/node/6466614382"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43289,7 +43289,7 @@
         "https://www.openstreetmap.org/node/6466614383"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43323,7 +43323,7 @@
         "https://www.openstreetmap.org/node/6466614384"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43357,7 +43357,7 @@
         "https://www.openstreetmap.org/node/6466614386"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43391,7 +43391,7 @@
         "https://www.openstreetmap.org/node/6466614387"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43425,7 +43425,7 @@
         "https://www.openstreetmap.org/node/6466614389"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43459,7 +43459,7 @@
         "https://www.openstreetmap.org/node/6466614397"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43493,7 +43493,7 @@
         "https://www.openstreetmap.org/node/6466614398"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43527,7 +43527,7 @@
         "https://www.openstreetmap.org/node/6477217567"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43561,7 +43561,7 @@
         "https://www.openstreetmap.org/node/6510489467"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43595,7 +43595,7 @@
         "https://www.openstreetmap.org/node/7063604825"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43629,7 +43629,7 @@
         "https://www.openstreetmap.org/node/7083096019"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43663,7 +43663,7 @@
         "https://www.openstreetmap.org/node/7373483300"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43697,7 +43697,7 @@
         "https://www.openstreetmap.org/node/7499321789"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43731,7 +43731,7 @@
         "https://www.openstreetmap.org/node/7529000185"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43765,7 +43765,7 @@
         "https://www.openstreetmap.org/node/7551160882"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43799,7 +43799,7 @@
         "https://www.openstreetmap.org/node/7640761428"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43833,7 +43833,7 @@
         "https://www.openstreetmap.org/node/8141910419"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43867,7 +43867,7 @@
         "https://www.openstreetmap.org/node/8404434751"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43901,7 +43901,7 @@
         "https://www.openstreetmap.org/node/8541433819"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43935,7 +43935,7 @@
         "https://www.openstreetmap.org/node/8714446252"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -43969,7 +43969,7 @@
         "https://www.openstreetmap.org/node/9561493507"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44003,7 +44003,7 @@
         "https://www.openstreetmap.org/node/9561493511"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44037,7 +44037,7 @@
         "https://www.openstreetmap.org/node/9561515621"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44071,7 +44071,7 @@
         "https://www.openstreetmap.org/node/9634710612"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44105,7 +44105,7 @@
         "https://www.openstreetmap.org/node/9876447391"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44139,7 +44139,7 @@
         "https://www.openstreetmap.org/node/9929172819"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44173,7 +44173,7 @@
         "https://www.openstreetmap.org/node/9929172822"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44207,7 +44207,7 @@
         "https://www.openstreetmap.org/node/9929172823"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44241,7 +44241,7 @@
         "https://www.openstreetmap.org/node/10207247529"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44275,7 +44275,7 @@
         "https://www.openstreetmap.org/node/10207934367"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44309,7 +44309,7 @@
         "https://www.openstreetmap.org/node/10212496924"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44343,7 +44343,7 @@
         "https://www.openstreetmap.org/node/10212504162"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44377,7 +44377,7 @@
         "https://www.openstreetmap.org/node/10240012091"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44411,7 +44411,7 @@
         "https://www.openstreetmap.org/node/10259395113"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44445,7 +44445,7 @@
         "https://www.openstreetmap.org/node/10748629725"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44479,7 +44479,7 @@
         "https://www.openstreetmap.org/node/10748629727"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44513,7 +44513,7 @@
         "https://www.openstreetmap.org/node/10748629728"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44547,7 +44547,7 @@
         "https://www.openstreetmap.org/node/11486315272"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44581,7 +44581,7 @@
         "https://www.openstreetmap.org/node/11936878526"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44615,7 +44615,7 @@
         "https://www.openstreetmap.org/node/12080525303"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44649,7 +44649,7 @@
         "https://www.openstreetmap.org/node/12083584413"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44683,7 +44683,7 @@
         "https://www.openstreetmap.org/node/12289699124"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44717,7 +44717,7 @@
         "https://www.openstreetmap.org/node/12289737835"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44751,7 +44751,7 @@
         "https://www.openstreetmap.org/node/12289741058"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44785,7 +44785,7 @@
         "https://www.openstreetmap.org/node/12289749237"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44819,7 +44819,7 @@
         "https://www.openstreetmap.org/node/12299307705"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44853,7 +44853,7 @@
         "https://www.openstreetmap.org/node/12438611075"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44887,7 +44887,7 @@
         "https://www.openstreetmap.org/node/12595974669"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44921,7 +44921,7 @@
         "https://www.openstreetmap.org/node/12656878484"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44955,7 +44955,7 @@
         "https://www.openstreetmap.org/node/12690990896"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -44989,7 +44989,7 @@
         "https://www.openstreetmap.org/node/12690990897"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45023,7 +45023,7 @@
         "https://www.openstreetmap.org/node/12690990898"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45057,7 +45057,7 @@
         "https://www.openstreetmap.org/node/12690990899"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45091,7 +45091,7 @@
         "https://www.openstreetmap.org/node/12690990900"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45125,7 +45125,7 @@
         "https://www.openstreetmap.org/node/12690995801"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45159,7 +45159,7 @@
         "https://www.openstreetmap.org/node/12690995802"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45193,7 +45193,7 @@
         "https://www.openstreetmap.org/node/12690995803"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45227,7 +45227,7 @@
         "https://www.openstreetmap.org/node/12751996078"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45261,7 +45261,7 @@
         "https://www.openstreetmap.org/node/12753951591"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45295,7 +45295,7 @@
         "https://www.openstreetmap.org/node/12759271671"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45329,7 +45329,7 @@
         "https://www.openstreetmap.org/node/13035113539"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45363,7 +45363,7 @@
         "https://www.openstreetmap.org/node/13108598539"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45397,7 +45397,7 @@
         "https://www.openstreetmap.org/node/13130688964"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45431,7 +45431,7 @@
         "https://www.openstreetmap.org/node/13132500401"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45465,7 +45465,7 @@
         "https://www.openstreetmap.org/node/13200349362"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45499,7 +45499,7 @@
         "https://www.openstreetmap.org/node/13264869401"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45533,7 +45533,7 @@
         "https://www.openstreetmap.org/way/127960794"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45567,7 +45567,7 @@
         "https://www.openstreetmap.org/way/312990301"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45601,7 +45601,7 @@
         "https://www.openstreetmap.org/node/13950353568"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45635,7 +45635,7 @@
         "https://www.openstreetmap.org/node/14002987201"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45669,7 +45669,7 @@
         "https://www.openstreetmap.org/node/14002987202"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45703,7 +45703,7 @@
         "https://www.openstreetmap.org/node/14002987203"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45737,7 +45737,7 @@
         "https://www.openstreetmap.org/node/14002987301"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45771,7 +45771,7 @@
         "https://www.openstreetmap.org/node/14002987302"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45805,7 +45805,7 @@
         "https://www.openstreetmap.org/node/14023255364"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45839,7 +45839,7 @@
         "https://www.openstreetmap.org/node/14029084791"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45873,7 +45873,7 @@
         "https://www.openstreetmap.org/node/14118633589"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45907,7 +45907,7 @@
         "https://www.openstreetmap.org/node/14209330941"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45941,7 +45941,7 @@
         "https://www.openstreetmap.org/node/14256056989"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -45975,7 +45975,7 @@
         "https://www.openstreetmap.org/node/14280273143"
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -46009,7 +46009,7 @@
         "https://www.openstreetmap.org/node/14280273732"
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 45,
@@ -46044,7 +46044,7 @@
         "https://ares.gov.cz/ekonomicke-subjekty?ico=08198519"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46078,7 +46078,7 @@
         "https://www.openstreetmap.org/node/296482259"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46112,7 +46112,7 @@
         "https://www.openstreetmap.org/node/296627252"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46146,7 +46146,7 @@
         "https://www.openstreetmap.org/node/296640443"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46180,7 +46180,7 @@
         "https://www.openstreetmap.org/node/2067486604"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46214,7 +46214,7 @@
         "https://www.openstreetmap.org/node/2475847880"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46248,7 +46248,7 @@
         "https://www.openstreetmap.org/node/2740467186"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46282,7 +46282,7 @@
         "https://www.openstreetmap.org/node/2896861601"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46316,7 +46316,7 @@
         "https://www.openstreetmap.org/node/4037828956"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46350,7 +46350,7 @@
         "https://www.openstreetmap.org/node/4076911357"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46384,7 +46384,7 @@
         "https://www.openstreetmap.org/node/4534814978"
       ],
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46418,7 +46418,7 @@
         "https://www.openstreetmap.org/node/5465586291"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46452,7 +46452,7 @@
         "https://www.openstreetmap.org/node/5594924408"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46486,7 +46486,7 @@
         "https://www.openstreetmap.org/node/6183661023"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46520,7 +46520,7 @@
         "https://www.openstreetmap.org/node/6474861014"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46554,7 +46554,7 @@
         "https://www.openstreetmap.org/node/6486031001"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46588,7 +46588,7 @@
         "https://www.openstreetmap.org/node/6486031002"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46622,7 +46622,7 @@
         "https://www.openstreetmap.org/node/7080080052"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46656,7 +46656,7 @@
         "https://www.openstreetmap.org/node/7521829285"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46690,7 +46690,7 @@
         "https://www.openstreetmap.org/node/7739340119"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46724,7 +46724,7 @@
         "https://www.openstreetmap.org/node/7837764654"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46758,7 +46758,7 @@
         "https://www.openstreetmap.org/node/8258653417"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46792,7 +46792,7 @@
         "https://www.openstreetmap.org/node/8314774821"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46826,7 +46826,7 @@
         "https://www.openstreetmap.org/node/8454882430"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46860,7 +46860,7 @@
         "https://www.openstreetmap.org/node/8558431266"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46894,7 +46894,7 @@
         "https://www.openstreetmap.org/node/8671709650"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46928,7 +46928,7 @@
         "https://www.openstreetmap.org/node/9199576405"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46962,7 +46962,7 @@
         "https://www.openstreetmap.org/node/9375918644"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -46996,7 +46996,7 @@
         "https://www.openstreetmap.org/node/9561493504"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -47030,7 +47030,7 @@
         "https://www.openstreetmap.org/node/9561493506"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -47064,7 +47064,7 @@
         "https://www.openstreetmap.org/node/9561493508"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -47098,7 +47098,7 @@
         "https://www.openstreetmap.org/node/9561493510"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -47132,7 +47132,7 @@
         "https://www.openstreetmap.org/node/9561493514"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -47166,7 +47166,7 @@
         "https://www.openstreetmap.org/node/9561493515"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -47200,7 +47200,7 @@
         "https://www.openstreetmap.org/node/9561515617"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -47234,7 +47234,7 @@
         "https://www.openstreetmap.org/node/9561515618"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -47268,7 +47268,7 @@
         "https://www.openstreetmap.org/node/9561515620"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -47302,7 +47302,7 @@
         "https://www.openstreetmap.org/node/9670657037"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -47336,7 +47336,7 @@
         "https://www.openstreetmap.org/node/9920800818"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -47370,7 +47370,7 @@
         "https://www.openstreetmap.org/node/10600961656"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -47404,7 +47404,7 @@
         "https://www.openstreetmap.org/node/11041819250"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -47438,7 +47438,7 @@
         "https://www.openstreetmap.org/node/12026141969"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -47472,7 +47472,7 @@
         "https://www.openstreetmap.org/node/12278479101"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -47506,7 +47506,7 @@
         "https://www.openstreetmap.org/node/12499118768"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -47540,7 +47540,7 @@
         "https://www.openstreetmap.org/node/13070841601"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -47574,7 +47574,7 @@
         "https://www.openstreetmap.org/node/13306369161"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -47608,7 +47608,7 @@
         "https://www.openstreetmap.org/node/14141668782"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -47642,7 +47642,7 @@
         "https://www.openstreetmap.org/node/14325172754"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
@@ -47676,12 +47676,45 @@
         "https://www.openstreetmap.org/relation/404759"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 40,
       "score_reason": "Preliminary evidence-only score: website evidence 5/30, registered business age 0/20, sector value 20/20, public contactability 15/15, listing gap 0/15. No visual website audit performed.",
       "source_registry_urls": []
+    },
+    {
+      "id": "osm-node-14359540808",
+      "name": "SadroFit",
+      "industry": "Professional services",
+      "district": "Prague · district unverified",
+      "address": "Dobronická 1257, 148 00, Praha",
+      "ico": "",
+      "website": "https://sadrofit.cz/",
+      "website_status": "listed",
+      "email": "poptavky@sadrofit.cz",
+      "phone": "+420 773 044 440",
+      "instagram": "",
+      "opened_at": null,
+      "registered_at": null,
+      "website_score": null,
+      "reason": "A website URL is recorded on this OpenStreetMap listing. No visual, UX, performance, or SEO audit has been performed.",
+      "outreach_angle": "Review the existing site manually, identify a concrete conversion problem and only then pitch a redesign.",
+      "buying_signals": [],
+      "verification": "candidate",
+      "demo_potential": "Medium",
+      "offer": "Premium lead-generation website",
+      "deal_min_czk": 25000,
+      "deal_max_czk": 60000,
+      "source_urls": [
+        "https://www.openstreetmap.org/node/14359540808"
+      ],
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "data_origin": "OpenStreetMap",
+      "manual": false,
+      "score": 40,
+      "score_reason": "Preliminary evidence-only score: website evidence 5/30, registered business age 0/20, sector value 20/20, public contactability 15/15, listing gap 0/15. No visual website audit performed."
     },
     {
       "id": "osm-node-296470344",
@@ -47710,7 +47743,7 @@
         "https://www.openstreetmap.org/node/296470344"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -47744,7 +47777,7 @@
         "https://www.openstreetmap.org/node/296725875"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -47778,7 +47811,7 @@
         "https://www.openstreetmap.org/node/296788007"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -47812,7 +47845,7 @@
         "https://www.openstreetmap.org/node/360656890"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -47846,7 +47879,7 @@
         "https://www.openstreetmap.org/node/1555858848"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -47880,7 +47913,7 @@
         "https://www.openstreetmap.org/node/2318297306"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -47914,7 +47947,7 @@
         "https://www.openstreetmap.org/node/2375120643"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -47948,7 +47981,7 @@
         "https://www.openstreetmap.org/node/3625292409"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -47982,7 +48015,7 @@
         "https://www.openstreetmap.org/node/4099775091"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48016,7 +48049,7 @@
         "https://www.openstreetmap.org/node/4469950883"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48050,7 +48083,7 @@
         "https://www.openstreetmap.org/node/4518629401"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48084,7 +48117,7 @@
         "https://www.openstreetmap.org/node/4585304756"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48118,7 +48151,7 @@
         "https://www.openstreetmap.org/node/4653833566"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48152,7 +48185,7 @@
         "https://www.openstreetmap.org/node/4735943499"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48186,7 +48219,7 @@
         "https://www.openstreetmap.org/node/5222793678"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48220,7 +48253,7 @@
         "https://www.openstreetmap.org/node/6176565832"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48254,7 +48287,7 @@
         "https://www.openstreetmap.org/node/6535389492"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48288,7 +48321,7 @@
         "https://www.openstreetmap.org/node/6893721785"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48322,7 +48355,7 @@
         "https://www.openstreetmap.org/node/7262850116"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48356,7 +48389,7 @@
         "https://www.openstreetmap.org/node/8221562805"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48390,7 +48423,7 @@
         "https://www.openstreetmap.org/node/9093720708"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48424,7 +48457,7 @@
         "https://www.openstreetmap.org/node/9561493505"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48458,7 +48491,7 @@
         "https://www.openstreetmap.org/node/9561493509"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48492,7 +48525,7 @@
         "https://www.openstreetmap.org/node/9561493513"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48526,7 +48559,7 @@
         "https://www.openstreetmap.org/node/9561515619"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48560,7 +48593,7 @@
         "https://www.openstreetmap.org/node/9991267555"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48594,7 +48627,7 @@
         "https://www.openstreetmap.org/node/10118560658"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48628,7 +48661,7 @@
         "https://www.openstreetmap.org/node/10118560659"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48662,7 +48695,7 @@
         "https://www.openstreetmap.org/node/10925012556"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48696,7 +48729,7 @@
         "https://www.openstreetmap.org/node/10927835114"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48730,7 +48763,7 @@
         "https://www.openstreetmap.org/node/11065024432"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48764,7 +48797,7 @@
         "https://www.openstreetmap.org/node/11544180169"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48798,7 +48831,7 @@
         "https://www.openstreetmap.org/node/11782384941"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48832,7 +48865,7 @@
         "https://www.openstreetmap.org/node/12079950324"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48866,7 +48899,7 @@
         "https://www.openstreetmap.org/node/13229923199"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48900,7 +48933,7 @@
         "https://www.openstreetmap.org/node/13432491655"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48934,7 +48967,7 @@
         "https://www.openstreetmap.org/node/13565444642"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -48968,7 +49001,7 @@
         "https://www.openstreetmap.org/node/13923294400"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -49002,7 +49035,7 @@
         "https://www.openstreetmap.org/node/14006796184"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -49036,7 +49069,7 @@
         "https://www.openstreetmap.org/node/14107378201"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -49070,7 +49103,7 @@
         "https://www.openstreetmap.org/node/14212252301"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -49104,7 +49137,7 @@
         "https://www.openstreetmap.org/node/14256023377"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -49138,7 +49171,7 @@
         "https://www.openstreetmap.org/way/49887471"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -49172,7 +49205,7 @@
         "https://www.openstreetmap.org/way/49887988"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -49206,7 +49239,7 @@
         "https://www.openstreetmap.org/way/132113757"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -49240,7 +49273,7 @@
         "https://www.openstreetmap.org/way/1319907792"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -49274,7 +49307,7 @@
         "https://www.openstreetmap.org/way/1320721777"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -49308,7 +49341,7 @@
         "https://www.openstreetmap.org/way/1415360885"
       ],
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-14",
       "data_origin": "OpenStreetMap",
       "manual": false,
       "score": 35,
@@ -74687,40 +74720,6 @@
       "manual": false,
       "score": 65,
       "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 5/20, sector value 20/20, public contactability 15/15, listing gap 10/15. No visual website audit performed.",
-      "source_registry_urls": []
-    },
-    {
-      "id": "osm-node-2829160689",
-      "name": "Petr HÁJEK - PNEUSERVIS",
-      "industry": "Automotive",
-      "district": "Prague · district unverified",
-      "address": "Nad náměstím 1124/4, 15500, Praha",
-      "ico": "",
-      "website": "",
-      "website_status": "not_listed",
-      "email": "p.hajek.pneu@seznam.cz",
-      "phone": "+420 773 515 117",
-      "instagram": "",
-      "opened_at": null,
-      "registered_at": null,
-      "website_score": null,
-      "reason": "No website URL is recorded on this OpenStreetMap listing. Verify independently before claiming that the company has no website.",
-      "outreach_angle": "Research whether the business already has a website, then propose a mobile-friendly service and enquiry experience.",
-      "buying_signals": [],
-      "verification": "candidate",
-      "demo_potential": "High",
-      "offer": "Premium lead-generation website",
-      "deal_min_czk": 25000,
-      "deal_max_czk": 55000,
-      "source_urls": [
-        "https://www.openstreetmap.org/node/2829160689"
-      ],
-      "first_seen": "2026-10-11",
-      "last_seen": "2026-10-29",
-      "data_origin": "OpenStreetMap",
-      "manual": false,
-      "score": 60,
-      "score_reason": "Preliminary evidence-only score: website evidence 15/30, registered business age 0/20, sector value 20/20, public contactability 15/15, listing gap 10/15. No visual website audit performed.",
       "source_registry_urls": []
     }
   ]
