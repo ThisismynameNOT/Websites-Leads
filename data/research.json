@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-15T15:18:02.221893+00:00",
+  "generated_at": "2026-11-16T17:53:14.317144+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -10269,7 +10269,7 @@
     "osm-node-13997175495": {
       "lead_id": "osm-node-13997175495",
       "name": "ALLSAT, s.r.o.",
-      "checked_at": "2026-10-26",
+      "checked_at": "2026-11-16",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -10438,7 +10438,7 @@
     "osm-node-14115173902": {
       "lead_id": "osm-node-14115173902",
       "name": "A.G.T. Komplet s.r.o.",
-      "checked_at": "2026-10-26",
+      "checked_at": "2026-11-16",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -12163,7 +12163,7 @@
     "osm-node-332036139": {
       "lead_id": "osm-node-332036139",
       "name": "Malování interiérů Chmelík–Švec",
-      "checked_at": "2026-10-27",
+      "checked_at": "2026-11-16",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -13024,7 +13024,7 @@
     "osm-node-3840397768": {
       "lead_id": "osm-node-3840397768",
       "name": "Instalatérské potřeby Borovička",
-      "checked_at": "2026-10-27",
+      "checked_at": "2026-11-16",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -13296,7 +13296,7 @@
     "osm-node-4201850290": {
       "lead_id": "osm-node-4201850290",
       "name": "Koupelny a instalace",
-      "checked_at": "2026-10-27",
+      "checked_at": "2026-11-16",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -15623,7 +15623,7 @@
     "osm-node-5188088452": {
       "lead_id": "osm-node-5188088452",
       "name": "Li-Vi Praha s.r.o",
-      "checked_at": "2026-10-28",
+      "checked_at": "2026-11-16",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -16760,7 +16760,7 @@
     "osm-way-132113757": {
       "lead_id": "osm-way-132113757",
       "name": "ELSA Consulting s.r.o.",
-      "checked_at": "2026-11-10",
+      "checked_at": "2026-11-16",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -30665,7 +30665,7 @@
     "osm-node-296753227": {
       "lead_id": "osm-node-296753227",
       "name": "WOODWIN",
-      "checked_at": "2026-10-26",
+      "checked_at": "2026-11-16",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -33151,85 +33151,120 @@
     "res-30128684": {
       "lead_id": "res-30128684",
       "name": "FastCheck s.r.o.",
-      "checked_at": "2026-10-17",
+      "checked_at": "2026-11-16",
       "engine_version": 8,
-      "state": "audited",
+      "state": "researched",
       "discovery": {
-        "status": "partial_search",
+        "status": "searched",
         "queries": [
           "\"FastCheck s.r.o.\" IČO 30128684 web",
           "\"FastCheck s.r.o.\" Praha Construction & property kontakt",
           "\"FastCheck s.r.o.\" \"Příčná 1892\" web",
           "\"FastCheck s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 1,
+        "successful_queries": 3,
         "candidates": [
           {
-            "url": "https://www.detail.cz/firma/30128684-fastcheck-sro-pricna-1892-4-praha/",
-            "title": "Společnost FastCheck s.r.o. | Detail.cz",
-            "snippet": "Společnost FastCheck s.r.o. (IČO: 30128684) byla založena dne 8. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti."
+            "url": "https://en.wikipedia.org/wiki/Facebook",
+            "title": "Facebook - Wikipedia",
+            "snippet": "Facebook is an American social networking service owned by the American technology conglomerate Meta Platforms. It was founded in 2004 by Mark Zuckerberg, along with his Harvard College roommates and fellow students Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes."
           },
           {
-            "url": "https://www.podnikani.cz/30128684/fastcheck-sro/",
-            "title": "FastCheck s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
-            "snippet": "Hledej FastCheck s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. * Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku FastCheck s.r.o. Příčná 1892/4, Nové Město (Praha 1), 110 00 Praha , IČO: 30128684, Zákl. kapitál: 10000 Kč"
+            "url": "https://www.facebook.com/",
+            "title": "Facebook",
+            "snippet": "Connect and share with friends, family, and the world on Facebook."
           },
           {
-            "url": "https://www.epoptavka.cz/",
-            "title": "Poptávky a zakázky | ePoptávka.cz",
-            "snippet": "Poptávka: vestavěná skříň, jídelní lavice a atypická zárubeň, výroba a montáž polic, Praha před 20 hodinami Praha Nábytek Pavla K. Praha zadáno 6 poptávek"
+            "url": "https://www.facebook.com/login.php/",
+            "title": "Log into Facebook",
+            "snippet": "Email or mobile number Password"
           },
           {
-            "url": "https://zakazky.epoptavka.cz/",
-            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
-            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+            "url": "https://l.facebook.com/r.php/?display=page",
+            "title": "Facebook",
+            "snippet": "Get started on Facebook with a Meta Account A Meta Account lets you access multiple Meta technologies, like Facebook, easily and securely."
           },
           {
-            "url": "https://www.poptavka.net/",
-            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
-            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+            "url": "https://secure.facebook.com/login/",
+            "title": "Log Into Facebook",
+            "snippet": "Log into Facebook to start sharing and connecting with your friends, family, and people you know."
           },
           {
-            "url": "https://www.poptavky.cz/",
-            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
-            "snippet": "Zajištění závěrečné konference Služby Pořádání akcí, konference Služby Rauty a catering okres Praha 17. 10. 2026 (dnes)"
+            "url": "https://l.facebook.com/facebook/",
+            "title": "Facebook",
+            "snippet": "3 days ago · The comments and feedback on Facebook sparked conversations that helped me acclimate back into society.\" Nick has since turned that community into @crushclubhtx, a social club that hosts in-person events dedicated to helping others find real connections."
           },
           {
-            "url": "https://poptavky.epoptavka.cz/",
-            "title": "Databáze poptávek",
-            "snippet": "Poptávka: vestavěná skříň, jídelní lavice a atypická zárubeň, výroba a montáž polic, Praha před 13 hodinami Praha Nábytek Pavla K. Praha zadáno 6 poptávek"
+            "url": "https://upload.facebook.com/login/identify/",
+            "title": "Facebook",
+            "snippet": "Enter your mobile number or email. Mobile number or email"
+          },
+          {
+            "url": "https://apps.facebook.com/watch/",
+            "title": "Facebook Video | Facebook",
+            "snippet": "Video is the place to enjoy videos and shows together. Watch the latest reels, discover original shows and catch up with your favorite creators."
+          },
+          {
+            "url": "https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/understanding/special/emergency/hipaa-privacy-emergency-situations.pdf",
+            "title": "HIPAA Privacy in Emergency Situations - HHS.gov",
+            "snippet": "It is unnecessary to obtain a patient's permission to share the information in this situation if doing so would interfere with the organization's ability to respond to the emergency."
+          },
+          {
+            "url": "https://www.hhs.gov/hipaa/for-professionals/faq/disclosures-to-family-and-friends/index.html",
+            "title": "Disclosures to Family and Friends - HHS.gov",
+            "snippet": "Covered hospitals and other covered health care providers can use a facility directory to inform visitors or callers about a patient’s location in the facility and general condition. Yes."
+          },
+          {
+            "url": "https://www.miec.com/knowledge-library/hospital-and-physician-requirements-under-emtala/",
+            "title": "Hospital and Physician Requirements under EMTALA - MIEC",
+            "snippet": "Jan 27, 2025 · When contacted by the ED and determining whether a patient requires consultation or care for an emergency condition, you should defer to the clinical judgment of the requesting ED physician."
+          },
+          {
+            "url": "https://journalofethics.ama-assn.org/article/ama-code-medical-ethics-opinions-related-urgent-decision-making/2018-05",
+            "title": "AMA Code of Medical Ethics’ Opinions Related ... - AMA Journal of...",
+            "snippet": "In emergencies, when a decision must be made urgently, the patient is not able to participate in decision making, and the patient’s surrogate is not available, physicians may initiate treatment without prior informed consent."
+          },
+          {
+            "url": "https://www.cms.gov/files/document/emtala-know-your-rights.pdf-0",
+            "title": "Know Your Rights (EMTALA)",
+            "snippet": "The Emergency Medical Treatment and Labor Act (EMTALA) provides that any individual who presents to a covered hospital's emergency department and requests examination or treatment will be provided an appropriate medical screening examination to determine if an emergency medical condition exists."
+          },
+          {
+            "url": "https://www.tmlt.org/risk-alerts/emtala-requirements-for-on-call-physicians",
+            "title": "EMTALA: Requirements for on-call physicians - tmlt.org",
+            "snippet": "Feb 5, 2025 · Can I ask the emergency physician to send the patient to my office rather than going to the ED? CMS interpretive guidelines for EMTALA state that it is not acceptable to refer emergency cases to physicians' offices for examination and treatment."
           }
         ],
         "errors": [
-          "DDGSException: No results found.",
-          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "public_site_contacts": {
-          "emails": [],
-          "phones": [],
-          "source": "https://www.detail.cz/firma/30128684-fastcheck-sro-pricna-1892-4-praha/",
-          "evidence": "Explicit mailto/tel links on identity-matched business website"
-        },
-        "contact_matches": [],
-        "website": "https://www.detail.cz/firma/30128684-fastcheck-sro-pricna-1892-4-praha/",
-        "state": "VERIFIED_WEBSITE",
-        "identity": [
-          "Matching IČO on website",
-          "Matching business name on website",
-          "Matching Prague street address on website",
-          "Prague mentioned on website"
-        ],
+        "state": "AMBIGUOUS",
+        "website": "",
         "examined": [
           {
-            "url": "https://www.detail.cz/firma/30128684-fastcheck-sro-pricna-1892-4-praha/",
-            "result": "identity_match",
-            "evidence": [
-              "Matching IČO on website",
-              "Matching business name on website",
-              "Matching Prague street address on website",
-              "Prague mentioned on website"
-            ]
+            "url": "https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/understanding/special/emergency/hipaa-privacy-emergency-situations.pdf",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.miec.com/knowledge-library/hospital-and-physician-requirements-under-emtala/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://journalofethics.ama-assn.org/article/ama-code-medical-ethics-opinions-related-urgent-decision-making/2018-05",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.cms.gov/files/document/emtala-know-your-rights.pdf-0",
+            "result": "unreachable",
+            "reason": "not_html"
+          },
+          {
+            "url": "https://www.tmlt.org/risk-alerts/emtala-requirements-for-on-call-physicians",
+            "result": "ambiguous",
+            "evidence": []
           }
         ],
         "no_website_proven": false
@@ -33257,53 +33292,8 @@
         ]
       },
       "audit": {
-        "state": "observed",
-        "checked_at": "2026-10-17",
-        "website": "https://www.detail.cz/firma/30128684-fastcheck-sro-pricna-1892-4-praha/",
-        "devices": {
-          "desktop": {
-            "title": "Společnost FastCheck s.r.o. | Detail.cz",
-            "description": "Společnost FastCheck s.r.o. (IČO: 30128684) byla založena dne 8. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
-            "viewport_meta": true,
-            "h1_count": 15,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 57,
-            "small_text_elements": 0,
-            "broken_images": 0,
-            "images_missing_alt": 0,
-            "images_count": 14,
-            "contact_action": true,
-            "form_count": 1,
-            "booking_links": 0,
-            "http_status": 200
-          },
-          "navigation_errors": [],
-          "mobile": {
-            "title": "Společnost FastCheck s.r.o. | Detail.cz",
-            "description": "Společnost FastCheck s.r.o. (IČO: 30128684) byla založena dne 8. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
-            "viewport_meta": true,
-            "h1_count": 15,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 54,
-            "small_text_elements": 0,
-            "broken_images": 0,
-            "images_missing_alt": 0,
-            "images_count": 10,
-            "contact_action": true,
-            "form_count": 1,
-            "booking_links": 0,
-            "http_status": 200
-          }
-        },
-        "transport": {
-          "state": "https_available",
-          "http_url": null,
-          "observed_url": "https://www.detail.cz/firma/30128684-fastcheck-sro-pricna-1892-4-praha/"
-        },
-        "objective_issues": [],
-        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
-        "visual_design_review": "human_review_required",
-        "website_score": null
+        "state": "not_run",
+        "reason": "No independently verified company website"
       },
       "buying_signals": [
         {
@@ -33317,11 +33307,11 @@
         "title": "FastCheck s.r.o. — research dossier",
         "facts": [
           "The business is listed at Příčná 1892, Praha, 11000.",
-          "An independently identity-matched business website was found: https://www.detail.cz/firma/30128684-fastcheck-sro-pricna-1892-4-praha/.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
           "ARES confirms registration for IČO 30128684 dated 2026-10-08."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
         "observed_issues": [],
         "buying_signals": [
           {
@@ -33333,8 +33323,7 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30128684",
-          "https://www.detail.cz/firma/30128684-fastcheck-sro-pricna-1892-4-praha/"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30128684"
         ],
         "estimated_deal_czk": [
           30000,
@@ -33355,88 +33344,99 @@
         ]
       },
       "candidate_search_sources": [
-        "https://www.detail.cz/firma/30128684-fastcheck-sro-pricna-1892-4-praha/",
-        "https://www.podnikani.cz/30128684/fastcheck-sro/",
-        "https://www.epoptavka.cz/",
-        "https://zakazky.epoptavka.cz/",
-        "https://www.poptavka.net/",
-        "https://www.poptavky.cz/",
-        "https://poptavky.epoptavka.cz/"
+        "https://en.wikipedia.org/wiki/Facebook",
+        "https://www.facebook.com/",
+        "https://www.facebook.com/login.php/",
+        "https://l.facebook.com/r.php/?display=page",
+        "https://secure.facebook.com/login/",
+        "https://l.facebook.com/facebook/",
+        "https://upload.facebook.com/login/identify/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {
-        "emails": [],
-        "phones": [],
-        "source": "https://www.detail.cz/firma/30128684-fastcheck-sro-pricna-1892-4-praha/",
-        "evidence": "Explicit mailto/tel links on identity-matched business website"
-      },
+      "verified_site_public_contacts": {},
       "owner_verified": false,
       "buyer_interest_verified": false
     },
     "res-30128862": {
       "lead_id": "res-30128862",
       "name": "Ali Huseynov",
-      "checked_at": "2026-10-17",
+      "checked_at": "2026-11-16",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "partial_search",
+        "status": "searched",
         "queries": [
           "\"Ali Huseynov\" IČO 30128862 web",
           "\"Ali Huseynov\" Praha Construction & property kontakt",
           "\"Ali Huseynov\" \"Hornoměcholupská 663\" web",
           "\"Ali Huseynov\" Praha služby reference poptávka"
         ],
-        "successful_queries": 1,
+        "successful_queries": 4,
         "candidates": [
           {
-            "url": "https://rejstriky.finance.cz/firma-ali-huseynov-30128862/kontakty",
-            "title": "Ali Huseynov IČO 30128862 kontakty 12.10.2026 - Finance.cz",
-            "snippet": "Výpis dat pro firmu Ali Huseynov obsahuje pouze taková data, která lze dle zákona č. 110/2019 Sb., o zpracování osobních údajů, zveřejňovat i bez souhlasu subjektu těchto údajů."
+            "url": "https://en.m.wikipedia.org/wiki/Muhammad_Ali",
+            "title": "Muhammad Ali - Wikipedia",
+            "snippet": "Muhammad Ali (/ ɑːˈliː / ah-LEE; [3] born Cassius Marcellus Clay Jr.; January 17, 1942 – June 3, 2016) was an American professional boxer and activist. [a] A global cultural icon, widely known by the nickname \" the Greatest \", he is often regarded as the greatest heavyweight boxer of all time. He held the Ring magazine"
           },
           {
-            "url": "https://cz.linkedin.com/in/ali-huseynov-42347b2b2",
-            "title": "Ali Huseynov – -- | LinkedIn",
-            "snippet": "-- · Vzdělání: Czech Technical University in Prague · Lokalita: Hlavní město Praha · 1 spojení na LinkedIn. Podívejte se na profil uživatele Ali Huseynov na LinkedIn, komunitě profesionálů s..."
+            "url": "https://en.m.wikipedia.org/wiki/Ali",
+            "title": "Ali - Wikipedia",
+            "snippet": "Ali ibn Abi Talib (Arabic: عليّ بن أبي طالب, romanized: ʿAlī ibn Abī Ṭālib; c. 600 – c. 28 January 661 CE) was the fourth Rashidun caliph who ruled from 656 CE until his assassination in 661, as well as the first Shia Imam. He was the cousin and son-in-law of the Islamic prophet Muhammad. Born to Abu Talib ibn Abd al-M"
           },
           {
-            "url": "https://www.digireality.cz/inzerat/6ad0a48d5a5c25d95dbe5ee4",
-            "title": "Four-bedroom House Praha",
-            "snippet": "2 days ago · It is situated in a quiet street within walking distance to the International School of Prague in Nebušice (ISP). This property features a serviced 5+kk layout, 184 m² with a private maintained garden on a plot measuring 432 m²."
+            "url": "https://www.aliexpress.com/",
+            "title": "AliExpress - Affordable Chinese Stores & Free Shipping - Online...",
+            "snippet": "Passion shouldn't cost a fortune. On AliExpress, shop online for over 111 million affordable products from China on Fashion, Men's and Women's Clothing, Electronics, Toys, Tools, Home & Garden on our marketplace with free shipping! Login app for coupons."
           },
           {
-            "url": "https://www.linkedin.com/pub/dir/ali/huseynov",
-            "title": "100+ \"Ali Huseynov\" profiles | LinkedIn",
-            "snippet": "There are 100+ professionals named \"Ali Huseynov\", who use LinkedIn to exchange information, ideas, and opportunities."
+            "url": "https://www.alibaba.com/",
+            "title": "Alibaba.com: Manufacturers, Suppliers, Exporters & Importers from...",
+            "snippet": "Find quality Manufacturers, Suppliers, Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trade Site. Import & Export on alibaba.com"
           },
           {
-            "url": "https://www.instagram.com/elihuseynov__/",
-            "title": "Ali Huseynov (@elihuseynov__) • Instagram photos and videos",
-            "snippet": "360 Followers, 336 Following, 11 Posts - Ali Huseynov (@elihuseynov__) on Instagram: \"#26 #branchmanager\""
+            "url": "https://m.imdb.com/title/tt0248667/",
+            "title": "Ali (2001) - IMDb",
+            "snippet": "Dec 25, 2001 · Ali: Directed by Michael Mann. With Will Smith, Jamie Foxx, Jon Voight, Mario Van Peebles. A biography of sports legend Muhammad Ali, focusing on his triumphs and controversies between 1964 and 1974."
           },
           {
-            "url": "https://cz.linkedin.com/in/al1husynv",
-            "title": "Ali Huseynov – -- | LinkedIn",
-            "snippet": "Originally from Baku, Azerbaijan, I moved to Prague to pursue my studies and gain international experience. I am motivated to understand how global trade, transportation systems, and business..."
+            "url": "https://www.aliexpress.com/s/aff-third-party-landing/aliexpress",
+            "title": "AliExpress",
+            "snippet": "The 2026 Upgraded E88PRO MAX Foldable Drone Features Dual Cameras, Extra Batteries, an 8K Screen for Remote Control, and One-click Return-to-home Functionality. Suitable for Beginners, It's an Ideal Independence Day or Holiday Gift."
           },
           {
-            "url": "https://az.linkedin.com/in/ali-huseynov-4736728a",
-            "title": "Ali Huseynov - Senior Project Coordinator| Real Estate ...",
-            "snippet": "Senior Project Coordinator with experience coordinating complex operations across real estate development, financial services, legal operations, and international stakeholder environments."
+            "url": "https://www.britannica.com/biography/Muhammad-Ali-boxer",
+            "title": "Muhammad Ali | Record, Quotes, Rumble in the Jungle, Real Name, &...",
+            "snippet": "2 days ago · Muhammad Ali was a charismatic and fearless boxing legend who fascinated the world with his unmatched skills in the ring and unwavering commitment to social justice."
+          },
+          {
+            "url": "https://m.imdb.com/name/nm0000738/",
+            "title": "Muhammad Ali - IMDb",
+            "snippet": "Muhammad Ali. Actor: The Greatest. Muhammad Ali beat more champions and top contenders than any heavyweight champion in history. He defeated heavyweight kings Sonny Liston (twice), Floyd Patterson (twice), Ernie Terrell, Jimmy Ellis, Ken Norton (twice), Joe Frazier (twice), George Foreman and Leon Spinks."
           }
         ],
-        "errors": [
-          "DDGSException: No results found.",
-          "DDGSException: No results found.",
-          "DDGSException: No results found."
-        ],
+        "errors": [],
         "state": "AMBIGUOUS",
         "website": "",
         "examined": [
           {
-            "url": "https://www.digireality.cz/inzerat/6ad0a48d5a5c25d95dbe5ee4",
+            "url": "https://www.aliexpress.com/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.alibaba.com/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://m.imdb.com/title/tt0248667/",
+            "result": "unreachable",
+            "reason": "HTTP_202"
+          },
+          {
+            "url": "https://www.britannica.com/biography/Muhammad-Ali-boxer",
             "result": "unreachable",
             "reason": "HTTP_403"
           }
@@ -33502,13 +33502,13 @@
         ]
       },
       "candidate_search_sources": [
-        "https://rejstriky.finance.cz/firma-ali-huseynov-30128862/kontakty",
-        "https://cz.linkedin.com/in/ali-huseynov-42347b2b2",
-        "https://www.digireality.cz/inzerat/6ad0a48d5a5c25d95dbe5ee4",
-        "https://www.linkedin.com/pub/dir/ali/huseynov",
-        "https://www.instagram.com/elihuseynov__/",
-        "https://cz.linkedin.com/in/al1husynv",
-        "https://az.linkedin.com/in/ali-huseynov-4736728a"
+        "https://en.m.wikipedia.org/wiki/Muhammad_Ali",
+        "https://en.m.wikipedia.org/wiki/Ali",
+        "https://www.aliexpress.com/",
+        "https://www.alibaba.com/",
+        "https://m.imdb.com/title/tt0248667/",
+        "https://www.aliexpress.com/s/aff-third-party-landing/aliexpress",
+        "https://www.britannica.com/biography/Muhammad-Ali-boxer"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
@@ -33520,9 +33520,9 @@
     "res-30129001": {
       "lead_id": "res-30129001",
       "name": "SPACE projects s.r.o.",
-      "checked_at": "2026-10-17",
+      "checked_at": "2026-11-16",
       "engine_version": 8,
-      "state": "audited",
+      "state": "researched",
       "discovery": {
         "status": "searched",
         "queries": [
@@ -33531,105 +33531,99 @@
           "\"SPACE projects s.r.o.\" \"Korunní 2569\" web",
           "\"SPACE projects s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 2,
+        "successful_queries": 3,
         "candidates": [
           {
-            "url": "https://efirma.sk/firma/space-projects-sro-30129001",
-            "title": "eFirma.sk | SPACE projects s.r.o. – IČO 30129001, tržby a zisk",
-            "snippet": "Aktívna Adresa Korunní 2569/108, Vinohrady, 10100 Praha 10 Základné údaje IČO 30129001 Súhrn Financie Ľudia Podnikanie Verejný sektor Riziko Kataster Súhrn Financie Ľudia Podnikanie Verejný sektor Riziko Kataster"
+            "url": "https://en.m.wikipedia.org/wiki/Space",
+            "title": "Space - Wikipedia",
+            "snippet": "Several space-related phobias have been identified, including agoraphobia (the fear of open spaces), astrophobia (the fear of celestial space) and claustrophobia (the fear of enclosed spaces)."
           },
           {
-            "url": "https://www.podnikani.cz/30129001/space-projects-sro/",
-            "title": "SPACE projects s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
-            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku SPACE projects s.r.o. Korunní 2569/108, Vinohrady, 10100 Praha 10 , IČO: 30129001, Zákl. kapitál: 1000 Kč"
+            "url": "https://en.m.wikipedia.org/wiki/Outer_space",
+            "title": "Outer space - Wikipedia",
+            "snippet": "The immense scale of outer space was grasped in the 20th century when the distance to the Andromeda Galaxy was first measured. Humans began the physical exploration of space later in the same century with the advent of high-altitude balloon flights."
           },
           {
-            "url": "https://www.eurobydleni.cz/rodinny-dum-pronajem-na-ruzku-liberec-xi-ruzodol-i-liberec/detail/10203980/",
-            "title": "Rodinný dům, pronájem, Na Růžku, Liberec XI-Růžodol I ...Virginia Department of Criminal Justice Services | Virginia ...Opportunity Home San AntonioKinard Middle School_Oct 2026_v.",
-            "snippet": "Pronájem rodinného domu 5+1 se zahradou, 160 m Liberec, Růžodol I Hledáte rodinný dům, kde budete mít dostatek prostoru, vlastní zahradu a přitom zůstanete na dosah centra Liberce ? Pak . Virginia Department of Criminal Justice Services An official website of the Commonwealth of Virginia Here's how you know 2 days ago "
+            "url": "https://www.space.com/",
+            "title": "Space.com: NASA, Space Exploration and Astronomy News",
+            "snippet": "17 hours ago · Get the latest space exploration, innovation and astronomy news. Space.com celebrates humanity's ongoing expansion across the final frontier."
           },
           {
-            "url": "https://www.dcjs.virginia.gov/",
-            "title": "Virginia Department of Criminal Justice Services | Virginia ...",
-            "snippet": "Virginia Department of Criminal Justice Services An official website of the Commonwealth of Virginia Here's how you know"
+            "url": "https://www.spacex.com/",
+            "title": "SpaceX",
+            "snippet": "Nov 6, 2026 · Since returning human spaceflight capabilities to the United States in 2020, SpaceX is helping build a new era where not just hundreds of people, but thousands and ultimately millions will be able to explore space."
           },
           {
-            "url": "https://homesa.org/",
-            "title": "Opportunity Home San Antonio",
-            "snippet": "2 days ago · Opportunity Home San Antonio helps with access to affordable housing, social services, and a close-knit community dedicated to helping each other."
+            "url": "https://www.space.com/news",
+            "title": "Space News - Latest Space and Astronomy News | Space",
+            "snippet": "17 hours ago · Space.com is your source for the latest astronomy news and space discoveries, live coverage of space flights and the science of space travel. | Space"
           },
           {
-            "url": "https://kin.psdschools.org/ric/sites/kin/files/2026-10/Kinard+Middle+School_Oct+2026_v.2a.pdf",
-            "title": "Kinard Middle School_Oct 2026_v.2_affinity - kin.psdschools.org",
-            "snippet": "Community Extravaganza Our fi h annual Community Extravaganza and Wellness Fair was a huge success! We loved seeing our community come together for some good food, fun, socializing, and connec ng with community partners. Thank you to all who came out to this event in early September and to the many local businesses who"
+            "url": "https://starwalk.space/en/news/what-is-space",
+            "title": "What Is Space? Definition, What It Looks Like & What’s in It",
+            "snippet": "May 13, 2026 · What is space? A beginner-friendly guide to outer space, what it’s made of, what objects fill the Universe, and which of them you can see tonight."
           },
           {
-            "url": "https://www.finance-ni.gov.uk/",
-            "title": "Home | Department of Finance",
-            "snippet": "Oct 1, 2026 · Cookies on www.finance-ni.gov.uk We use some essential cookies to make this service work. We’d like to set additional cookies so we can remember your settings, understand how people use the service and make improvements. Some of our pages allow selected third parties to set cookies – for example, pages th"
+            "url": "https://antrosphere.space/",
+            "title": "Atlas of Space · Real-time 3D Solar System & Milky Way",
+            "snippet": "Fly through the Solar System in real time, then out to the stars, 6,000+ exoplanets, black holes, nebulae and the Milky Way. A live 3D atlas in your browser."
           },
           {
-            "url": "https://rejstrik-firem.kurzy.cz/30129001/space-projects-sro/zivnosti/",
-            "title": "SPACE projects s.r.o. - Živnostenský rejstřík | Kurzy.cz",
-            "snippet": "SPACE projects s.r.o., firma – kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
+            "url": "https://www.nasa.gov/",
+            "title": "NASA",
+            "snippet": "3 days ago · NASA.gov brings you the latest news, images and videos from America's space agency, pioneering the future in space exploration, scientific discovery and aeronautics research."
           },
           {
-            "url": "https://www.epoptavka.cz/",
-            "title": "Poptávky a zakázky | ePoptávka.cz",
-            "snippet": "Poptávka: vestavěná skříň, jídelní lavice a atypická zárubeň, výroba a montáž polic, Praha před 20 hodinami Praha Nábytek Pavla K. Praha zadáno 6 poptávek"
+            "url": "https://en.wikipedia.org/wiki/Space",
+            "title": "Space - Wikipedia",
+            "snippet": "Several space-related phobias have been identified, including agoraphobia (the fear of open spaces), astrophobia (the fear of celestial space) and claustrophobia (the fear of enclosed spaces)."
           },
           {
-            "url": "https://zakazky.epoptavka.cz/",
-            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
-            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+            "url": "https://en.wikipedia.org/wiki/Outer_space",
+            "title": "Outer space - Wikipedia",
+            "snippet": "The immense scale of outer space was grasped in the 20th century when the distance to the Andromeda Galaxy was first measured. Humans began the physical exploration of space later in the same century with the advent of high-altitude balloon flights."
           },
           {
-            "url": "https://www.poptavky.cz/",
-            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
-            "snippet": "Zajištění závěrečné konference Služby Pořádání akcí, konference Služby Rauty a catering okres Praha 17. 10. 2026 (dnes)"
-          },
-          {
-            "url": "https://www.poptavka.net/",
-            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
-            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+            "url": "https://science.nasa.gov/universe/",
+            "title": "Universe - NASA Science",
+            "snippet": "Nov 2, 2026 · Discover the universe: Learn about the history of the cosmos, what it's made of, and so much more. Concentrations of matter with gravity so powerful not even light can escape. Collections of stars, planets, and vast clouds of gas and dust bound together by gravity. Worlds beyond our solar system."
           }
         ],
         "errors": [
-          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "public_site_contacts": {
-          "emails": [
-            "info@aliaweb.cz"
-          ],
-          "phones": [],
-          "source": "https://www.podnikani.cz/30129001/space-projects-sro/",
-          "evidence": "Explicit mailto/tel links on identity-matched business website"
-        },
-        "contact_matches": [],
-        "website": "https://www.podnikani.cz/30129001/space-projects-sro/",
-        "state": "VERIFIED_WEBSITE",
-        "identity": [
-          "Matching IČO on website",
-          "Matching business name on website",
-          "Matching Prague street address on website",
-          "Prague mentioned on website"
-        ],
+        "state": "AMBIGUOUS",
+        "website": "",
         "examined": [
           {
-            "url": "https://efirma.sk/firma/space-projects-sro-30129001",
-            "result": "unreachable",
-            "reason": "HTTP_429"
+            "url": "https://www.space.com/",
+            "result": "ambiguous",
+            "evidence": []
           },
           {
-            "url": "https://www.podnikani.cz/30129001/space-projects-sro/",
-            "result": "identity_match",
-            "evidence": [
-              "Matching IČO on website",
-              "Matching business name on website",
-              "Matching Prague street address on website",
-              "Prague mentioned on website"
-            ]
+            "url": "https://www.spacex.com/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://starwalk.space/en/news/what-is-space",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://antrosphere.space/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.nasa.gov/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://science.nasa.gov/universe/",
+            "result": "ambiguous",
+            "evidence": []
           }
         ],
         "no_website_proven": false
@@ -33657,60 +33651,8 @@
         ]
       },
       "audit": {
-        "state": "observed",
-        "checked_at": "2026-10-17",
-        "website": "https://www.podnikani.cz/30129001/space-projects-sro/",
-        "devices": {
-          "desktop": {
-            "title": "SPACE projects s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
-            "description": "SPACE projects s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě SPACE projects s.r.o. z českého obchodního rejstříku a",
-            "viewport_meta": true,
-            "h1_count": 5,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 40,
-            "small_text_elements": 0,
-            "broken_images": 0,
-            "images_missing_alt": 3,
-            "images_count": 20,
-            "contact_action": true,
-            "form_count": 2,
-            "booking_links": 0,
-            "http_status": 200
-          },
-          "navigation_errors": [],
-          "mobile": {
-            "title": "SPACE projects s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
-            "description": "SPACE projects s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě SPACE projects s.r.o. z českého obchodního rejstříku a",
-            "viewport_meta": true,
-            "h1_count": 5,
-            "horizontal_overflow_px": 486,
-            "visible_text_elements": 40,
-            "small_text_elements": 0,
-            "broken_images": 0,
-            "images_missing_alt": 3,
-            "images_count": 20,
-            "contact_action": true,
-            "form_count": 2,
-            "booking_links": 0,
-            "http_status": 200
-          }
-        },
-        "transport": {
-          "state": "https_available",
-          "http_url": null,
-          "observed_url": "https://www.podnikani.cz/30129001/space-projects-sro/"
-        },
-        "objective_issues": [
-          {
-            "issue": "Measured mobile horizontal overflow",
-            "detail": "486 CSS pixels",
-            "method": "Playwright viewport 390px",
-            "url": "https://www.podnikani.cz/30129001/space-projects-sro/"
-          }
-        ],
-        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
-        "visual_design_review": "human_review_required",
-        "website_score": null
+        "state": "not_run",
+        "reason": "No independently verified company website"
       },
       "buying_signals": [
         {
@@ -33724,20 +33666,12 @@
         "title": "SPACE projects s.r.o. — research dossier",
         "facts": [
           "The business is listed at Korunní 2569, Praha, 10100.",
-          "An independently identity-matched business website was found: https://www.podnikani.cz/30129001/space-projects-sro/.",
-          "ARES confirms registration for IČO 30129001 dated 2026-10-08.",
-          "Browser-observed issue: Measured mobile horizontal overflow."
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30129001 dated 2026-10-08."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Show a measured measured mobile horizontal overflow fix in a private demo, and ask if improving enquiries is a priority.",
-        "observed_issues": [
-          {
-            "issue": "Measured mobile horizontal overflow",
-            "detail": "486 CSS pixels",
-            "method": "Playwright viewport 390px",
-            "url": "https://www.podnikani.cz/30129001/space-projects-sro/"
-          }
-        ],
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
         "buying_signals": [
           {
             "claim": "Registered in the previous 24 months (ARES)",
@@ -33748,8 +33682,7 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30129001",
-          "https://www.podnikani.cz/30129001/space-projects-sro/"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30129001"
         ],
         "estimated_deal_czk": [
           30000,
@@ -33770,34 +33703,27 @@
         ]
       },
       "candidate_search_sources": [
-        "https://efirma.sk/firma/space-projects-sro-30129001",
-        "https://www.podnikani.cz/30129001/space-projects-sro/",
-        "https://www.eurobydleni.cz/rodinny-dum-pronajem-na-ruzku-liberec-xi-ruzodol-i-liberec/detail/10203980/",
-        "https://www.dcjs.virginia.gov/",
-        "https://homesa.org/",
-        "https://kin.psdschools.org/ric/sites/kin/files/2026-10/Kinard+Middle+School_Oct+2026_v.2a.pdf",
-        "https://www.finance-ni.gov.uk/"
+        "https://en.m.wikipedia.org/wiki/Space",
+        "https://en.m.wikipedia.org/wiki/Outer_space",
+        "https://www.space.com/",
+        "https://www.spacex.com/",
+        "https://www.space.com/news",
+        "https://starwalk.space/en/news/what-is-space",
+        "https://antrosphere.space/"
       ],
-      "website_need_verified": true,
+      "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {
-        "emails": [
-          "info@aliaweb.cz"
-        ],
-        "phones": [],
-        "source": "https://www.podnikani.cz/30129001/space-projects-sro/",
-        "evidence": "Explicit mailto/tel links on identity-matched business website"
-      },
+      "verified_site_public_contacts": {},
       "owner_verified": false,
       "buyer_interest_verified": false
     },
     "res-30129591": {
       "lead_id": "res-30129591",
       "name": "CONBADDO s.r.o.",
-      "checked_at": "2026-10-18",
+      "checked_at": "2026-11-16",
       "engine_version": 8,
-      "state": "audited",
+      "state": "researched",
       "discovery": {
         "status": "searched",
         "queries": [
@@ -33809,69 +33735,116 @@
         "successful_queries": 3,
         "candidates": [
           {
-            "url": "https://www.chytryrejstrik.cz/ico-30129591/conbaddo-s-r-o",
-            "title": "CONBADDO s.r.o. - rizika, majitel, obchodní rejstřík, databáze firem",
-            "snippet": "CONBADDO s.r.o. Sídlo Praha. IČO: 30129591. Majitelé a statutární orgány. Rejstřík podnikatelů. Rok založení 2026. Rizikové signály firmy."
+            "url": "https://www.cricinfo.com/team/india-6/match-schedule-fixtures-and-results",
+            "title": "India Cricket Team Schedule, Results & Timetable - ESPNcricinfo",
+            "snippet": "Stay updated with the India cricket team schedules, fixtures, and results. Find live cricket scores and upcoming matches on Cricinfo."
           },
           {
-            "url": "https://www.podnikani.cz/30129591/conbaddo-sro/",
-            "title": "CONBADDO s.r.o. - obchodní rejstřík, vizualizace vztahů firem ...",
-            "snippet": "CONBADDO s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku CONBADDO s.r.o. Plzeňská 3352/156, Smíchov, 15000 Praha 5 , IČO: 30129591, Zákl. kapitál: 1000 Kč"
+            "url": "https://sports.ndtv.com/cricket/teams/6-india-teamprofile/schedules-fixtures",
+            "title": "India Cricket Team Schedule Fixtures - NDTV Sports",
+            "snippet": "21 hours ago · Get the India Cricket Team full schedule of ODIs, T20s and Test Matches, list of all upcoming matches of India Cricket Team cricket team at NDTV Sports."
           },
           {
-            "url": "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
-            "title": "Construction & Property Management s.r.o. , Praha IČO ...",
-            "snippet": "May 12, 2026 · Kde je sídlo firmy Construction & Property Management s.r.o.? Sídlo firmy Construction & Property Management s.r.o. je Na příkopě 859/22, Nové Město (Praha 1), 110 00 Praha."
+            "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/match-schedule-fixtures-and-results",
+            "title": "India tour of New Zealand 2026 - Fixtures & Results",
+            "snippet": "Track latest match scores, schedule, and results of India tour of New Zealand."
           },
           {
-            "url": "https://www.dnb.com/business-directory/company-profiles.construction__property_management_sro.1bdc8fee497d5e456c7c635e948146f0.html",
-            "title": "Construction & Property Management s.r.o. Company Profile ...",
-            "snippet": "Printer Friendly View Address: Na příkopě 859/22 Praha 1 - Nové Město, Hlavní město Praha, 110 00 Czech Republic See other locations"
+            "url": "https://www.espn.com/cricket/scores/team/6/india",
+            "title": "India Cricket Team 2026 Schedules, Fixtures & Results - ESPN",
+            "snippet": "Read India Cricket Team 2026 Schedule, Match Fixtures only on ESPN.com. Check India's latest Series, Matches Results Online Today."
           },
           {
-            "url": "https://www.dnb.com/business-directory/company-profiles.kontakt_construction_sro.aad7086cabc6192aaf5015185b1cdb0e.html",
-            "title": "KONTAKT CONSTRUCTION s.r.o. Company Profile | Praha, Hlavní ...Construction Prague • Firmy.czKONTAKT CONSTRUCTION s.r.o. , Praha IČO 29037883 - Obchodní ...",
-            "snippet": "Find company research, competitor information, contact details & financial data for KONTAKT CONSTRUCTION s.r.o. of Praha, Hlavní město Praha. Get the latest business insights from Dun & Bradstreet. From the sale of land, purchase of an apartment, financing, to the actual construction or reconstruction of your property."
+            "url": "https://www.cricbuzz.com/cricket-team/india/2",
+            "title": "India Cricket Team matches, scorecards, news and statistics",
+            "snippet": "1 day ago · Three of the six ICC events for which windows have been announced fall within a favourable time in the year for India leaving it to the BCCI to decide which events to bid for. Despite the win,..."
           },
           {
-            "url": "https://en.firmy.cz/Trades-and-services/Construction/kraj-praha",
-            "title": "Construction Prague • Firmy.cz",
-            "snippet": "From the sale of land, purchase of an apartment, financing, to the actual construction or reconstruction of your property. We have interesting development projects that we build to fulfill your ideas of a new home."
+            "url": "https://www.indiacricketschedule.com/2026/10/india-home-season-2026-27-full-schedule.html",
+            "title": "India Home Season 2026-27 Full Schedule, All Series, Fixtures,...",
+            "snippet": "Oct 9, 2026 · India Home Season 2026-27 Full Schedule, All Series, Fixtures, Venues and Match List. Check The home international season for India fixtures updates."
           },
           {
-            "url": "https://rejstrik-firem.kurzy.cz/29037883/kontakt-construction-sro/",
-            "title": "KONTAKT CONSTRUCTION s.r.o. , Praha IČO 29037883 - Obchodní ...",
-            "snippet": "Tato stránka obsahuje aktuální výpis údajů firmy KONTAKT CONSTRUCTION s.r.o. Údaje byly staženy 3. května 2021 z datové služby justice.cz dle IČO 29037883 a údaje ve výpise nebyly dle systému ARES do dnešního dne změněny."
+            "url": "https://www.cricketdaily.net/article/news/india-tour-of-new-zealand-2026-preview-schedule",
+            "title": "India Tour of New Zealand 2026: Schedule, Squads and Where to...",
+            "snippet": "Sep 25, 2026 · India tour of New Zealand 2026: full 12-match schedule in local, IST and ET, broadcast channels, and a blockbuster across all three formats, including two WTC Tests."
+          },
+          {
+            "url": "https://www.cricbuzz.com/cricket-schedule/upcoming-series/international",
+            "title": "Cricket Schedule 2026 - IPL 2026, International, domestic ... - ...",
+            "snippet": "1 day ago · Full 2026 cricket schedule: IPL 2026, all international & domestic T20 matches. Timings, venues & live scores on Cricbuzz."
+          },
+          {
+            "url": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/",
+            "title": "Member Home",
+            "snippet": "NEW Dear Member, UAN activation for existing UANs and generation of new UANs can be done through the UMANG app."
+          },
+          {
+            "url": "https://www.unifiedportal-mem.epfindia.gov.in/memberInterfacePohw/member",
+            "title": "Member Home",
+            "snippet": "Jul 10, 2026 · Access EPFO services, update member profiles, and manage UAN through the Unified Member Portal."
+          },
+          {
+            "url": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/no-auth/uanservice/screenredirect?_HDIV_STATE_=2-0-53D8DC048345D1D362A9C5162B9EE0DA",
+            "title": "EPFO Member Portal",
+            "snippet": "EPFO Member Portal"
+          },
+          {
+            "url": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/no-auth/uanActivation/activationForm?_HDIV_STATE_=20-13-E58E5F3A3855A6692101E80EBF75FBF7",
+            "title": "EPFO Member Portal",
+            "snippet": "EPFO Member Portal"
+          },
+          {
+            "url": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/member/profile/changeProfileDetails?_HDIV_STATE_=23-27-7D6CA84BA869826CDF5B8A08C048A7DB",
+            "title": "EPFO Member Portal",
+            "snippet": "EPFO Member Portal"
+          },
+          {
+            "url": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/no-auth/memberalerts/uploads?filepath=QWozdstSf9.pdf&_HDIV_STATE_=19-4-3E72C1713D7C3AF6DF8964AC38A8E59A",
+            "title": "EPFO Member Portal",
+            "snippet": "EPFO Member Portal"
           }
         ],
         "errors": [
           "DDGSException: No results found."
         ],
-        "public_site_contacts": {
-          "emails": [],
-          "phones": [],
-          "source": "https://www.chytryrejstrik.cz/ico-30129591/conbaddo-s-r-o",
-          "evidence": "Explicit mailto/tel links on identity-matched business website"
-        },
-        "contact_matches": [],
-        "website": "https://www.chytryrejstrik.cz/ico-30129591/conbaddo-s-r-o",
-        "state": "VERIFIED_WEBSITE",
-        "identity": [
-          "Matching IČO on website",
-          "Matching business name on website",
-          "Matching Prague street address on website",
-          "Prague mentioned on website"
-        ],
+        "state": "AMBIGUOUS",
+        "website": "",
         "examined": [
           {
-            "url": "https://www.chytryrejstrik.cz/ico-30129591/conbaddo-s-r-o",
-            "result": "identity_match",
-            "evidence": [
-              "Matching IČO on website",
-              "Matching business name on website",
-              "Matching Prague street address on website",
-              "Prague mentioned on website"
-            ]
+            "url": "https://www.cricinfo.com/team/india-6/match-schedule-fixtures-and-results",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://sports.ndtv.com/cricket/teams/6-india-teamprofile/schedules-fixtures",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.espn.com/cricket/scores/team/6/india",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.cricbuzz.com/cricket-team/india/2",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.indiacricketschedule.com/2026/10/india-home-season-2026-27-full-schedule.html",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.cricketdaily.net/article/news/india-tour-of-new-zealand-2026-preview-schedule",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/",
+            "result": "ambiguous",
+            "evidence": []
           }
         ],
         "no_website_proven": false
@@ -33899,53 +33872,8 @@
         ]
       },
       "audit": {
-        "state": "observed",
-        "checked_at": "2026-10-18",
-        "website": "https://www.chytryrejstrik.cz/ico-30129591/conbaddo-s-r-o",
-        "devices": {
-          "desktop": {
-            "title": "CONBADDO s.r.o. - rizika, majitel, obchodní rejstřík, databáze firem",
-            "description": "CONBADDO s.r.o. Sídlo Praha. IČO: 30129591. Majitelé a statutární orgány. Rejstřík podnikatelů. Rok založení 2026. Rizikové signály firmy. ",
-            "viewport_meta": true,
-            "h1_count": 1,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 163,
-            "small_text_elements": 2,
-            "broken_images": 0,
-            "images_missing_alt": 0,
-            "images_count": 44,
-            "contact_action": false,
-            "form_count": 1,
-            "booking_links": 0,
-            "http_status": 200
-          },
-          "navigation_errors": [],
-          "mobile": {
-            "title": "CONBADDO s.r.o. - rizika, majitel, obchodní rejstřík, databáze firem",
-            "description": "CONBADDO s.r.o. Sídlo Praha. IČO: 30129591. Majitelé a statutární orgány. Rejstřík podnikatelů. Rok založení 2026. Rizikové signály firmy. ",
-            "viewport_meta": true,
-            "h1_count": 1,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 126,
-            "small_text_elements": 8,
-            "broken_images": 0,
-            "images_missing_alt": 0,
-            "images_count": 44,
-            "contact_action": false,
-            "form_count": 1,
-            "booking_links": 0,
-            "http_status": 200
-          }
-        },
-        "transport": {
-          "state": "https_available",
-          "http_url": null,
-          "observed_url": "https://www.chytryrejstrik.cz/ico-30129591/conbaddo-s-r-o"
-        },
-        "objective_issues": [],
-        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
-        "visual_design_review": "human_review_required",
-        "website_score": null
+        "state": "not_run",
+        "reason": "No independently verified company website"
       },
       "buying_signals": [
         {
@@ -33959,11 +33887,11 @@
         "title": "CONBADDO s.r.o. — research dossier",
         "facts": [
           "The business is listed at Plzeňská 3352, Praha, 15000.",
-          "An independently identity-matched business website was found: https://www.chytryrejstrik.cz/ico-30129591/conbaddo-s-r-o.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
           "ARES confirms registration for IČO 30129591 dated 2026-10-09."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
         "observed_issues": [],
         "buying_signals": [
           {
@@ -33975,8 +33903,7 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30129591",
-          "https://www.chytryrejstrik.cz/ico-30129591/conbaddo-s-r-o"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30129591"
         ],
         "estimated_deal_czk": [
           30000,
@@ -33997,32 +33924,27 @@
         ]
       },
       "candidate_search_sources": [
-        "https://www.chytryrejstrik.cz/ico-30129591/conbaddo-s-r-o",
-        "https://www.podnikani.cz/30129591/conbaddo-sro/",
-        "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
-        "https://www.dnb.com/business-directory/company-profiles.construction__property_management_sro.1bdc8fee497d5e456c7c635e948146f0.html",
-        "https://www.dnb.com/business-directory/company-profiles.kontakt_construction_sro.aad7086cabc6192aaf5015185b1cdb0e.html",
-        "https://en.firmy.cz/Trades-and-services/Construction/kraj-praha",
-        "https://rejstrik-firem.kurzy.cz/29037883/kontakt-construction-sro/"
+        "https://www.cricinfo.com/team/india-6/match-schedule-fixtures-and-results",
+        "https://sports.ndtv.com/cricket/teams/6-india-teamprofile/schedules-fixtures",
+        "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/match-schedule-fixtures-and-results",
+        "https://www.espn.com/cricket/scores/team/6/india",
+        "https://www.cricbuzz.com/cricket-team/india/2",
+        "https://www.indiacricketschedule.com/2026/10/india-home-season-2026-27-full-schedule.html",
+        "https://www.cricketdaily.net/article/news/india-tour-of-new-zealand-2026-preview-schedule"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {
-        "emails": [],
-        "phones": [],
-        "source": "https://www.chytryrejstrik.cz/ico-30129591/conbaddo-s-r-o",
-        "evidence": "Explicit mailto/tel links on identity-matched business website"
-      },
+      "verified_site_public_contacts": {},
       "owner_verified": false,
       "buyer_interest_verified": false
     },
     "res-30129711": {
       "lead_id": "res-30129711",
       "name": "BOKOCLEAN s.r.o.",
-      "checked_at": "2026-10-18",
+      "checked_at": "2026-11-16",
       "engine_version": 8,
-      "state": "audited",
+      "state": "researched",
       "discovery": {
         "status": "searched",
         "queries": [
@@ -34031,104 +33953,130 @@
           "\"BOKOCLEAN s.r.o.\" \"Sokolská 1883\" web",
           "\"BOKOCLEAN s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 3,
+        "successful_queries": 2,
         "candidates": [
           {
-            "url": "https://www.podnikani.cz/30129711/bokoclean-sro/",
-            "title": "BOKOCLEAN s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
-            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku BOKOCLEAN s.r.o. Sokolská 1883/8, Nové Město, 12000 Praha 2 , IČO: 30129711, Zákl. kapitál: 5000 Kč"
+            "url": "https://thecleaners.net/",
+            "title": "Greeley Dry Cleaner & Alterations | Nu-Way Cleaners",
+            "snippet": "Nuway Cleaners offers Home and Business Delivery Service for all of your dry cleaning needs. Nuway Cleaners also provides professional dry cleaning, laundry and alteration services – conveniently picked up and delivered right to your office or home."
           },
           {
-            "url": "https://www.realcity.cz/en/property/to-rent-commercial-praha-kutnohorska-4425646",
-            "title": "To rent commercial - Praha, Kutnohorská - REALCITY.cz",
-            "snippet": "2 days ago · To rent commercial 348 m² - Praha, Kutnohorská Other listings from this agency Last update16.10.2026 Contract IDd270f96b-29d3-4997-90c8-e8a610369dd1 Flooring348 m² Tenureother ownership Construction typeprefabricated Property conditionnew build Floorground floor more information"
+            "url": "https://thecleaners.net/locations/",
+            "title": "Locations | Nu-Way Cleaners",
+            "snippet": "Nu-Way Cleaners Serving Weld County Colorado About Us Drying Cleaning and Laundry Services ... Coupons SMRT Tips Locations"
           },
           {
-            "url": "https://www.digireality.cz/inzerat/6ad0a48d5a5c25d95dbe5ee4",
-            "title": "Four-bedroom House Praha",
-            "snippet": "3 days ago · Welcome to a newly built family home with a swimming pool in the sought-after location of Prague 6 - Nebušice. It is situated in a quiet street within walking distance to the International School of Prague in Nebušice (ISP). This property features a serviced 5+kk layout, 184 m² with a private maintained ga"
+            "url": "https://nuwaydrycleaner.com/",
+            "title": "Nu-Way Dry Cleaners & Tailors",
+            "snippet": "Nu-Way Dry Cleaners offers professional dry cleaning services, including eco-friendly Green Earth cleaning and sneaker cleaning. Book an appointment now!"
           },
           {
-            "url": "https://www.sreality.cz/en/project-detail/villa-frame/39659",
-            "title": "VILLA FRAME • Sreality.cz",
-            "snippet": "1 property in the current offer of properties in the development project VILLA FRAME The largest offer of real estate in the Czech Republic (110,226 estates) with search on the map and filtering with dozens of parameters"
+            "url": "https://www.yelp.com/biz/nu-way-cleaners-greeley-6",
+            "title": "NU-WAY CLEANERS - Updated November 2026 - 22 Reviews - 2012 35th...",
+            "snippet": "22 reviews of NU-WAY CLEANERS \"I have been coming to this cleaners for a long time and every time it's the best experience I could want. They are accurate on estimating the time it will take to be done and they will be honest with the price."
           },
           {
-            "url": "https://vces.cz/",
-            "title": "Skupina VCES",
-            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+            "url": "https://nuway-ecocleaners.com/",
+            "title": "NuWay Cleaners",
+            "snippet": "Professional dry cleaning and tailoring services in Brooklyn. Quality garment care, competitive pricing, and exceptional service."
           },
           {
-            "url": "https://www.skanska.com/cz/cs",
-            "title": "Skanska v České republice",
-            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+            "url": "https://laundromaps.com/colorado/greeley/nu-way-cleaners-at-westlake-greeley/",
+            "title": "Nu-Way Cleaners at Westlake, Greeley, CO: Hours & Services",
+            "snippet": "Nu-Way Cleaners offers a comprehensive suite of professional garment care services tailored to your needs. Utilizing state-of-the-art machines and an environmentally friendly Green Earth detergent, the company provides exceptional dry cleaning results."
           },
           {
-            "url": "https://www.facebook.com/DaramisGroup/",
-            "title": "Daramis | Prague - Facebook",
-            "snippet": "3 days ago · Daramis, Prague. 5,985 followers · 23 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy."
+            "url": "https://nuwaycleaners.org/",
+            "title": "NU WAY CLEANERS",
+            "snippet": "At Nu Way Cleaners, we specialize in high-quality garment care tailored to your needs. Whether it's everyday wear, formal attire, or commercial laundry, our expert team is here to deliver exceptional results with eco-friendly practices and unmatched convenience."
           },
           {
-            "url": "https://www.facebook.com/groups/157328921310951/",
-            "title": "ÚKLID Praha a okolí | nabídka / poptávka | FacebookProfi-firmy.cz – Databáze ověřených firem a řemeslníků po ...Poptávky a zakázky | ePoptávka.czPoptávky od veřejných subjektů | eP",
-            "snippet": "1 day ago · Hledáme paní na pravidelný úklid- Praha 4, Podolí Hledáme spolehlivou a pečlivou paní na pravidelný úklid kancelářských prostor, a to 1x týdně. Co bude úklid zahrnovat: utírání prachu, vysávání koberců, vynášení odpadků, umytí nádobí, zalévání kytek. Jedná se o menší prostory o třech místnosti. Najděte ověř"
+            "url": "https://www.chamberofcommerce.com/business-directory/colorado/greeley/dry-cleaner/2000670819-nu-way-cleaners-at-westlake",
+            "title": "Nu-Way Cleaners at Westlake in Greeley, CO 80634 - 970-353...",
+            "snippet": "Nu-Way Cleaners at Westlake located at 2012 35th Ave, Greeley, CO 80634 - reviews, ratings, hours, phone number, directions, and more."
           },
           {
-            "url": "https://www.epoptavka.cz/",
-            "title": "Poptávky a zakázky | ePoptávka.cz",
-            "snippet": "Poptávka: vestavěná skříň, jídelní lavice a atypická zárubeň, výroba a montáž polic, Praha před 1 dnem Praha Nábytek Pavla K. Praha zadáno 6 poptávek"
+            "url": "https://en.wikipedia.org/wiki/Derichebourg",
+            "title": "Derichebourg - Wikipedia",
+            "snippet": "Derichebourg covers the entire waste recycling chain, from collection to recovery, as well as a full range of Business Services and Public Sector Services, including cleaning, temporary work, energy and outsourced aeronautical services."
           },
           {
-            "url": "https://www.nejremeslnici.cz/poptavka/781595-uklid-bytoveho-domu",
-            "title": "Úklid bytoveho domu (Praha) • Úklidové služby • NejŘemeslníci.cz",
-            "snippet": "Tato poptávka bohužel nemá fotografie. Zobrazit reference. Zadání Detaily a cena Zadání poptávky zákazníkem: Poptavame pravidelny uklid bytoveho domu (5 pater/16 bytu) v nasledujicim rozsahu: Běžný úklid společných prostor domu: lx týdně v pondělí - zametení a vytření veškerých vnitřních společných prostor, vše mimo"
+            "url": "https://www.derichebourg.com/en/home",
+            "title": "Derichebourg Group - Official website",
+            "snippet": "Derichebourg est une entreprise spécialisée dans la gestion des ressources et de l'environnement."
           },
           {
-            "url": "https://zakazky.epoptavka.cz/",
-            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
-            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+            "url": "https://www.derichebourg-multiservices.com/en/who-we-are/our-brands/derichebourg-aeronautics-services",
+            "title": "DERICHEBOURG aeronautics services",
+            "snippet": "DERICHEBOURG Aeronautics Services offers a wide range of expertise, intervening at all stages of the aircraft and helicopter lifecycle, on behalf of manufacturers, airlines & leasing companies, and financial institutions."
           },
           {
-            "url": "https://www.poptavka.net/",
-            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
-            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+            "url": "https://www.derichebourg-multiservices.com/en/our-sectors/aeronautics",
+            "title": "Aeronautics | DERICHEBOURG Multiservices",
+            "snippet": "From production to maintenance, including training and recruitment, we offer a comprehensive range of services tailored to the aerospace sector."
           },
           {
-            "url": "https://profi-firmy.cz/",
-            "title": "Profi-firmy.cz – Databáze ověřených firem a řemeslníků po ...",
-            "snippet": "Najděte ověřeného profíka na cokoliv potřebujete Řemeslníci, dodavatelé a služby s reálnými hodnoceními. Pošlete jednu poptávku a vyberte si nejlepší nabídku — zdarma a bez závazku"
+            "url": "https://www.derichebourg-aerotraining.com/en",
+            "title": "Aeronautical Training & CQPM | Derichebourg Aeronautics Training",
+            "snippet": "The Derichebourg aeronautics training Centre was set up to provide the technical skills needed by aeronautical industry professionals. Our primary goal is to train technicians at the cutting edge of our industry."
+          },
+          {
+            "url": "https://www.bloomberg.com/profile/company/4686305Z:FP",
+            "title": "Derichebourg Aeronautics Services France SASU - Company Profile...",
+            "snippet": "Aug 28, 2000 · Company profile page for Derichebourg Aeronautics Services France SASU including stock price, company news, executives, board members, and contact information"
           }
         ],
         "errors": [
+          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "public_site_contacts": {
-          "emails": [
-            "info@aliaweb.cz"
-          ],
-          "phones": [],
-          "source": "https://www.podnikani.cz/30129711/bokoclean-sro/",
-          "evidence": "Explicit mailto/tel links on identity-matched business website"
-        },
-        "contact_matches": [],
-        "website": "https://www.podnikani.cz/30129711/bokoclean-sro/",
-        "state": "VERIFIED_WEBSITE",
-        "identity": [
-          "Matching IČO on website",
-          "Matching business name on website",
-          "Matching Prague street address on website",
-          "Prague mentioned on website"
-        ],
+        "state": "AMBIGUOUS",
+        "website": "",
         "examined": [
           {
-            "url": "https://www.podnikani.cz/30129711/bokoclean-sro/",
-            "result": "identity_match",
-            "evidence": [
-              "Matching IČO on website",
-              "Matching business name on website",
-              "Matching Prague street address on website",
-              "Prague mentioned on website"
-            ]
+            "url": "https://thecleaners.net/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://nuwaydrycleaner.com/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://nuway-ecocleaners.com/",
+            "result": "unreachable",
+            "reason": "SSLError"
+          },
+          {
+            "url": "https://laundromaps.com/colorado/greeley/nu-way-cleaners-at-westlake-greeley/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://nuwaycleaners.org/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.chamberofcommerce.com/business-directory/colorado/greeley/dry-cleaner/2000670819-nu-way-cleaners-at-westlake",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.derichebourg.com/en/home",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.derichebourg-multiservices.com/en/who-we-are/our-brands/derichebourg-aeronautics-services",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.derichebourg-aerotraining.com/en",
+            "result": "ambiguous",
+            "evidence": []
           }
         ],
         "no_website_proven": false
@@ -34156,60 +34104,8 @@
         ]
       },
       "audit": {
-        "state": "observed",
-        "checked_at": "2026-10-18",
-        "website": "https://www.podnikani.cz/30129711/bokoclean-sro/",
-        "devices": {
-          "desktop": {
-            "title": "BOKOCLEAN s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
-            "description": "BOKOCLEAN s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě BOKOCLEAN s.r.o. z českého obchodního rejstříku a živnosten",
-            "viewport_meta": true,
-            "h1_count": 5,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 40,
-            "small_text_elements": 0,
-            "broken_images": 0,
-            "images_missing_alt": 3,
-            "images_count": 20,
-            "contact_action": true,
-            "form_count": 2,
-            "booking_links": 0,
-            "http_status": 200
-          },
-          "navigation_errors": [],
-          "mobile": {
-            "title": "BOKOCLEAN s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
-            "description": "BOKOCLEAN s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě BOKOCLEAN s.r.o. z českého obchodního rejstříku a živnosten",
-            "viewport_meta": true,
-            "h1_count": 5,
-            "horizontal_overflow_px": 486,
-            "visible_text_elements": 40,
-            "small_text_elements": 0,
-            "broken_images": 0,
-            "images_missing_alt": 3,
-            "images_count": 20,
-            "contact_action": true,
-            "form_count": 2,
-            "booking_links": 0,
-            "http_status": 200
-          }
-        },
-        "transport": {
-          "state": "https_available",
-          "http_url": null,
-          "observed_url": "https://www.podnikani.cz/30129711/bokoclean-sro/"
-        },
-        "objective_issues": [
-          {
-            "issue": "Measured mobile horizontal overflow",
-            "detail": "486 CSS pixels",
-            "method": "Playwright viewport 390px",
-            "url": "https://www.podnikani.cz/30129711/bokoclean-sro/"
-          }
-        ],
-        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
-        "visual_design_review": "human_review_required",
-        "website_score": null
+        "state": "not_run",
+        "reason": "No independently verified company website"
       },
       "buying_signals": [
         {
@@ -34223,20 +34119,12 @@
         "title": "BOKOCLEAN s.r.o. — research dossier",
         "facts": [
           "The business is listed at Sokolská 1883, Praha, 12000.",
-          "An independently identity-matched business website was found: https://www.podnikani.cz/30129711/bokoclean-sro/.",
-          "ARES confirms registration for IČO 30129711 dated 2026-10-08.",
-          "Browser-observed issue: Measured mobile horizontal overflow."
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30129711 dated 2026-10-08."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Show a measured measured mobile horizontal overflow fix in a private demo, and ask if improving enquiries is a priority.",
-        "observed_issues": [
-          {
-            "issue": "Measured mobile horizontal overflow",
-            "detail": "486 CSS pixels",
-            "method": "Playwright viewport 390px",
-            "url": "https://www.podnikani.cz/30129711/bokoclean-sro/"
-          }
-        ],
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
         "buying_signals": [
           {
             "claim": "Registered in the previous 24 months (ARES)",
@@ -34247,8 +34135,7 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30129711",
-          "https://www.podnikani.cz/30129711/bokoclean-sro/"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30129711"
         ],
         "estimated_deal_czk": [
           30000,
@@ -34269,34 +34156,27 @@
         ]
       },
       "candidate_search_sources": [
-        "https://www.podnikani.cz/30129711/bokoclean-sro/",
-        "https://www.realcity.cz/en/property/to-rent-commercial-praha-kutnohorska-4425646",
-        "https://www.digireality.cz/inzerat/6ad0a48d5a5c25d95dbe5ee4",
-        "https://www.sreality.cz/en/project-detail/villa-frame/39659",
-        "https://vces.cz/",
-        "https://www.skanska.com/cz/cs",
-        "https://www.facebook.com/DaramisGroup/"
+        "https://thecleaners.net/",
+        "https://thecleaners.net/locations/",
+        "https://nuwaydrycleaner.com/",
+        "https://www.yelp.com/biz/nu-way-cleaners-greeley-6",
+        "https://nuway-ecocleaners.com/",
+        "https://laundromaps.com/colorado/greeley/nu-way-cleaners-at-westlake-greeley/",
+        "https://nuwaycleaners.org/"
       ],
-      "website_need_verified": true,
+      "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {
-        "emails": [
-          "info@aliaweb.cz"
-        ],
-        "phones": [],
-        "source": "https://www.podnikani.cz/30129711/bokoclean-sro/",
-        "evidence": "Explicit mailto/tel links on identity-matched business website"
-      },
+      "verified_site_public_contacts": {},
       "owner_verified": false,
       "buyer_interest_verified": false
     },
     "res-30129869": {
       "lead_id": "res-30129869",
       "name": "Triple brand, s.r.o.",
-      "checked_at": "2026-10-18",
+      "checked_at": "2026-11-16",
       "engine_version": 8,
-      "state": "audited",
+      "state": "researched",
       "discovery": {
         "status": "searched",
         "queries": [
@@ -34305,104 +34185,115 @@
           "\"Triple brand, s.r.o.\" \"Korunní 2569\" web",
           "\"Triple brand, s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 3,
+        "successful_queries": 2,
         "candidates": [
           {
-            "url": "https://www.podnikani.cz/30129869/triple-brand-sro/",
-            "title": "Triple brand, s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
-            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku Triple brand, s.r.o. Korunní 2569/108, Vinohrady, 10100 Praha 10 , IČO: 30129869, Zákl. kapitál: 1000 Kč"
+            "url": "https://liveoverture.com/communities/overture-kierland/",
+            "title": "Overture Kierland | 55 Plus Communities in Scottsdale, AZ",
+            "snippet": "Overture Kierland is a senior community in the Scottsdale, AZ area. Discover floor plan options, photos, amenities, and our great location in Arizona."
           },
           {
-            "url": "https://www.realcity.cz/en/property/for-sale-apartment-2-1-praha-9-trinecka-4424898",
-            "title": "For sale apartment 2+1 - Praha 9, Třinecká - REALCITY.cz",
-            "snippet": "5 days ago · For sale apartment 2+1 55 m² - Praha 9, Třinecká Other listings from this agency Praha 9, 2+1 52 m² 8 300 000 CZK Praha 2, 2+1 104 m² 17 955 168 CZK"
+            "url": "https://liveoverture.com/communities/overture-kierland/floorplans/",
+            "title": "Senior Communities in Scottsdale, AZ | Overture Kierland",
+            "snippet": "Overture Kierland offers 21 floor plan options ranging from 1 to 2 bedroom apartments at our senior living community in Scottsdale, AZ. Apply online today!"
           },
           {
-            "url": "https://www.digireality.cz/inzerat/6ad0a48d5a5c25d95dbe5ee4",
-            "title": "Four-bedroom House Praha",
-            "snippet": "3 days ago · It is situated in a quiet street within walking distance to the International School of Prague in Nebušice (ISP). This property features a serviced 5+kk layout, 184 m² with a private maintained garden on a plot measuring 432 m²."
+            "url": "https://liveoverture.com/communities/overture-kierland/neighborhood/",
+            "title": "Over 55 Communities in Scottsdale, AZ | Overture Kierland",
+            "snippet": "Explore Our Over 55 Community in Scottsdale Overture Kierland places you in the heart of Scottsdale, AZ, where active adult living meets resort-style convenience. Surrounded by stunning desert landscapes and mountain views, this community offers both natural beauty and modern amenities right outside your door. As one o"
           },
           {
-            "url": "https://www.sreality.cz/en/project-detail/villa-frame/39659",
-            "title": "VILLA FRAME • Sreality.cz",
-            "snippet": "1 property in the current offer of properties in the development project VILLA FRAME The largest offer of real estate in the Czech Republic (110,226 estates) with search on the map and filtering with dozens of parameters"
+            "url": "https://liveoverture.com/communities/overture-arcadia/",
+            "title": "Home | Senior Living in Scottsdale, AZ| Overture Arcadia",
+            "snippet": "Overture Arcadia provides 55 plus apartments in Scottsdale, AZ. Discover floor plan options, photos, amenities, and our great location. Apply online today!"
           },
           {
-            "url": "https://www.skanska.com/cz/cs",
-            "title": "Skanska v České republice",
-            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+            "url": "https://liveoverture.com/communities/overture-north-scottsdale/",
+            "title": "55+ Communities in Scottsdale | Overture North Scottsdale",
+            "snippet": "Enjoy your better years at Overture North Scottsdale. The premier choice for 55 and over apartments in Scottsdale, AZ. Schedule a tour of your new home today!"
           },
           {
-            "url": "https://www.facebook.com/DaramisGroup/",
-            "title": "Daramis | Prague - Facebook",
-            "snippet": "3 days ago · Daramis, Prague. 5,985 followers · 23 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy."
+            "url": "https://liveoverture.com/",
+            "title": "Active Adult Living Communities & Apartments | Live Overture",
+            "snippet": "Experience Overture, the leader in active adult living communities. Our active adult apartment homes are designed with our residents in mind. Contact us today!"
           },
           {
-            "url": "https://vces.cz/",
-            "title": "Skupina VCES",
-            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+            "url": "https://liveoverture.com/communities/overture-frisco/",
+            "title": "Home | 55 & Older Communities in Frisco TX | Overture Frisco",
+            "snippet": "Enjoy your better years at Overture Frisco, the top choice in 55 & older apartment communities in Frisco, TX. Book a tour of our active adult apartments today!"
           },
           {
-            "url": "https://www.epoptavka.cz/",
-            "title": "Poptávky a zakázky | ePoptávka.cz",
-            "snippet": "Poptávka: vestavěná skříň, jídelní lavice a atypická zárubeň, výroba a montáž polic, Praha před 1 dnem Praha Nábytek Pavla K. Praha zadáno 6 poptávek"
+            "url": "https://liveoverture.com/communities/overture-stone-oak/floorplans/",
+            "title": "Senior Apartments in San Antonio, TX | Overture Stone Oak",
+            "snippet": "Overture Stone Oak offers 1 or 2 bedroom senior apartments for rent in San Antonio, TX. Browse our range of spacious floor plans to find your perfect home!"
           },
           {
-            "url": "https://zakazky.epoptavka.cz/",
-            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
-            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+            "url": "https://en.m.wikipedia.org/wiki/Triple",
+            "title": "Triple - Wikipedia",
+            "snippet": "Triple is used in several contexts to mean \"threefold\" or a \"treble\":"
           },
           {
-            "url": "https://www.poptavka.net/",
-            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
-            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+            "url": "https://www.merriam-webster.com/dictionary/triple",
+            "title": "TRIPLE Definition & Meaning - Merriam-Webster",
+            "snippet": "3 days ago · The meaning of TRIPLE is to make three times as great or as many. How to use triple in a sentence."
           },
           {
-            "url": "https://www.poptavky.cz/",
-            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
-            "snippet": "Moderní pojetí služby Platíte vždy až za jednotlivou realizaci zakázky, žádné jiné poplatky nejsou potřeba."
+            "url": "https://tripleseat.com/",
+            "title": "Tripleseat | All-in-One Event Venue Management Software",
+            "snippet": "Tripleseat is event management software for restaurants, hotels, and venues, built to grow your business. Capture more leads, book more events, and bring in more revenue. Explore event demand and practical blueprints for your 2027 plan. With Tripleseat, you’re not missing that hospitality piece."
           },
           {
-            "url": "https://poptavky.epoptavka.cz/",
-            "title": "Databáze poptávek",
-            "snippet": "Poptávka: vestavěná skříň, jídelní lavice a atypická zárubeň, výroba a montáž polic, Praha před 1 dnem Praha Nábytek Pavla K. Praha zadáno 6 poptávek"
+            "url": "https://dictionary.cambridge.org/dictionary/english/triple",
+            "title": "TRIPLE | English meaning - Cambridge Dictionary",
+            "snippet": "TRIPLE definition: 1. having three parts of the same type, or happening three times: 2. with three beats (= emphases…. Learn more."
           },
           {
-            "url": "https://profi-firmy.cz/",
-            "title": "Profi-firmy.cz – Databáze ověřených firem a řemeslníků po ...",
-            "snippet": "Poptávka zdarma Jedním formulářem oslovíte víc firem najednou. Bez registrace a poplatků."
+            "url": "https://twominenglish.com/triple-vs-tripple/",
+            "title": "Triple vs Tripple – Which is Correct? - Two Minute English",
+            "snippet": "Feb 22, 2026 · The correct spelling of the word in question is triple. On the other hand, “tripple” is actually considered a spelling error and is not recognized in standard English."
+          },
+          {
+            "url": "https://www.dictionary.com/browse/triple",
+            "title": "TRIPLE Definition & Meaning | Dictionary.com",
+            "snippet": "TRIPLE definition: threefold; consisting of three parts. See examples of triple used in a sentence."
           }
         ],
         "errors": [
+          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "public_site_contacts": {
-          "emails": [
-            "info@aliaweb.cz"
-          ],
-          "phones": [],
-          "source": "https://www.podnikani.cz/30129869/triple-brand-sro/",
-          "evidence": "Explicit mailto/tel links on identity-matched business website"
-        },
-        "contact_matches": [],
-        "website": "https://www.podnikani.cz/30129869/triple-brand-sro/",
-        "state": "VERIFIED_WEBSITE",
-        "identity": [
-          "Matching IČO on website",
-          "Matching business name on website",
-          "Matching Prague street address on website",
-          "Prague mentioned on website"
-        ],
+        "state": "AMBIGUOUS",
+        "website": "",
         "examined": [
           {
-            "url": "https://www.podnikani.cz/30129869/triple-brand-sro/",
-            "result": "identity_match",
-            "evidence": [
-              "Matching IČO on website",
-              "Matching business name on website",
-              "Matching Prague street address on website",
-              "Prague mentioned on website"
-            ]
+            "url": "https://liveoverture.com/communities/overture-kierland/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.merriam-webster.com/dictionary/triple",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://tripleseat.com/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://dictionary.cambridge.org/dictionary/english/triple",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://twominenglish.com/triple-vs-tripple/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.dictionary.com/browse/triple",
+            "result": "ambiguous",
+            "evidence": []
           }
         ],
         "no_website_proven": false
@@ -34430,60 +34321,8 @@
         ]
       },
       "audit": {
-        "state": "observed",
-        "checked_at": "2026-10-18",
-        "website": "https://www.podnikani.cz/30129869/triple-brand-sro/",
-        "devices": {
-          "desktop": {
-            "title": "Triple brand, s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
-            "description": "Triple brand, s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě Triple brand, s.r.o. z českého obchodního rejstříku a ž",
-            "viewport_meta": true,
-            "h1_count": 5,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 40,
-            "small_text_elements": 0,
-            "broken_images": 0,
-            "images_missing_alt": 3,
-            "images_count": 20,
-            "contact_action": true,
-            "form_count": 2,
-            "booking_links": 0,
-            "http_status": 200
-          },
-          "navigation_errors": [],
-          "mobile": {
-            "title": "Triple brand, s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
-            "description": "Triple brand, s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě Triple brand, s.r.o. z českého obchodního rejstříku a ž",
-            "viewport_meta": true,
-            "h1_count": 5,
-            "horizontal_overflow_px": 486,
-            "visible_text_elements": 40,
-            "small_text_elements": 0,
-            "broken_images": 0,
-            "images_missing_alt": 3,
-            "images_count": 20,
-            "contact_action": true,
-            "form_count": 2,
-            "booking_links": 0,
-            "http_status": 200
-          }
-        },
-        "transport": {
-          "state": "https_available",
-          "http_url": null,
-          "observed_url": "https://www.podnikani.cz/30129869/triple-brand-sro/"
-        },
-        "objective_issues": [
-          {
-            "issue": "Measured mobile horizontal overflow",
-            "detail": "486 CSS pixels",
-            "method": "Playwright viewport 390px",
-            "url": "https://www.podnikani.cz/30129869/triple-brand-sro/"
-          }
-        ],
-        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
-        "visual_design_review": "human_review_required",
-        "website_score": null
+        "state": "not_run",
+        "reason": "No independently verified company website"
       },
       "buying_signals": [
         {
@@ -34497,20 +34336,12 @@
         "title": "Triple brand, s.r.o. — research dossier",
         "facts": [
           "The business is listed at Korunní 2569, Praha, 10100.",
-          "An independently identity-matched business website was found: https://www.podnikani.cz/30129869/triple-brand-sro/.",
-          "ARES confirms registration for IČO 30129869 dated 2026-10-08.",
-          "Browser-observed issue: Measured mobile horizontal overflow."
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30129869 dated 2026-10-08."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Show a measured measured mobile horizontal overflow fix in a private demo, and ask if improving enquiries is a priority.",
-        "observed_issues": [
-          {
-            "issue": "Measured mobile horizontal overflow",
-            "detail": "486 CSS pixels",
-            "method": "Playwright viewport 390px",
-            "url": "https://www.podnikani.cz/30129869/triple-brand-sro/"
-          }
-        ],
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
         "buying_signals": [
           {
             "claim": "Registered in the previous 24 months (ARES)",
@@ -34521,8 +34352,7 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30129869",
-          "https://www.podnikani.cz/30129869/triple-brand-sro/"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30129869"
         ],
         "estimated_deal_czk": [
           30000,
@@ -34543,34 +34373,27 @@
         ]
       },
       "candidate_search_sources": [
-        "https://www.podnikani.cz/30129869/triple-brand-sro/",
-        "https://www.realcity.cz/en/property/for-sale-apartment-2-1-praha-9-trinecka-4424898",
-        "https://www.digireality.cz/inzerat/6ad0a48d5a5c25d95dbe5ee4",
-        "https://www.sreality.cz/en/project-detail/villa-frame/39659",
-        "https://www.skanska.com/cz/cs",
-        "https://www.facebook.com/DaramisGroup/",
-        "https://vces.cz/"
+        "https://liveoverture.com/communities/overture-kierland/",
+        "https://liveoverture.com/communities/overture-kierland/floorplans/",
+        "https://liveoverture.com/communities/overture-kierland/neighborhood/",
+        "https://liveoverture.com/communities/overture-arcadia/",
+        "https://liveoverture.com/communities/overture-north-scottsdale/",
+        "https://liveoverture.com/",
+        "https://liveoverture.com/communities/overture-frisco/"
       ],
-      "website_need_verified": true,
+      "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {
-        "emails": [
-          "info@aliaweb.cz"
-        ],
-        "phones": [],
-        "source": "https://www.podnikani.cz/30129869/triple-brand-sro/",
-        "evidence": "Explicit mailto/tel links on identity-matched business website"
-      },
+      "verified_site_public_contacts": {},
       "owner_verified": false,
       "buyer_interest_verified": false
     },
     "res-30129877": {
       "lead_id": "res-30129877",
       "name": "LEKOSTAP s.r.o.",
-      "checked_at": "2026-10-18",
+      "checked_at": "2026-11-16",
       "engine_version": 8,
-      "state": "audited",
+      "state": "researched",
       "discovery": {
         "status": "searched",
         "queries": [
@@ -34579,75 +34402,127 @@
           "\"LEKOSTAP s.r.o.\" \"Děčínská 552\" web",
           "\"LEKOSTAP s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 2,
+        "successful_queries": 4,
         "candidates": [
           {
-            "url": "https://rejstrik-firem.kurzy.cz/30129877/lekostap-sro/",
-            "title": "LEKOSTAP s.r.o. , IČO 30129877 - Obchodní rejstřík firem",
-            "snippet": "Kde je sídlo firmy LEKOSTAP s.r.o.? Sídlo firmy LEKOSTAP s.r.o. je Děčínská 552/1, Střížkov, 18000 Praha 8. Další firmy na této adrese. X Kurzy.cz > Obchodní rejstřík > LEKOSTAP s.r.o."
+            "url": "https://en.wikipedia.org/wiki/Food_City_(K-VA-T)",
+            "title": "Food City (K-VA-T) - Wikipedia",
+            "snippet": "As of October 2022, K-VA-T Food Stores, Inc. operates 153 retail outlets (132 Food City stores, 6 Super Dollar Food Centers, 4 Wine & Spirits stores, 5 Fresh n' Lows, 1 Cooke's Food Store and Pharmacy, and 5 convenience stores) in Alabama, Georgia, Kentucky, Tennessee, and Virginia."
           },
           {
-            "url": "https://www.podnikani.cz/30129877/lekostap-sro/",
-            "title": "LEKOSTAP s.r.o. - obchodní rejstřík, vizualizace vztahů firem ...",
-            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku LEKOSTAP s.r.o. Děčínská 552/1, Střížkov, 18000 Praha 8 , IČO: 30129877, Zákl. kapitál: 5000 Kč"
+            "url": "https://www.instacart.com/store/food-city/storefront",
+            "title": "Food City Delivery Near Me | Instacart",
+            "snippet": "Using the Instacart app or website, you can shop your favorite products from a Food City near you. After you have placed your order, Instacart will connect you with a shopper in your area to shop and deliver your order."
           },
           {
-            "url": "https://www.sreality.cz/en/project-detail/villa-frame/39659",
-            "title": "VILLA FRAME • Sreality.cz",
-            "snippet": "1 property in the current offer of properties in the development project VILLA FRAME The largest offer of real estate in the Czech Republic (110,226 estates) with search on the map and filtering with dozens of parameters"
+            "url": "https://www.foodcity.com/",
+            "title": "Food City",
+            "snippet": "Order fresh produce, top quality meats, prepared meals, flowers and everyday essentials online, at any time. Our partners will have your order delivered to your doorstep, often in as little as an hour."
           },
           {
-            "url": "https://www.houfy.com/sv/lodging/fewo-am-schlosspark/284653",
-            "title": "FeWo am Schlosspark – 2BR Vacation Rental in Elstra, Germany",
-            "snippet": "FeWo am Schlosspark Type of building: Detached house. size of property: 625m². year of construction: 1997. Owner lives on the property.Here you will find a spacious, modern and friendly newly renovated holiday flat, which promises romantic moments with its balcony and view of the castle park. The holiday flat is locate"
+            "url": "https://www.foodcity.com/stores/find-a-store/",
+            "title": "Find a Store - Food City",
+            "snippet": "Pharmacy Manager Emily Ritchie 540-980-9368 Make This My Store Weekly Ad View More Food City Grocery Store in Galax, Virginia"
           },
           {
-            "url": "https://www.skanska.com/cz/cs",
-            "title": "Skanska v České republice",
-            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+            "url": "https://www.foodcity.com/home/login",
+            "title": "Food City",
+            "snippet": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply."
           },
           {
-            "url": "https://ms-invest.cz/wp-content/uploads/2026/07/Zprava_o_oceneni_OC_Lutin_20250831_public.pdf",
-            "title": "ZPRÁVA O OCENĚNÍ NEMOVITOSTI - ms-invest.cz",
-            "snippet": "1. Zadání Na základě Objednávky zpracování tržního ocenění Nemovitosti uzavřené mezi Objednatelem a Zpracovatelem dne 3. září 2025 Vám předkládáme Zprávu o ocenění Nemovitosti (dále jen „Zpráva“), jejíž součástí je stanovení tržní hodnoty Nemovitosti (Market Value). Potvrzujeme, že naše ocenění bylo vypracováno v soula"
+            "url": "https://www.mifoodcity.com/",
+            "title": "Food City - Arizona",
+            "snippet": "No Time? Shop Online! It's easier than ever to get groceries from Food City by shopping online."
           },
           {
-            "url": "https://vces.cz/",
-            "title": "Skupina VCES",
-            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+            "url": "https://www.foodcity.com/stores/find-a-store/index.php",
+            "title": "Food City",
+            "snippet": "Save $4.99, or no curbside pickup fee this trip, with purchase of $25 or more in participating Diamond products."
+          },
+          {
+            "url": "https://www.theweeklyad.com/foodcity-weekly-ad/",
+            "title": "Food City Weekly (11/18/26 – 11/24/26) Ad Preview",
+            "snippet": "Food City Ad and ️ Early Ad Preview! View the latest deals with the ️ Food City Circular! See the sales for this week and next!"
+          },
+          {
+            "url": "https://finance.yahoo.com/quote/UPS/?fr=sycsrp_catchall",
+            "title": "United Parcel Service, Inc. (UPS) Stock Price, News, Quote &...",
+            "snippet": "Find the latest United Parcel Service, Inc. (UPS) stock quote, history, news and other vital information to help you with your stock trading and investing."
+          },
+          {
+            "url": "https://www.marketbeat.com/stocks/NYSE/UPS/",
+            "title": "United Parcel Service (UPS) Stock Price, News & Analysis",
+            "snippet": "Should You Buy or Sell United Parcel Service Stock? Get The Latest UPS Stock Analysis, Price Target, Dividend Info, Headlines, and Short Interest at MarketBeat."
+          },
+          {
+            "url": "https://stockanalysis.com/stocks/ups/",
+            "title": "United Parcel Service (UPS) Stock Price & Overview",
+            "snippet": "3 hours ago · A detailed overview of United Parcel Service, Inc. (UPS) stock, including real-time price, chart, key statistics, news, and more."
+          },
+          {
+            "url": "https://www.zacks.com/stock/quote/UPS",
+            "title": "United Parcel Service - UPS - Stock Price Today - Zacks",
+            "snippet": "3 days ago · View United Parcel Service, Inc UPS investment & stock information. Get the latest United Parcel Service, Inc UPS detailed stock quotes, stock data, Real-Time ECN, charts, stats and more."
+          },
+          {
+            "url": "https://www.fool.com/quote/nyse/ups/",
+            "title": "United Parcel Service - UPS - Stock Price & News | The Motley...",
+            "snippet": "Real time United Parcel Service (UPS) stock price quote, stock graph, news & analysis."
+          },
+          {
+            "url": "https://finance.yahoo.com/quote/UPS/chart/?fr=sycsrp_catchall",
+            "title": "United Parcel Service, Inc. (UPS) Interactive Stock Chart - Yahoo...",
+            "snippet": "Interactive Chart for United Parcel Service, Inc. (UPS), analyze all the data with a huge range of indicators."
           }
         ],
-        "errors": [
-          "DDGSException: No results found.",
-          "DDGSException: No results found."
-        ],
-        "public_site_contacts": {
-          "emails": [
-            "info@aliaweb.cz"
-          ],
-          "phones": [],
-          "source": "https://www.podnikani.cz/30129877/lekostap-sro/",
-          "evidence": "Explicit mailto/tel links on identity-matched business website"
-        },
-        "contact_matches": [],
-        "website": "https://www.podnikani.cz/30129877/lekostap-sro/",
-        "state": "VERIFIED_WEBSITE",
-        "identity": [
-          "Matching IČO on website",
-          "Matching business name on website",
-          "Matching Prague street address on website",
-          "Prague mentioned on website"
-        ],
+        "errors": [],
+        "state": "AMBIGUOUS",
+        "website": "",
         "examined": [
           {
-            "url": "https://www.podnikani.cz/30129877/lekostap-sro/",
-            "result": "identity_match",
-            "evidence": [
-              "Matching IČO on website",
-              "Matching business name on website",
-              "Matching Prague street address on website",
-              "Prague mentioned on website"
-            ]
+            "url": "https://www.instacart.com/store/food-city/storefront",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.foodcity.com/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.mifoodcity.com/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.theweeklyad.com/foodcity-weekly-ad/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://finance.yahoo.com/quote/UPS/?fr=sycsrp_catchall",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.marketbeat.com/stocks/NYSE/UPS/",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://stockanalysis.com/stocks/ups/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.zacks.com/stock/quote/UPS",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.fool.com/quote/nyse/ups/",
+            "result": "ambiguous",
+            "evidence": []
           }
         ],
         "no_website_proven": false
@@ -34675,60 +34550,8 @@
         ]
       },
       "audit": {
-        "state": "observed",
-        "checked_at": "2026-10-18",
-        "website": "https://www.podnikani.cz/30129877/lekostap-sro/",
-        "devices": {
-          "desktop": {
-            "title": "LEKOSTAP s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
-            "description": "LEKOSTAP s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě LEKOSTAP s.r.o. z českého obchodního rejstříku a živnostensk",
-            "viewport_meta": true,
-            "h1_count": 5,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 40,
-            "small_text_elements": 0,
-            "broken_images": 0,
-            "images_missing_alt": 3,
-            "images_count": 20,
-            "contact_action": true,
-            "form_count": 2,
-            "booking_links": 0,
-            "http_status": 200
-          },
-          "navigation_errors": [],
-          "mobile": {
-            "title": "LEKOSTAP s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
-            "description": "LEKOSTAP s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě LEKOSTAP s.r.o. z českého obchodního rejstříku a živnostensk",
-            "viewport_meta": true,
-            "h1_count": 5,
-            "horizontal_overflow_px": 486,
-            "visible_text_elements": 40,
-            "small_text_elements": 0,
-            "broken_images": 0,
-            "images_missing_alt": 3,
-            "images_count": 20,
-            "contact_action": true,
-            "form_count": 2,
-            "booking_links": 0,
-            "http_status": 200
-          }
-        },
-        "transport": {
-          "state": "https_available",
-          "http_url": null,
-          "observed_url": "https://www.podnikani.cz/30129877/lekostap-sro/"
-        },
-        "objective_issues": [
-          {
-            "issue": "Measured mobile horizontal overflow",
-            "detail": "486 CSS pixels",
-            "method": "Playwright viewport 390px",
-            "url": "https://www.podnikani.cz/30129877/lekostap-sro/"
-          }
-        ],
-        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
-        "visual_design_review": "human_review_required",
-        "website_score": null
+        "state": "not_run",
+        "reason": "No independently verified company website"
       },
       "buying_signals": [
         {
@@ -34742,20 +34565,12 @@
         "title": "LEKOSTAP s.r.o. — research dossier",
         "facts": [
           "The business is listed at Děčínská 552, Praha, 18000.",
-          "An independently identity-matched business website was found: https://www.podnikani.cz/30129877/lekostap-sro/.",
-          "ARES confirms registration for IČO 30129877 dated 2026-10-08.",
-          "Browser-observed issue: Measured mobile horizontal overflow."
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30129877 dated 2026-10-08."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Show a measured measured mobile horizontal overflow fix in a private demo, and ask if improving enquiries is a priority.",
-        "observed_issues": [
-          {
-            "issue": "Measured mobile horizontal overflow",
-            "detail": "486 CSS pixels",
-            "method": "Playwright viewport 390px",
-            "url": "https://www.podnikani.cz/30129877/lekostap-sro/"
-          }
-        ],
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
         "buying_signals": [
           {
             "claim": "Registered in the previous 24 months (ARES)",
@@ -34766,8 +34581,7 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30129877",
-          "https://www.podnikani.cz/30129877/lekostap-sro/"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30129877"
         ],
         "estimated_deal_czk": [
           30000,
@@ -34788,111 +34602,80 @@
         ]
       },
       "candidate_search_sources": [
-        "https://rejstrik-firem.kurzy.cz/30129877/lekostap-sro/",
-        "https://www.podnikani.cz/30129877/lekostap-sro/",
-        "https://www.sreality.cz/en/project-detail/villa-frame/39659",
-        "https://www.houfy.com/sv/lodging/fewo-am-schlosspark/284653",
-        "https://www.skanska.com/cz/cs",
-        "https://ms-invest.cz/wp-content/uploads/2026/07/Zprava_o_oceneni_OC_Lutin_20250831_public.pdf",
-        "https://vces.cz/"
+        "https://en.wikipedia.org/wiki/Food_City_(K-VA-T)",
+        "https://www.instacart.com/store/food-city/storefront",
+        "https://www.foodcity.com/",
+        "https://www.foodcity.com/stores/find-a-store/",
+        "https://www.foodcity.com/home/login",
+        "https://www.mifoodcity.com/",
+        "https://www.foodcity.com/stores/find-a-store/index.php"
       ],
-      "website_need_verified": true,
+      "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {
-        "emails": [
-          "info@aliaweb.cz"
-        ],
-        "phones": [],
-        "source": "https://www.podnikani.cz/30129877/lekostap-sro/",
-        "evidence": "Explicit mailto/tel links on identity-matched business website"
-      },
+      "verified_site_public_contacts": {},
       "owner_verified": false,
       "buyer_interest_verified": false
     },
     "res-30130328": {
       "lead_id": "res-30130328",
       "name": "Ing. Michal Ženíšek, Ph.D.",
-      "checked_at": "2026-10-18",
+      "checked_at": "2026-11-16",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "searched",
+        "status": "partial_search",
         "queries": [
           "\"Ing. Michal Ženíšek, Ph.D.\" IČO 30130328 web",
           "\"Ing. Michal Ženíšek, Ph.D.\" Praha Construction & property kontakt",
           "\"Ing. Michal Ženíšek, Ph.D.\" \"Primátorská 1008\" web",
           "\"Ing. Michal Ženíšek, Ph.D.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 2,
+        "successful_queries": 1,
         "candidates": [
           {
-            "url": "https://portal.fsv.cvut.cz/en/person/95c34f6f-59c5-4559-bfc3-b8e0e8772098",
-            "title": "Ženíšek, Michal, Ing., Ph.D. | FCE CTU Portal",
-            "snippet": "5 days ago · Michal Ženíšek, Ph.D. Responsible: Ing. Tomáš Líbenek • Webmaster: Ing. Zora Záleská • GDPR."
+            "url": "https://en.wikipedia.org/wiki/ING_Group",
+            "title": "ING Group - Wikipedia",
+            "snippet": "The ING Group (Dutch: ING Groep N.V.) is a Dutch multinational banking and financial services corporation headquartered in Amsterdam. Its primary businesses are retail banking, direct banking, commercial banking, investment banking, wholesale banking, private banking, and asset management."
           },
           {
-            "url": "https://www.sreality.cz/en/project-detail/villa-frame/39659",
-            "title": "VILLA FRAME • Sreality.cz",
-            "snippet": "1 property in the current offer of properties in the development project VILLA FRAME The largest offer of real estate in the Czech Republic (110,226 estates) with search on the map and filtering with dozens of parameters"
+            "url": "https://www.ing.com/",
+            "title": "ING global company website | ING",
+            "snippet": "Our more than 60,000 employees offer retail and wholesale banking services in more than 100 countries. Our products include savings, payments, investments, loans and mortgages in most of our retail markets."
           },
           {
-            "url": "https://www.facebook.com/DaramisGroup/",
-            "title": "Daramis | Prague - FacebookSkupina VCESSkanska v České republiceHomepage - LaSalle Investment ManagementStarwood Capital Group | Global Real Estate Investment Firm",
-            "snippet": "3 days ago · Daramis, Prague. 5,985 followers · 23 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy. Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republi"
+            "url": "https://www.ing.com.au/securebanking/",
+            "title": "Secure Banking Login - ING",
+            "snippet": "New secure banking site from ING. Login to online your online banking at anytime, on any device. Easy and secure banking."
           },
           {
-            "url": "https://www.lasalle.com/",
-            "title": "Homepage - LaSalle Investment Management",
-            "snippet": "Discover premier real estate investment opportunities with LaSalle Investment Management. Explore our global portfolio and insights. Investing today. For tomorrow."
+            "url": "https://www.ing.es/",
+            "title": "ING Banco Online sin Comisiones | do your thing",
+            "snippet": "Entra en ING y descubre un banco online sin comisiones para tu día a día ING, la banca online que mejor se adapta a ti ¡Descubre sus ventajas!"
           },
           {
-            "url": "https://www.starwoodcapital.com/",
-            "title": "Starwood Capital Group | Global Real Estate Investment Firm",
-            "snippet": "Starwood Capital Group is a global investment firm shaping the future of real estate with innovation, sound judgment, and a focus on exceptional outcomes."
+            "url": "https://www.ing.com/pages/contact",
+            "title": "ING global company website | ING",
+            "snippet": "Explore the world of ING Group through our corporate website. Find comprehensive information about our global financial institution. Access our latest integrated financial results, delve into our company strategy, and learn about our strategic sustainability goals."
           },
           {
-            "url": "https://vces.cz/",
-            "title": "Skupina VCES",
-            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+            "url": "https://www.ing.com.au/",
+            "title": "ING Australia, Bank Accounts, Credit Cards, Loans & Insurance",
+            "snippet": "ING is a business name of ING Bank (Australia) Limited. An ING Insurance policy does not represent a deposit with or liability of, and is not guaranteed or otherwise supported by, ING or any of its related bodies corporate."
           },
           {
-            "url": "https://www.skanska.com/cz/cs",
-            "title": "Skanska v České republice",
-            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+            "url": "https://www.ing.be/",
+            "title": "Welcome to ING Banking & Insurance - ING Belgium",
+            "snippet": "Whether it’s for your private or professional needs, ING has a tailor-made solution: daily banking, lending, savings, investments, insurance and retirement."
           },
           {
-            "url": "https://www.poptavky.cz/",
-            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
-            "snippet": "Moderní pojetí služby Platíte vždy až za jednotlivou realizaci zakázky, žádné jiné poplatky nejsou potřeba."
-          },
-          {
-            "url": "https://dohledano.cz/",
-            "title": "Dohledávání informací (OSINT) | Lukáš Jelšina – Praha & okolí",
-            "snippet": "Diskrétní dohledávání informací a ověřování faktů z veřejných zdrojů (OSINT). Rychlá domluva, férová cena. Praha a okolí."
-          },
-          {
-            "url": "https://www.poptavka.net/",
-            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
-            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
-          },
-          {
-            "url": "https://www.mujstavebniweb.cz/",
-            "title": "Hlavní stránka",
-            "snippet": "Naše reference Průběh našich zakázek Nezávazná poptávka a rozpočet Do jednoho pracovního dne po odeslání poptávkového formuláře od nás získáte podrobný rozpočet, který vám ukáže reálné náklady. Tento rozpočet si můžete i sami online upravit, nebo se podívat na všechny naše jednotkové ceny prací."
-          },
-          {
-            "url": "https://www.lawinsider.com/cs/contracts/dYVxYApLMfL",
-            "title": "Tel: +420 255 708 311 - Law Insider",
-            "snippet": "Služby budou poskytovány pouze pro účel uvedený ve Smlouvě nebo vyplývající z Výstupu. Klient bere na vědomí, že veškeré Výstupy provedené společností BDO v souvislosti s poskytováním Služeb na základě Smlouvy mohou poskytnout pouze přiměřené ujištění o ověřovaných skutečnostech."
-          },
-          {
-            "url": "https://akcnitisk.cz/",
-            "title": "Akční Tisk - Zaručeně Spolehlivá Tiskárna",
-            "snippet": "Váš partner pro ofsetový a digitální tisk - tiskárna, která zvládne vše od brožur po personalizované tisky. Vyzkoušejte naše komplexní tiskové služby a užijte si bezproblémový servis."
+            "url": "https://www.merriam-webster.com/dictionary/-ing",
+            "title": "-ING Definition & Meaning - Merriam-Webster",
+            "snippet": "The meaning of -ING is action or process : instance of an action or process. How to use -ing in a sentence. How do you pronounce -ing?: Usage Guide."
           }
         ],
         "errors": [
+          "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
@@ -34900,62 +34683,29 @@
         "website": "",
         "examined": [
           {
-            "url": "https://portal.fsv.cvut.cz/en/person/95c34f6f-59c5-4559-bfc3-b8e0e8772098",
-            "result": "ambiguous",
-            "evidence": [
-              "Matching business name on website",
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.sreality.cz/en/project-detail/villa-frame/39659",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.lasalle.com/",
-            "result": "unreachable",
-            "reason": "HTTP_403"
-          },
-          {
-            "url": "https://www.starwoodcapital.com/",
+            "url": "https://ing.com/",
             "result": "ambiguous",
             "evidence": []
           },
           {
-            "url": "https://vces.cz/",
+            "url": "https://www.ing.com.au/securebanking/",
             "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
+            "evidence": []
           },
           {
-            "url": "https://www.skanska.com/cz/cs",
+            "url": "https://www.ing.es/",
             "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
+            "evidence": []
           },
           {
-            "url": "https://www.poptavky.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://dohledano.cz/",
+            "url": "https://www.ing.be/",
             "result": "unreachable",
-            "reason": "HTTP_401"
+            "reason": "ReadTimeout"
           },
           {
-            "url": "https://www.poptavka.net/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
+            "url": "https://www.merriam-webster.com/dictionary/-ing",
+            "result": "unreachable",
+            "reason": "HTTP_403"
           }
         ],
         "no_website_proven": false
@@ -35029,13 +34779,13 @@
         ]
       },
       "candidate_search_sources": [
-        "https://portal.fsv.cvut.cz/en/person/95c34f6f-59c5-4559-bfc3-b8e0e8772098",
-        "https://www.sreality.cz/en/project-detail/villa-frame/39659",
-        "https://www.facebook.com/DaramisGroup/",
-        "https://www.lasalle.com/",
-        "https://www.starwoodcapital.com/",
-        "https://vces.cz/",
-        "https://www.skanska.com/cz/cs"
+        "https://en.wikipedia.org/wiki/ING_Group",
+        "https://www.ing.com/",
+        "https://www.ing.com.au/securebanking/",
+        "https://www.ing.es/",
+        "https://www.ing.com/pages/contact",
+        "https://www.ing.com.au/",
+        "https://www.ing.be/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
