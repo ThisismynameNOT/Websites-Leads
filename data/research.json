@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-16T17:53:14.317144+00:00",
+  "generated_at": "2026-11-17T17:26:03.600841+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -7958,7 +7958,7 @@
     "osm-node-11065024432": {
       "lead_id": "osm-node-11065024432",
       "name": "100 klíčů",
-      "checked_at": "2026-11-12",
+      "checked_at": "2026-11-17",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -8852,7 +8852,7 @@
     "osm-node-11782384941": {
       "lead_id": "osm-node-11782384941",
       "name": "WADE Atelier - design a realizace",
-      "checked_at": "2026-11-12",
+      "checked_at": "2026-11-17",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -9126,7 +9126,7 @@
     "osm-node-12278479101": {
       "lead_id": "osm-node-12278479101",
       "name": "Studio PHX s.r.o.",
-      "checked_at": "2026-11-12",
+      "checked_at": "2026-11-17",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -9435,7 +9435,7 @@
     "osm-node-13229923199": {
       "lead_id": "osm-node-13229923199",
       "name": "Depositum CZ s.r.o.",
-      "checked_at": "2026-11-12",
+      "checked_at": "2026-11-17",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -9757,7 +9757,7 @@
     "osm-node-13432491655": {
       "lead_id": "osm-node-13432491655",
       "name": "AltruLinea",
-      "checked_at": "2026-11-12",
+      "checked_at": "2026-11-17",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -10017,7 +10017,7 @@
     "osm-node-13565444642": {
       "lead_id": "osm-node-13565444642",
       "name": "Realitní Kancelář RNDr. Eva Pavlíková",
-      "checked_at": "2026-11-12",
+      "checked_at": "2026-11-17",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -10776,7 +10776,7 @@
     "osm-node-1555858848": {
       "lead_id": "osm-node-1555858848",
       "name": "Realitní společnost Praha",
-      "checked_at": "2026-11-12",
+      "checked_at": "2026-11-17",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -11075,7 +11075,7 @@
     "osm-node-2318297306": {
       "lead_id": "osm-node-2318297306",
       "name": "Qarta architektura",
-      "checked_at": "2026-11-12",
+      "checked_at": "2026-11-17",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -60080,6 +60080,1660 @@
         "https://www.dnb.com/business-directory/company-profiles.invest_profstav_sro.c01fe96c7eca37894bfcb19a0c926f04.html",
         "https://www.podnikatel.cz/rejstrik/ivan-markovych-29629080/",
         "https://rejstrik.penize.cz/ares/22228292-ivan-markovych"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30190371": {
+      "lead_id": "res-30190371",
+      "name": "Společenství vlastníků jednotek Vinohradská 222",
+      "checked_at": "2026-11-17",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Společenství vlastníků jednotek Vinohradská 222\" IČO 30190371 web",
+          "\"Společenství vlastníků jednotek Vinohradská 222\" Praha Construction & property kontakt",
+          "\"Společenství vlastníků jednotek Vinohradská 222\" \"Vinohradská 1507\" web",
+          "\"Společenství vlastníků jednotek Vinohradská 222\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 4,
+        "candidates": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Microsoft",
+            "title": "Microsoft - Wikipedia",
+            "snippet": "Microsoft Corporation is an American multinational technology conglomerate headquartered in Redmond, Washington. The company became influential in the rise of personal computers through software like Windows and has since expanded into areas such as Internet services, cloud computing, artificial intelligence and video "
+          },
+          {
+            "url": "https://www.microsoft.com/en-us/",
+            "title": "Microsoft - Official Home Page",
+            "snippet": "At Microsoft our mission and values are to help people and businesses throughout the world realize their full potential."
+          },
+          {
+            "url": "https://www.microsoft.com/",
+            "title": "Microsoft – AI, Cloud, Productivity, Computing, Gaming & Apps",
+            "snippet": "Explore Microsoft products and services and support for your home or business. Shop Microsoft 365, Copilot, Teams, Xbox, Windows, Azure, Surface and more."
+          },
+          {
+            "url": "https://account.microsoft.com/account",
+            "title": "Microsoft account | Sign In or Create Your Account Today – ...",
+            "snippet": "Get access to free online versions of Outlook, Word, Excel, and PowerPoint."
+          },
+          {
+            "url": "https://myaccount.microsoft.com/",
+            "title": "Sign in to your account",
+            "snippet": "Access and manage your Microsoft account, subscriptions, and settings all in one place."
+          },
+          {
+            "url": "https://account.microsoft.com/account-checkup",
+            "title": "Sign in - account.microsoft.com",
+            "snippet": "Sign in to check and manage your Microsoft account settings with the Account Checkup Wizard."
+          },
+          {
+            "url": "https://m365.cloud.microsoft/",
+            "title": "Microsoft 365 - Sign into Copilot",
+            "snippet": "Microsoft 365 includes Word, Excel, PowerPoint, Outlook, Teams, and OneDrive, with Microsoft Copilot built in to help you create, communicate, and summarize information. Formerly Office 365."
+          },
+          {
+            "url": "https://myaccount.microsoft.com/ ->",
+            "title": "My Account",
+            "snippet": "My Account ... My Account"
+          },
+          {
+            "url": "https://www.speedtest.net/",
+            "title": "Speedtest by Ookla - The Global Broadband Speed Test",
+            "snippet": "Test your internet speed on any device with Speedtest by Ookla, available for free on desktop and mobile apps."
+          },
+          {
+            "url": "https://sandboxsupport.speedtest.net/hc/en-us/articles/202610694-Why-am-I-getting-different-speeds-between-my-computer-and-my-phone-tablet",
+            "title": "Why am I getting different speeds between my computer and my...",
+            "snippet": "Jul 30, 2014 · Differences in available bandwidth: Make sure that the tests don't overlap each other, as each test needs to have your entire bandwidth to itself. Additionally, make sure nothing else is downloading at the same time. Differences in connection: Make sure the phone and your computer are actually testing on"
+          },
+          {
+            "url": "https://www.speedtest.net/zh-Hant/settings",
+            "title": "Settings | Speedtest by Ookla",
+            "snippet": "Join the millions of other people helping us to accelerate the Internet! By creating an account, you'll be able to access your historical results anywhere and manage your Speedtes"
+          },
+          {
+            "url": "https://www.speedtest.net/run",
+            "title": "Speedtest by Ookla - The Global Broadband Speed Test",
+            "snippet": "Test your internet speed and performance with Speedtest by Ookla, available on desktop and mobile devices for free."
+          },
+          {
+            "url": "https://www.speedtest.net/id/server/0",
+            "title": "Speedtest oleh Ookla - Uji Kecepatan Broadband Global",
+            "snippet": "Gunakan Speedtest di semua perangkat Anda dengan aplikasi desktop dan seluler gratis kami."
+          },
+          {
+            "url": "https://www.speedtest.net/about/knowledge/faq",
+            "title": "Speedtest Frequently Asked Questions",
+            "snippet": "What factors may impact my Speedtest ® result? # Speedtest measures the speed between your device and a test server, using your device's internet connection. Several factors can impact the speed recorded by a test: Devices (phones, tablets, PCs, etc…) can have very different Wi-Fi and cellular radio capabilities. This "
+          }
+        ],
+        "errors": [],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.microsoft.com/en-us/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://account.microsoft.com/account",
+            "result": "unreachable",
+            "reason": "ReadTimeout"
+          },
+          {
+            "url": "https://myaccount.microsoft.com/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://m365.cloud.microsoft/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.speedtest.net/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://sandboxsupport.speedtest.net/hc/en-us/articles/202610694-Why-am-I-getting-different-speeds-between-my-computer-and-my-phone-tablet",
+            "result": "ambiguous",
+            "evidence": []
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30190371",
+        "legal_name": "Společenství vlastníků jednotek Vinohradská 222",
+        "registered_at": "2026-11-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30190371",
+        "decision_maker": {
+          "name": "MAROŠ BRÉDA",
+          "role": "Člen statutárního orgánu",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30190371",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "MAROŠ BRÉDA",
+            "role": "Člen statutárního orgánu",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30190371",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30190371",
+          "date": "2026-11-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Společenství vlastníků jednotek Vinohradská 222 — research dossier",
+        "facts": [
+          "The business is listed at Vinohradská 1507, Praha, 10000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30190371 dated 2026-11-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30190371",
+            "date": "2026-11-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30190371"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "MAROŠ BRÉDA",
+          "role": "Člen statutárního orgánu",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30190371",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://en.wikipedia.org/wiki/Microsoft",
+        "https://www.microsoft.com/en-us/",
+        "https://www.microsoft.com/",
+        "https://account.microsoft.com/account",
+        "https://myaccount.microsoft.com/",
+        "https://account.microsoft.com/account-checkup",
+        "https://m365.cloud.microsoft/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30231485": {
+      "lead_id": "res-30231485",
+      "name": "SUTANO Invest a.s.",
+      "checked_at": "2026-11-17",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"SUTANO Invest a.s.\" IČO 30231485 web",
+          "\"SUTANO Invest a.s.\" Praha Construction & property kontakt",
+          "\"SUTANO Invest a.s.\" \"Primátorská 296\" web",
+          "\"SUTANO Invest a.s.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://en.m.wikipedia.org/wiki/Coronado,_California",
+            "title": "Coronado, California - Wikipedia",
+            "snippet": "Coronado is a tied island which is connected to the mainland by a tombolo (a sandy isthmus) called Silver Strand. Along the coast of Southern California lie four islands that were spotted by Sebastian Vizcaino and his crew. They named them \"Los Coronados\"."
+          },
+          {
+            "url": "https://en.m.wikipedia.org/wiki/Francisco_Vázquez_de_Coronado",
+            "title": "Francisco Vázquez de Coronado - Wikipedia",
+            "snippet": "Coronado, California is not named after Francisco Vázquez de Coronado, but is named after Coronado Islands, which were named in 1602 by Sebastián Vizcaíno who called them Los Cuatro Coronados (the four crowned ones) to honor four martyrs."
+          },
+          {
+            "url": "https://www.coronado.ca.us/",
+            "title": "Coronado, CA | Official Website",
+            "snippet": "4 days ago · Incorporated in 1890, the City of Coronado is a small seaside community with a rich history and charming ocean village atmosphere. Located in San Diego County, Coronado (Spanish for “Crowned”) is nicknamed The Crown City."
+          },
+          {
+            "url": "https://www.coronadonewsca.com/",
+            "title": "coronadonewsca.com | The Coronado Eagle & Journal is Coronado ...",
+            "snippet": "1 day ago · Coronado’s newspapers from 1887 through 2013 are now available on the web. The newspapers are fully searchable by subject, keyword, linked words and dates, and search results bring up articles or full pages of the newspapers."
+          },
+          {
+            "url": "https://lajollamom.com/things-to-do-in-coronado/",
+            "title": "30 Best Things to Do on Coronado Island in San Diego",
+            "snippet": "May 3, 2026 · From its beginnings under the Spanish flag to the experiments growing barley to its thriving whaling industry to growing into a beloved American military town, Coronado’s rich history can keep you captivated for an entire afternoon at the Coronado Historical Association and Coronado Museum."
+          },
+          {
+            "url": "https://www.coronado.ca.us/27/City-Services",
+            "title": "City Services | Coronado, CA",
+            "snippet": "Explore the links below for more information about living, working, or enjoying recreational activities in the City of Coronado."
+          },
+          {
+            "url": "https://www.hoteldel.com/",
+            "title": "Hotel del Coronado | San Diego's Legendary Beach Resort",
+            "snippet": "For over a century, Hotel del Coronado has stood as the birthplace of the American beach vacation, where generations have celebrated life’s most cherished moments."
+          },
+          {
+            "url": "https://sandiegoexplorer.com/best-things-to-do-on-coronado-island-california/",
+            "title": "Best Things to Do on Coronado Island, California",
+            "snippet": "Jul 14, 2026 · Coronado packs one of America’s best beaches, the historic Hotel del Coronado, a walkable village full of boutiques and restaurants, and postcard views of the San Diego skyline into one compact island — it’s an easy half-day or full-day trip from downtown."
+          },
+          {
+            "url": "https://techcommunity.microsoft.com/blog/outlook/copilot-in-outlook-new-agentic-experiences-for-email-and-calendar/4499798",
+            "title": "Copilot in Outlook: New agentic experiences for email and...",
+            "snippet": "Mar 9, 2026 · Wave 3 of Microsoft 365 Copilot marks a shift from single-shot tasks to agentic experiences embedded in the apps where work happens. In Outlook, Copilot helps you go from intent to execution across email and calendar—without losing context or creating extra steps. Copilot in Outlook is grounded in Work IQ"
+          },
+          {
+            "url": "https://www.microsoft.com/en-us/",
+            "title": "Microsoft - Official Home Page",
+            "snippet": "At Microsoft our mission and values are to help people and businesses throughout the world realize their full potential."
+          },
+          {
+            "url": "https://techcommunity.microsoft.com/blog/plannerblog/introducing-a-refreshed-design-task-chat-and-more-in-microsoft-planner/4495440",
+            "title": "Introducing a refreshed design, task chat, and more in Microsoft...",
+            "snippet": "Feb 23, 2026 · Access to Goals view in basic plans requires either a Planner premium license or a Microsoft 365 Copilot license. A GIF demonstrates how to add a new goal to a plan in Planner for the web, as well as how to connect existing tasks to the goal, update the status of the connected tasks, and add an end date "
+          },
+          {
+            "url": "https://support.microsoft.com/en-us/accounts-billing/work-school/sign-in-to-your-work-or-school-account-using-two-step-verification",
+            "title": "Sign in to your work or school account using two-step...",
+            "snippet": "Find out how to Get started with the Microsoft Authenticator app so that you can use notifications to sign in, instead of texts and phone calls. Learn How to use two-step verification with your Microsoft account."
+          },
+          {
+            "url": "https://support.microsoft.com/en-gb/accounts-billing/",
+            "title": "Account help | Microsoft Support",
+            "snippet": "Get help for the account you use with Microsoft. Find how to set up Microsoft account, protect it, and use it to manage your services and subscriptions."
+          },
+          {
+            "url": "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128",
+            "title": "The AI job boom is here. Are you ready to showcase your skills?",
+            "snippet": "The Microsoft Certified:Azure AI Cloud Developer AssociateCertification is designed for developers who want to validate their ability to build, integrate, and monitor AI solutions on Azure by using containerized compute, vector-enabled databases, event-driven AI pipelines, serverless functions, secret management, and d"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.coronado.ca.us/",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.coronadonewsca.com/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://lajollamom.com/things-to-do-in-coronado/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.hoteldel.com/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://sandiegoexplorer.com/best-things-to-do-on-coronado-island-california/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://techcommunity.microsoft.com/blog/outlook/copilot-in-outlook-new-agentic-experiences-for-email-and-calendar/4499798",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.microsoft.com/en-us/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://support.microsoft.com/en-us/accounts-billing/work-school/sign-in-to-your-work-or-school-account-using-two-step-verification",
+            "result": "ambiguous",
+            "evidence": []
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30231485",
+        "legal_name": "SUTANO Invest a.s.",
+        "registered_at": "2026-11-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30231485",
+        "decision_maker": {
+          "name": "JAN LUSTIG",
+          "role": "člen správní rady",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30231485",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "JAN LUSTIG",
+            "role": "člen správní rady",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30231485",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30231485",
+          "date": "2026-11-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "SUTANO Invest a.s. — research dossier",
+        "facts": [
+          "The business is listed at Primátorská 296, Praha, 18000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30231485 dated 2026-11-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30231485",
+            "date": "2026-11-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30231485"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "JAN LUSTIG",
+          "role": "člen správní rady",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30231485",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://en.m.wikipedia.org/wiki/Coronado,_California",
+        "https://en.m.wikipedia.org/wiki/Francisco_Vázquez_de_Coronado",
+        "https://www.coronado.ca.us/",
+        "https://www.coronadonewsca.com/",
+        "https://lajollamom.com/things-to-do-in-coronado/",
+        "https://www.coronado.ca.us/27/City-Services",
+        "https://www.hoteldel.com/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30233992": {
+      "lead_id": "res-30233992",
+      "name": "BD Smíchovská 20 s.r.o.",
+      "checked_at": "2026-11-17",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"BD Smíchovská 20 s.r.o.\" IČO 30233992 web",
+          "\"BD Smíchovská 20 s.r.o.\" Praha Construction & property kontakt",
+          "\"BD Smíchovská 20 s.r.o.\" \"Smíchovská 20\" web",
+          "\"BD Smíchovská 20 s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://en.m.wikipedia.org/wiki/BD_(company)",
+            "title": "BD (company) - Wikipedia",
+            "snippet": "Becton, Dickinson and Company (BD; also Becton Dickinson or Becton[2]) is an American multinational medical technology company that manufactures and sells medical devices, instrument systems, and reagents. BD also provides consulting and analytics services in certain areas. [3]"
+          },
+          {
+            "url": "https://www.bd.com/en-us",
+            "title": "Advancing the World of Health | BD",
+            "snippet": "At BD, we seek to usher in a new era of healthcare by bringing medical products, capabilities and solutions to every corner of the world."
+          },
+          {
+            "url": "https://www.bd.com/en-us/products-and-solutions/products",
+            "title": "Products | BD",
+            "snippet": "BD is committed to staying at the forefront of developing cutting-edge venous technologies to address the unique challenges of the venous anatomy and disease states."
+          },
+          {
+            "url": "https://jobs.bd.com/en",
+            "title": "Careers at BD",
+            "snippet": "“BD is a company that valued my ambition and opened the doors for me to do what I think I do best: Be creative and interact with people. I was given the opportunity to build a career even though I was 38 years old when I started - BD saw my potential and invested in me.”"
+          },
+          {
+            "url": "https://academy.bd.com/en-us/home",
+            "title": "Home | BD Learning Academy",
+            "snippet": "The BDLA portal is a central repository for information on safe and effective use of BD products, clinical practice courses, videos, and other related materials designed to help you and your teams deliver the best patient care possible."
+          },
+          {
+            "url": "https://www.bdbiosciences.com/en-us",
+            "title": "BD Biosciences | Flow Cytometry Instruments and Reagents",
+            "snippet": "Jul 6, 2026 · BD Biosciences provides flow cytometers, reagents, tools, and a wide range of services to support the work of researchers and clinicians who understand disease and improve care."
+          },
+          {
+            "url": "https://my.bd.com/",
+            "title": "Login | BD",
+            "snippet": "© 2026 BD. All rights reserved. Unless otherwise noted, BD, the BD Logo and all other trademarks are property of Becton, Dickinson and Company."
+          },
+          {
+            "url": "https://investors.bd.com/",
+            "title": "Becton, Dickinson and Company (BDX)",
+            "snippet": "Nov 5, 2026 · For over 125 years, BD has been advancing the world of health™ by improving medical discovery, diagnostics and the delivery of care. We are a clear category leader, with key platforms in many large, foundational areas of healthcare and the…"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.bd.com/en-us",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://jobs.bd.com/en",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://academy.bd.com/en-us/home",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.bdbiosciences.com/en-us",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://login.bd.com/bdciam.onmicrosoft.com/b2c_1a_bd_ciam_landing_sisu/oauth2/v2.0/authorize?client_id=14651d94-9d86-4cc8-bb65-91732b67da5d&redirect_uri=https%3A%2F%2Fmy.bd.com%2Fsignin-oidc&response_type=id_token&scope=openid%20profile&response_mode=form_post&nonce=639305330961802781.YjExMTI1MzMtOWY5ZS00Y2MwLWJjODktMjE0OWRhZGQzYjU2OGRhMjUxMDAtYTk1Ny00MGUyLWJiMWEtNmIyNjNlYmE2YWZi&state=CfDJ8ATduvUUYEBHqBOELzJOfB-IpmG8SPC-rqOP5lgzMcxcXBmPE6PrJ-zlbiDcJzHZZLAPTZyDW1NMnvWwhA8HhIrjC8Vj2oDdzV0rFscWoVtI1bouZISeg5-d5wDDZkxgm2T5f1-HREtk6WBL0qrj4piCZKNtJBqUABJljhDQp895i8-AEzThwyOCQh2H3rk3daJGG7n4RWyvWBqYExCpDGBrvgZeZYa7_ojsxv135otXRPlCxVcniYBKENPl9whq3a0OzFJvGeygzKghDB3VM8Iq9f5MMMtNLSr89uYrE-2G&x-client-SKU=ID_NET10_0&x-client-ver=8.22.0.0",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://investors.bd.com/",
+            "result": "ambiguous",
+            "evidence": []
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30233992",
+        "legal_name": "BD Smíchovská 20 s.r.o.",
+        "registered_at": "2026-11-10",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30233992",
+        "decision_maker": {
+          "name": "SERGEY GORIN",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30233992",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "SERGEY GORIN",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30233992",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "ANDREJ VLADIMIROVIČ ZAJCEV",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30233992",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30233992",
+          "date": "2026-11-10",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "BD Smíchovská 20 s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Smíchovská 20, Praha, 15500.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30233992 dated 2026-11-10."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30233992",
+            "date": "2026-11-10",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30233992"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "SERGEY GORIN",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30233992",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://en.m.wikipedia.org/wiki/BD_(company)",
+        "https://www.bd.com/en-us",
+        "https://www.bd.com/en-us/products-and-solutions/products",
+        "https://jobs.bd.com/en",
+        "https://academy.bd.com/en-us/home",
+        "https://www.bdbiosciences.com/en-us",
+        "https://my.bd.com/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30235774": {
+      "lead_id": "res-30235774",
+      "name": "APRITO Invest a.s.",
+      "checked_at": "2026-11-17",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"APRITO Invest a.s.\" IČO 30235774 web",
+          "\"APRITO Invest a.s.\" Praha Construction & property kontakt",
+          "\"APRITO Invest a.s.\" \"Primátorská 296\" web",
+          "\"APRITO Invest a.s.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://www.davita.com/tools/find-a-dialysis-center/",
+            "title": "Find a Dialysis Center Near You | DaVita",
+            "snippet": "Find DaVita dialysis centers near you. Search by ZIP code, city, or state to locate nearby dialysis clinics and view treatment options."
+          },
+          {
+            "url": "https://www.booking.com/hotel/no/davita-ranch.html",
+            "title": "DaVita Ranch, Tranhaug (updated prices 2027) - Booking.com",
+            "snippet": "Escape to DaVita Ranch, a peaceful forest retreat nestled in the mountains of Innlandet, about two hours from Oslo. Our cozy cabin is perfect for couples, families, or groups of friends seeking relaxation and adventure."
+          },
+          {
+            "url": "https://www.davita.com/locations/tx/new-braunfels/798-generations-dr--1767/",
+            "title": "DaVita New Braunfels Dialysis",
+            "snippet": "Convenient care to fit your lifestyle — wherever you may be. Our Guest Services team will arrange a tour for you at a center and answer any questions you have about dialysis treatment at no charge. Call our Guest Services Contact Center Team number below to schedule tour."
+          },
+          {
+            "url": "https://www.airbnb.com/rooms/666514291019843347",
+            "title": "DaVita Ranch - Cabins for Rent in Søndre Land, Innlandet, Norway...",
+            "snippet": "Escape to a peaceful forest retreat about two hours from Oslo, nestled in the idyllic mountains of Innlandet. Our cozy cabin at DaVita Ranch is the perfect place for couples, families, or groups of friends seeking both relaxation and adventure."
+          },
+          {
+            "url": "https://www.facebook.com/davitaranch/",
+            "title": "DaVita Ranch - Facebook",
+            "snippet": "Oct 2, 2026 · Atsipalaidavimas nuo kasdienybės, mėgavimasis tyla, grynu oru, nuostabia gamta ir, svarbiausia, gera bei smagia kompanija. ️ Kartais atostogoms reikia visai nedaug – gražios gamtos, gero oro, draugių ir šiek tiek šampano. 🥂🍂🏔️ .............."
+          },
+          {
+            "url": "https://www.airbnb.com.mt/rooms/666514291019843347",
+            "title": "DaVita Ranch - Cabins for Rent in Søndre Land, Innlandet, Norway...",
+            "snippet": "Experience the tranquility and beauty of nature at DaVita Ranch—a retreat where every moment is filled with peace and harmony. We are here to make your stay as relaxing and enjoyable as possible."
+          },
+          {
+            "url": "https://www.bedandbreakfast.eu/en/a/A1LhqtKsQaZN/davita-ranch",
+            "title": "DaVita Ranch in Tranhaug | Reviews & Best available rates",
+            "snippet": "Spacious Accommodation: DaVita Ranch in Tranhaug offers a spacious chalet with two bedrooms and a living room. Guests enjoy a fully equipped kitchen, private bathroom, and free WiFi throughout the property."
+          },
+          {
+            "url": "https://www.rentbyowner.com/property/davita-ranch/BC-8777105",
+            "title": "DaVita Ranch Ski Chalet in Sndre Land, Norway - Rent By Owner",
+            "snippet": "DaVita Ranch in Tranhaug offers a spacious chalet with two bedrooms and a living room. Guests enjoy a fully equipped kitchen, private entrance, and free WiFi throughout the property. The chalet features spa facilities, a sun terrace, and a beautiful garden."
+          },
+          {
+            "url": "https://www.facebook.com/",
+            "title": "Facebook",
+            "snippet": "Connect and share with friends, family, and the world on Facebook."
+          },
+          {
+            "url": "https://www.facebook.com/reg/",
+            "title": "Facebook",
+            "snippet": "Get started on Facebook with a Meta Account A Meta Account lets you access multiple Meta technologies, like Facebook, easily and securely."
+          },
+          {
+            "url": "https://upload.facebook.com/login/identify/",
+            "title": "Facebook",
+            "snippet": "Enter your mobile number or email. Mobile number or email"
+          },
+          {
+            "url": "https://secure.facebook.com/login/",
+            "title": "Log Into Facebook",
+            "snippet": "Log into Facebook to start sharing and connecting with your friends, family, and people you know."
+          },
+          {
+            "url": "https://l.facebook.com/facebook/",
+            "title": "Facebook",
+            "snippet": "4 days ago · The comments and feedback on Facebook sparked conversations that helped me acclimate back into society.\" Nick has since turned that community into @crushclubhtx, a social club that hosts in-person events dedicated to helping others find real connections."
+          },
+          {
+            "url": "https://apps.facebook.com/watch/",
+            "title": "Facebook Video | Facebook",
+            "snippet": "Video is the place to enjoy videos and shows together. Watch the latest reels, discover original shows and catch up with your favorite creators."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://davita.com/tools/find-a-dialysis-center/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.airbnb.com/rooms/666514291019843347",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.airbnb.com.mt/rooms/666514291019843347",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.bedandbreakfast.eu/en/a/A1LhqtKsQaZN/davita-ranch",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.rentbyowner.com/property/davita-ranch/BC-8777105",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30235774",
+        "legal_name": "APRITO Invest a.s.",
+        "registered_at": "2026-11-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30235774",
+        "decision_maker": {
+          "name": "JAN LUSTIG",
+          "role": "člen správní rady",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30235774",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "JAN LUSTIG",
+            "role": "člen správní rady",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30235774",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30235774",
+          "date": "2026-11-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "APRITO Invest a.s. — research dossier",
+        "facts": [
+          "The business is listed at Primátorská 296, Praha, 18000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30235774 dated 2026-11-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30235774",
+            "date": "2026-11-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30235774"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "JAN LUSTIG",
+          "role": "člen správní rady",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30235774",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.davita.com/tools/find-a-dialysis-center/",
+        "https://www.booking.com/hotel/no/davita-ranch.html",
+        "https://www.davita.com/locations/tx/new-braunfels/798-generations-dr--1767/",
+        "https://www.airbnb.com/rooms/666514291019843347",
+        "https://www.facebook.com/davitaranch/",
+        "https://www.airbnb.com.mt/rooms/666514291019843347",
+        "https://www.bedandbreakfast.eu/en/a/A1LhqtKsQaZN/davita-ranch"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30236011": {
+      "lead_id": "res-30236011",
+      "name": "LORENTE Company a.s.",
+      "checked_at": "2026-11-17",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"LORENTE Company a.s.\" IČO 30236011 web",
+          "\"LORENTE Company a.s.\" Praha Construction & property kontakt",
+          "\"LORENTE Company a.s.\" \"Primátorská 296\" web",
+          "\"LORENTE Company a.s.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://www.sbhonline.com/photo-galleries/webcams/",
+            "title": "Webcams On St Barts | SBHonline St Barts Vacations Insiders Guide",
+            "snippet": "Webcams On St Barts The webcams are managed and maintained by different sources and in most cases are better viewed as single camera per page. Click on any of the feeds below to view the cam on a new page."
+          },
+          {
+            "url": "https://www.sbhonline.com/st-barts-guide/phone-calling-st-barts/",
+            "title": "Phone Calling St Barts - SBHonline",
+            "snippet": "Phone Calling St Barts All St Barth phone numbers, both land line and mobile, are in the 590 country code. An example St Barts phone number: 0590 27 71 83 When dialing a St Barts number from the US you drop the leading zero on the 10-digit local number and add 590. To call from the US dial 011 (for international,) 590 "
+          },
+          {
+            "url": "https://www.sbhonline.com/st-barts-guide/churches-on-st-barts/",
+            "title": "Churches on St Barts - SBHonline",
+            "snippet": "Roman Catholic Churches There are three Roman Catholic churches on St Barts: Gustavia Lorient Colombier Tel: (59) 0590 279538 Anglican Church Sunday morning services at 9:00am Midweek mass at 12:30pm Tel: (59) 0590 297463 The Pentecostal Church Services are held three times a week at the St Barth’s Beach Hotel Tel: (59"
+          },
+          {
+            "url": "https://www.sbhonline.com/forums/",
+            "title": "SBHonline St Barts Community Forums",
+            "snippet": "Jun 18, 2021 · St Barts Island Community Forums Un forum sur les vacances à St Barth pour les personnes dont la langue maternelle est le français"
+          },
+          {
+            "url": "https://www.sbhonline.com/st-barts-guide/whats-going-on-st-barts/",
+            "title": "Whats Going On – News | SBHonline St Barts Vacations Insiders...",
+            "snippet": "17 hours ago · Whats Going On – News News & Updates Relating To Coronavirus, cor Covid-19 In The Caribbean We have set-up a page to consolidate official government updates about ..."
+          },
+          {
+            "url": "https://www.sbhonline.com/sbh/about-sbhonline/",
+            "title": "About SBHonline | SBHonline St Barts Vacations Insiders Guide",
+            "snippet": "About SBHonline The Insiders Guide To St Barthélemy Launched in October of 2002 by Bob & Kara Brooks SBHonline is a culmination of their longtime love affair with St Barts. Like many others, spending a few weeks a year on the island just wasn’t enough. They wanted to commune with the island all year. In creating www.sb"
+          },
+          {
+            "url": "https://www.sbhonline.com/forums/threads/villa-tipping.78568/",
+            "title": "Villa tipping? | SBHonline St Barts Community Forums",
+            "snippet": "Oct 18, 2013 · I can imagine this starts some varying opinions, but what amount is considered customary for tipping the housekeeper that comes to your villa everyday (except Sundays)? Question is based on the assumption of a tip at the end of a one week stay, cash in Euros."
+          },
+          {
+            "url": "https://www.sbhonline.com/forums/threads/larry-gray-air-mango-charter-in-st-barths.37982/",
+            "title": "Larry Gray-Air Mango Charter in St. Barths - SBHonline St Barts...",
+            "snippet": "Oct 15, 2003 · Larry Gray, owner/pilot of Air Mango (based in St. Barths), has been traveling in the States like so many from SB in the off season. He left New York yesterday in flight for Charleston, SC. His Piper Aztec went down and crashed about 8:30pm near Moncks Corner, SC, about 15 miles north of..."
+          },
+          {
+            "url": "https://ilovepdf.org/blog/how-to-add-video-to-a-pdf-make-it-interactive/",
+            "title": "How to Add Video to PDF (Interactive Media Guide)",
+            "snippet": "Jul 6, 2026 · Learn how to add video to PDF using links or embedded media. Follow step-by-step tips, formats, and fixes for click and playback issues."
+          },
+          {
+            "url": "https://helpx.adobe.com/acrobat/using/playing-video-audio-multimedia-formats.html",
+            "title": "Playing video, audio, and multimedia formats in PDFs",
+            "snippet": "Feb 26, 2026 · Follow these steps to play video, audio, and multimedia formats in PDFs in Adobe Acrobat."
+          },
+          {
+            "url": "https://blog.flipsnack.com/how-to-embed-video-in-pdf/",
+            "title": "How to Embed a Video in a PDF (and Make Sure it Plays)",
+            "snippet": "Sep 23, 2026 · Can you embed a video in a PDF? Yes, but many readers won't play it. Learn alternatives, the links that always work & how to fix static videos."
+          },
+          {
+            "url": "https://helpx.adobe.com/acrobat/using/rich-media.html",
+            "title": "Add audio, video, and interactive objects to PDFs - Adobe Inc.",
+            "snippet": "Feb 26, 2026 · Follow these steps to include audio, video, and interactive 3D objects in your PDF files. Add files directly to your PDF or link to files on the web."
+          },
+          {
+            "url": "https://smallpdf.com/blog/embed-video-in-pdf",
+            "title": "How to Embed Video in a PDF | Smallpdf",
+            "snippet": "Mar 21, 2026 · Embed video in PDF the reliable way. We show you how to add a thumbnail, link, or QR code that works on any device."
+          },
+          {
+            "url": "https://add-video-in-pdf.pdffiller.com/",
+            "title": "Add Videos to a PDF | pdfFiller",
+            "snippet": "Sep 8, 2026 · You can embed various types of videos in a PDF, including MP4, AVI, and MOV formats. pdfFiller supports these formats, allowing you to add instructional videos, promotional content, or any multimedia that complements your document."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.sbhonline.com/photo-galleries/webcams/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://ilovepdf.org/blog/how-to-add-video-to-a-pdf-make-it-interactive/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://helpx.adobe.com/acrobat/desktop.html",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://blog.flipsnack.com/how-to-embed-video-in-pdf/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://smallpdf.com/blog/embed-video-in-pdf",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://add-video-in-pdf.pdffiller.com/",
+            "result": "ambiguous",
+            "evidence": []
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30236011",
+        "legal_name": "LORENTE Company a.s.",
+        "registered_at": "2026-11-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30236011",
+        "decision_maker": {
+          "name": "JAN LUSTIG",
+          "role": "člen správní rady",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30236011",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "JAN LUSTIG",
+            "role": "člen správní rady",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30236011",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30236011",
+          "date": "2026-11-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "LORENTE Company a.s. — research dossier",
+        "facts": [
+          "The business is listed at Primátorská 296, Praha, 18000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30236011 dated 2026-11-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30236011",
+            "date": "2026-11-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30236011"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "JAN LUSTIG",
+          "role": "člen správní rady",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30236011",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.sbhonline.com/photo-galleries/webcams/",
+        "https://www.sbhonline.com/st-barts-guide/phone-calling-st-barts/",
+        "https://www.sbhonline.com/st-barts-guide/churches-on-st-barts/",
+        "https://www.sbhonline.com/forums/",
+        "https://www.sbhonline.com/st-barts-guide/whats-going-on-st-barts/",
+        "https://www.sbhonline.com/sbh/about-sbhonline/",
+        "https://www.sbhonline.com/forums/threads/villa-tipping.78568/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30236096": {
+      "lead_id": "res-30236096",
+      "name": "POMPE Company a.s.",
+      "checked_at": "2026-11-17",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"POMPE Company a.s.\" IČO 30236096 web",
+          "\"POMPE Company a.s.\" Praha Construction & property kontakt",
+          "\"POMPE Company a.s.\" \"Primátorská 296\" web",
+          "\"POMPE Company a.s.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://en.m.wikipedia.org/wiki/Glycogen_storage_disease_type_II",
+            "title": "Glycogen storage disease type II - Wikipedia",
+            "snippet": "Glycogen storage disease type II (GSD-II), also called Pompe disease, and formerly known as GSD-IIa or Limb–girdle muscular dystrophy 2V, is an autosomal recessive metabolic disorder [1] which damages muscle and nerve cells throughout the body. It is caused by an accumulation of glycogen in the lysosome due to a defici"
+          },
+          {
+            "url": "https://my.clevelandclinic.org/health/diseases/15808-pompe-disease",
+            "title": "Pompe Disease: Symptoms & Treatment - Cleveland Clinic",
+            "snippet": "Sep 27, 2023 · Pompe disease is a rare genetic condition that causes muscle weakness that can lead to life-threatening complications. Learn more about the symptoms and treatment of this disorder."
+          },
+          {
+            "url": "https://rarediseases.org/rare-diseases/pompe-disease/",
+            "title": "Pompe Disease - Symptoms, Causes, Treatment | NORD",
+            "snippet": "Jan 18, 2024 · Learn about Pompe Disease, including symptoms, causes, and treatments. If you or a loved one is affected by this condition, visit NORD to find resources and"
+          },
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10035871/",
+            "title": "Pompe Disease: a Clinical, Diagnostic, and Therapeutic Overview",
+            "snippet": "Pompe disease, also known as glycogen storage disease type II (GSD II) or acid maltase deficiency (AMD), is a genetic disorder caused by a deficiency of the acid alpha-glucosidase (GAA) enzyme, due to recessive mutations in the GAA gene, which leads to accumulation of lysosomal glycogen [1], diffusely but primarily aff"
+          },
+          {
+            "url": "https://medlineplus.gov/genetics/condition/pompe-disease/",
+            "title": "Pompe disease: MedlinePlus Genetics",
+            "snippet": "Feb 1, 2016 · Pompe disease is an inherited disorder caused by the buildup of a complex sugar called glycogen in the body's cells. Explore symptoms, inheritance, genetics of this condition."
+          },
+          {
+            "url": "https://www.webmd.com/a-to-z-guides/pompe-disease",
+            "title": "Pompe Disease: Symtoms, Causes, Treatments - WebMD",
+            "snippet": "Jun 10, 2022 · Pompe disease happens when your body can't make a protein that breaks down a complex sugar, called glycogen, for energy. Too much sugar builds up and damages your muscles and organs."
+          },
+          {
+            "url": "https://pompediseasenews.com/pompe-disease-symptoms/",
+            "title": "Pompe disease symptoms: Early signs to look out for – Pompe...",
+            "snippet": "Aug 24, 2026 · Pompe disease symptoms can vary, depending on age of onset and disease type. Common symptoms include muscle weakness and breathing issues."
+          },
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13116368/",
+            "title": "Pompe Disease: Pathogenesis, Molecular Mechanisms, Neurological...",
+            "snippet": "Pompe disease (PD) is a neuromuscular autosomal recessive disorder caused by mutation in the GAA gene, which encodes acid α-glucosidase (GAA), an enzyme responsible for hydrolyzing glycogen to glucose. Deficiency of this enzyme leads to pathological ..."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://my.clevelandclinic.org/health/diseases/15808-pompe-disease",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://rarediseases.org/rare-diseases/pompe-disease/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10035871/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://medlineplus.gov/genetics/condition/pompe-disease/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.webmd.com/a-to-z-guides/pompe-disease",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching distinctive business-name words on website"
+            ]
+          },
+          {
+            "url": "https://pompediseasenews.com/pompe-disease-symptoms/",
+            "result": "ambiguous",
+            "evidence": []
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30236096",
+        "legal_name": "POMPE Company a.s.",
+        "registered_at": "2026-11-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30236096",
+        "decision_maker": {
+          "name": "JAN LUSTIG",
+          "role": "člen správní rady",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30236096",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "JAN LUSTIG",
+            "role": "člen správní rady",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30236096",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30236096",
+          "date": "2026-11-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "POMPE Company a.s. — research dossier",
+        "facts": [
+          "The business is listed at Primátorská 296, Praha, 18000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30236096 dated 2026-11-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30236096",
+            "date": "2026-11-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30236096"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "JAN LUSTIG",
+          "role": "člen správní rady",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30236096",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://en.m.wikipedia.org/wiki/Glycogen_storage_disease_type_II",
+        "https://my.clevelandclinic.org/health/diseases/15808-pompe-disease",
+        "https://rarediseases.org/rare-diseases/pompe-disease/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10035871/",
+        "https://medlineplus.gov/genetics/condition/pompe-disease/",
+        "https://www.webmd.com/a-to-z-guides/pompe-disease",
+        "https://pompediseasenews.com/pompe-disease-symptoms/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30246253": {
+      "lead_id": "res-30246253",
+      "name": "Bydlení Bez Hypoték s.r.o.",
+      "checked_at": "2026-11-17",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Bydlení Bez Hypoték s.r.o.\" IČO 30246253 web",
+          "\"Bydlení Bez Hypoték s.r.o.\" Praha Construction & property kontakt",
+          "\"Bydlení Bez Hypoték s.r.o.\" \"Na Petynce 147\" web",
+          "\"Bydlení Bez Hypoték s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://techcommunity.microsoft.com/blog/plannerblog/introducing-a-refreshed-design-task-chat-and-more-in-microsoft-planner/4495440",
+            "title": "Introducing a refreshed design, task chat, and more in Microsoft...",
+            "snippet": "Feb 23, 2026 · Access to Goals view in basic plans requires either a Planner premium license or a Microsoft 365 Copilot license. A GIF demonstrates how to add a new goal to a plan in Planner for the web, as well as how to connect existing tasks to the goal, update the status of the connected tasks, and add an end date "
+          },
+          {
+            "url": "https://support.microsoft.com/en-us/forms/sign-in-to-microsoft-forms",
+            "title": "Sign in to Microsoft Forms",
+            "snippet": "Create surveys, quizzes, and polls, and easily see results as they come in. Invite others to respond to your form using any web browser or mobile device. Use built-in analytics to evaluate responses as they're submitted. Export form data, such as quiz results, to Excel for additional analysis or grading."
+          },
+          {
+            "url": "https://www.microsoft.com/en-us/",
+            "title": "Microsoft - Official Home Page",
+            "snippet": "At Microsoft our mission and values are to help people and businesses throughout the world realize their full potential."
+          },
+          {
+            "url": "https://support.microsoft.com/en-us/accounts-billing/work-school/sign-in-to-your-work-or-school-account-using-two-step-verification",
+            "title": "Sign in to your work or school account using two-step...",
+            "snippet": "Find out how to Get started with the Microsoft Authenticator app so that you can use notifications to sign in, instead of texts and phone calls. Learn How to use two-step verification with your Microsoft account."
+          },
+          {
+            "url": "https://support.microsoft.com/en-gb/accounts-billing/",
+            "title": "Account help | Microsoft Support",
+            "snippet": "Get help for the account you use with Microsoft. Find how to set up Microsoft account, protect it, and use it to manage your services and subscriptions."
+          },
+          {
+            "url": "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128",
+            "title": "The AI job boom is here. Are you ready to showcase your skills?",
+            "snippet": "The Microsoft Certified:Azure AI Cloud Developer AssociateCertification is designed for developers who want to validate their ability to build, integrate, and monitor AI solutions on Azure by using containerized compute, vector-enabled databases, event-driven AI pipelines, serverless functions, secret management, and d"
+          },
+          {
+            "url": "https://techcommunity.microsoft.com/blog/outlook/copilot-in-outlook-new-agentic-experiences-for-email-and-calendar/4499798",
+            "title": "Copilot in Outlook: New agentic experiences for email and...",
+            "snippet": "Mar 9, 2026 · Wave 3 of Microsoft 365 Copilot marks a shift from single-shot tasks to agentic experiences embedded in the apps where work happens. In Outlook, Copilot helps you go from intent to execution across email and calendar—without losing context or creating extra steps. Copilot in Outlook is grounded in Work IQ"
+          },
+          {
+            "url": "https://techcommunity.microsoft.com/event/techcommunitylive/microsoft-technical-takeoff-2026-windows--intune/4490614",
+            "title": "Microsoft Technical Takeoff 2026: Windows + Intune - Microsoft...",
+            "snippet": "Mar 2, 2026 · Skill up with the latest deep dives and demos from the engineering teams behind Windows, Windows 365, Microsoft Intune, and Azure Virtual Desktop."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://techcommunity.microsoft.com/blog/plannerblog/introducing-a-refreshed-design-task-chat-and-more-in-microsoft-planner/4495440",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://support.microsoft.com/en-us/forms/sign-in-to-microsoft-forms",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.microsoft.com/en-us/",
+            "result": "ambiguous",
+            "evidence": []
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30246253",
+        "legal_name": "Bydlení Bez Hypoték s.r.o.",
+        "registered_at": "2026-11-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30246253",
+        "decision_maker": {
+          "name": "ALEŠ DÍTĚ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30246253",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "ALEŠ DÍTĚ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30246253",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30246253",
+          "date": "2026-11-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Bydlení Bez Hypoték s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Na Petynce 147, Praha, 16900.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30246253 dated 2026-11-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30246253",
+            "date": "2026-11-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30246253"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "ALEŠ DÍTĚ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30246253",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://techcommunity.microsoft.com/blog/plannerblog/introducing-a-refreshed-design-task-chat-and-more-in-microsoft-planner/4495440",
+        "https://support.microsoft.com/en-us/forms/sign-in-to-microsoft-forms",
+        "https://www.microsoft.com/en-us/",
+        "https://support.microsoft.com/en-us/accounts-billing/work-school/sign-in-to-your-work-or-school-account-using-two-step-verification",
+        "https://support.microsoft.com/en-gb/accounts-billing/",
+        "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128",
+        "https://techcommunity.microsoft.com/blog/outlook/copilot-in-outlook-new-agentic-experiences-for-email-and-calendar/4499798"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30247012": {
+      "lead_id": "res-30247012",
+      "name": "KOROL STAVPRO s.r.o.",
+      "checked_at": "2026-11-17",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"KOROL STAVPRO s.r.o.\" IČO 30247012 web",
+          "\"KOROL STAVPRO s.r.o.\" Praha Construction & property kontakt",
+          "\"KOROL STAVPRO s.r.o.\" \"Rybná 716\" web",
+          "\"KOROL STAVPRO s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://support.microsoft.com/en-us/windows/experience/fileexplorer/file-explorer-in-windows",
+            "title": "File Explorer in Windows | Microsoft Support",
+            "snippet": "Find and open File Explorer in Windows, and customize Quick access by pinning and removing files and folders."
+          },
+          {
+            "url": "https://www.wikihow.com/Open-File-Explorer",
+            "title": "How to Open File Explorer in Windows 11 & 10: 6 Ways - wikiHow",
+            "snippet": "Oct 21, 2026 · You can open File Explorer with a keyboard shortcut, from the taskbar, using Windows Search, and more. In this article, we'll teach you how to find and open File Explorer in Windows 11 and 10. We'll also help you troubleshoot and fix issues with File Explorer not opening."
+          },
+          {
+            "url": "https://www.wikihow.com/Get-Help-with-File-Explorer-in-Windows",
+            "title": "Get Help with File Explorer in Windows: Easy Solutions",
+            "snippet": "Mar 14, 2026 · Do you need help with Windows File Explorer? If you're having issues using or launching the application, it's easy to get it working again! Here's how to troubleshoot the File Explorer in Windows 10 and Windows 11."
+          },
+          {
+            "url": "https://www.microsoft.com/en-us/windows/tips/file-explorer",
+            "title": "File Explorer | Microsoft Windows",
+            "snippet": "Press Windows logo key + E to open File Explorer and find the files and folders you need, including those on OneDrive. You can use Tabs in File Explorer to switch between folders quickly."
+          },
+          {
+            "url": "https://helpdeskgeek.com/how-to-open-file-explorer-on-windows-11/",
+            "title": "How to Open File Explorer on Windows 11 - Help Desk Geek",
+            "snippet": "Sep 11, 2021 · Like with Windows 10, there are several ways to open File Explorer on a Windows 11 PC. You can use a keyboard shortcut, a desktop icon, or even the Windows taskbar to open the Windows built-in file manager app."
+          },
+          {
+            "url": "https://www.xda-developers.com/file-explorer-windows-11/",
+            "title": "The ultimate guide to File Explorer on Windows 11",
+            "snippet": "Nov 6, 2024 · This guide will show you everything you need to know to get to grips with it, from the most basic functionality to more advanced settings even more frequent users may not know."
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=n0naYri6JXE",
+            "title": "Windows 11 File Explorer Full Tutorial | Complete Guide to ... -...",
+            "snippet": "Aug 16, 2025 · Master File Explorer in Windows 11 with this complete, step-by-step tutorial. In this video, you’ll learn every feature of File Explorer — from the toolbar and navigation pane to search,..."
+          },
+          {
+            "url": "https://geekzag.com/guides/computers/get-help-with-file-explorer-in-windows/",
+            "title": "Get Help With File Explorer in Windows 11 & 10 (Ultimate Guide)",
+            "snippet": "Feb 9, 2026 · File Explorer is an essential tool in Windows. It helps you manage your files and folders. This guide provides comprehensive details on how to get help with File Explorer in Windows 11 and 10, from how to use it to solving common problems."
+          },
+          {
+            "url": "https://stock.walmart.com/",
+            "title": "Walmart Inc. (WMT)",
+            "snippet": "Aug 20, 2026 · Walmart Inc. (Nasdaq: WMT) is a people-led, tech-powered omnichannel retailer helping people save money and live better — anytime and anywhere — in stores, online, and through their mobile devices. Each week, approximately 270 million customers and members visit more than 10,750 stores and numerous eComm"
+          },
+          {
+            "url": "https://www.walmart.com/",
+            "title": "Walmart | Save Money. Live better.",
+            "snippet": "Shop Walmart.com today for Every Day Low Prices. Join Walmart+ for unlimited free delivery from your store & free shipping with no order minimum. Start your free 30-day trial now!"
+          },
+          {
+            "url": "https://careers.walmart.com/us/en/home/resources/hiring-process",
+            "title": "Hiring Process - Walmart Careers",
+            "snippet": "Walmart and Sam’s Club provide a supportive and transparent hiring process designed to help candidates find roles where they can grow and make an impact. Resumes aren’t required, though job history must be provided, and applications typically take 20–25 minutes, with the option to save progress for hourly roles. Submit"
+          },
+          {
+            "url": "https://www.walmart.com/browse/electronics/3944",
+            "title": "Electronics - Walmart.com",
+            "snippet": "Shop electronics for home, work, gaming, and travel. Compare screens, storage, connectivity, and device compatibility in one place."
+          },
+          {
+            "url": "https://corporate.walmart.com/askwalmart",
+            "title": "Ask Walmart (FAQs)",
+            "snippet": "Find answers to frequently asked questions about Walmart."
+          },
+          {
+            "url": "https://corporate.walmart.com/privacy-security/walmart-privacy-notice",
+            "title": "Walmart Customer Privacy Notice (Online and In-Store)",
+            "snippet": "Aug 20, 2026 · Walmart Suppliers and Other Third Parties: To help make customer shopping experiences more relevant and friction-free, we may offer insights and related services to companies, including our suppliers who provide us with products and services to offer directly to customers both online and in our stores."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://support.microsoft.com/en-us/windows/experience/fileexplorer/file-explorer-in-windows",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.wikihow.com/Open-File-Explorer",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.microsoft.com/en-us/windows/tips/file-explorer",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://helpdeskgeek.com/how-to-open-file-explorer-on-windows-11/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.xda-developers.com/file-explorer-windows-11/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=n0naYri6JXE",
+            "result": "unreachable",
+            "reason": "HTTP_429"
+          },
+          {
+            "url": "https://geekzag.com/guides/computers/get-help-with-file-explorer-in-windows/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://stock.walmart.com/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.walmart.com/",
+            "result": "ambiguous",
+            "evidence": []
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30247012",
+        "legal_name": "KOROL STAVPRO s.r.o.",
+        "registered_at": "2026-11-10",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30247012",
+        "decision_maker": {
+          "name": "VIACHESLAV KOROL",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30247012",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "VIACHESLAV KOROL",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30247012",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30247012",
+          "date": "2026-11-10",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "KOROL STAVPRO s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Rybná 716, Praha, 11000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30247012 dated 2026-11-10."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30247012",
+            "date": "2026-11-10",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30247012"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "VIACHESLAV KOROL",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30247012",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://support.microsoft.com/en-us/windows/experience/fileexplorer/file-explorer-in-windows",
+        "https://www.wikihow.com/Open-File-Explorer",
+        "https://www.wikihow.com/Get-Help-with-File-Explorer-in-Windows",
+        "https://www.microsoft.com/en-us/windows/tips/file-explorer",
+        "https://helpdeskgeek.com/how-to-open-file-explorer-on-windows-11/",
+        "https://www.xda-developers.com/file-explorer-windows-11/",
+        "https://www.youtube.com/watch?v=n0naYri6JXE"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
