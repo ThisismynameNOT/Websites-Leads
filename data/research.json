@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-18T16:57:03.096672+00:00",
+  "generated_at": "2026-11-19T17:06:18.783323+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -5216,23 +5216,28 @@
     "manual-elefant-praha-roofing": {
       "lead_id": "manual-elefant-praha-roofing",
       "name": "ELEFANT - PRAHA, s.r.o.",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-19",
       "engine_version": 8,
       "state": "audited",
       "discovery": {
-        "status": "searched",
+        "status": "partial_search",
         "queries": [
           "\"ELEFANT - PRAHA, s.r.o.\" IČO 64942988 web",
           "\"ELEFANT - PRAHA, s.r.o.\" Praha Construction & property kontakt",
           "\"ELEFANT - PRAHA, s.r.o.\" \"Dědinova 2007/11\" web",
           "\"ELEFANT - PRAHA, s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 2,
+        "successful_queries": 1,
         "candidates": [
           {
             "url": "https://rejstrik-firem.kurzy.cz/64942988/elefant-praha-sro/",
-            "title": "ELEFANT - PRAHA, s.r.o. , Praha IČO 64942988 - Obchodní ...Elefant - Praha, s.r.o. • AAADodavatel.czElefant - Praha, s.r.o. | NejStav.cz: Specialista na stavební ...ELEFANT - PRAHA",
-            "snippet": "ELEFANT - PRAHA, s.r.o., Prašná, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní společnosti ... Stavební společnost ELEFANT - PRAHA spol. s r.o. byla založena v Praze v roce 1995. Firma byla založena se záměrem poskytovat dodávky v co nejširším spektru izolač"
+            "title": "ELEFANT - PRAHA, s.r.o. , Praha IČO 64942988 - Obchodní ...ELEFANT - PRAHA, s.r.o. - Praha 11 - rejstřík firem ifirmy.czElefant - Praha, s.r.o. • AAADodavatel.czELEFANT - PRAHA, s.",
+            "snippet": "Tato stránka obsahuje aktuální výpis údajů firmy ELEFANT - PRAHA, s.r.o. Údaje byly staženy 12. ledna 2023 z datové služby justice.cz dle IČO 64942988 a údaje ve výpise nebyly dle systému ARES do dnešního dne změněny. Předmět činnosti firmy ELEFANT - PRAHA, s.r.o. Další informace o firmě ELEFANT - PRAHA, s.r.o. IČ : 64"
+          },
+          {
+            "url": "https://ifirmy.cz/firma/272126-elefant-praha-sro",
+            "title": "ELEFANT - PRAHA, s.r.o. - Praha 11 - rejstřík firem ifirmy.cz",
+            "snippet": "Předmět činnosti firmy ELEFANT - PRAHA, s.r.o. Další informace o firmě ELEFANT - PRAHA, s.r.o. IČ : 64942988 DIČ : CZ64942988 Počet zaměstnanců : 1"
           },
           {
             "url": "https://www.aaadodavatel.cz/37563-elefant-praha-sro",
@@ -5240,52 +5245,47 @@
             "snippet": "Stavební společnost ELEFANT - PRAHA spol. s r.o. byla založena v Praze v roce 1995. Firma byla založena se záměrem poskytovat dodávky v co nejširším spektru izolačních prací."
           },
           {
-            "url": "https://nejstav.cz/firmy/detail/17620-elefant-praha-sro",
-            "title": "Elefant - Praha, s.r.o. | NejStav.cz: Specialista na stavební ...",
-            "snippet": "Lokalita: Praha 4, Prašná 130/4 O firmě: Profil společnosti. Stavební společnost ELEFANT - PRAHA spol. s r.o. byla založena v Praze v roce 1995. Firma byla založena se záměrem poskytovat dodávky v co nejširším spektru izolačních prací. Počínaje izolacemi spodních staveb,tepelnými izolacemi a konče izolačními systémy pl"
-          },
-          {
             "url": "https://www.acompio.cz/ELEFANT-PRAHA-sro-42521955.html",
             "title": "ELEFANT - PRAHA, s.r.o. | Acompio Czech Republic",
-            "snippet": "You can reach ELEFANT - PRAHA, s.r.o. on the telephone number +420737291177. You can reach the company by post at Dědinova 11/2007 in 148 00 Praha 4-Chodov. Praha 4-Chodov is in the state Hlavní město Praha. Other contact details e-mail or the website. The company confirmed or changed the entry on 10/25/24. and looks f"
+            "snippet": "If you would like to share your experiences with the company, please leave a review for ELEFANT - PRAHA, s.r.o.. If you have any other comments, suggestions for changes or other information about the company, please send us a message directly."
           },
           {
-            "url": "https://ifirmy.cz/firma/272126-elefant-praha-sro",
-            "title": "ELEFANT - PRAHA, s.r.o. - Praha 11 - rejstřík firem ifirmy.cz",
-            "snippet": "Další informace o firmě ELEFANT - PRAHA, s.r.o. IČ : 64942988 DIČ : CZ64942988 Počet zaměstnanců : 1"
+            "url": "https://nejstav.cz/firmy/detail/17620-elefant-praha-sro",
+            "title": "Elefant - Praha, s.r.o. | NejStav.cz: Specialista na stavební ...",
+            "snippet": "Nabízíme vám široký sortiment produktů a také spolehlivé služby s těmito výrobky spojené. Díky společnosti READY LINE si můžete kompletně zařídit interiér svého obchodu, máme pro vás textilní stojany, aranžovací figuríny do výloh či vitríny."
           },
           {
             "url": "https://rejstrik-firem.kurzy.cz/64942988/elefant-praha-sro/statisticky-urad/",
             "title": "ELEFANT - PRAHA, s.r.o. , IČO 64942988 - data ze ...",
-            "snippet": "ELEFANT - PRAHA, s.r.o., IČO 64942988 data ze statistického úřadu české republiky. Databáze IČO. Předměty činnosti ze statistického úřadu."
+            "snippet": "Data ze statistického úřadu ČR Název: ELEFANT - PRAHA, s.r.o. IČO: 64942988 Právní forma: Společnost s ručením omezeným Adresa: Prašná 130/4, Háje, 149 00 Praha Datum vzniku: 15. leden 1996 Počet zaměstnanců: 1 - 5 zaměstnanců"
           },
           {
             "url": "https://infirmy.cz/detail/139065-elefant-praha-sro",
             "title": "ELEFANT-PRAHA, s.r.o. - infirmy.cz",
             "snippet": "I vy s námi můžete nastartovat své podnikání! Aktivujte si rozšířený firemní záznam v katalogu InFirmy.cz a získejte zvýraznění oproti konkurenci. Buďte s námi vidět tam, kde vás zákazníci skutečně hledají."
-          },
-          {
-            "url": "https://elektro-elefant.cz/",
-            "title": "Elektro pohotovost a servis Praha nonstop - Elektro-elefant.cz",
-            "snippet": "Pohotovost elektro, nonstop havarijní a poruchová služba pro Prahu a okolí. Včetně víkendů a svátků. Rychlý dojezd do 90 minut."
           }
         ],
         "errors": [
+          "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
         "public_site_contacts": {
           "emails": [
-            "info@infirmy.cz"
+            "info@elefant-praha.cz"
           ],
-          "phones": [
-            "+420222703501"
-          ],
-          "source": "https://infirmy.cz/detail/139065-elefant-praha-sro",
+          "phones": [],
+          "source": "https://www.elefant-praha.cz/reference",
           "evidence": "Explicit mailto/tel links on identity-matched business website"
         },
-        "contact_matches": [],
-        "website": "https://infirmy.cz/detail/139065-elefant-praha-sro",
+        "contact_matches": [
+          {
+            "method": "email_matches_business_website",
+            "value": "info@elefant-praha.cz",
+            "source": "https://www.elefant-praha.cz/reference"
+          }
+        ],
+        "website": "https://www.elefant-praha.cz/reference",
         "state": "VERIFIED_WEBSITE",
         "identity": [
           "Matching business name on website",
@@ -5295,32 +5295,6 @@
         "examined": [
           {
             "url": "https://www.elefant-praha.cz/reference",
-            "result": "unreachable",
-            "reason": "HTTP_401"
-          },
-          {
-            "url": "https://www.aaadodavatel.cz/37563-elefant-praha-sro",
-            "result": "ambiguous",
-            "evidence": [
-              "Matching business name on website",
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://nejstav.cz/firmy/detail/17620-elefant-praha-sro",
-            "result": "ambiguous",
-            "evidence": [
-              "Matching business name on website",
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.acompio.cz/ELEFANT-PRAHA-sro-42521955.html",
-            "result": "unreachable",
-            "reason": "HTTP_403"
-          },
-          {
-            "url": "https://infirmy.cz/detail/139065-elefant-praha-sro",
             "result": "identity_match",
             "evidence": [
               "Matching business name on website",
@@ -5355,39 +5329,39 @@
       },
       "audit": {
         "state": "observed",
-        "checked_at": "2026-11-05",
-        "website": "https://infirmy.cz/detail/139065-elefant-praha-sro",
+        "checked_at": "2026-11-19",
+        "website": "https://www.elefant-praha.cz/reference",
         "devices": {
           "desktop": {
-            "title": "ELEFANT-PRAHA, s.r.o. • InFirmy.cz",
+            "title": "Profil společnosti Elefant Praha",
             "description": "",
-            "viewport_meta": true,
-            "h1_count": 2,
+            "viewport_meta": false,
+            "h1_count": 1,
             "horizontal_overflow_px": 0,
-            "visible_text_elements": 26,
-            "small_text_elements": 0,
+            "visible_text_elements": 76,
+            "small_text_elements": 7,
             "broken_images": 0,
             "images_missing_alt": 0,
-            "images_count": 0,
+            "images_count": 3,
             "contact_action": true,
-            "form_count": 0,
+            "form_count": 1,
             "booking_links": 0,
             "http_status": 200
           },
           "navigation_errors": [],
           "mobile": {
-            "title": "ELEFANT-PRAHA, s.r.o. • InFirmy.cz",
+            "title": "Profil společnosti Elefant Praha",
             "description": "",
-            "viewport_meta": true,
-            "h1_count": 2,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 25,
-            "small_text_elements": 0,
+            "viewport_meta": false,
+            "h1_count": 1,
+            "horizontal_overflow_px": 570,
+            "visible_text_elements": 76,
+            "small_text_elements": 7,
             "broken_images": 0,
             "images_missing_alt": 0,
-            "images_count": 0,
+            "images_count": 3,
             "contact_action": true,
-            "form_count": 0,
+            "form_count": 1,
             "booking_links": 0,
             "http_status": 200
           }
@@ -5395,9 +5369,22 @@
         "transport": {
           "state": "https_available",
           "http_url": null,
-          "observed_url": "https://infirmy.cz/detail/139065-elefant-praha-sro"
+          "observed_url": "https://www.elefant-praha.cz/reference"
         },
-        "objective_issues": [],
+        "objective_issues": [
+          {
+            "issue": "Measured mobile horizontal overflow",
+            "detail": "570 CSS pixels",
+            "method": "Playwright viewport 390px",
+            "url": "https://www.elefant-praha.cz/reference"
+          },
+          {
+            "issue": "Missing viewport meta tag",
+            "detail": "No name=viewport in DOM",
+            "method": "Playwright DOM",
+            "url": "https://www.elefant-praha.cz/reference"
+          }
+        ],
         "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
         "visual_design_review": "human_review_required",
         "website_score": null
@@ -5407,20 +5394,33 @@
         "title": "ELEFANT - PRAHA, s.r.o. — research dossier",
         "facts": [
           "The business is listed at Dědinova 2007/11, Chodov, Praha 11.",
-          "An independently identity-matched business website was found: https://infirmy.cz/detail/139065-elefant-praha-sro.",
-          "ARES confirms registration for IČO 64942988 dated 1996-01-15."
+          "An independently identity-matched business website was found: https://www.elefant-praha.cz/reference.",
+          "ARES confirms registration for IČO 64942988 dated 1996-01-15.",
+          "Browser-observed issue: Measured mobile horizontal overflow."
         ],
         "offer": "Modern roofing portfolio with sortable reference projects, service pages and quote-request CTA",
-        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
-        "observed_issues": [],
+        "outreach_angle": "Show a measured measured mobile horizontal overflow fix in a private demo, and ask if improving enquiries is a priority.",
+        "observed_issues": [
+          {
+            "issue": "Measured mobile horizontal overflow",
+            "detail": "570 CSS pixels",
+            "method": "Playwright viewport 390px",
+            "url": "https://www.elefant-praha.cz/reference"
+          },
+          {
+            "issue": "Missing viewport meta tag",
+            "detail": "No name=viewport in DOM",
+            "method": "Playwright DOM",
+            "url": "https://www.elefant-praha.cz/reference"
+          }
+        ],
         "buying_signals": [],
         "sources": [
           "https://www.elefant-praha.cz/reference",
           "https://www.elefant-praha.cz/izolace-plochych-strech",
           "https://www.podnikatel.cz/rejstrik/elefant-praha-s-r-o-64942988/",
           "https://fakturujzdarma.cz/firma/64942988-elefant-praha-s-r-o",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=64942988",
-          "https://infirmy.cz/detail/139065-elefant-praha-sro"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=64942988"
         ],
         "estimated_deal_czk": [
           35000,
@@ -5442,24 +5442,28 @@
       },
       "candidate_search_sources": [
         "https://rejstrik-firem.kurzy.cz/64942988/elefant-praha-sro/",
-        "https://www.aaadodavatel.cz/37563-elefant-praha-sro",
-        "https://nejstav.cz/firmy/detail/17620-elefant-praha-sro",
-        "https://www.acompio.cz/ELEFANT-PRAHA-sro-42521955.html",
         "https://ifirmy.cz/firma/272126-elefant-praha-sro",
+        "https://www.aaadodavatel.cz/37563-elefant-praha-sro",
+        "https://www.acompio.cz/ELEFANT-PRAHA-sro-42521955.html",
+        "https://nejstav.cz/firmy/detail/17620-elefant-praha-sro",
         "https://rejstrik-firem.kurzy.cz/64942988/elefant-praha-sro/statisticky-urad/",
         "https://infirmy.cz/detail/139065-elefant-praha-sro"
       ],
-      "website_need_verified": false,
-      "contact_method": "public_listing_not_owner_verified",
-      "contact_evidence": [],
+      "website_need_verified": true,
+      "contact_method": "matched_business_website",
+      "contact_evidence": [
+        {
+          "method": "email_matches_business_website",
+          "value": "info@elefant-praha.cz",
+          "source": "https://www.elefant-praha.cz/reference"
+        }
+      ],
       "verified_site_public_contacts": {
         "emails": [
-          "info@infirmy.cz"
+          "info@elefant-praha.cz"
         ],
-        "phones": [
-          "+420222703501"
-        ],
-        "source": "https://infirmy.cz/detail/139065-elefant-praha-sro",
+        "phones": [],
+        "source": "https://www.elefant-praha.cz/reference",
         "evidence": "Explicit mailto/tel links on identity-matched business website"
       },
       "owner_verified": false,
@@ -5711,18 +5715,18 @@
     "manual-kolos-praha-building": {
       "lead_id": "manual-kolos-praha-building",
       "name": "KOLOS Praha s.r.o.",
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-19",
       "engine_version": 8,
       "state": "audited",
       "discovery": {
-        "status": "searched",
+        "status": "partial_search",
         "queries": [
           "\"KOLOS Praha s.r.o.\" IČO 27573257 web",
           "\"KOLOS Praha s.r.o.\" Praha Construction & property kontakt",
           "\"KOLOS Praha s.r.o.\" \"Výrobní 2/45\" web",
           "\"KOLOS Praha s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 3,
+        "successful_queries": 1,
         "candidates": [
           {
             "url": "https://www.kolos.cz/",
@@ -5736,23 +5740,13 @@
           },
           {
             "url": "https://www.firmy.cz/detail/2428565-kolos-praha-praha.html",
-            "title": "KOLOS Praha, s.r.o. - Firmy.czKonstruktis Praha, spol. s ro - Petra Rezka 1723, 140 ... - CyboKOLOS Praha s.r.o. - Praha 10 - rejstřík firem ifirmy.czKOLOS Praha s.r.o., 27573257 V",
-            "snippet": "Aktuální ověřené informace: adresa, telefon, e-mail a provozní hodiny KOLOS Praha, s.r.o., Praha. Telefon: 272 700 … Konstruktis Praha, spol. s ro Prague postal code 140 00. See Google profile, Phone, Website and more for this business. 3.0 Cybo Score. Review on Cybo. Předmět činnosti firmy KOLOS Praha s.r.o. Rekonstru"
+            "title": "KOLOS Praha, s.r.o. - Firmy.czKOLOS Praha s.r.o. , Mukařov IČO 27573257 - Obchodní rejstřík ...Společnost KOLOS Praha s.r.o. | Detail.czKOLOS Praha s.r.o. • Katalog firem • Poptavk",
+            "snippet": "Aktuální ověřené informace: adresa, telefon, e-mail a provozní hodiny KOLOS Praha, s.r.o., Praha. Telefon: 272 700 … Tato stránka obsahuje aktuální výpis údajů firmy KOLOS Praha s.r.o. Údaje byly staženy 11. listopadu 2026 z datové služby justice.cz dle IČO 27573257 a údaje ve výpise nebyly dle systému ARES do dnešního"
           },
           {
-            "url": "https://www.cybo.com/CZ-biz/konstruktis-praha-spol-s-ro",
-            "title": "Konstruktis Praha, spol. s ro - Petra Rezka 1723, 140 ... - Cybo",
-            "snippet": "Konstruktis Praha, spol. s ro Prague postal code 140 00. See Google profile, Phone, Website and more for this business. 3.0 Cybo Score. Review on Cybo."
-          },
-          {
-            "url": "https://ifirmy.cz/firma/048917-kolos-praha-sro",
-            "title": "KOLOS Praha s.r.o. - Praha 10 - rejstřík firem ifirmy.cz",
-            "snippet": "Předmět činnosti firmy KOLOS Praha s.r.o. Rekonstrukce bytů, domů a nebytových prostor. Zednické služby v Praze a okolí. Celkové zateplení fasád, střech a sklepů a další stavební práce, včetně výstavby domů, garáží a plotů."
-          },
-          {
-            "url": "https://virtalist.com/cz/rejstrik/firmy/27573257/kolos-praha-sro/",
-            "title": "KOLOS Praha s.r.o., 27573257 Vše na 1 klik Bez reklam",
-            "snippet": "Údaje, historie i prověření KOLOS Praha s.r.o. na jednom místě. Data z rejstříku. Vše zkopírujete na klik. Hlavička do smlouvy, sdílení emailem. Bez reklam"
+            "url": "https://rejstrik-firem.kurzy.cz/27573257/kolos-praha-sro/",
+            "title": "KOLOS Praha s.r.o. , Mukařov IČO 27573257 - Obchodní rejstřík ...",
+            "snippet": "Tato stránka obsahuje aktuální výpis údajů firmy KOLOS Praha s.r.o. Údaje byly staženy 11. listopadu 2026 z datové služby justice.cz dle IČO 27573257 a údaje ve výpise nebyly dle systému ARES do dnešního dne změněny. Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob. Kompletn"
           },
           {
             "url": "https://www.detail.cz/firma/27573257-kolos-praha-sro-nova-213-mukarov/",
@@ -5760,14 +5754,9 @@
             "snippet": "Společnost KOLOS Praha s.r.o. (IČO: 27573257) byla založena dne 26. července 2006 ve Středočeském kraji. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti."
           },
           {
-            "url": "https://www.mistriremesel.cz/profil/H1175808",
-            "title": "KOLOS Praha s.r.o., Praha-Štěrboholy - Mistři řemesel",
-            "snippet": "Kontakty Výrobní 2/45, 102 00 Praha-Štěrboholy-Štěrboholy okres Hlavní město Praha, Hlavní město Praha kolos@kolos.cz IČ: 27573257"
-          },
-          {
-            "url": "https://rejstrik-firem.kurzy.cz/27573257/kolos-praha-sro/",
-            "title": "KOLOS Praha s.r.o. , Mukařov IČO 27573257 - Obchodní rejstřík ...",
-            "snippet": "Tato stránka obsahuje aktuální výpis údajů firmy KOLOS Praha s.r.o. Údaje byly staženy 30. října 2026 z datové služby justice.cz dle IČO 27573257 a údaje ve výpise nebyly dle systému ARES do dnešního dne změněny. Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob. Kompletní vý"
+            "url": "https://virtalist.com/cz/rejstrik/firmy/27573257/kolos-praha-sro/",
+            "title": "KOLOS Praha s.r.o., 27573257 Vše na 1 klik Bez reklam",
+            "snippet": "Údaje, historie i prověření KOLOS Praha s.r.o. na jednom místě. Data z rejstříku. Vše zkopírujete na klik. Hlavička do smlouvy, sdílení emailem. Bez reklam"
           },
           {
             "url": "https://www.poptavky.cz/firmy/detail/137372-kolos-praha-sro",
@@ -5776,6 +5765,8 @@
           }
         ],
         "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
         "public_site_contacts": {
@@ -5800,16 +5791,6 @@
               "Matching business name on website",
               "Prague mentioned on website"
             ]
-          },
-          {
-            "url": "https://www.cybo.com/CZ-biz/konstruktis-praha-spol-s-ro",
-            "result": "unreachable",
-            "reason": "HTTP_403"
-          },
-          {
-            "url": "https://virtalist.com/cz/rejstrik/firmy/27573257/kolos-praha-sro/",
-            "result": "unreachable",
-            "reason": "HTTP_403"
           },
           {
             "url": "https://www.detail.cz/firma/27573257-kolos-praha-sro-nova-213-mukarov/",
@@ -5853,7 +5834,7 @@
       },
       "audit": {
         "state": "observed",
-        "checked_at": "2026-11-05",
+        "checked_at": "2026-11-19",
         "website": "https://www.detail.cz/firma/27573257-kolos-praha-sro-nova-213-mukarov/",
         "devices": {
           "desktop": {
@@ -5942,10 +5923,10 @@
         "https://www.kolos.cz/",
         "https://www.kolos.cz/kontakty/index.html",
         "https://www.firmy.cz/detail/2428565-kolos-praha-praha.html",
-        "https://www.cybo.com/CZ-biz/konstruktis-praha-spol-s-ro",
-        "https://ifirmy.cz/firma/048917-kolos-praha-sro",
+        "https://rejstrik-firem.kurzy.cz/27573257/kolos-praha-sro/",
+        "https://www.detail.cz/firma/27573257-kolos-praha-sro-nova-213-mukarov/",
         "https://virtalist.com/cz/rejstrik/firmy/27573257/kolos-praha-sro/",
-        "https://www.detail.cz/firma/27573257-kolos-praha-sro-nova-213-mukarov/"
+        "https://www.poptavky.cz/firmy/detail/137372-kolos-praha-sro"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
@@ -6425,7 +6406,7 @@
     "osm-node-10118560658": {
       "lead_id": "osm-node-10118560658",
       "name": "EUROCONT REALITY s.r.o.",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-19",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -6757,7 +6738,7 @@
     "osm-node-10118560659": {
       "lead_id": "osm-node-10118560659",
       "name": "EGYPT REALITY",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-19",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -7048,7 +7029,7 @@
     "osm-node-10927835114": {
       "lead_id": "osm-node-10927835114",
       "name": "Collcoll",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-19",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -7342,7 +7323,7 @@
     "osm-node-11041819250": {
       "lead_id": "osm-node-11041819250",
       "name": "de.fakto CZ, s.r.o.",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-19",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -13797,7 +13778,7 @@
     "osm-node-4534814978": {
       "lead_id": "osm-node-4534814978",
       "name": "Atelier T-plan",
-      "checked_at": "2026-11-13",
+      "checked_at": "2026-11-19",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -14043,7 +14024,7 @@
     "osm-node-4585304756": {
       "lead_id": "osm-node-4585304756",
       "name": "SNEO, a.s.",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-19",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -62587,6 +62568,1713 @@
         ]
       },
       "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30250803": {
+      "lead_id": "res-30250803",
+      "name": "Tetiana Sabadosh",
+      "checked_at": "2026-11-19",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Tetiana Sabadosh\" IČO 30250803 web",
+          "\"Tetiana Sabadosh\" Praha Construction & property kontakt",
+          "\"Tetiana Sabadosh\" \"Firkušného 1590\" web",
+          "\"Tetiana Sabadosh\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/osoba/tetiana-sabadosh",
+            "title": "Tetiana Sabadosh - obchodní rejstřík - Finmag.cz",
+            "snippet": "Tetiana Sabadosh, výpis z obchodního i živnostenského rejstříků. Osoby a firmy - adresy, kontakty. Aktuální i historická data."
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/17604991-tetiana-sabadosh",
+            "title": "Tetiana Sabadosh, IČO: 17604991 - ARES - Finmag.cz",
+            "snippet": "Sídlo společnosti Tetiana Sabadosh na mapě Praha - Chodov, Hrabákova 1974/1, 14800"
+          },
+          {
+            "url": "https://firmy.euro.cz/subjekt-tetiana-sabadosh-17604991",
+            "title": "Tetiana Sabadosh IČO: 17604991, Praha, výpis z rejstříku 04. ...",
+            "snippet": "Veřejně dostupné informace o firmě Tetiana Sabadosh IČO: 17604991 se sídlem Praha, Hrabákova"
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/tetiana-sabadosh-17604991/",
+            "title": "Tetiana Sabadosh - IČO 17604991 - Obchodní rejstřík na ...",
+            "snippet": "Podrobnosti o firmě Tetiana Sabadosh - IČO 17604991 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-sabadosh-stavby-s-r-o-17662095/kontakty",
+            "title": "Sabadosh stavby s.r.o. Praha IČO 17662095 kontakty 13.01.2025 ...",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Sabadosh stavby s.r.o., která sídlí v obci Praha a bylo jí přiděleno IČO 17662095. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+            "title": "Construction & Property Management s.r.o. , Praha IČO ...",
+            "snippet": "1 day ago · Kde je sídlo firmy Construction & Property Management s.r.o.? Sídlo firmy Construction & Property Management s.r.o. je Na příkopě 859/22, Nové Město (Praha 1), 110 00 Praha."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/17662095-sabadosh-stavby-s-r-o",
+            "title": "Sabadosh stavby s.r.o., Praha, IČO: 17662095 - Obchodní ...",
+            "snippet": "Sabadosh stavby s.r.o., IČO: 17662095, sídlo firmy, předmět podnikání firmy. Aktuální i úplný výpis firmy Sabadosh stavby s.r.o. z Obchodního rejstříku ..."
+          },
+          {
+            "url": "https://www.facebook.com/t.sabadosh/",
+            "title": "Tetiana Sabadosh (@t.sabadosh) • Facebook, Connect with friends",
+            "snippet": "Tetiana Sabadosh is on Facebook. Join Facebook to connect with Tetiana Sabadosh and others you may know. Facebook gives people the power to share and..."
+          },
+          {
+            "url": "https://www.facebook.com/tatiana.sabadosh/",
+            "title": "Tatiana Sabadosh - Facebook",
+            "snippet": "Tatiana Sabadosh is on Facebook. Join Facebook to connect with Tatiana Sabadosh and others you may know. Facebook gives people the power to share and makes the world more open and connected."
+          },
+          {
+            "url": "https://mapy.com/en/?source=addr&id=13837138",
+            "title": "Firkušného 1590/4 (Address) • Mapy.com",
+            "snippet": "Firkušného 1590/4 (Address) Map – detailed map of the area (base, outdoor, aerial, panorama, etc.), route planning, GPS, and much more on Mapy.com."
+          },
+          {
+            "url": "https://mapy.com/cs/?source=addr&id=13837138",
+            "title": "Firkušného 1590/4 (Adresa) • Mapy.com",
+            "snippet": "Mapa Firkušného 1590/4 (Adresa) – detailní mapa okolí (základní, turistická, satelitní, panoramatická, atd.), plánování trasy, GPS a mnoho dalšího na Mapy.com."
+          },
+          {
+            "url": "https://github.com/Tatianaguz222/MiPrimerProyectoWeb/tree/main/",
+            "title": "GitHub - Tatianaguz222/MiPrimerProyectoWeb",
+            "snippet": "Contribute to Tatianaguz222/MiPrimerProyectoWeb development by creating an account on GitHub."
+          },
+          {
+            "url": "https://2gis.cz/praha/geo/12948484584062816",
+            "title": "Firkušného, 1590/4 on the map of Prahy — 2GIS",
+            "snippet": "Firkušného, 1590/4 on the map, entrances, zip code, companies in the building and easy ways to get to the place"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=A_IPDmwZOlM",
+            "title": "EL TIGRE DE SANTA JULIA PELÍCULA COMPLETA HD - YouTube",
+            "snippet": "May 28, 2012 · Una película mexicana, que contiene de todo un poco. Sin censura."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://firmy.euro.cz/subjekt-tetiana-sabadosh-17604991",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://mapy.com/en/?source=addr&id=13837138",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://github.com/Tatianaguz222/SportZone/tree/main",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://2gis.cz/praha/geo/12948484584062816",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=A_IPDmwZOlM",
+            "result": "ambiguous",
+            "evidence": []
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30250803",
+        "legal_name": "Tetiana Sabadosh",
+        "registered_at": "2026-11-10",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30250803",
+        "decision_maker": {
+          "name": "Tetiana Sabadosh",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30250803",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30250803",
+          "date": "2026-11-10",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Tetiana Sabadosh — research dossier",
+        "facts": [
+          "The business is listed at Firkušného 1590, Praha, 10400.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30250803 dated 2026-11-10."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30250803",
+            "date": "2026-11-10",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30250803"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Tetiana Sabadosh",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30250803",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.finmag.cz/obchodni-rejstrik/osoba/tetiana-sabadosh",
+        "https://www.finmag.cz/obchodni-rejstrik/ares/17604991-tetiana-sabadosh",
+        "https://firmy.euro.cz/subjekt-tetiana-sabadosh-17604991",
+        "https://www.podnikatel.cz/rejstrik/tetiana-sabadosh-17604991/",
+        "https://rejstriky.finance.cz/firma-sabadosh-stavby-s-r-o-17662095/kontakty",
+        "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+        "https://rejstrik.penize.cz/17662095-sabadosh-stavby-s-r-o"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30250854": {
+      "lead_id": "res-30250854",
+      "name": "Svoboda stavební práce s.r.o.",
+      "checked_at": "2026-11-19",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Svoboda stavební práce s.r.o.\" IČO 30250854 web",
+          "\"Svoboda stavební práce s.r.o.\" Praha Construction & property kontakt",
+          "\"Svoboda stavební práce s.r.o.\" \"Plzeňská 3352\" web",
+          "\"Svoboda stavební práce s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://ceskadata.cz/09765221",
+            "title": "CIO property, s.r.o., Praha – majitelé a vedení, IČO 09765221",
+            "snippet": "CIO property, s.r.o. (IČO 09765221): společnost s ručením omezeným v Praze, vznik 2020. Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://www.rsgroup.cz/",
+            "title": "RS Group",
+            "snippet": "Kontakt Kanceláře společnosti: RS Group investments a.s. Košířská brána Plzeňská 1348/95, 150 00, Praha 5 – Smíchov Sídlo: Jeremiášova 2722/2a, 150 00, Praha 5 IČ: 09262253 (+420) 257 314 216 info@rsgroup.cz PRO MÉDIA Zajímá vás naše společnost, chtěli byste vědět něco víc o naší činnosti a našich projektech ..."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://bizly.cz/08688575/spolecnost-pro-rozvoj-kolejove-dopravy-sro",
+            "title": "Společnost pro rozvoj kolejové dopravy s.r.o. (IČO 08688575)",
+            "snippet": "Společnost Společnost pro rozvoj kolejové dopravy s.r.o. (IČO 08688575) je registrovaná jako společnost s ručením omezeným a do obchodního rejstříku byla zapsána 14. listopadu 2019 — působí tedy 7 let na trhu. Sídlo firmy se nachází na adrese Na struze 227/1, Praha (CZ0100). 3× jednatel jsou Pavel Sehnal, Pavel Klaška "
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/rozpočty-staveb",
+            "title": "Rozpočty Staveb - Školská 689/20, 110 00 Nové Město, Czechia ...",
+            "snippet": "Rozpočty Staveb Old Town (Prague) postal code 110 00. See Google profile, Phone and more for this business. Review on Cybo."
+          },
+          {
+            "url": "https://vlada.gov.cz/",
+            "title": "Úvod | Vláda České republiky",
+            "snippet": "Programové prohlášení Vláda České republiky přebírá odpovědnost s vědomím, že mnozí lidé čelí nejistotě, rostoucím životním nákladům, obavám o dostupnost bydlení, zdravotní péče a veřejných služeb. Úkolem vlády je vrátit občanům jistotu, že stát pracuje v jejich prospěch a že hospodaří s prostředky odpovědně, transpare"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://ceskadata.cz/09765221",
+            "result": "unreachable",
+            "reason": "HTTP_503"
+          },
+          {
+            "url": "https://www.rsgroup.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://bizly.cz/08688575/spolecnost-pro-rozvoj-kolejove-dopravy-sro",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/rozpočty-staveb",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://vlada.gov.cz/",
+            "result": "ambiguous",
+            "evidence": []
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30250854",
+        "legal_name": "Svoboda stavební práce s.r.o.",
+        "registered_at": "2026-11-11",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30250854",
+        "decision_maker": {
+          "name": "PETR SVOBODA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30250854",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "PETR SVOBODA",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30250854",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30250854",
+          "date": "2026-11-11",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Svoboda stavební práce s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Plzeňská 3352, Praha, 15000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30250854 dated 2026-11-11."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30250854",
+            "date": "2026-11-11",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30250854"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "PETR SVOBODA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30250854",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://ceskadata.cz/09765221",
+        "https://www.rsgroup.cz/",
+        "https://vces.cz/",
+        "https://www.skanska.com/cz/cs",
+        "https://bizly.cz/08688575/spolecnost-pro-rozvoj-kolejove-dopravy-sro",
+        "https://www.cybo.com/CZ-biz/rozpočty-staveb",
+        "https://vlada.gov.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30251087": {
+      "lead_id": "res-30251087",
+      "name": "Hron Development s.r.o.",
+      "checked_at": "2026-11-19",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Hron Development s.r.o.\" IČO 30251087 web",
+          "\"Hron Development s.r.o.\" Praha Construction & property kontakt",
+          "\"Hron Development s.r.o.\" \"Školská 660\" web",
+          "\"Hron Development s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://www.podnikani.cz/30251087/hron-development-sro/",
+            "title": "Hron Development s.r.o. - obchodní rejstřík, vizualizace ...",
+            "snippet": "Hledej Hron Development s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. * Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku Hron Development s.r.o. Školská 660/3, Nové Město, 11000 Praha 1 , IČO: 30251087, Právní forma: Společnost s r.o."
+          },
+          {
+            "url": "https://cs.wikipedia.org/wiki/Úřad_práce_České_republiky",
+            "title": "Úřad práce České republiky – Wikipedie",
+            "snippet": "Organizační strukturu Úřadu práce České republiky tvoří Generální ředitelství jakožto centrální řídicí orgán, pod které spadá systém odborných odborů, samostatných oddělení, specializovaných pracovišť a kompletní pobočková síť zahrnující ředitelství krajských poboček a jednotlivá kontaktní pracoviště v regionech."
+          },
+          {
+            "url": "https://www.mspraha.cz/",
+            "title": "Hasicí zařízení, SHZ, Sprinklery - MS PRAHA spol. s r.o.",
+            "snippet": "MS PRAHA spol. s r.o. zajišťuje projektování SHZ, hasicí zařízení a sprinklery pro Vaši společnost. Navrhujeme ideální řešení hasicího zařízení a SHZ."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Poptávám: výchozí revizi FVE před 2 hodinami Praha Služby Jiří T. Praha 8 zadáno 17 poptávek Zobrazit všechny poptávky +420 251 510 908"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "O projektu Projekt Poptávky.cz sdružuje 945 834 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30251087/hron-development-sro/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.mspraha.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30251087",
+        "legal_name": "Hron Development s.r.o.",
+        "registered_at": "2026-11-11",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251087",
+        "decision_maker": {
+          "name": "FILIP HRON",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251087",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "FILIP HRON",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251087",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251087",
+          "date": "2026-11-11",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Hron Development s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Školská 660, Praha, 11000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30251087 dated 2026-11-11."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251087",
+            "date": "2026-11-11",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30251087"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "FILIP HRON",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251087",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.podnikani.cz/30251087/hron-development-sro/",
+        "https://cs.wikipedia.org/wiki/Úřad_práce_České_republiky",
+        "https://www.mspraha.cz/",
+        "https://zakazky.epoptavka.cz/",
+        "https://www.epoptavka.cz/",
+        "https://poptavky.epoptavka.cz/",
+        "https://www.poptavky.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30251133": {
+      "lead_id": "res-30251133",
+      "name": "Entertainment holding, s.r.o.",
+      "checked_at": "2026-11-19",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Entertainment holding, s.r.o.\" IČO 30251133 web",
+          "\"Entertainment holding, s.r.o.\" Praha Construction & property kontakt",
+          "\"Entertainment holding, s.r.o.\" \"Výstupní 1129\" web",
+          "\"Entertainment holding, s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://www.podnikani.cz/30251133/entertainment-holding-sro/",
+            "title": "Entertainment holding, s.r.o. - obchodní rejstřík ...",
+            "snippet": "Hledej Entertainment holding, s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku Entertainment holding, s.r.o. Výstupní 1129/6, Vršovice, 10100 Praha 10 , IČO: 30251133, Zákl. kapitál: 1000 Kč"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Virginia_Tech_shooting",
+            "title": "Virginia Tech shooting - Wikipedia",
+            "snippet": "The Virginia Tech shooting (also known at the time as the Virginia Tech massacre) [8] was a mass shooting that occurred on Monday, April 16, 2007, comprising two attacks on the campus of the Virginia Polytechnic Institute and State University (Virginia Tech) in Blacksburg, Virginia, United States. Seung-Hui Cho, a 23-y"
+          },
+          {
+            "url": "https://www.facebook.com/groups/507476993497145/posts/987154045529435/",
+            "title": "Abandoned Hotels and Resorts | The Salisbury Hotel | Facebook",
+            "snippet": "Mar 1, 2022 · The Salisbury Hotel New York, New York Permanently Closed The Salisbury Hotel was originally built in the 1930s. As per Oyster.com, it was owned by the Calvary Baptist Church next door and was..."
+          },
+          {
+            "url": "https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/catalogo_imagenes/grupo.do?path=307654",
+            "title": "bibliotecavirtual.defensa.gob.es",
+            "snippet": "%PDF-1.6 %âãÏÓ 298 0 obj > endobj 316 0 obj >/Filter/FlateDecode/ID[51E44DEA67033D469F62B87D6B12F30B>2479A63668CFAB4D8EE13F2EBD3C7404>]/Index[298 41]/Info 297 0 R ..."
+          },
+          {
+            "url": "https://www.sec.gov/Archives/edgar/data/71180/000110465926128853/0001104659-26-128853.txt",
+            "title": "tm2629719-1_424b5 - none - 4.0624872s - SEC.gov",
+            "snippet": "The Bonds will be issued under the General and Refunding Mortgage Indenture, dated as of May 1, 2001, as amended and supplemented (the “Nevada Power G&R Indenture”), between us and The Bank of New York Mellon Trust Company, N.A., as trustee (the “Trustee”). The Bonds will be secured equally with all outstanding and fut"
+          },
+          {
+            "url": "https://www.mii.com/",
+            "title": "Home - MiTek Inc.",
+            "snippet": "MiTek exists to transform the building industry with better building solutions that enable our partners to work better together to transform global communities."
+          },
+          {
+            "url": "https://www.stocktitan.net/sec-filings/PB/425-stellar-bancorp-inc-business-combination-communication-bf048d0ad7df.html",
+            "title": "Prosperity to buy Stellar in cash-and-stock bank merger",
+            "snippet": "Jan 29, 2026 · Prosperity Bancshares will acquire Stellar Bancorp, offering 0.3803 Prosperity shares plus $11.36 in cash per Stellar share, subject to approvals and a $78M termination fee."
+          },
+          {
+            "url": "https://www.aaapoptavka.cz/dodavatel/181350/film-connections-sro",
+            "title": "Film Connections s.r.o. | Dodavatelé | AAAPoptávka.cz",
+            "snippet": "Kontakty AAA poptávka, s.r.o. Sluneční náměstí 2583/11 155 00 Praha 5 IČ: 07342250 (ARES) info@aaapoptavka.cz +420 222 551 815 (V pracovní dny 8:00 - 16:30)"
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Poptávám: stěhování a přemístění nábytku v RD před 25 minutami Praha Služby Jarmila L. Praha 8 zadané 4 poptávky"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Poptávám: výchozí revizi FVE před 2 hodinami Praha Služby Jiří T. Praha 8 zadáno 17 poptávek Zobrazit všechny poptávky +420 251 510 908"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "O projektu Projekt Poptávky.cz sdružuje 945 834 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30251133/entertainment-holding-sro/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/catalogo_imagenes/grupo.do?path=307654",
+            "result": "unreachable",
+            "reason": "ReadTimeout"
+          },
+          {
+            "url": "https://www.sec.gov/Archives/edgar/data/71180/000110465926128853/0001104659-26-128853.txt",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.mii.com/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.stocktitan.net/sec-filings/PB/425-stellar-bancorp-inc-business-combination-communication-bf048d0ad7df.html",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.aaapoptavka.cz/dodavatel/181350/film-connections-sro",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30251133",
+        "legal_name": "Entertainment holding, s.r.o.",
+        "registered_at": "2026-11-10",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251133",
+        "decision_maker": {
+          "name": "MARTIN JANDA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251133",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "MARTIN JANDA",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251133",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251133",
+          "date": "2026-11-10",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Entertainment holding, s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Výstupní 1129, Praha, 10100.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30251133 dated 2026-11-10."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251133",
+            "date": "2026-11-10",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30251133"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "MARTIN JANDA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251133",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.podnikani.cz/30251133/entertainment-holding-sro/",
+        "https://en.wikipedia.org/wiki/Virginia_Tech_shooting",
+        "https://www.facebook.com/groups/507476993497145/posts/987154045529435/",
+        "https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/catalogo_imagenes/grupo.do?path=307654",
+        "https://www.sec.gov/Archives/edgar/data/71180/000110465926128853/0001104659-26-128853.txt",
+        "https://www.mii.com/",
+        "https://www.stocktitan.net/sec-filings/PB/425-stellar-bancorp-inc-business-combination-communication-bf048d0ad7df.html"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30251222": {
+      "lead_id": "res-30251222",
+      "name": "Na Laních a.s.",
+      "checked_at": "2026-11-19",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Na Laních a.s.\" IČO 30251222 web",
+          "\"Na Laních a.s.\" Praha Construction & property kontakt",
+          "\"Na Laních a.s.\" \"Na Poříčí 1079\" web",
+          "\"Na Laních a.s.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://lanconstruction.cz/kontakt/",
+            "title": "Kontakt – Lan construction s.r.o. – Stavební firma",
+            "snippet": "Ať už plánujete stavbu domu, rekonstrukci bytu, nebo potřebujete pomoc s úpravou zahrady, neváhejte nás kontaktovat. Máte otázky nebo hledáte spolehlivého partnera pro váš stavební projekt? Jsme tu pro vás!"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/22435441/lan-construction-sro/",
+            "title": "LAN CONSTRUCTION s.r.o. , Praha IČO 22435441 - Obchodní ...",
+            "snippet": "Tato stránka obsahuje aktuální výpis údajů firmy LAN CONSTRUCTION s.r.o. Údaje byly staženy 24. dubna 2026 z datové služby justice.cz dle IČO 22435441 a údaje ve výpise nebyly dle systému ARES do dnešního dne změněny."
+          },
+          {
+            "url": "https://www.ppmas.cz/cs/kontakt/sidlo-a-pobocky",
+            "title": "Kontakt - sídlo a pobočky | Prague Property Management a.s.",
+            "snippet": "Kontakt - sídlo a pobočky Sídlo společnosti Prague Property Management, a.s. Československého exilu 2288/38 143 00 Praha 4 Modřany +420 775 885 885 eda@ppmas.cz"
+          },
+          {
+            "url": "http://qproperty.cz/kontakt",
+            "title": "Kontakt | Qproperty",
+            "snippet": "Rychlý kontakt Radlická 751/113e Jinonice 158 00 Praha 5 Telefon: +420 221 595 780 E-mail: info@qproperty.cz"
+          },
+          {
+            "url": "https://www.cbreproperties.cz/kontakt",
+            "title": "Kontakty – zavolejte nám nebo napište | CBRE",
+            "snippet": "Chcete se nás zeptat na cokoli, co se týká pronájmu kanceláří, skladů nebo obchodních prostor? Tady najdete všechny důležité kontakty na jednom místě."
+          },
+          {
+            "url": "https://eurovia.vinci-construction.cz/kontakt",
+            "title": "Kontakt | EUROVIA CZ",
+            "snippet": "Na této stránce naleznete všechny potřebné kontaktní informace, abyste se s námi mohli snadno spojit a získat odpovědi na vaše dotazy nebo požadavky."
+          },
+          {
+            "url": "https://lanconstruction.cz/",
+            "title": "Lan construction s.r.o. – Stavební firma",
+            "snippet": "Máte otázky nebo hledáte spolehlivého partnera pro váš stavební projekt? Jsme tu pro vás!"
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Poptávám: stěhování a přemístění nábytku v RD před 25 minutami Praha Služby Jarmila L. Praha 8 zadané 4 poptávky"
+          },
+          {
+            "url": "https://bba.cz/",
+            "title": "Eventová agentura Praha – BBA Group",
+            "snippet": "+420 602 357 327 | Kontaktujte nás Úvod O nás Naše služby Poptávka Reference Hostesky Kontakt"
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.varez.cz/",
+            "title": "Povrchová úprava kovů | VAREZ s.r.o. Praha",
+            "snippet": "O nás Firma Varez vznikla v roce 1990 jako sdružení živnostníků. V roce 1995 došlo z důvodů dalšího, samozřejmého rozvoje firmy k založení společnosti s ručením omezeným pod názvem VAREZ s. r. o. Postupně si nově vzniklá firma rozšířila svůj strojní a technologický park tak, aby byla připravena technicky pokrýt stále n"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Poptávám: výchozí revizi FVE před 2 hodinami Praha Služby Jiří T. Praha 8 zadáno 17 poptávek Zobrazit všechny poptávky +420 251 510 908"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "O projektu Projekt Poptávky.cz sdružuje 945 834 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://lanconstruction.cz/kontakt/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.ppmas.cz/cs/kontakt/sidlo-a-pobocky",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "http://qproperty.cz/kontakt",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.cbreproperties.cz/kontakt",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://eurovia.vinci-construction.cz/kontakt",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://bba.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30251222",
+        "legal_name": "Na Laních a.s.",
+        "registered_at": "2026-11-10",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251222",
+        "decision_maker": {
+          "name": "MICHAL KOCIÁN",
+          "role": "Člen správní rady",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251222",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "MICHAL KOCIÁN",
+            "role": "Člen správní rady",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251222",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251222",
+          "date": "2026-11-10",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Na Laních a.s. — research dossier",
+        "facts": [
+          "The business is listed at Na Poříčí 1079, Praha, 11000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30251222 dated 2026-11-10."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251222",
+            "date": "2026-11-10",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30251222"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "MICHAL KOCIÁN",
+          "role": "Člen správní rady",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251222",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://lanconstruction.cz/kontakt/",
+        "https://rejstrik-firem.kurzy.cz/22435441/lan-construction-sro/",
+        "https://www.ppmas.cz/cs/kontakt/sidlo-a-pobocky",
+        "http://qproperty.cz/kontakt",
+        "https://www.cbreproperties.cz/kontakt",
+        "https://eurovia.vinci-construction.cz/kontakt",
+        "https://lanconstruction.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30251354": {
+      "lead_id": "res-30251354",
+      "name": "Cani Network Solutions s.r.o.",
+      "checked_at": "2026-11-19",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Cani Network Solutions s.r.o.\" IČO 30251354 web",
+          "\"Cani Network Solutions s.r.o.\" Praha Construction & property kontakt",
+          "\"Cani Network Solutions s.r.o.\" \"Školská 660\" web",
+          "\"Cani Network Solutions s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30251354/cani-network-solutions-s-r-o",
+            "title": "Cani Network Solutions s.r.o. - rizika, majitel, obchodní ...",
+            "snippet": "Cani Network Solutions s.r.o. Sídlo Praha. IČO: 30251354. Majitelé a statutární orgány. Firemní rejstřík. Rok založení 2026. Kontrola rizik firmy."
+          },
+          {
+            "url": "https://www.podnikani.cz/30251354/cani-network-solutions-sro/",
+            "title": "Cani Network Solutions s.r.o. - obchodní rejstřík ...",
+            "snippet": "Hledej Cani Network Solutions s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. * Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku Cani Network Solutions s.r.o. Školská 660/3, Nové Město (Praha 1), 110 00 Praha , IČO: 30251354, Zákl. kapitál: 1000 Kč"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+            "title": "Construction & Property Management s.r.o. , Praha IČO ...",
+            "snippet": "1 day ago · Kde je sídlo firmy Construction & Property Management s.r.o.? Sídlo firmy Construction & Property Management s.r.o. je Na příkopě 859/22, Nové Město (Praha 1), 110 00 Praha."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/17708095/solution-construction-sro/",
+            "title": "Solution Construction s.r.o. , Praha IČO 17708095 - Obchodní ...",
+            "snippet": "Oct 26, 2026 · Jaký je kontakt na firmu Solution Construction s.r.o.? Tel. 774 955 788. Další kontakty na firmu Solution Construction s.r.o. Solution Construction s.r.o. – obchodní rejstřík, aktuální výpis."
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=eUQ3PRMQPyw",
+            "title": "CANI - Your Partner in Aviation Education Excellence - YouTube",
+            "snippet": "Oct 8, 2025 · Located in beautiful Prague, CANI is the center of education for professionals in air traffic management, flight inspection services, and flight procedures design."
+          },
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles.property_solutions_sro.11afb3874b95c95e4d53b926ca94641b.html",
+            "title": "Property Solutions s.r.o. Company Profile | Praha, Hlavní ...",
+            "snippet": "Find company research, competitor information, contact details & financial data for Property Solutions s.r.o. of Praha, Hlavní město Praha. Get the latest business insights from Dun & Bradstreet."
+          },
+          {
+            "url": "https://www.cani-llc.com/",
+            "title": "Homepage - [www.cani-llc.com]",
+            "snippet": "We help our clients manage acquisitions, strengthen IT operations, and build high-performing teams. We help agencies acquire faster, reduce protest risk, and manage the full acquisition lifecycle from planning to closeout."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.chytryrejstrik.cz/ico-30251354/cani-network-solutions-s-r-o",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.chytryrejstrik.cz/ico-30251354/cani-network-solutions-s-r-o",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30251354/cani-network-solutions-s-r-o",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30251354",
+        "legal_name": "Cani Network Solutions s.r.o.",
+        "registered_at": "2026-11-10",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251354",
+        "decision_maker": {
+          "name": "PATRIK ČÁNI",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251354",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "PATRIK ČÁNI",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251354",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-11-19",
+        "website": "https://www.chytryrejstrik.cz/ico-30251354/cani-network-solutions-s-r-o",
+        "devices": {
+          "desktop": {
+            "title": "Cani Network Solutions s.r.o. - rizika, majitel, obchodní rejstřík",
+            "description": "Cani Network Solutions s.r.o. Sídlo Praha. IČO: 30251354. Majitelé a statutární orgány. Firemní rejstřík. Rok založení 2026. Kontrola rizik firmy. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 154,
+            "small_text_elements": 1,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 39,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Cani Network Solutions s.r.o. - rizika, majitel, obchodní rejstřík",
+            "description": "Cani Network Solutions s.r.o. Sídlo Praha. IČO: 30251354. Majitelé a statutární orgány. Firemní rejstřík. Rok založení 2026. Kontrola rizik firmy. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 117,
+            "small_text_elements": 7,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 39,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.chytryrejstrik.cz/ico-30251354/cani-network-solutions-s-r-o"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251354",
+          "date": "2026-11-10",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Cani Network Solutions s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Školská 660, Praha, 11000.",
+          "An independently identity-matched business website was found: https://www.chytryrejstrik.cz/ico-30251354/cani-network-solutions-s-r-o.",
+          "ARES confirms registration for IČO 30251354 dated 2026-11-10."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251354",
+            "date": "2026-11-10",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30251354",
+          "https://www.chytryrejstrik.cz/ico-30251354/cani-network-solutions-s-r-o"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "PATRIK ČÁNI",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251354",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.chytryrejstrik.cz/ico-30251354/cani-network-solutions-s-r-o",
+        "https://www.podnikani.cz/30251354/cani-network-solutions-sro/",
+        "https://rejstrik-firem.kurzy.cz/27163857/construction-property-management-sro/",
+        "https://rejstrik-firem.kurzy.cz/17708095/solution-construction-sro/",
+        "https://www.youtube.com/watch?v=eUQ3PRMQPyw",
+        "https://www.dnb.com/business-directory/company-profiles.property_solutions_sro.11afb3874b95c95e4d53b926ca94641b.html",
+        "https://www.cani-llc.com/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.chytryrejstrik.cz/ico-30251354/cani-network-solutions-s-r-o",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30251371": {
+      "lead_id": "res-30251371",
+      "name": "Kocábka holding, s.r.o.",
+      "checked_at": "2026-11-19",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Kocábka holding, s.r.o.\" IČO 30251371 web",
+          "\"Kocábka holding, s.r.o.\" Praha Construction & property kontakt",
+          "\"Kocábka holding, s.r.o.\" \"Molákova 601\" web",
+          "\"Kocábka holding, s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://ceskadata.cz/09765221",
+            "title": "CIO property, s.r.o., Praha – majitelé a vedení, IČO 09765221",
+            "snippet": "CIO property, s.r.o. (IČO 09765221): společnost s ručením omezeným v Praze, vznik 2020. Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://www.hochtief.com/",
+            "title": "Global Construction & Infrastructure Group – HOCHTIEF",
+            "snippet": "HOCHTIEF is an engineering-led global infrastructure group delivering construction, services and PPP concessions across Australia, North America and Europe."
+          },
+          {
+            "url": "https://www.rsgroup.cz/",
+            "title": "RS Group",
+            "snippet": "Kontakt Kanceláře společnosti: RS Group investments a.s. Košířská brána Plzeňská 1348/95, 150 00, Praha 5 – Smíchov Sídlo: Jeremiášova 2722/2a, 150 00, Praha 5 IČ: 09262253 (+420) 257 314 216 info@rsgroup.cz PRO MÉDIA Zajímá vás naše společnost, chtěli byste vědět něco víc o naší činnosti a našich projektech ..."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/rozpočty-staveb",
+            "title": "Rozpočty Staveb - Školská 689/20, 110 00 Nové Město, Czechia ...",
+            "snippet": "Rozpočty Staveb Old Town (Prague) postal code 110 00. See Google profile, Phone and more for this business. Review on Cybo."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.colliers.com/",
+            "title": "Global Commercial Real Estate Services | Colliers",
+            "snippet": "2 days ago · Global Occupier Services Location strategy: From Real Estate Decision to Business Advantage"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://ceskadata.cz/09765221",
+            "result": "unreachable",
+            "reason": "HTTP_503"
+          },
+          {
+            "url": "https://www.hochtief.com/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.rsgroup.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/rozpočty-staveb",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.colliers.com/en",
+            "result": "ambiguous",
+            "evidence": []
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30251371",
+        "legal_name": "Kocábka holding, s.r.o.",
+        "registered_at": "2026-11-10",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251371",
+        "decision_maker": {
+          "name": "ZDENĚK KOCÁBEK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251371",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "ZDENĚK KOCÁBEK",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251371",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251371",
+          "date": "2026-11-10",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Kocábka holding, s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Molákova 601, Praha, 18600.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30251371 dated 2026-11-10."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251371",
+            "date": "2026-11-10",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30251371"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "ZDENĚK KOCÁBEK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251371",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://ceskadata.cz/09765221",
+        "https://www.hochtief.com/",
+        "https://www.rsgroup.cz/",
+        "https://www.skanska.com/cz/cs",
+        "https://www.cybo.com/CZ-biz/rozpočty-staveb",
+        "https://vces.cz/",
+        "https://www.colliers.com/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30251419": {
+      "lead_id": "res-30251419",
+      "name": "SOFEX Plus s.r.o.",
+      "checked_at": "2026-11-19",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"SOFEX Plus s.r.o.\" IČO 30251419 web",
+          "\"SOFEX Plus s.r.o.\" Praha Construction & property kontakt",
+          "\"SOFEX Plus s.r.o.\" \"Italská 2564\" web",
+          "\"SOFEX Plus s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://www.podnikani.cz/30251419/sofex-plus-sro/",
+            "title": "SOFEX Plus s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku SOFEX Plus s.r.o. Italská 2564/57, Vinohrady, 12000 Praha 2 , IČO: 30251419, Zákl. kapitál: 200000 Kč"
+          },
+          {
+            "url": "https://cs.wikipedia.org/wiki/Úřad_práce_České_republiky",
+            "title": "Úřad práce České republiky – Wikipedie",
+            "snippet": "Organizační strukturu Úřadu práce České republiky tvoří Generální ředitelství jakožto centrální řídicí orgán, pod které spadá systém odborných odborů, samostatných oddělení, specializovaných pracovišť a kompletní pobočková síť zahrnující ředitelství krajských poboček a jednotlivá kontaktní pracoviště v regionech."
+          },
+          {
+            "url": "https://www.mspraha.cz/",
+            "title": "Hasicí zařízení, SHZ, Sprinklery - MS PRAHA spol. s r.o.",
+            "snippet": "MS PRAHA spol. s r.o. zajišťuje projektování SHZ, hasicí zařízení a sprinklery pro Vaši společnost. Navrhujeme ideální řešení hasicího zařízení a SHZ."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Poptávám: výchozí revizi FVE před 2 hodinami Praha Služby Jiří T. Praha 8 zadáno 17 poptávek Zobrazit všechny poptávky +420 251 510 908"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "O projektu Projekt Poptávky.cz sdružuje 945 834 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30251419/sofex-plus-sro/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.mspraha.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30251419",
+        "legal_name": "SOFEX Plus s.r.o.",
+        "registered_at": "2026-11-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251419",
+        "decision_maker": {
+          "name": "OLEGK NASTENKO",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251419",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "OLEGK NASTENKO",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251419",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "MIKHAIL NASTENKO",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251419",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "RAISA NASTENKO",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251419",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251419",
+          "date": "2026-11-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "SOFEX Plus s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Italská 2564, Praha, 12000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30251419 dated 2026-11-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251419",
+            "date": "2026-11-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30251419"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "OLEGK NASTENKO",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30251419",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.podnikani.cz/30251419/sofex-plus-sro/",
+        "https://cs.wikipedia.org/wiki/Úřad_práce_České_republiky",
+        "https://www.mspraha.cz/",
+        "https://zakazky.epoptavka.cz/",
+        "https://www.epoptavka.cz/",
+        "https://poptavky.epoptavka.cz/",
+        "https://www.poptavky.cz/"
+      ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
