@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-20T16:42:38.835376+00:00",
+  "generated_at": "2026-11-21T15:57:47.804215+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -8536,7 +8536,7 @@
     "osm-node-11764459936": {
       "lead_id": "osm-node-11764459936",
       "name": "Malířské a natěračské práce Praha",
-      "checked_at": "2026-11-15",
+      "checked_at": "2026-11-21",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -10250,7 +10250,7 @@
     "osm-node-13997175495": {
       "lead_id": "osm-node-13997175495",
       "name": "ALLSAT, s.r.o.",
-      "checked_at": "2026-11-16",
+      "checked_at": "2026-11-21",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -10419,7 +10419,7 @@
     "osm-node-14115173902": {
       "lead_id": "osm-node-14115173902",
       "name": "A.G.T. Komplet s.r.o.",
-      "checked_at": "2026-11-16",
+      "checked_at": "2026-11-21",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -12144,7 +12144,7 @@
     "osm-node-332036139": {
       "lead_id": "osm-node-332036139",
       "name": "Malování interiérů Chmelík–Švec",
-      "checked_at": "2026-11-16",
+      "checked_at": "2026-11-21",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -13005,7 +13005,7 @@
     "osm-node-3840397768": {
       "lead_id": "osm-node-3840397768",
       "name": "Instalatérské potřeby Borovička",
-      "checked_at": "2026-11-16",
+      "checked_at": "2026-11-21",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -13277,7 +13277,7 @@
     "osm-node-4201850290": {
       "lead_id": "osm-node-4201850290",
       "name": "Koupelny a instalace",
-      "checked_at": "2026-11-16",
+      "checked_at": "2026-11-21",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -17597,7 +17597,7 @@
     "osm-node-13865633001": {
       "lead_id": "osm-node-13865633001",
       "name": "Jaroslav Šimák",
-      "checked_at": "2026-11-01",
+      "checked_at": "2026-11-21",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -30672,7 +30672,7 @@
     "osm-node-296753227": {
       "lead_id": "osm-node-296753227",
       "name": "WOODWIN",
-      "checked_at": "2026-11-16",
+      "checked_at": "2026-11-21",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -66061,6 +66061,1747 @@
         "https://poptavky.epoptavka.cz/",
         "https://www.poptavky.cz/",
         "https://www.atmoskop.cz/nazory-na-zamestnavatele/708-aaa-poptavka-s-r-o"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30253624": {
+      "lead_id": "res-30253624",
+      "name": "Hanarete s.r.o.",
+      "checked_at": "2026-11-21",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Hanarete s.r.o.\" IČO 30253624 web",
+          "\"Hanarete s.r.o.\" Praha Construction & property kontakt",
+          "\"Hanarete s.r.o.\" \"Sokolská 1883\" web",
+          "\"Hanarete s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30253624/hanarete-sro/",
+            "title": "Hanarete s.r.o. , Praha IČO 30253624 - Obchodní rejstřík firem",
+            "snippet": "Hanarete s.r.o. – obchodní rejstřík, aktuální výpis Datum vzniku a zápisu 10. listopad 2026 Spisová značka C 459785/MSPH Městský soud v Praze Obchodní firma Hanarete s.r.o. Sídlo Sokolská 1883/8, Nové Město, 120 00 Praha 2 Identifikační číslo 30253624 Právní forma Společnost s r.o. Předmět podnikání pronájem nemovitost"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30253624",
+        "legal_name": "Hanarete s.r.o.",
+        "registered_at": "2026-11-10",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30253624",
+        "decision_maker": {
+          "name": "JIŘÍ NĚMEC",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30253624",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "JIŘÍ NĚMEC",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30253624",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30253624",
+          "date": "2026-11-10",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Hanarete s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Sokolská 1883, Praha, 12000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30253624 dated 2026-11-10."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30253624",
+            "date": "2026-11-10",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30253624"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "JIŘÍ NĚMEC",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30253624",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30253624/hanarete-sro/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30253667": {
+      "lead_id": "res-30253667",
+      "name": "Atode s.r.o.",
+      "checked_at": "2026-11-21",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Atode s.r.o.\" IČO 30253667 web",
+          "\"Atode s.r.o.\" Praha Construction & property kontakt",
+          "\"Atode s.r.o.\" \"Kurzova 2222\" web",
+          "\"Atode s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30253667/atode-sro/",
+            "title": "Atode s.r.o. , Praha IČO 30253667 - Obchodní rejstřík firem",
+            "snippet": "Atode s.r.o. – obchodní rejstřík, aktuální výpis Datum vzniku a zápisu 10. listopad 2026 Spisová značka C 459787/MSPH Městský soud v Praze Obchodní firma Atode s.r.o. Sídlo Kurzova 2222/16, Stodůlky, 155 00 Praha 13 Identifikační číslo 30253667 Právní forma Společnost s r.o. Předmět podnikání pronájem nemovitostí, bytů"
+          },
+          {
+            "url": "https://ceskadata.cz/08277583",
+            "title": "Power Energy Group s.r.o. v likvidaci, Praha – majitelé a ...",
+            "snippet": "Power Energy Group s.r.o. v likvidaci (IČO 08277583): společnost s ručením omezeným v Praze, vznik 2019. Pronájem a správa vlastních nebo pronajatých nemovitostí. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://www.rsgroup.cz/",
+            "title": "RS Group",
+            "snippet": "Kontakt Kanceláře společnosti: RS Group investments a.s. Košířská brána Plzeňská 1348/95, 150 00, Praha 5 – Smíchov Sídlo: Jeremiášova 2722/2a, 150 00, Praha 5 IČ: 09262253 (+420) 257 314 216 info@rsgroup.cz PRO MÉDIA Zajímá vás naše společnost, chtěli byste vědět něco víc o naší činnosti a našich projektech ..."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://www.wood-re.com/",
+            "title": "WOOD Real Estate | Home",
+            "snippet": "We live for real estate. We are leaders on the Central European real estate market."
+          },
+          {
+            "url": "https://www.facebook.com/groups/adolmonitor/",
+            "title": "ADOL.CZ: Investice do nemovitostí | Facebook",
+            "snippet": "Největší skupina pro investory do nemovitostí v ČR, kde společně sdílíme své zkušenosti. Skupina vznikla v návaznosti na YouTube investiční kurz \"ADOL.cz – investice do nemovitostí\" s Tomášem Kučerou (investorem vlastnícím přes 60 nájemních bytů) a Pavlem Tomkem (CEO ADOLu). Pravidla: 1) Neděkujte za přijetí 2) Nevklád"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Stavební úprava - IČ Dnes (21. 11. 2026) Praha Služby 200 000 — 1 000 000 Kč Zobrazit všechny poptávky od veřejných subjektů +420 251 510 908 info@epoptavka.cz"
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.ceskepreklady.cz/",
+            "title": "Překladatelská agentura a překlady Praha | České překlady s.r.o.",
+            "snippet": "Překladatelská agentura v Praze a Českých Budějovicích. Překlady, korektury a tlumočení do všech jazyků, 20 let praxe, ISO 17100. Kalkulace do 60 minut."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "O projektu Projekt Poptávky.cz sdružuje 946 513 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://ceskadata.cz/08277583",
+            "result": "unreachable",
+            "reason": "HTTP_503"
+          },
+          {
+            "url": "https://www.rsgroup.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.wood-re.com/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.ceskepreklady.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30253667",
+        "legal_name": "Atode s.r.o.",
+        "registered_at": "2026-11-10",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30253667",
+        "decision_maker": {
+          "name": "JIŘÍ NĚMEC",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30253667",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "JIŘÍ NĚMEC",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30253667",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30253667",
+          "date": "2026-11-10",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Atode s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Kurzova 2222, Praha, 15500.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30253667 dated 2026-11-10."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30253667",
+            "date": "2026-11-10",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30253667"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "JIŘÍ NĚMEC",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30253667",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30253667/atode-sro/",
+        "https://ceskadata.cz/08277583",
+        "https://www.rsgroup.cz/",
+        "https://vces.cz/",
+        "https://www.skanska.com/cz/cs",
+        "https://www.wood-re.com/",
+        "https://www.facebook.com/groups/adolmonitor/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30253705": {
+      "lead_id": "res-30253705",
+      "name": "Tamotsu s.r.o.",
+      "checked_at": "2026-11-21",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Tamotsu s.r.o.\" IČO 30253705 web",
+          "\"Tamotsu s.r.o.\" Praha Construction & property kontakt",
+          "\"Tamotsu s.r.o.\" \"Krocínova 333\" web",
+          "\"Tamotsu s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 4,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30253705/tamotsu-sro/",
+            "title": "Tamotsu s.r.o. , IČO 30253705 - Obchodní rejstřík firem",
+            "snippet": "Tamotsu s.r.o. – obchodní rejstřík, aktuální výpis Datum vzniku a zápisu 10. listopad 2026 Spisová značka C 459786/MSPH Městský soud v Praze Obchodní firma Tamotsu s.r.o. Sídlo Krocínova 333/3, Staré Město, 110 00 Praha 1 Identifikační číslo 30253705 Právní forma Společnost s r.o. Předmět podnikání pronájem nemovitostí"
+          },
+          {
+            "url": "https://www.podnikani.cz/30253705/tamotsu-sro/",
+            "title": "Tamotsu s.r.o. - obchodní rejstřík, vizualizace vztahů firem ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku Tamotsu s.r.o. Krocínova 333/3, Staré Město, 11000 Praha 1 , IČO: 30253705, Zákl. kapitál: 1000 Kč"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30253705/tamotsu-sro/zivnosti/",
+            "title": "Tamotsu s.r.o. - Živnostenský rejstřík | Kurzy.cz",
+            "snippet": "Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob. Kompletní výpis včetně dat narození a adres naleznete v originálním výpisu živnostenského rejstříku získáte po zadání IČO 30253705 na stránkách www.rzp.cz."
+          },
+          {
+            "url": "https://ceskadata.cz/08804460",
+            "title": "TYMON a.s., Praha – majitelé a vedení, IČO 08804460",
+            "snippet": "TYMON a.s. (IČO 08804460): akciová společnost v Praze, vznik 2019, 1 - 5 zaměstnanců. Činnosti holdingových společností. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://www.rsgroup.cz/",
+            "title": "RS Group",
+            "snippet": "Kontakt Kanceláře společnosti: RS Group investments a.s. Košířská brána Plzeňská 1348/95, 150 00, Praha 5 – Smíchov Sídlo: Jeremiášova 2722/2a, 150 00, Praha 5 IČ: 09262253 (+420) 257 314 216 info@rsgroup.cz PRO MÉDIA Zajímá vás naše společnost, chtěli byste vědět něco víc o naší činnosti a našich projektech ..."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.sreality.cz/en/project-detail/slunecne-terasy-reporyje/40157",
+            "title": "Slunečné terasy Řeporyje • Sreality.cz",
+            "snippet": "3 properties in the current offer of properties in the development project Slunečné terasy Řeporyje The largest offer of real estate in the Czech Republic (111,046 estates) with search on the map and filtering with dozens of parameters"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Stavební úprava - IČ Dnes (21. 11. 2026) Praha Služby 200 000 — 1 000 000 Kč Zobrazit všechny poptávky od veřejných subjektů +420 251 510 908 info@epoptavka.cz"
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "O projektu Projekt Poptávky.cz sdružuje 946 513 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
+          }
+        ],
+        "errors": [],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30253705/tamotsu-sro/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://ceskadata.cz/08804460",
+            "result": "unreachable",
+            "reason": "HTTP_503"
+          },
+          {
+            "url": "https://www.rsgroup.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.sreality.cz/en/project-detail/slunecne-terasy-reporyje/40157",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30253705",
+        "legal_name": "Tamotsu s.r.o.",
+        "registered_at": "2026-11-10",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30253705",
+        "decision_maker": {
+          "name": "JIŘÍ NĚMEC",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30253705",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "JIŘÍ NĚMEC",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30253705",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30253705",
+          "date": "2026-11-10",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Tamotsu s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Krocínova 333, Praha, 11000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30253705 dated 2026-11-10."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30253705",
+            "date": "2026-11-10",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30253705"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "JIŘÍ NĚMEC",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30253705",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30253705/tamotsu-sro/",
+        "https://www.podnikani.cz/30253705/tamotsu-sro/",
+        "https://rejstrik-firem.kurzy.cz/30253705/tamotsu-sro/zivnosti/",
+        "https://ceskadata.cz/08804460",
+        "https://www.rsgroup.cz/",
+        "https://vces.cz/",
+        "https://www.sreality.cz/en/project-detail/slunecne-terasy-reporyje/40157"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30254035": {
+      "lead_id": "res-30254035",
+      "name": "CzechAlert Consulting & PR s.r.o.",
+      "checked_at": "2026-11-21",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"CzechAlert Consulting & PR s.r.o.\" IČO 30254035 web",
+          "\"CzechAlert Consulting & PR s.r.o.\" Praha Construction & property kontakt",
+          "\"CzechAlert Consulting & PR s.r.o.\" \"Rumunská 1818\" web",
+          "\"CzechAlert Consulting & PR s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://czechalert.com/",
+            "title": "CzechAlert | Experts in Private Intelligence",
+            "snippet": "CzechAlert z. s. was originally conceptualized as a software development company back in 2023, with a focus on user-generated intelligence. Since then, a lot has changed. We have branched out into consulting, investigations, PR, academic research, and digital rights advocacy, with these activities now representing our "
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-czechalert-consulting-pr-s-r-o-30254035",
+            "title": "CzechAlert Consulting & PR s.r.o. IČO 30254035 kontakty 16.11 ...",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu CzechAlert Consulting & PR s.r.o., která sídlí v obci a bylo jí přiděleno IČO 30254035."
+          },
+          {
+            "url": "https://www.zivefirmy.cz/czechalert_f1924839",
+            "title": "CzechAlert z.s., Praha, Nové Město - Živéfirmy.cz",
+            "snippet": "CzechAlert z.s., Rumunská 1818/4,Praha,12000 Praha 2 Due Diligence řízení rizik kontextová analýza strategické zpravodajství analytické řešení PR strategie ochrana soukromí ochrana osobních údajů zjišťování důkazů holistické prověrky digitální právo bezpečnostní výzkum business intelligence ochrana osob ochrana majetku"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-czechalert-z-s-23490977/kontakty",
+            "title": "CzechAlert z. s. Praha 1 IČO 23490977 kontakty 30.12.2025 ...",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu CzechAlert z. s., která sídlí v obci Praha 1 a bylo jí přiděleno IČO 23490977."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/23490977/czechalert-z-s/",
+            "title": "CzechAlert z. s. , Praha IČO 23490977 - Obchodní rejstřík firem",
+            "snippet": "CzechAlert z. s. , Praha IČO 23490977 - Obchodní rejstřík firem Spolek CzechAlert z. s., založen 20.8.2025, zapsán pod značkou L 80768/MSPH Městským soudem v Praze. Poslední změna dne 25.8.2025. Aktuální výpis ze spolkového rejstříku."
+          },
+          {
+            "url": "https://www.linkedin.com/company/czechalert/",
+            "title": "CzechAlert - LinkedIn",
+            "snippet": "CzechAlert is an intelligence-led advisory firm helping individuals, organisations, and institutions navigate uncertainty, manage risk, and make informed decisions. We provide private intelligence ..."
+          },
+          {
+            "url": "https://czechalert.com/contact",
+            "title": "Contact | CzechAlert",
+            "snippet": "Get in touch. We can do for you more than you think. Let us take care of it and focus on what is important while we are delivering the results."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Stavební úprava - IČ Dnes (21. 11. 2026) Praha Služby 200 000 — 1 000 000 Kč Zobrazit všechny poptávky od veřejných subjektů +420 251 510 908 info@epoptavka.cz"
+          },
+          {
+            "url": "https://www.mspraha.cz/",
+            "title": "Hasicí zařízení, SHZ, Sprinklery - MS PRAHA spol. s r.o.",
+            "snippet": "MS PRAHA spol. s r.o. zajišťuje projektování SHZ, hasicí zařízení a sprinklery pro Vaši společnost. Navrhujeme ideální řešení hasicího zařízení a SHZ."
+          },
+          {
+            "url": "https://www.ceskepreklady.cz/",
+            "title": "Překladatelská agentura a překlady Praha | České překlady s.r.o.",
+            "snippet": "Překladatelská agentura v Praze a Českých Budějovicích. Překlady, korektury a tlumočení do všech jazyků, 20 let praxe, ISO 17100. Kalkulace do 60 minut."
+          },
+          {
+            "url": "http://www.cechymen.cz/",
+            "title": "Čechymen",
+            "snippet": "Od roku 2004 působí Čechymen na trhu bezpečnostních služeb v oblastech festivalové security, ostrahy objektů nebo fyzické ostrahy osob, event security a také zajištění požární ochrany nebo záchranářské služby. Za tuto dobu jsme se vypracovali mezi absolutní špičku na trhu."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "O projektu Projekt Poptávky.cz sdružuje 946 513 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          },
+          {
+            "url": "https://cvytahy.cz/",
+            "title": "cvytahy",
+            "snippet": "Naše společnost vznikla téměř ihned po změně poměrů v roce 1991 založením firmy Ctibůrek – výtahy s majitelem podnikajícím jako fyzická osoba. Firma prošla několika fázemi vývoje až po současnou formu – společnost s ručením omezeným. Je ryze českou společností a zabývá se činnostmi v oblasti výtahové techniky, a to pos"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://czechalert.com/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.mspraha.cz/",
+            "result": "unreachable",
+            "reason": "ReadTimeout"
+          },
+          {
+            "url": "https://www.ceskepreklady.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.cechymen.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://cvytahy.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30254035",
+        "legal_name": "CzechAlert Consulting & PR s.r.o.",
+        "registered_at": "2026-11-10",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254035",
+        "decision_maker": {
+          "name": "SYLVESTER HOLOVSKÝ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254035",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "SYLVESTER HOLOVSKÝ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254035",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254035",
+          "date": "2026-11-10",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "CzechAlert Consulting & PR s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Rumunská 1818, Praha, 12000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30254035 dated 2026-11-10."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254035",
+            "date": "2026-11-10",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30254035"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "SYLVESTER HOLOVSKÝ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254035",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://czechalert.com/",
+        "https://rejstriky.finance.cz/firma-czechalert-consulting-pr-s-r-o-30254035",
+        "https://www.zivefirmy.cz/czechalert_f1924839",
+        "https://rejstriky.finance.cz/firma-czechalert-z-s-23490977/kontakty",
+        "https://rejstrik-firem.kurzy.cz/23490977/czechalert-z-s/",
+        "https://www.linkedin.com/company/czechalert/",
+        "https://czechalert.com/contact"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30254256": {
+      "lead_id": "res-30254256",
+      "name": "První česká předsednická - cura s.r.o.",
+      "checked_at": "2026-11-21",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"První česká předsednická - cura s.r.o.\" IČO 30254256 web",
+          "\"První česká předsednická - cura s.r.o.\" Praha Construction & property kontakt",
+          "\"První česká předsednická - cura s.r.o.\" \"Újezd 452\" web",
+          "\"První česká předsednická - cura s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Stavební úprava - IČ Dnes (21. 11. 2026) Praha Služby 200 000 — 1 000 000 Kč Zobrazit všechny poptávky od veřejných subjektů +420 251 510 908 info@epoptavka.cz"
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.annonce.cz/hledam-praci-chci-vydelat-Praha-f-T384.html",
+            "title": "Praha - Hledám práci - inzeráty | Inzerce na Annonce.cz",
+            "snippet": "Sekce Hledám práci na inzertním serveru ANNONCE to je inzerce s nabídkou pracovní poptávky na HPP, VPP i brigády."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "O projektu Projekt Poptávky.cz sdružuje 946 513 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
+          },
+          {
+            "url": "https://webtrh.cz/",
+            "title": "Webtrh. Můj byznys roste.",
+            "snippet": "Místo pro potkávání nabídky a poptávky, prodeje projektů, pracovní nabídky, forum, vzdělání a mnoho dalšího."
+          },
+          {
+            "url": "https://inbase.cz/",
+            "title": "InBase - nákup a prodej zavedených a ziskových firem",
+            "snippet": "Největší databáze firem na prodej v ČR. Máme zkušenosti s prodejem malých a středních firem. Prodáváte firmu? Pomůžeme Vám najít kupujícího."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.annonce.cz/hledam-praci-chci-vydelat-Praha-f-T384.html",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://webtrh.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://inbase.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30254256",
+        "legal_name": "První česká předsednická - cura s.r.o.",
+        "registered_at": "2026-11-11",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254256",
+        "decision_maker": {
+          "name": "VOJTĚCH OPOČENSKÝ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254256",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "VOJTĚCH OPOČENSKÝ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254256",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254256",
+          "date": "2026-11-11",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "První česká předsednická - cura s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Újezd 452, Praha, 11800.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30254256 dated 2026-11-11."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254256",
+            "date": "2026-11-11",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30254256"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "VOJTĚCH OPOČENSKÝ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254256",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://zakazky.epoptavka.cz/",
+        "https://dodavatele.epoptavka.cz/",
+        "https://www.epoptavka.cz/",
+        "https://www.annonce.cz/hledam-praci-chci-vydelat-Praha-f-T384.html",
+        "https://www.poptavky.cz/",
+        "https://webtrh.cz/",
+        "https://inbase.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30254345": {
+      "lead_id": "res-30254345",
+      "name": "Varden Invest s.r.o.",
+      "checked_at": "2026-11-21",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Varden Invest s.r.o.\" IČO 30254345 web",
+          "\"Varden Invest s.r.o.\" Praha Construction & property kontakt",
+          "\"Varden Invest s.r.o.\" \"Rybná 716\" web",
+          "\"Varden Invest s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://ceskadata.cz/27155269",
+            "title": "Housing & Construction s.r.o., Praha – tržby 2025: 519 tis ...",
+            "snippet": "Housing & Construction s.r.o. (IČO 27155269). Tržby 2025: 519 tis. Kč, ztráta 563 tis. Kč, 9287. z 12 236 firem oboru se známými tržbami. Smlouvy se státem za 2,4 mil. Kč. Společnost s ručením omezeným v Praze, vznik 2004. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://www.rsgroup.cz/",
+            "title": "RS Group",
+            "snippet": "Kontakt Kanceláře společnosti: RS Group investments a.s. Košířská brána Plzeňská 1348/95, 150 00, Praha 5 – Smíchov Sídlo: Jeremiášova 2722/2a, 150 00, Praha 5 IČ: 09262253 (+420) 257 314 216 info@rsgroup.cz PRO MÉDIA Zajímá vás naše společnost, chtěli byste vědět něco víc o naší činnosti a našich projektech ..."
+          },
+          {
+            "url": "https://www.wood-re.com/",
+            "title": "WOOD Real Estate | Home",
+            "snippet": "We are leaders on the Central European real estate market. We are overseeing real estate activities for the leading investment group WOOD & Company. Our main focus is on creating a quality real estate portfolio and active management of commercial properties, which currently includes 18 projects with over 492,500 square"
+          },
+          {
+            "url": "https://www.gesreal.cz/",
+            "title": "gesreal.cz",
+            "snippet": "We are preparing the construction of a new development area in the northern part of Průhonice, including civic amenities and offering excellent public transport connections. The project aims to create high-quality, modern housing in the vicinity of the capital city, designed to meet 21 st -century living standards."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://www.sreality.cz/en/project/praha",
+            "title": "New buildings, developer projects Prague • Sreality.cz",
+            "snippet": "265 projects currently available New buildings and developer projects Prague The largest selection of projects in the Czech Republic (1026 projects) with map search and filtering using dozens of parameters • Sreality.cz"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Stavební úprava - IČ Dnes (21. 11. 2026) Praha Služby 200 000 — 1 000 000 Kč Zobrazit všechny poptávky od veřejných subjektů +420 251 510 908 info@epoptavka.cz"
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
+          {
+            "url": "https://www.varez.cz/",
+            "title": "Povrchová úprava kovů | VAREZ s.r.o. Praha",
+            "snippet": "O nás Firma Varez vznikla v roce 1990 jako sdružení živnostníků. V roce 1995 došlo z důvodů dalšího, samozřejmého rozvoje firmy k založení společnosti s ručením omezeným pod názvem VAREZ s. r. o. Postupně si nově vzniklá firma rozšířila svůj strojní a technologický park tak, aby byla připravena technicky pokrýt stále n"
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.ssi.cz/",
+            "title": "Simple solutions for integrated facility management - SSI ...",
+            "snippet": "May 11, 2026 · Kompletní služby pro váš objekt Simple solutions for integrated facility management Naše společnosti"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "O projektu Projekt Poptávky.cz sdružuje 946 513 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://ceskadata.cz/27155269",
+            "result": "unreachable",
+            "reason": "HTTP_503"
+          },
+          {
+            "url": "https://www.rsgroup.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.wood-re.com/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.gesreal.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.sreality.cz/en/project/praha",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30254345",
+        "legal_name": "Varden Invest s.r.o.",
+        "registered_at": "2026-11-10",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254345",
+        "decision_maker": {
+          "name": "MIROSLAVA BEŤKOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254345",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "MIROSLAVA BEŤKOVÁ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254345",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254345",
+          "date": "2026-11-10",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Varden Invest s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Rybná 716, Praha, 11000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30254345 dated 2026-11-10."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254345",
+            "date": "2026-11-10",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30254345"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "MIROSLAVA BEŤKOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254345",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://ceskadata.cz/27155269",
+        "https://www.rsgroup.cz/",
+        "https://www.wood-re.com/",
+        "https://www.gesreal.cz/",
+        "https://vces.cz/",
+        "https://www.skanska.com/cz/cs",
+        "https://www.sreality.cz/en/project/praha"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30254400": {
+      "lead_id": "res-30254400",
+      "name": "MATTYOLI GLOBAL s.r.o.",
+      "checked_at": "2026-11-21",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"MATTYOLI GLOBAL s.r.o.\" IČO 30254400 web",
+          "\"MATTYOLI GLOBAL s.r.o.\" Praha Construction & property kontakt",
+          "\"MATTYOLI GLOBAL s.r.o.\" \"Petrská 1166\" web",
+          "\"MATTYOLI GLOBAL s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-mattyoli-s-r-o-22249133",
+            "title": "MATTYOLI s.r.o. Praha IČO 22249133 kontakty 02.11.2026 ...MATTYOLI GLOBAL s.r.o. - rizika, majitel, obchodní rejstříkSpolečnost MATTYOLI s.r.o. | Detail.czMATTYOLI s.r.o., IČO: 222",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu MATTYOLI s.r.o., která sídlí v obci Praha a bylo jí přiděleno IČO 22249133. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP). MATTYOLI GLOBAL s.r.o. Sídlo Praha. IČO: 30254400"
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30254400/mattyoli-global-s-r-o",
+            "title": "MATTYOLI GLOBAL s.r.o. - rizika, majitel, obchodní rejstřík",
+            "snippet": "MATTYOLI GLOBAL s.r.o. Sídlo Praha. IČO: 30254400. Majitelé a statutární orgány. Firemní rejstřík. Rok založení 2026. Kontrola rizik firmy."
+          },
+          {
+            "url": "https://www.detail.cz/firma/22249133-mattyoli-sro-petrska-1166-33-praha/",
+            "title": "Společnost MATTYOLI s.r.o. | Detail.cz",
+            "snippet": "Nov 11, 2024 · Společnost MATTYOLI s.r.o. (IČO: 22249133) byla založena dne 11. listopadu 2024 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti."
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/22249133-mattyoli-s-r-o",
+            "title": "MATTYOLI s.r.o., IČO: 22249133 - rejstřík firem - Finmag.cz",
+            "snippet": "Údaje o MATTYOLI s.r.o., Petrská 1166/33, 110 00 Praha - Nové Město, IČO: 22249133 byly staženy 5. 2. 2026 z webové stránky justice.cz a služby RES, která sdružuje několik veřejných rejstříků včetně obchodního rejstříku. Zobrazujeme pouze údaje, které byly zveřejněny na základě zákona v různých rejstřících. Seznam odka"
+          },
+          {
+            "url": "https://rejstrik.penize.cz/rzp/22249133-mattyoli-s-r-o",
+            "title": "MATTYOLI s.r.o., IČO: 22249133 - Živnostenský rejstřík ...",
+            "snippet": "MATTYOLI s.r.o., Praha, IČO: 22249133, Registr živnostenského podnikání (RŽP) Tento výpis z Registru živnostenského podnikání obsahuje údaje o společnosti MATTYOLI s.r.o.. Údaje byly staženy 17. 5. 2026 z datové služby ares.gov.cz"
+          },
+          {
+            "url": "https://motigroup.cz/cs/reference/",
+            "title": "Reference - motigroup.cz",
+            "snippet": "Reference Poptavka Кontakty Poptavka Кontakty Naše projekty Někdy jedna fotografie vystihne víc než dlouhý popis. Podívejte se na ukázky našich nejnovějších realizací, které jsme úspěšně dokončili.…"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30004691/mattyoli-finance-sro/zivnosti/",
+            "title": "MATTYOLI FINANCE s.r.o. - Živnostenský rejstřík | Kurzy.cz",
+            "snippet": "Sep 19, 2026 · MATTYOLI FINANCE s.r.o., firma – kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.chytryrejstrik.cz/ico-30254400/mattyoli-global-s-r-o",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.chytryrejstrik.cz/ico-30254400/mattyoli-global-s-r-o",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30254400/mattyoli-global-s-r-o",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30254400",
+        "legal_name": "MATTYOLI GLOBAL s.r.o.",
+        "registered_at": "2026-11-11",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254400",
+        "decision_maker": {
+          "name": "MARTIN POLATA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254400",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "MARTIN POLATA",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254400",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-11-21",
+        "website": "https://www.chytryrejstrik.cz/ico-30254400/mattyoli-global-s-r-o",
+        "devices": {
+          "desktop": {
+            "title": "MATTYOLI GLOBAL s.r.o. - rizika, majitel, obchodní rejstřík",
+            "description": "MATTYOLI GLOBAL s.r.o. Sídlo Praha. IČO: 30254400. Majitelé a statutární orgány. Firemní rejstřík. Rok založení 2026. Kontrola rizik firmy. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 158,
+            "small_text_elements": 1,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 39,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "MATTYOLI GLOBAL s.r.o. - rizika, majitel, obchodní rejstřík",
+            "description": "MATTYOLI GLOBAL s.r.o. Sídlo Praha. IČO: 30254400. Majitelé a statutární orgány. Firemní rejstřík. Rok založení 2026. Kontrola rizik firmy. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 121,
+            "small_text_elements": 9,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 39,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.chytryrejstrik.cz/ico-30254400/mattyoli-global-s-r-o"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254400",
+          "date": "2026-11-11",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "MATTYOLI GLOBAL s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Petrská 1166, Praha, 11000.",
+          "An independently identity-matched business website was found: https://www.chytryrejstrik.cz/ico-30254400/mattyoli-global-s-r-o.",
+          "ARES confirms registration for IČO 30254400 dated 2026-11-11."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254400",
+            "date": "2026-11-11",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30254400",
+          "https://www.chytryrejstrik.cz/ico-30254400/mattyoli-global-s-r-o"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "MARTIN POLATA",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254400",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-mattyoli-s-r-o-22249133",
+        "https://www.chytryrejstrik.cz/ico-30254400/mattyoli-global-s-r-o",
+        "https://www.detail.cz/firma/22249133-mattyoli-sro-petrska-1166-33-praha/",
+        "https://www.finmag.cz/obchodni-rejstrik/22249133-mattyoli-s-r-o",
+        "https://rejstrik.penize.cz/rzp/22249133-mattyoli-s-r-o",
+        "https://motigroup.cz/cs/reference/",
+        "https://rejstrik-firem.kurzy.cz/30004691/mattyoli-finance-sro/zivnosti/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.chytryrejstrik.cz/ico-30254400/mattyoli-global-s-r-o",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30254531": {
+      "lead_id": "res-30254531",
+      "name": "MOROPA s.r.o.",
+      "checked_at": "2026-11-21",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"MOROPA s.r.o.\" IČO 30254531 web",
+          "\"MOROPA s.r.o.\" Praha Construction & property kontakt",
+          "\"MOROPA s.r.o.\" \"Uralská 689\" web",
+          "\"MOROPA s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://www.podnikani.cz/30254531/moropa-sro/",
+            "title": "MOROPA s.r.o. - obchodní rejstřík, vizualizace vztahů firem ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku MOROPA s.r.o. Uralská 689/7, Bubeneč, 16000 Praha 6 , IČO: 30254531, Právní forma: Společnost s r.o."
+          },
+          {
+            "url": "https://ceskadata.cz/23147156",
+            "title": "ASPIRA Property management s.r.o., Praha – majitelé a vedení ...",
+            "snippet": "ASPIRA Property management s.r.o. (IČO 23147156). Zisk 2025 12 tis. Kč. Společnost s ručením omezeným v Praze, vznik 2025, 1 - 5 zaměstnanců. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://www.philip-frank.com/en/estate/1089-house-bigger-than-eight-bedroom-praha-11-stankova/",
+            "title": "Bigger than eight-bedroom House, 366 m², Land 466 m², Praha ...",
+            "snippet": "Sale of a versatile townhouse with business premises and residential accommodation, Prague 4 – Háje."
+          },
+          {
+            "url": "https://www.rsgroup.cz/",
+            "title": "RS Group",
+            "snippet": "Kontakt Kanceláře společnosti: RS Group investments a.s. Košířská brána Plzeňská 1348/95, 150 00, Praha 5 – Smíchov Sídlo: Jeremiášova 2722/2a, 150 00, Praha 5 IČ: 09262253 (+420) 257 314 216 info@rsgroup.cz PRO MÉDIA Zajímá vás naše společnost, chtěli byste vědět něco víc o naší činnosti a našich projektech ..."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.wood-re.com/",
+            "title": "WOOD Real Estate | Home",
+            "snippet": "We live for real estate. We are leaders on the Central European real estate market."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Stavební úprava - IČ Dnes (21. 11. 2026) Praha Služby 200 000 — 1 000 000 Kč Zobrazit všechny poptávky od veřejných subjektů +420 251 510 908 info@epoptavka.cz"
+          },
+          {
+            "url": "https://www.mspraha.cz/",
+            "title": "Hasicí zařízení, SHZ, Sprinklery - MS PRAHA spol. s r.o.",
+            "snippet": "MS PRAHA spol. s r.o. zajišťuje projektování SHZ, hasicí zařízení a sprinklery pro Vaši společnost. Navrhujeme ideální řešení hasicího zařízení a SHZ."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "O projektu Projekt Poptávky.cz sdružuje 946 513 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
+          },
+          {
+            "url": "https://www.ceskehostesky.cz/",
+            "title": "České hostesky | Modelky a hostesky pro Vaše akce do 48h",
+            "snippet": "Profesionální agentura České modelky s.r.o. – zajistíme atraktivní hostesky a modelky pro Vaše obchodní, společenské a kulturní akce po celé ČR a SR. Databáze 22 000+ hostesek, odpověď do 2 hodin."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30254531/moropa-sro/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://ceskadata.cz/23147156",
+            "result": "unreachable",
+            "reason": "HTTP_503"
+          },
+          {
+            "url": "https://www.philip-frank.com/en/estate/1089-house-bigger-than-eight-bedroom-praha-11-stankova/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.rsgroup.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.wood-re.com/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.mspraha.cz/",
+            "result": "unreachable",
+            "reason": "ReadTimeout"
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30254531",
+        "legal_name": "MOROPA s.r.o.",
+        "registered_at": "2026-11-11",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254531",
+        "decision_maker": {
+          "name": "PAVLO MOROZYUK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254531",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "PAVLO MOROZYUK",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254531",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254531",
+          "date": "2026-11-11",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "MOROPA s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Uralská 689, Praha, 16000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30254531 dated 2026-11-11."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254531",
+            "date": "2026-11-11",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30254531"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "PAVLO MOROZYUK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254531",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.podnikani.cz/30254531/moropa-sro/",
+        "https://ceskadata.cz/23147156",
+        "https://www.philip-frank.com/en/estate/1089-house-bigger-than-eight-bedroom-praha-11-stankova/",
+        "https://www.rsgroup.cz/",
+        "https://www.skanska.com/cz/cs",
+        "https://vces.cz/",
+        "https://www.wood-re.com/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
