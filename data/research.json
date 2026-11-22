@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-21T15:57:47.804215+00:00",
+  "generated_at": "2026-11-22T15:57:24.197390+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -27360,7 +27360,7 @@
     "osm-node-10994350329": {
       "lead_id": "osm-node-10994350329",
       "name": "Bytcentrum",
-      "checked_at": "2026-10-28",
+      "checked_at": "2026-11-22",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -27652,7 +27652,7 @@
     "osm-node-11225321358": {
       "lead_id": "osm-node-11225321358",
       "name": "Collection MSJ",
-      "checked_at": "2026-10-28",
+      "checked_at": "2026-11-22",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -27914,7 +27914,7 @@
     "osm-node-11227630032": {
       "lead_id": "osm-node-11227630032",
       "name": "Horus Trade",
-      "checked_at": "2026-10-28",
+      "checked_at": "2026-11-22",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -28201,7 +28201,7 @@
     "osm-node-11227630033": {
       "lead_id": "osm-node-11227630033",
       "name": "domark",
-      "checked_at": "2026-10-28",
+      "checked_at": "2026-11-22",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -28521,7 +28521,7 @@
     "osm-node-11750596391": {
       "lead_id": "osm-node-11750596391",
       "name": "Brik kremnica",
-      "checked_at": "2026-10-29",
+      "checked_at": "2026-11-22",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -28581,7 +28581,7 @@
     "osm-node-12269672308": {
       "lead_id": "osm-node-12269672308",
       "name": "Stako",
-      "checked_at": "2026-10-29",
+      "checked_at": "2026-11-22",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -28641,7 +28641,7 @@
     "osm-node-12471926317": {
       "lead_id": "osm-node-12471926317",
       "name": "Nesia",
-      "checked_at": "2026-10-29",
+      "checked_at": "2026-11-22",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -29301,7 +29301,7 @@
     "osm-node-360013338": {
       "lead_id": "osm-node-360013338",
       "name": "JYSK",
-      "checked_at": "2026-10-27",
+      "checked_at": "2026-11-22",
       "engine_version": 8,
       "state": "audited",
       "discovery": {
@@ -29312,37 +29312,17 @@
           "\"JYSK\" \"Vyžlovská 3130/1\" web",
           "\"JYSK\" Praha služby reference poptávka"
         ],
-        "successful_queries": 2,
+        "successful_queries": 3,
         "candidates": [
           {
             "url": "https://rejstrik-firem.kurzy.cz/26760746/jysk-sro/",
-            "title": "JYSK s.r.o. , Praha IČO 26760746 - Obchodní rejstřík firemJYSK s.r.o. , IČO 26760746 - data ze statistického úřaduJYSK s.r.o., IČO 26760746 | DoStartuJYSK s.r.o., IČO: 26760746 - r",
-            "snippet": "Kompletní výpis včetně dat narození a adres lze zobrazit po zadání IČO 26760746 na originální stránce obchodního rejstříku justice.cz. JYSK s.r.o., IČO 26760746 data ze statistického úřadu české republiky. Databáze IČO. Předměty činnosti ze statistického úřadu. Hledáte informace o JYSK s.r.o. (IČO: 26760746)? Máme je p"
+            "title": "JYSK s.r.o. , Praha IČO 26760746 - Obchodní rejstřík firemJYSK s.r.o., IČO 26760746 | rejstr.czSpolečnost JYSK s.r.o. | Detail.czJYSK s.r.o. , IČO 26760746 - data ze statistického ",
+            "snippet": "Kompletní výpis včetně dat narození a adres lze zobrazit po zadání IČO 26760746 na originální stránce obchodního rejstříku justice.cz. JYSK s.r.o., IČO 26760746: aktivní subjekt, Společnost s ručením omezeným v lokalitě Praha. Zapsáno 19. 2. 2003. Firemní údaje a odkazy na oficiální zdroje. Feb 19, 2003 · Společnost JY"
           },
           {
-            "url": "https://rejstrik-firem.kurzy.cz/26760746/jysk-sro/statisticky-urad/",
-            "title": "JYSK s.r.o. , IČO 26760746 - data ze statistického úřaduJYSK s.r.o., IČO 26760746 | DoStartuJYSK s.r.o., IČO: 26760746 - rejstřík firem - Finmag.czJYSK s.r.o., IČO: 26760746 - ARES",
-            "snippet": "JYSK s.r.o., IČO 26760746 data ze statistického úřadu české republiky. Databáze IČO. Předměty činnosti ze statistického úřadu. Hledáte informace o JYSK s.r.o. (IČO: 26760746)? Máme je přehledně na jednom místě a pravidelně aktualizované dle veřejných rejstříků. Údaje můžete jedním kliknutím zkopírovat, použít do smlouv"
-          },
-          {
-            "url": "https://dostartu.cz/rejstrik/firmy/26760746/jysk-sro/",
-            "title": "JYSK s.r.o., IČO 26760746 | DoStartu",
-            "snippet": "Hledáte informace o JYSK s.r.o. (IČO: 26760746)? Máme je přehledně na jednom místě a pravidelně aktualizované dle veřejných rejstříků. Údaje můžete jedním kliknutím zkopírovat, použít do smlouvy nebo poslat e-mailem. A navíc jsme firmu rovnou prověřili za vás."
-          },
-          {
-            "url": "https://www.finmag.cz/obchodni-rejstrik/26760746-jysk-s-r-o",
-            "title": "JYSK s.r.o., IČO: 26760746 - rejstřík firem - Finmag.czJYSK s.r.o., IČO: 26760746 - ARES - Finmag.czJYSK s.r.o. Praha 4 IČO: 26760746 - Finance.czSpolečnost JYSK s.r.o. | Detail.cz",
-            "snippet": "Kompletní informace o subjektu JYSK s.r.o., IČO: 26760746. Výpis z různých rejstříků, aktuální data. Sídlo, vedení, majitelé, předmět činnosti. Obchodní firma JYSK s.r.o. se sídlem Praha - Lhotka, Novodvorská 1062/12, 14200 a identifikačním číslem (IČO) 26760746. Tato stránka obsahuje výpis dat z různých rejstříků pro "
-          },
-          {
-            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/26760746-jysk-s-r-o",
-            "title": "JYSK s.r.o., IČO: 26760746 - ARES - Finmag.cz",
-            "snippet": "Obchodní firma JYSK s.r.o. se sídlem Praha - Lhotka, Novodvorská 1062/12, 14200 a identifikačním číslem (IČO) 26760746."
-          },
-          {
-            "url": "https://rejstriky.finance.cz/firma-jysk-s-r-o-26760746",
-            "title": "JYSK s.r.o. Praha 4 IČO: 26760746 - Finance.cz",
-            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu JYSK s.r.o., která sídlí v obci Praha 4 a bylo jí přiděleno IČO 26760746. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP). Firma s názvem JYSK s.r.o. se sídlem v obci Praha 4"
+            "url": "https://rejstr.cz/26760746/jysk",
+            "title": "JYSK s.r.o., IČO 26760746 | rejstr.cz",
+            "snippet": "JYSK s.r.o., IČO 26760746: aktivní subjekt, Společnost s ručením omezeným v lokalitě Praha. Zapsáno 19. 2. 2003. Firemní údaje a odkazy na oficiální zdroje."
           },
           {
             "url": "https://www.detail.cz/firma/26760746-jysk-sro-novodvorska-1062-12-praha/",
@@ -29350,43 +29330,62 @@
             "snippet": "Feb 19, 2003 · Společnost JYSK s.r.o. (IČO: 26760746) byla založena dne 19. února 2003 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti."
           },
           {
-            "url": "https://jysk.cz/customer-service",
-            "title": "Customer Service | JYSK",
-            "snippet": "Převzal jsem zboží zakoupené v e-shopu JYSK.cz, ale rozmyslel jsem si nákup v rámci 14denní lhůty na odstoupení od kupní smlouvy Informace o právu spotřebitele na odstoupení od smlouvy uzavřené distančním způsobem (e-shop)"
+            "url": "https://rejstrik-firem.kurzy.cz/26760746/jysk-sro/statisticky-urad/",
+            "title": "JYSK s.r.o. , IČO 26760746 - data ze statistického úřaduJYSK s.r.o., Praha, IČO: 26760746 - Peníze.czJYSK s.r.o. — IČO 26760746 | ARES.CZJYSK s.r.o., Praha – tržby 2024: 5,1 mld. K",
+            "snippet": "JYSK s.r.o., IČO 26760746 data ze statistického úřadu české republiky. Databáze IČO. Předměty činnosti ze statistického úřadu. JYSK s.r.o., IČO: 26760746, sídlo firmy, předmět podnikání firmy. Aktuální i úplný výpis firmy JYSK s.r.o. z Obchodního rejstříku - majitelé, vedení firmy, vztahy osob. Jul 24, 2026 · Detail su"
           },
           {
-            "url": "https://jysk.cz/customer-service-category/12357",
-            "title": "Customer Service subcategory | JYSK",
-            "snippet": "Dostávejte marketingové informace od společnosti JYSK, včetně novinek, soutěží, inspirace a nabídek s personalizovaným obsahem na základě vašich osobních údajů."
+            "url": "https://rejstrik.penize.cz/26760746-jysk-s-r-o",
+            "title": "JYSK s.r.o., Praha, IČO: 26760746 - Peníze.cz",
+            "snippet": "JYSK s.r.o., IČO: 26760746, sídlo firmy, předmět podnikání firmy. Aktuální i úplný výpis firmy JYSK s.r.o. z Obchodního rejstříku - majitelé, vedení firmy, vztahy osob."
           },
           {
-            "url": "https://www.zivefirmy.cz/jysk-praha_f1615227",
-            "title": "JYSK Praha , Praha, Horní Měcholupy - Živéfirmy.czJYSK Praha , Praha, Kyje - Živéfirmy.czCustomer Service | JYSKJYSK kontakt, telefon, zákaznický servis, infolinkaJysk.cz (Praha, L",
-            "snippet": "JYSK Praha Váš e-mail: E-mail příjemce: zakaznik@jysk.com Kontrolní otázka: DEVĚT + ČTYŘI = doplňte číslo, např.: 12 Odeslat Formulář je určen výhradně k zasílání poptávek nebo dotazů souvisejících s činností vybrané firmy. Zprávy jsou redigovány našimi operátorkami. Po jejich schválení jsou odeslány adresátovi. Oficiá"
+            "url": "https://ares.cz/subjekt/26760746-jysk-s-r-o/",
+            "title": "JYSK s.r.o. — IČO 26760746 | ARES.CZ",
+            "snippet": "Jul 24, 2026 · Detail subjektu JYSK s.r.o. (IČO 26760746). Sídlo, DIČ, předmět činnosti, statutární orgány a další veřejné údaje z rejstříků."
           },
           {
-            "url": "https://www.zivefirmy.cz/jysk-praha_f1019183",
-            "title": "JYSK Praha , Praha, Kyje - Živéfirmy.cz",
-            "snippet": "Oficiální údaje JYSK s.r.o. IČ26760746DIČCZ26760746 Právní forma: Společnost s ručením omezenýmDatová schránka: xqjem56 Zdroj: justice.cz Odeslat poptávku nebo dotaz firmě:"
+            "url": "https://ceskadata.cz/26760746",
+            "title": "JYSK s.r.o., Praha – tržby 2024: 5,1 mld. Kč, IČO 26760746",
+            "snippet": "Kolik zaměstnanců má JYSK s.r.o.? Podle ČSÚ spadá do pásma 1000 - 1499 zaměstnanců. Přesný počet registr neuvádí. Z 16 903 firem oboru v Praze s uvedenou velikostí je 16 878 menších. Kde sídlí JYSK s.r.o.? Sídlo je zapsáno na adrese Novodvorská 1062/12, Lhotka, 14200 Praha. Na stejné adrese je zapsáno dalších 65 firem."
           },
           {
-            "url": "https://jysk.sk/customer-service",
-            "title": "Customer Service | JYSK",
-            "snippet": "Služby zákazníkom - Otázky a odpovede Potrebujete poradiť ohľadom vášho vysnívaného výrobku alebo pomoc s jeho objednaním? Hľadáte informácie o našich výrobkoch alebo službách? 80 % ZÁKAZNÍKOV NÁJDE ODPOVEĎ NA SVOJE OTÁZKY PRÁVE TU – V SEKCII ČASTO KLADENÉ OTÁZKY."
+            "url": "https://jysk.cz/b2b/kontaktujte-nas",
+            "title": "Kontaktujte nás - JYSK",
+            "snippet": "Chcete-li kontaktovat náš B2B tým, vyberte jednu z níže uvedených možností kontaktu. Tato otázka slouží k ověření, zda jste člověk, a k zabránění automatickému odesílání spamu."
           },
           {
-            "url": "https://www.kontakttelefon.cz/kontakt/jysk-kontakt-telefon-zakaznicky-servis-infolinka",
-            "title": "JYSK kontakt, telefon, zákaznický servis, infolinka",
-            "snippet": "U JYSK je možný osobní kontakt přímo v jejich prodejnách nebo telefonicky přes zákaznickou podporu. Pro telefonní kontakt s naším Zákaznickým servisem nás prosím volejte na uvedené číslo."
+            "url": "https://kariera.jysk.cz/content/cs-contact-info",
+            "title": "cs Contact info | JYSK",
+            "snippet": "JYSK s.r.o. Novodvorská 1062/12 142 0 Praha 4 Česká republika Tel.: +420 848 260 270 prace@jysk.com"
           },
           {
-            "url": "https://www.firmy.cz/detail/13104063-jysk-cz-praha-lhotka.html",
-            "title": "Jysk.cz (Praha, Lhotka), IČO 26760746, adresa a telefon ...",
-            "snippet": "Aktuální ověřené informace: adresa, IČO, telefon, e-mail, provozní hodiny a hodnocení Jysk.cz, Praha, Lhotka. Telefon: 228 884 …"
+            "url": "https://en.firmy.cz/company/1892252-jysk-praha-krc.html",
+            "title": "JYSK (Praha, Krč) • Firmy.cz",
+            "snippet": "Up-to-date verified information: address, phone, e-mail, opening hours and reviews JYSK, Praha, Krč. Phone: 228 884 …"
+          },
+          {
+            "url": "https://www.firmy.cz/detail/2429896-jysk-praha-strasnice.html",
+            "title": "JYSK (Praha, Strašnice), IČO 26760746, adresa a telefon ...JYSK (Praha, Strašnice) • Firmy.czJYSK s.r.o., Praha | Zoznam.skJYSK Offices | JYSK",
+            "snippet": "Aktuální ověřené informace: adresa, IČO, telefon, e-mail, otevírací hodiny a hodnocení JYSK, Praha, Strašnice. Telefon: 228 884 … Up-to-date verified information: address, phone, e-mail, opening hours and reviews JYSK, Praha, Strašnice. Phone: 228 884 … Nov 11, 2026 · Predaj doplnkov do domácnosti. Matrace, vankúše, ob"
+          },
+          {
+            "url": "https://en.firmy.cz/company/2429896-jysk-praha-strasnice.html",
+            "title": "JYSK (Praha, Strašnice) • Firmy.cz",
+            "snippet": "Up-to-date verified information: address, phone, e-mail, opening hours and reviews JYSK, Praha, Strašnice. Phone: 228 884 …"
+          },
+          {
+            "url": "https://www.zoznam.sk/firma/2688249/JYSK-Praha",
+            "title": "JYSK s.r.o., Praha | Zoznam.sk",
+            "snippet": "Nov 11, 2026 · Predaj doplnkov do domácnosti. Matrace, vankúše, obliečky, uteráky. Detský, bytový a pracovný nábytok."
+          },
+          {
+            "url": "https://www.jysk.com/jysk-offices",
+            "title": "JYSK Offices | JYSK",
+            "snippet": "Phone (+46) 77 045 74 57. Cevizli Mah. Turgay Yolu Cad. No: 69a İç Kapı No 132."
           }
         ],
         "errors": [
-          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
         "public_site_contacts": {
@@ -29463,7 +29462,7 @@
       },
       "audit": {
         "state": "observed",
-        "checked_at": "2026-10-27",
+        "checked_at": "2026-11-22",
         "website": "https://jysk.cz/prodejny/praha-10/vyzlovska",
         "devices": {
           "desktop": {
@@ -29547,12 +29546,12 @@
       },
       "candidate_search_sources": [
         "https://rejstrik-firem.kurzy.cz/26760746/jysk-sro/",
+        "https://rejstr.cz/26760746/jysk",
+        "https://www.detail.cz/firma/26760746-jysk-sro-novodvorska-1062-12-praha/",
         "https://rejstrik-firem.kurzy.cz/26760746/jysk-sro/statisticky-urad/",
-        "https://dostartu.cz/rejstrik/firmy/26760746/jysk-sro/",
-        "https://www.finmag.cz/obchodni-rejstrik/26760746-jysk-s-r-o",
-        "https://www.finmag.cz/obchodni-rejstrik/ares/26760746-jysk-s-r-o",
-        "https://rejstriky.finance.cz/firma-jysk-s-r-o-26760746",
-        "https://www.detail.cz/firma/26760746-jysk-sro-novodvorska-1062-12-praha/"
+        "https://rejstrik.penize.cz/26760746-jysk-s-r-o",
+        "https://ares.cz/subjekt/26760746-jysk-s-r-o/",
+        "https://ceskadata.cz/26760746"
       ],
       "website_need_verified": false,
       "contact_method": "matched_business_website",
@@ -67802,6 +67801,1630 @@
         "https://www.skanska.com/cz/cs",
         "https://vces.cz/",
         "https://www.wood-re.com/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30254574": {
+      "lead_id": "res-30254574",
+      "name": "Ing. Martin Černý",
+      "checked_at": "2026-11-22",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Ing. Martin Černý\" IČO 30254574 web",
+          "\"Ing. Martin Černý\" Praha Construction & property kontakt",
+          "\"Ing. Martin Černý\" \"V křepelkách 239\" web",
+          "\"Ing. Martin Černý\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://jasnadata.cz/person/2f136de5a4ad26c9998f9864560921ac480601a2",
+            "title": "Ing. MARTIN ČERNÝ - jasnadata.cz",
+            "snippet": "Co je adresa Ing. MARTIN ČERNÝ? Registrační adresa Ing. MARTIN ČERNÝ je 18200, 25413422, Hlavní město Praha, Praha, Březiněves, V křepelkách, 239, 18."
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/martin-cerny-87514508/",
+            "title": "Martin Černý - IČO 87514508 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Sídlo podnikání: V křepelkách 239/18, Praha, 182 00, Česká republika Působí ve firmách Společenství vlastníků pro dům č.p. 406 ve Vítkovicích a Společenství vlastníků jednotek Herlíkovická č.p. 1021"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/osoba-martin-cerny",
+            "title": "Martin Černý informace o Martin Černý (21.11.2026 ...",
+            "snippet": "Martin Černý Sídlo: V křepelkách 239/18, Praha 18200 působí ve firmách: Společenství vlastníků pro dům č.p. 406 ve Vítkovicích , Společenství vlastníků jednotek Herlíkovická č.p. 1021"
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/osoby/martin-cerny-2186627/",
+            "title": "Ing. Martin Černý, Polní 267/6 v obchodním rejstříku ...",
+            "snippet": "Martin Černý, Polní 267/6, Žďár nad Sázavou, 591 02, Česká republika v obchodním rejstříku. Adresa sídla, pozice ve firmě, vztahy mezi společnostmi…"
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/osoba/Martin+Černý/",
+            "title": "Osoby jménem Martin Černý obchodním rejstříku - Podnikatel.cz",
+            "snippet": "Zpravodajství, detailní informace, rady a tipy pro úspěšné podnikání. Zákony, formuláře, kalkulačky, smlouvy."
+          },
+          {
+            "url": "https://praguelaw.cz/",
+            "title": "Advokátní služby Praha - / CZ / DE / EN - Mgr. Ing. Martin Černý",
+            "snippet": "Advokátní služby na nejvyšší úrovni pro domácí i zahraniční klienty v Praze od Mgr. Ing. Martina Černého, advokáta s dlouholetou praxí."
+          },
+          {
+            "url": "https://firma.sluzby.cz/cs-1471165",
+            "title": "Ing. Martin Černý",
+            "snippet": "Základní informace Ing. Martin Černý Kovářova 43/27, 15500, Praha 13 Hodnocení zákazníků Telefon 246031638 Výpis obchodního rejstříku IČ:43011349 Insolvenční rejstřík IČ:43011349 Nabízené služby: Geodet"
+          },
+          {
+            "url": "https://www.ceskestavby.cz/firmy/ing-martin-cerny.html",
+            "title": "Ing. Martin Černý - Praha - ČESKÉSTAVBY.cz",
+            "snippet": "Informace o firmě Ing. Martin Černý, Patočkova 1709/97, Praha, 169 00. Zabýváme se obory geodetické práce. Klikněte pro více informací."
+          },
+          {
+            "url": "https://praguelaw.cz/cs/kdo-jsem/",
+            "title": "Mgr. Ing. Martin Černý - Advokát - Mgr. Ing. Martin Černý",
+            "snippet": "Právní služby a poradenství poskytuji v českém, anglickém a německém jazyce. O mně Po ukončení studií na Právnické fakultě Univerzity Karlovy v roce 2004 jsem od téhož roku vykonával praxi advokátního koncipienta v Advokátní kanceláři JUDr. Svatavy Němcové, kde jsem pracoval již během svých studií od r. 1997."
+          },
+          {
+            "url": "https://www.firmy.cz/detail/407969-ing-martin-cerny-praha-stodulky.html",
+            "title": "Ing. Martin Černý (Praha, Stodůlky) • Firmy.czIng. Martin Černý (Praha, Stodůlky) • Firmy.czIng. Martin Černý | Firemníprofil.cz",
+            "snippet": "Aktuální ověřené informace: adresa a telefon Ing. Martin Černý, Praha, Stodůlky. Telefon: 237 837 … Up-to-date verified information: address and phone Ing. Martin Černý, Praha, Stodůlky. Phone: 237 837 … Firma Ing. Martin Černý vám nabízí služby v těchto oblastech. Geodetické služby. Pro domluvení schůzky nás kontaktuj"
+          },
+          {
+            "url": "https://en.firmy.cz/company/407969-ing-martin-cerny-praha-stodulky.html",
+            "title": "Ing. Martin Černý (Praha, Stodůlky) • Firmy.cz",
+            "snippet": "Up-to-date verified information: address and phone Ing. Martin Černý, Praha, Stodůlky. Phone: 237 837 …"
+          },
+          {
+            "url": "https://www.firemniprofil.cz/firma/76878327/ing-martin-cerny",
+            "title": "Ing. Martin Černý | Firemníprofil.cz",
+            "snippet": "Firma Ing. Martin Černý vám nabízí služby v těchto oblastech. Geodetické služby. Pro domluvení schůzky nás kontaktujte."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://jasnadata.cz/person/2f136de5a4ad26c9998f9864560921ac480601a2",
+            "result": "unreachable",
+            "reason": "HTTP_523"
+          },
+          {
+            "url": "https://praguelaw.cz/cs/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://firma.sluzby.cz/cs-1471165",
+            "result": "unreachable",
+            "reason": "ConnectTimeout"
+          },
+          {
+            "url": "https://www.ceskestavby.cz/.within.website/?redir=https://www.ceskestavby.cz/firmy/ing-martin-cerny.html",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.firemniprofil.cz/firma/76878327/ing-martin-cerny",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30254574",
+        "legal_name": "Ing. Martin Černý",
+        "registered_at": "2026-11-10",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254574",
+        "decision_maker": {
+          "name": "Ing. Martin Černý",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254574",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254574",
+          "date": "2026-11-10",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Ing. Martin Černý — research dossier",
+        "facts": [
+          "The business is listed at V křepelkách 239, Praha, 18200.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30254574 dated 2026-11-10."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254574",
+            "date": "2026-11-10",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30254574"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Ing. Martin Černý",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30254574",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://jasnadata.cz/person/2f136de5a4ad26c9998f9864560921ac480601a2",
+        "https://www.podnikatel.cz/rejstrik/martin-cerny-87514508/",
+        "https://rejstriky.finance.cz/osoba-martin-cerny",
+        "https://www.podnikatel.cz/rejstrik/osoby/martin-cerny-2186627/",
+        "https://www.podnikatel.cz/rejstrik/osoba/Martin+Černý/",
+        "https://praguelaw.cz/",
+        "https://firma.sluzby.cz/cs-1471165"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30255741": {
+      "lead_id": "res-30255741",
+      "name": "Vasyl Rishko",
+      "checked_at": "2026-11-22",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Vasyl Rishko\" IČO 30255741 web",
+          "\"Vasyl Rishko\" Praha Construction & property kontakt",
+          "\"Vasyl Rishko\" \"Rožnovská 1104\" web",
+          "\"Vasyl Rishko\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-vasyl-rishko-30255741",
+            "title": "Vasyl Rishko IČO 30255741 kontakty 17.11.2026 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Vasyl Rishko, která sídlí v obci a bylo jí přiděleno IČO 30255741. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-vasyl-rishko-30255741/kontakty",
+            "title": "Vasyl Rishko IČO 30255741 kontakty 21.11.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Vasyl Rishko IČO 30255741 kontakty 21.11.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/vasyl-rishko-19811977/",
+            "title": "Vasyl Rishko - IČO 19811977 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Podrobnosti o firmě Vasyl Rishko - IČO 19811977 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/21899941-vasyl-rishko",
+            "title": "Vasyl Rishko, IČO: 21899941 - ARES - Finmag.cz",
+            "snippet": "Obchodní firma Vasyl Rishko se sídlem Velké Přílepy, Dvořákova 420, 25264 a identifikačním číslem (IČO) 21899941."
+          },
+          {
+            "url": "https://www.linkedin.com/pub/dir/vasyl/rishko",
+            "title": "10+ \"Vasyl Rishko\" profiles | LinkedIn",
+            "snippet": "View the profiles of professionals named \"Vasyl Rishko\" on LinkedIn. There are 10+ professionals named \"Vasyl Rishko\", who use LinkedIn to exchange information, ideas, and opportunities."
+          },
+          {
+            "url": "https://firmy.euro.cz/subjekt-vasyl-rishko-87908786",
+            "title": "Vasyl Rishko IČO: 87908786, Zdiby, výpis z rejstříku 11.11. ...",
+            "snippet": "Vasyl Rishko má aktuální nebo historický záznam v těchto rejstřících: živnostenský rejstřík, registr ekonomických subjektů. Vasyl Rishko (87908786) je Fyzická osoba podnikající dle živnostenského zákona."
+          },
+          {
+            "url": "https://firmy.euro.cz/subjekt-vasyl-rishko-17430275",
+            "title": "Vasyl Rishko IČO: 17430275, Praha, výpis z rejstříku 13.07. ...",
+            "snippet": "Vasyl Rishko má aktuální nebo historický záznam v těchto rejstřících: živnostenský rejstřík, registr ekonomických subjektů. Vasyl Rishko (17430275) je Zahraniční fyzická osoba."
+          },
+          {
+            "url": "https://local.infobel.cz/CZ100782944/vasyl_rishko-praha.html",
+            "title": "Vasyl Rishko in Praha, Construction Of Residential And Non ...",
+            "snippet": "Find contact information for Vasyl Rishko, such as: a phone number (77428...), email (..szl@..), website, business opening hours, address and more"
+          },
+          {
+            "url": "https://www.edb.cz/firma-1359201-vasyl-rishko-praha-4/kontakt",
+            "title": "Vasyl Rishko - Evropská databanka",
+            "snippet": "CS EN DE SK PL IT ES UK Doubravická 1311/22, 14900 Praha 4 E-mail Email:[email protected] Telefon Telefon: +420 774 285 408 Web Web: strojni-omitky-risko.cz"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-vasyl-rishko-29664748/kontakty",
+            "title": "Vasyl Rishko IČO 29664748 kontakty 23.06.2026 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Vasyl Rishko, která sídlí v obci a bylo jí přiděleno IČO 29664748. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-vasyl-rishko-17430275/kontakty",
+            "title": "Vasyl Rishko Praha IČO: 17430275 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Vasyl Rishko, která sídlí v obci Praha a bylo jí přiděleno IČO 17430275. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://ceskadata.cz/22626743",
+            "title": "Vasyl Rishko, Praha – IČO 22626743",
+            "snippet": "Kde sídlí Vasyl Rishko? Sídlo je zapsáno na adrese Vlkova 539/7, Žižkov (Praha 3), 13000 Praha. Na stejné adrese je zapsáno dalších 17 firem. Jaké IČO má Vasyl Rishko? IČO je 22626743. Čím se Vasyl Rishko zabývá? Hlavní činnost podle klasifikace CZ-NACE je Příprava staveniště."
+          },
+          {
+            "url": "https://www.yelp.com/biz/vasyl-rishko-praha-2",
+            "title": "VASYL RISHKO - Kozácká 10, Praha, Czech Republic - Yelp",
+            "snippet": "Vasyl Rishko in Praha, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Praha and beyond."
+          },
+          {
+            "url": "https://www.mistriremesel.cz/profil/H2057240",
+            "title": "Vasyl Rishko, Praha 11 - Chodov - Mistři řemesel",
+            "snippet": "Naše společnost se specializuje na strojní omítky. V Praze a Středočeském kraji provádíme realizace sádrových, vápenosádrových, vápenocementových a štukových stříkaných omítek. Chcete přidat firmu do katalogu? Volejte 771 270 421 nebo stiskněte tlačítko."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://firmy.euro.cz/subjekt-vasyl-rishko-87908786",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.edb.cz/firma-1359201-vasyl-rishko-praha-4/kontakt",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://ceskadata.cz/22626743",
+            "result": "unreachable",
+            "reason": "HTTP_503"
+          },
+          {
+            "url": "https://www.mistriremesel.cz/profil/H2057240",
+            "result": "unreachable",
+            "reason": "ReadTimeout"
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30255741",
+        "legal_name": "Vasyl Rishko",
+        "registered_at": "2026-11-11",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30255741",
+        "decision_maker": {
+          "name": "Vasyl Rishko",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30255741",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30255741",
+          "date": "2026-11-11",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Vasyl Rishko — research dossier",
+        "facts": [
+          "The business is listed at Rožnovská 1104, Praha, 19300.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30255741 dated 2026-11-11."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30255741",
+            "date": "2026-11-11",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30255741"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Vasyl Rishko",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30255741",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-vasyl-rishko-30255741",
+        "https://rejstriky.finance.cz/firma-vasyl-rishko-30255741/kontakty",
+        "https://www.podnikatel.cz/rejstrik/vasyl-rishko-19811977/",
+        "https://www.finmag.cz/obchodni-rejstrik/ares/21899941-vasyl-rishko",
+        "https://www.linkedin.com/pub/dir/vasyl/rishko",
+        "https://firmy.euro.cz/subjekt-vasyl-rishko-87908786",
+        "https://firmy.euro.cz/subjekt-vasyl-rishko-17430275"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30255945": {
+      "lead_id": "res-30255945",
+      "name": "Domov & Co. s.r.o.",
+      "checked_at": "2026-11-22",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Domov & Co. s.r.o.\" IČO 30255945 web",
+          "\"Domov & Co. s.r.o.\" Praha Construction & property kontakt",
+          "\"Domov & Co. s.r.o.\" \"Pod sady 1735\" web",
+          "\"Domov & Co. s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://cz.jooble.org/práce-property-management/Praha",
+            "title": "Práce: Property management - Praha - 2026 (Přijmeme ihned ...",
+            "snippet": "Více než 1 359 pracovních nabídek - Property management v Praze • Konkurenční plat • Plný nebo částečný úvazek a brigády • Najděte si novou práci na Jooble!"
+          },
+          {
+            "url": "https://www.philip-frank.com/en/estate/1089-house-bigger-than-eight-bedroom-praha-11-stankova/",
+            "title": "Bigger than eight-bedroom House, 366 m², Land 466 m², Praha ...",
+            "snippet": "Sale of a versatile townhouse with business premises and residential accommodation, Prague 4 – Háje."
+          },
+          {
+            "url": "https://www.jll.com/",
+            "title": "JLL | Commercial Real Estate and Property Investment",
+            "snippet": "JLL deploys an innovative, intelligent, and optimistic approach to solving complex challenges – to help shape a better future for real estate."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://hbreavis.com/",
+            "title": "HB Reavis | International Workspace Provider",
+            "snippet": "Oct 20, 2026 · We are an international workspace provider with a mission to create remarkable experiences through real estate solutions."
+          },
+          {
+            "url": "https://www.facebook.com/groups/adolmonitor/",
+            "title": "ADOL.CZ: Investice do nemovitostí | Facebook",
+            "snippet": "Největší skupina pro investory do nemovitostí v ČR, kde společně sdílíme své zkušenosti. Skupina vznikla v návaznosti na YouTube investiční kurz \"ADOL.cz – investice do nemovitostí\" s Tomášem Kučerou (investorem vlastnícím přes 60 nájemních bytů) a Pavlem Tomkem (CEO ADOLu). Pravidla: 1) Neděkujte za přijetí 2) Nevklád"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Rozšíření systémů požární detekce a signalizace Dnes (22. 11. 2026) Praha Služby 1 — 5 000 000 Kč Zobrazit všechny poptávky od veřejných subjektů +420 251 510 908 info@epoptavka.cz"
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.annonce.cz/hledam-praci-chci-vydelat-Praha-f-T384.html",
+            "title": "Praha - Hledám práci - inzeráty | Inzerce na Annonce.cz",
+            "snippet": "Sekce Hledám práci na inzertním serveru ANNONCE to je inzerce s nabídkou pracovní poptávky na HPP, VPP i brigády."
+          },
+          {
+            "url": "https://www.facebook.com/groups/1564919270395456/",
+            "title": "Kapely, pořadatelé, zvuk (nabídka, poptávka živých vystoupení)",
+            "snippet": "8 hours ago · Plum Dumplings + Pocem pocem v Hudebním Bazaru Už ve středu 25/11, 20.00 Plum Dumplings Brněnská alternativně-rocková kapela s téměř dvacetiletou historií, známá svým syrovým, a přitom poetickým zvukem. Pocem pocem Pocem pocem je hudební projekt dvou kamarádů s autorskými vášněmi a smyslem pro spravedlivý"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Ostraha areálu Služby Bezpečnostní, ostraha Služby okres Praha-západ 22. 11. 2026 (dnes)"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Poptávám: odběr pro použité kartony a kartonový odpad, 1400 l týdně před 1 dnem Praha Služby Firma Praha 7"
+          },
+          {
+            "url": "https://www.dosna.cz/",
+            "title": "DOSNA spol. s r.o.",
+            "snippet": "Kompletní servis výtahů, rekonstrukce a modernizace. Pravidelná údržba výtahů pro bytové domy, firmy i instituce. Nonstop vyproštění 24/7 pro smluvní partnery."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://cz.jooble.org/práce-property-management/Praha",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.philip-frank.com/en/estate/1089-house-bigger-than-eight-bedroom-praha-11-stankova/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.jll.com/en-us/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://hbreavis.com/en/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.annonce.cz/hledam-praci-chci-vydelat-Praha-f-T384.html",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30255945",
+        "legal_name": "Domov & Co. s.r.o.",
+        "registered_at": "2026-11-11",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30255945",
+        "decision_maker": {
+          "name": "MÁRIA ŠTEFÁNIKOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30255945",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "MÁRIA ŠTEFÁNIKOVÁ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30255945",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30255945",
+          "date": "2026-11-11",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Domov & Co. s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Pod sady 1735, Praha, 14300.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30255945 dated 2026-11-11."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30255945",
+            "date": "2026-11-11",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30255945"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "MÁRIA ŠTEFÁNIKOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30255945",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://cz.jooble.org/práce-property-management/Praha",
+        "https://www.philip-frank.com/en/estate/1089-house-bigger-than-eight-bedroom-praha-11-stankova/",
+        "https://www.jll.com/",
+        "https://www.skanska.com/cz/cs",
+        "https://vces.cz/",
+        "https://hbreavis.com/",
+        "https://www.facebook.com/groups/adolmonitor/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30256771": {
+      "lead_id": "res-30256771",
+      "name": "Milan Udut",
+      "checked_at": "2026-11-22",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Milan Udut\" IČO 30256771 web",
+          "\"Milan Udut\" Praha Construction & property kontakt",
+          "\"Milan Udut\" \"Davídkova 694\" web",
+          "\"Milan Udut\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-milan-udut-30256771/obory-cinnosti",
+            "title": "Milan Udut IČO 30256771 kontakty 20.11.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Milan Udut IČO 30256771 kontakty 20.11.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-milan-udut-30256771/kontakty",
+            "title": "Milan Udut IČO 30256771 kontakty 16.11.2026 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Milan Udut, která sídlí v obci a bylo jí přiděleno IČO 30256771. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP). Milan Udut je Zahraniční fyzická osoba ."
+          },
+          {
+            "url": "https://www.edb.cz/firma-880583-milan-duben-praha-5/kontakt",
+            "title": "Milan Duben - Evropská databanka",
+            "snippet": "Milan Duben CS EN DE SK PL IT ES UK Na Farkáně III 236/41, 15000 Praha 5 E-mail Email: milan.duben@seznam.cz Telefon"
+          },
+          {
+            "url": "https://milanbrecka.cz/kontakt/",
+            "title": "Kontakt - Realitní makléř Praha | Milan Břečka",
+            "snippet": "Stačí nám napsat pár údajů a my se Vám ozveme. Zeptejte se na cokoliv ohledně prodeje nemovitosti v Praze. Milan Břečka - realitní makléř se 120+ pozitivními recenzemi."
+          },
+          {
+            "url": "https://milanbrecka.cz/",
+            "title": "Milan Břečka a partneři – realitní makléři, Praha",
+            "snippet": "Mezitím nás uvidíte ve videoprohlídkách nemovitostí. Jsme Milan Břečka a partneři a víme, že při prodeji nemovitosti potřebujete víc než jen zkušeného makléře."
+          },
+          {
+            "url": "https://milansamal.cz/kontakt",
+            "title": "Kontakt, Ing. Milan Šámal, majitel realitní kanceláře, Praha",
+            "snippet": "Milan Šámal. Ing. Milan Šámal."
+          },
+          {
+            "url": "https://realityvetrovec.cz/kontakt/",
+            "title": "Kontakt | Milan Větrovec – Realitní makléř Praha",
+            "snippet": "Hledáte makléře, který vám pomůže s prodejem nebo pronájmem vaší nemovitosti? Pomohu vám prodat nebo pronajmout nemovitost rychle, výhodně a bez starostí. Mám za sebou řadu úspěšně uzavřených obchodů a desítky spokojených klientů."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.edb.cz/firma-880583-milan-duben-praha-5/kontakt",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://milanbrecka.cz/kontakt/",
+            "result": "unreachable",
+            "reason": "HTTP_404"
+          },
+          {
+            "url": "https://milansamal.cz/kontakt",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://realityvetrovec.cz/kontakt/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30256771",
+        "legal_name": "Milan Udut",
+        "registered_at": "2026-11-11",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30256771",
+        "decision_maker": null,
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30256771",
+          "date": "2026-11-11",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Milan Udut — research dossier",
+        "facts": [
+          "The business is listed at Davídkova 694, Praha, 18000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30256771 dated 2026-11-11."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30256771",
+            "date": "2026-11-11",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30256771"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-milan-udut-30256771/obory-cinnosti",
+        "https://rejstriky.finance.cz/firma-milan-udut-30256771/kontakty",
+        "https://www.edb.cz/firma-880583-milan-duben-praha-5/kontakt",
+        "https://milanbrecka.cz/kontakt/",
+        "https://milanbrecka.cz/",
+        "https://milansamal.cz/kontakt",
+        "https://realityvetrovec.cz/kontakt/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30257743": {
+      "lead_id": "res-30257743",
+      "name": "Roman Kulpa",
+      "checked_at": "2026-11-22",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Roman Kulpa\" IČO 30257743 web",
+          "\"Roman Kulpa\" Praha Construction & property kontakt",
+          "\"Roman Kulpa\" \"Hartigova 31\" web",
+          "\"Roman Kulpa\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://www.linkedin.com/pub/dir/Roman/Kulpa",
+            "title": "2 \"Roman Kulpa\" profiles | LinkedIn",
+            "snippet": "View the profiles of professionals named \"Roman Kulpa\" on LinkedIn. There are 2 professionals named \"Roman Kulpa\", who use LinkedIn to exchange information, ideas, and opportunities."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-roman-kulpa-30257743/kontakty",
+            "title": "Roman Kulpa IČO 30257743 kontakty 16.11.2026 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Roman Kulpa, která sídlí v obci a bylo jí přiděleno IČO 30257743. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://www.detail.cz/subjekt/19353481-roman-sokolyk-hartigova-31-27-praha/",
+            "title": "Subjekt Roman Sokolyk | Detail.cz",
+            "snippet": "Kontakty Adresa Hartigova 31/27 130 00 Praha Hlavní město Praha Okres: Praha 3 Navigovat"
+          },
+          {
+            "url": "https://mapy.com/en/?source=addr&id=8943274",
+            "title": "Hartigova 31/27 (Address) • Mapy.com",
+            "snippet": "Hartigova 31/27 (Address) Map – detailed map of the area (base, outdoor, aerial, panorama, etc.), route planning, GPS, and much more on Mapy.com."
+          },
+          {
+            "url": "https://regiony.kurzy.cz/praha/hartigova/1206-87/",
+            "title": "Hartigova 1206/87, Žižkov, 130 00 Praha 3, objekt - Města a ...",
+            "snippet": "Apr 23, 2007 · Hartigova 1206/87, Žižkov, 130 00 Praha 3 - mapa, informace o poště a PSČ, údaje z katastru nemovitostí a katastrální mapa, statistické údaje o objektu, GPS pozice pro navigaci, informace o firmách, osobách a živnostech z veřejného rejstříku."
+          },
+          {
+            "url": "https://www.linkedin.com/pub/dir/Ronald/Kulpa",
+            "title": "2 \"Ronald Kulpa\" profiles | LinkedIn",
+            "snippet": "View the profiles of professionals named \"Ronald Kulpa\" on LinkedIn. There are 2 professionals named \"Ronald Kulpa\", who use LinkedIn to exchange information, ideas, and ..."
+          },
+          {
+            "url": "https://www.vas-lekar.cz/doktori/dentalni-keramika-s-r-o-178672/",
+            "title": "Dentální keramika s.r.o. – zubní technik, Praha 3 | Váš lékař",
+            "snippet": "Poskytuje ambulantní péče v oboru Zubní technik. Odborným zástupcem je Roman Duška. Parkoviště je zhruba 1 min chůze od vchodu a nejbližší zastávka MHD Lukášova asi 1 min pěšky. Smlouvy s VZP, VoZP a ČPZP ověřujeme podle seznamů smluvních poskytovatelů zveřejněných pojišťovnami."
+          },
+          {
+            "url": "https://www.firemniprofil.cz/firma/93320986/roman-kulpa",
+            "title": "Roman Kulpa | Firemníprofil.cz",
+            "snippet": "Kompletní služby v oblastech Čerpadla a kompresory, Elektrické nářadí, AKU, Nářadí, Svářecí technika, Frézky, brusky a cirkulárky, Brusky, Pily, Hoblovky, Frézy, Stavební chemie, Obklady a dlažby,…"
+          },
+          {
+            "url": "https://cz.linkedin.com/in/roman-kulpa-5642a8105",
+            "title": "roman kulpa – OsvČ ve společnosti prona | LinkedIn",
+            "snippet": "OsvČ ve společnosti prona · Pracovní zkušenosti: prona · Lokalita: Česko · 2 spojení na LinkedIn. Podívejte se na profil uživatele roman kulpa na LinkedIn, komunitě profesionálů s miliardou..."
+          },
+          {
+            "url": "https://www.spektrumzdravi.cz/dobry-kontakt/roman-kulpa",
+            "title": "Roman Kulpa - Spektrum Zdraví",
+            "snippet": "Zastavárna Kralupy nad Vltavou a Praha 3 poskytuje peněžní prostředky oproti ručení movitými předměty. Od klientů bereme do zástavy zlato, funkční spotřební elektroniku, domácí spotřebiče, veškeré sportovní potřeby, mobilní telefony, nářadí či motorová vozidla."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Rozšíření systémů požární detekce a signalizace Dnes (22. 11. 2026) Praha Služby 1 — 5 000 000 Kč Zobrazit všechny poptávky od veřejných subjektů +420 251 510 908 info@epoptavka.cz"
+          },
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles.roman_kulpa.433b4766d9f79bfeeb74d738e9712fcc.html",
+            "title": "Roman Kulpa Company Profile | Rožnov pod Radhoštěm, Zlínský ...",
+            "snippet": "Find company research, competitor information, contact details & financial data for Roman Kulpa of Rožnov pod Radhoštěm, Zlínský kraj. Get the latest business insights from Dun & Bradstreet."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.detail.cz/subjekt/19353481-roman-sokolyk-hartigova-31-27-praha/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://mapy.com/en/?source=addr&id=8943274",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.vas-lekar.cz/doktori/dentalni-keramika-s-r-o-178672/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.firemniprofil.cz/firma/93320986/roman-kulpa",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.spektrumzdravi.cz/dobry-kontakt/roman-kulpa",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles.roman_kulpa.433b4766d9f79bfeeb74d738e9712fcc.html",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30257743",
+        "legal_name": "Roman Kulpa",
+        "registered_at": "2026-11-10",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30257743",
+        "decision_maker": {
+          "name": "Roman Kulpa",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30257743",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30257743",
+          "date": "2026-11-10",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Roman Kulpa — research dossier",
+        "facts": [
+          "The business is listed at Hartigova 31, Praha, 13000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30257743 dated 2026-11-10."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30257743",
+            "date": "2026-11-10",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30257743"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Roman Kulpa",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30257743",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.linkedin.com/pub/dir/Roman/Kulpa",
+        "https://rejstriky.finance.cz/firma-roman-kulpa-30257743/kontakty",
+        "https://www.detail.cz/subjekt/19353481-roman-sokolyk-hartigova-31-27-praha/",
+        "https://mapy.com/en/?source=addr&id=8943274",
+        "https://regiony.kurzy.cz/praha/hartigova/1206-87/",
+        "https://www.linkedin.com/pub/dir/Ronald/Kulpa",
+        "https://www.vas-lekar.cz/doktori/dentalni-keramika-s-r-o-178672/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30257794": {
+      "lead_id": "res-30257794",
+      "name": "Vladyslav Kyba",
+      "checked_at": "2026-11-22",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Vladyslav Kyba\" IČO 30257794 web",
+          "\"Vladyslav Kyba\" Praha Construction & property kontakt",
+          "\"Vladyslav Kyba\" \"Kurzova 2222\" web",
+          "\"Vladyslav Kyba\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstriky.finance.cz/firma-vladyslav-kyba-30257794",
+            "title": "Vladyslav Kyba IČO 30257794 kontakty 20.11.2026 - Finance.cz",
+            "snippet": "Podrobnosti o firmě Vladyslav Kyba IČO 30257794 kontakty 20.11.2026 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů a…"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-vladyslav-kyba-30257794/kontakty",
+            "title": "Vladyslav Kyba IČO 30257794 kontakty 16.11.2026 - Finance.cz",
+            "snippet": "Výpis dat pro firmu Vladyslav Kyba obsahuje pouze taková data, která lze dle zákona č. 110/2019 Sb., o zpracování osobních údajů, zveřejňovat i bez souhlasu subjektu těchto údajů."
+          },
+          {
+            "url": "https://www.mesec.cz/rejstrik-firem/firma-vladyslav-kyba-30257794",
+            "title": "Vladyslav Kyba, IČO: (30257794), výpis z rejstříků firem a ...",
+            "snippet": "Najdete zde informace o Vladyslav Kyba. Výpis dat z živnostenského i obchodního rejstříku a ze statistického úřadu"
+          },
+          {
+            "url": "https://www.dnb.com/business-directory/company-profiles.kyba_vladyslav.1cfff6b576dd5c4105d4ace4716c76ce.html",
+            "title": "KYBA VLADYSLAV Company Profile | DENIA, Alicante, Spain ...",
+            "snippet": "D&B Business Directory HOME / BUSINESS DIRECTORY / CONSTRUCTION / SPECIALTY TRADE CONTRACTORS / OTHER SPECIALTY TRADE CONTRACTORS / SPAIN / ALICANTE / DENIA / KYBA VLADYSLAV KYBA VLADYSLAV Get a D&B Hoovers Free Trial"
+          },
+          {
+            "url": "https://valida.sk/48121193",
+            "title": "KYBA, s.r.o., 48121193 - Analýza firmy zadarmo | Valida",
+            "snippet": "Nov 7, 2026 · Firma KYBA, s.r.o. v aktuálnom roku vytvorila pridanú hodnotu vo výške 739 237 EUR, pracuje teda s hrubou maržou 50,31%. Pridaná hodnota vyjadruje, čo firme zostáva z tržieb a vlastnej výroby po odpočítaní nakúpených vstupov - najmä nákladov na predaný tovar, spotrebovaný materiál, energie a externé služb"
+          },
+          {
+            "url": "https://rejstrik.penize.cz/vaclav-kyba",
+            "title": "Václav Kyba - Obchodní rejstřík | Peníze.cz",
+            "snippet": "Václav Kyba výpis firem z Obchodního rejstříku, IČO firmy, adresa sídla firmy, pozice ve firmě, související firmy, vztahy ve firmách."
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/vaclav-kyba-68390980/",
+            "title": "Václav Kyba - IČO 68390980 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Veškeré údaje o ekonomických subjektech, firmách a živnostnících, které zde uveřejňujeme, pocházejí z veřejně dostupných rejstříků (například obchodního rejstříku či živnostenského rejstříku)."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Rozšíření systémů požární detekce a signalizace Dnes (22. 11. 2026) Praha Služby 1 — 5 000 000 Kč Zobrazit všechny poptávky od veřejných subjektů +420 251 510 908 info@epoptavka.cz"
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Moderní pojetí služby Platíte vždy až za jednotlivou realizaci zakázky, žádné jiné poplatky nejsou potřeba."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [
+            "info@iinfo.cz"
+          ],
+          "phones": [],
+          "source": "https://www.mesec.cz/rejstrik-firem/firma-vladyslav-kyba-30257794",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.mesec.cz/rejstrik-firem/firma-vladyslav-kyba-30257794",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.mesec.cz/rejstrik-firem/firma-vladyslav-kyba-30257794",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30257794",
+        "legal_name": "Vladyslav Kyba",
+        "registered_at": "2026-11-11",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30257794",
+        "decision_maker": null,
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-11-22",
+        "website": "https://www.mesec.cz/rejstrik-firem/firma-vladyslav-kyba-30257794",
+        "devices": {
+          "desktop": {
+            "title": "Vladyslav Kyba, IČO: (30257794), výpis z rejstříků firem a OSVČ - Firmy.euro.cz",
+            "description": "Najdete zde informace o Vladyslav Kyba. Výpis dat z živnostenského i obchodního rejstříku a ze statistického úřadu",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 91,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 7,
+            "contact_action": true,
+            "form_count": 0,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Vladyslav Kyba, IČO: (30257794), výpis z rejstříků firem a OSVČ - Firmy.euro.cz",
+            "description": "Najdete zde informace o Vladyslav Kyba. Výpis dat z živnostenského i obchodního rejstříku a ze statistického úřadu",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 86,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 2,
+            "images_count": 9,
+            "contact_action": true,
+            "form_count": 0,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.mesec.cz/rejstrik-firem/firma-vladyslav-kyba-30257794"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30257794",
+          "date": "2026-11-11",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Vladyslav Kyba — research dossier",
+        "facts": [
+          "The business is listed at Kurzova 2222, Praha, 15500.",
+          "An independently identity-matched business website was found: https://www.mesec.cz/rejstrik-firem/firma-vladyslav-kyba-30257794.",
+          "ARES confirms registration for IČO 30257794 dated 2026-11-11."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30257794",
+            "date": "2026-11-11",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30257794",
+          "https://www.mesec.cz/rejstrik-firem/firma-vladyslav-kyba-30257794"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstriky.finance.cz/firma-vladyslav-kyba-30257794",
+        "https://rejstriky.finance.cz/firma-vladyslav-kyba-30257794/kontakty",
+        "https://www.mesec.cz/rejstrik-firem/firma-vladyslav-kyba-30257794",
+        "https://www.dnb.com/business-directory/company-profiles.kyba_vladyslav.1cfff6b576dd5c4105d4ace4716c76ce.html",
+        "https://valida.sk/48121193",
+        "https://rejstrik.penize.cz/vaclav-kyba",
+        "https://www.podnikatel.cz/rejstrik/vaclav-kyba-68390980/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [
+          "info@iinfo.cz"
+        ],
+        "phones": [],
+        "source": "https://www.mesec.cz/rejstrik-firem/firma-vladyslav-kyba-30257794",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30258596": {
+      "lead_id": "res-30258596",
+      "name": "ALI FUAT UYSAL",
+      "checked_at": "2026-11-22",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"ALI FUAT UYSAL\" IČO 30258596 web",
+          "\"ALI FUAT UYSAL\" Praha Construction & property kontakt",
+          "\"ALI FUAT UYSAL\" \"Kobyliská 275\" web",
+          "\"ALI FUAT UYSAL\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://jasnadata.cz/person/abdb8993512b972afc78445009398eb26dc9e402",
+            "title": "ALI FUAT UYSAL - jasnadata.cz",
+            "snippet": "Bezplatné firemní údaje pro ALI FUAT UYSAL. Základní informace, vlastnictví, ředitelé a další"
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-ali-fuat-uysal-30258596",
+            "title": "ALI FUAT UYSAL IČO 30258596 kontakty 15.11.2026 - Finance.cz",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu ALI FUAT UYSAL, která sídlí v obci a bylo jí přiděleno IČO 30258596. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/ali-fuat-uysal",
+            "title": "Ali Fuat Uysal - Obchodní rejstřík | Peníze.cz",
+            "snippet": "Ali Fuat Uysal výpis firem z Obchodního rejstříku, IČO firmy, adresa sídla firmy, pozice ve firmě, související firmy, vztahy ve firmách."
+          },
+          {
+            "url": "https://www.northdata.de/Uysal,+Ali+Fuat,+Praha/8wu",
+            "title": "Ali Fuat Uysal, Prag, Tschechien - North Data",
+            "snippet": "Die Visualisierungen zu \"Ali Fuat Uysal, Prag, Tschechien\" werden von North Data zur Weiterverwendung unter einer Creative Commons Lizenz zur Verfügung gestellt."
+          },
+          {
+            "url": "https://www.ceskepreklady.cz/",
+            "title": "Překladatelská agentura a překlady Praha | České překlady s.r.o.",
+            "snippet": "Překladatelská agentura v Praze a Českých Budějovicích. Překlady, korektury a tlumočení do všech jazyků, 20 let praxe, ISO 17100. Kalkulace do 60 minut."
+          },
+          {
+            "url": "https://www.annonce.cz/hledam-praci-chci-vydelat-Praha-f-T384.html",
+            "title": "Praha - Hledám práci - inzeráty | Inzerce na Annonce.cz",
+            "snippet": "Sekce Hledám práci na inzertním serveru ANNONCE to je inzerce s nabídkou pracovní poptávky na HPP, VPP i brigády."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Zajišťování komplexních vzdělávacích služeb - Vedení a motivace týmu Služby Ostatní kurzy a školení okres Praha 22. 11. 2026 (dnes)"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://jasnadata.cz/person/abdb8993512b972afc78445009398eb26dc9e402",
+            "result": "unreachable",
+            "reason": "HTTP_523"
+          },
+          {
+            "url": "https://www.northdata.de/Uysal,+Ali+Fuat,+Praha/8wu",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website"
+            ]
+          },
+          {
+            "url": "https://www.ceskepreklady.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.annonce.cz/hledam-praci-chci-vydelat-Praha-f-T384.html",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30258596",
+        "legal_name": "ALI FUAT UYSAL",
+        "registered_at": "2026-11-11",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30258596",
+        "decision_maker": {
+          "name": "ALI FUAT UYSAL",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30258596",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30258596",
+          "date": "2026-11-11",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "ALI FUAT UYSAL — research dossier",
+        "facts": [
+          "The business is listed at Kobyliská 275, Praha, 18400.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30258596 dated 2026-11-11."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30258596",
+            "date": "2026-11-11",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30258596"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "ALI FUAT UYSAL",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30258596",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://jasnadata.cz/person/abdb8993512b972afc78445009398eb26dc9e402",
+        "https://rejstriky.finance.cz/firma-ali-fuat-uysal-30258596",
+        "https://rejstrik.penize.cz/ali-fuat-uysal",
+        "https://www.northdata.de/Uysal,+Ali+Fuat,+Praha/8wu",
+        "https://www.ceskepreklady.cz/",
+        "https://www.annonce.cz/hledam-praci-chci-vydelat-Praha-f-T384.html",
+        "https://www.poptavky.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30259487": {
+      "lead_id": "res-30259487",
+      "name": "Marcel Gábor",
+      "checked_at": "2026-11-22",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Marcel Gábor\" IČO 30259487 web",
+          "\"Marcel Gábor\" Praha Construction & property kontakt",
+          "\"Marcel Gábor\" \"Děčínská 552\" web",
+          "\"Marcel Gábor\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 4,
+        "candidates": [
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/ares/60853948-marcel-gabor",
+            "title": "Marcel Gábor, IČO: 60853948 - ARES - Finmag.cz",
+            "snippet": "Obchodní firma Marcel Gábor se sídlem Kamenice nad Lipou, Dobšova 87, 39470 a identifikačním číslem (IČO) 60853948."
+          },
+          {
+            "url": "https://www.mesec.cz/rejstrik-firem/firma-marcel-gabor-60853948",
+            "title": "Marcel Gábor, IČO: (60853948), výpis z rejstříků firem a OSVČ ...",
+            "snippet": "Najdete zde informace o Marcel Gábor. Výpis dat z živnostenského i obchodního rejstříku a ze statistického úřadu"
+          },
+          {
+            "url": "https://rejstrik.penize.cz/marcel-gabor",
+            "title": "Marcel Gábor - Obchodní rejstřík | Peníze.cz",
+            "snippet": "Marcel Gábor výpis firem z Obchodního rejstříku, IČO firmy, adresa sídla firmy, pozice ve firmě, související firmy, vztahy ve firmách."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/ares/60853948-marcel-gabor",
+            "title": "Marcel Gábor, Kamenice nad Lipou, IČO: 60853948 - ARES ...",
+            "snippet": "Dec 7, 2025 · Registr ekonomických subjektů - Marcel Gábor, IČO: 60853948, sídlo firmy, předmět podnikání firmy Marcel Gábor."
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/dph/cz7301131409-marcel-gabor",
+            "title": "Marcel Gábor, DIČ: CZ7301131409 – Registr DPH - Finmag.cz",
+            "snippet": "Tento výpis z Registru DPH obsahuje údaje o společnosti Marcel Gábor. Údaje byly staženy 12. 4. 2025 z datové služby dle DIČ CZ7301131409. Z důvodu ochrany osobních údajů nejsou na stránce data narození a úplné adresy fyzických osob."
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/marcel-gabor-60853948/",
+            "title": "Marcel Gábor - IČO 60853948 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Veškeré údaje o ekonomických subjektech, firmách a živnostnících, které zde uveřejňujeme, pocházejí z veřejně dostupných rejstříků (například obchodního rejstříku či živnostenského rejstříku)."
+          },
+          {
+            "url": "https://www.instagram.com/marce_lgabor/",
+            "title": "Marcel Gábor (@marce_lgabor) • Instagram photos and videos",
+            "snippet": "See photos and videos from friends on Instagram, and discover other accounts you'll love."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/dph/cz7301131409-marcel-gabor",
+            "title": "Marcel Gábor, DIČ: CZ7301131409 - Registr DPH | Peníze.cz",
+            "snippet": "Registr plátců DPH - Marcel Gábor, DIČ: CZ7301131409, sídlo firmy, údaje o registraci DPH, údaje o nespolehlivém plátci DPH."
+          },
+          {
+            "url": "https://www.facebook.com/public/Marcel-Gábor/",
+            "title": "Marcel Gábor Profiles - Facebook",
+            "snippet": "View the profiles of people named Marcel Gábor. Join Facebook to connect with Marcel Gábor and others you may know. Facebook gives people the power to..."
+          },
+          {
+            "url": "https://www.facebook.com/people/Marcel-Gábor/61562471602602/",
+            "title": "Marcel Gábor - Facebook",
+            "snippet": "Marcel Gábor is on Facebook. Join Facebook to connect with Marcel Gábor and others you may know. Facebook gives people the power to share and makes the..."
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Timeline_of_Romanian_history",
+            "title": "Timeline of Romanian history - Wikipedia",
+            "snippet": "This is a timeline of Romanian history, comprising important legal and territorial changes and political events in Romania and its predecessor states. To read about the background to these events, see History of Romania."
+          },
+          {
+            "url": "https://ru.wikipedia.org/wiki/Миноуг,_Кайли",
+            "title": "Миноуг, Кайли — Википедия",
+            "snippet": "В апреле 1986 года Кайли Миноуг получила роль школьницы Шарлин Митчелл [англ.] в телевизионном сериале « Соседи ». Этот сериал пользовался большим успехом в Великобритании: так, свадебный эпизод [англ.] из сюжетной арки ..."
+          },
+          {
+            "url": "https://zms.sk/wp-content/uploads/2017/07/2017_06_16-ZMS-muzea.xls",
+            "title": "zms.sk",
+            "snippet": "Mestské múzeum v Senci Názov múzea Kontakt Web stránka Riaditeľ/ vedúci/ správca Zriaďovateľ Balneologické múzeum v Piešťanoch"
+          },
+          {
+            "url": "https://www.mma.hu/az-akademia/",
+            "title": "Köztestület | Magyar Művészeti Akadémia",
+            "snippet": "Ezt reméli az új kormánytól a Magyar Művészeti Akadémia „Nem a félelem vagy a bizonytalanság, hanem a nemzeti identitás erősítése határozza meg a Magyar Művészeti Akadémia jövőképét\" - jelentette ki az Indexnek adott interjúban Turi Attila. Az MMA elnöke hangsúlyozta, hogy bár az akadémia nem politizál, kötelessége az "
+          }
+        ],
+        "errors": [],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.mesec.cz/rejstrik-firem/firma-marcel-gabor-60853948",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website"
+            ]
+          },
+          {
+            "url": "https://zms.sk/wp-content/uploads/2017/07/2017_06_16-ZMS-muzea.xls",
+            "result": "unreachable",
+            "reason": "not_html"
+          },
+          {
+            "url": "https://www.mma.hu/az-akademia/",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30259487",
+        "legal_name": "Marcel Gábor",
+        "registered_at": "2026-11-11",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30259487",
+        "decision_maker": {
+          "name": "Marcel Gábor",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30259487",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30259487",
+          "date": "2026-11-11",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Marcel Gábor — research dossier",
+        "facts": [
+          "The business is listed at Děčínská 552, Praha, 18000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30259487 dated 2026-11-11."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30259487",
+            "date": "2026-11-11",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30259487"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Marcel Gábor",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30259487",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.finmag.cz/obchodni-rejstrik/ares/60853948-marcel-gabor",
+        "https://www.mesec.cz/rejstrik-firem/firma-marcel-gabor-60853948",
+        "https://rejstrik.penize.cz/marcel-gabor",
+        "https://rejstrik.penize.cz/ares/60853948-marcel-gabor",
+        "https://www.finmag.cz/obchodni-rejstrik/dph/cz7301131409-marcel-gabor",
+        "https://www.podnikatel.cz/rejstrik/marcel-gabor-60853948/",
+        "https://www.instagram.com/marce_lgabor/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
