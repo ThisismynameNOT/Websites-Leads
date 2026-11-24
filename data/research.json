@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-23T19:49:51.793198+00:00",
+  "generated_at": "2026-11-24T19:22:50.135988+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -29181,7 +29181,7 @@
     "osm-node-2927529601": {
       "lead_id": "osm-node-2927529601",
       "name": "Kubista",
-      "checked_at": "2026-10-31",
+      "checked_at": "2026-11-24",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -29241,7 +29241,7 @@
     "osm-node-343686139": {
       "lead_id": "osm-node-343686139",
       "name": "JYSK",
-      "checked_at": "2026-10-31",
+      "checked_at": "2026-11-24",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -29585,7 +29585,7 @@
     "osm-node-3650150787": {
       "lead_id": "osm-node-3650150787",
       "name": "Yask",
-      "checked_at": "2026-10-31",
+      "checked_at": "2026-11-24",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -29645,7 +29645,7 @@
     "osm-node-3685099034": {
       "lead_id": "osm-node-3685099034",
       "name": "Siko",
-      "checked_at": "2026-10-31",
+      "checked_at": "2026-11-24",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -29705,7 +29705,7 @@
     "osm-node-3861201621": {
       "lead_id": "osm-node-3861201621",
       "name": "ASKO Nábytek",
-      "checked_at": "2026-10-31",
+      "checked_at": "2026-11-24",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -29765,7 +29765,7 @@
     "osm-node-390368807": {
       "lead_id": "osm-node-390368807",
       "name": "Ton",
-      "checked_at": "2026-10-31",
+      "checked_at": "2026-11-24",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -29825,7 +29825,7 @@
     "osm-node-4754172457": {
       "lead_id": "osm-node-4754172457",
       "name": "Levný nábytek Praha",
-      "checked_at": "2026-10-31",
+      "checked_at": "2026-11-24",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -29885,7 +29885,7 @@
     "osm-node-4908906621": {
       "lead_id": "osm-node-4908906621",
       "name": "Komandor",
-      "checked_at": "2026-10-31",
+      "checked_at": "2026-11-24",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -71071,6 +71071,1650 @@
         "https://www.maccosmetics.com/products/lip-pencil",
         "https://www.ulta.com/p/lip-liner-pencil-xlsImpprod15921160?sku=2510573"
       ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30261422": {
+      "lead_id": "res-30261422",
+      "name": "Špendlík Logistics s.r.o.",
+      "checked_at": "2026-11-24",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Špendlík Logistics s.r.o.\" IČO 30261422 web",
+          "\"Špendlík Logistics s.r.o.\" Praha Construction & property kontakt",
+          "\"Špendlík Logistics s.r.o.\" \"Stárkova 1166\" web",
+          "\"Špendlík Logistics s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30261422",
+        "legal_name": "Špendlík Logistics s.r.o.",
+        "registered_at": "2026-11-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261422",
+        "decision_maker": {
+          "name": "VOJTĚCH ŠPENDLÍK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261422",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "VOJTĚCH ŠPENDLÍK",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261422",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261422",
+          "date": "2026-11-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Špendlík Logistics s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Stárkova 1166, Praha, 11000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30261422 dated 2026-11-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261422",
+            "date": "2026-11-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30261422"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "VOJTĚCH ŠPENDLÍK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261422",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30261473": {
+      "lead_id": "res-30261473",
+      "name": "Špendlík Marketing s.r.o.",
+      "checked_at": "2026-11-24",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Špendlík Marketing s.r.o.\" IČO 30261473 web",
+          "\"Špendlík Marketing s.r.o.\" Praha Construction & property kontakt",
+          "\"Špendlík Marketing s.r.o.\" \"Stárkova 1166\" web",
+          "\"Špendlík Marketing s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://ceskadata.cz/23342251",
+            "title": "Rentero Construction s.r.o., Praha – majitelé a vedení, IČO ...",
+            "snippet": "Rentero Construction s.r.o. (IČO 23342251): společnost s ručením omezeným v Praze, vznik 2025, 1 - 5 zaměstnanců. Výstavba bytových a nebytových budov. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/07943849/bqi-czech-as/",
+            "title": "BQI Czech, a.s. , Praha IČO 07943849 - Obchodní rejstřík firem",
+            "snippet": "BQI Czech, a.s., Záhřebská, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní společnosti ..."
+          },
+          {
+            "url": "https://www.rsgroup.cz/",
+            "title": "RS Group",
+            "snippet": "Kontakt Kanceláře společnosti: RS Group investments a.s. Košířská brána Plzeňská 1348/95, 150 00, Praha 5 – Smíchov Sídlo: Jeremiášova 2722/2a, 150 00, Praha 5 IČ: 09262253 (+420) 257 314 216 info@rsgroup.cz PRO MÉDIA Zajímá vás naše společnost, chtěli byste vědět něco víc o naší činnosti a našich projektech ..."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://hbreavis.com/",
+            "title": "HB Reavis | International Workspace Provider",
+            "snippet": "Oct 20, 2026 · We are an international workspace provider with a mission to create remarkable experiences through real estate solutions."
+          },
+          {
+            "url": "https://www.linkedin.com/search/results/all/",
+            "title": "LinkedIn",
+            "snippet": "We would like to show you a description here but the site won’t allow us."
+          },
+          {
+            "url": "https://www.mspraha.cz/",
+            "title": "Hasicí zařízení, SHZ, Sprinklery - MS PRAHA spol. s r.o.",
+            "snippet": "MS PRAHA spol. s r.o. zajišťuje projektování SHZ, hasicí zařízení a sprinklery pro Vaši společnost. Navrhujeme ideální řešení hasicího zařízení a SHZ."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: oprava instalace stropního osvětlení, Praha 1 Řemeslné práce Elektrikáři Stavebnictví Elektroinstalační práce okres Praha 24. 11. 2026 (dnes)"
+          },
+          {
+            "url": "https://www.evropska-databanka.cz/",
+            "title": "Reklamní agentura, která je na trhu přes 30 let",
+            "snippet": "Každá firma má svůj příběh. Pomůžeme vám ho napsat. Nejsme už dávno pouze katalog firem, jsme úspěšná reklamní agentura, která nabízí komplexní řešení pro vaše online obchody. Jsme na trhu přes 30 let a dlouhodobě se staráme o naše klienty. Nezávazná poptávka Chcete se najít?"
+          },
+          {
+            "url": "https://www.ssi.cz/",
+            "title": "Simple solutions for integrated facility management - SSI ...",
+            "snippet": "May 11, 2026 · Kompletní služby pro váš objekt Simple solutions for integrated facility management Naše společnosti"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          },
+          {
+            "url": "https://www.mobilboard.cz/",
+            "title": "MOBILBOARD | MOBILBOARD - Tvoříme svět pohyblivé reklamy",
+            "snippet": "MOBILBOARD - Tvoříme svět pohyblivé reklamy - Svezte svou značku na pohyblivé reklamě MOBILBOARD. Formáty i lokality přehledně a online."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://ceskadata.cz/23342251",
+            "result": "unreachable",
+            "reason": "HTTP_503"
+          },
+          {
+            "url": "https://www.rsgroup.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://hbreavis.com/en/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.mspraha.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.evropska-databanka.cz/",
+            "result": "ambiguous",
+            "evidence": []
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30261473",
+        "legal_name": "Špendlík Marketing s.r.o.",
+        "registered_at": "2026-11-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261473",
+        "decision_maker": {
+          "name": "VOJTĚCH ŠPENDLÍK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261473",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "VOJTĚCH ŠPENDLÍK",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261473",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261473",
+          "date": "2026-11-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Špendlík Marketing s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Stárkova 1166, Praha, 11000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30261473 dated 2026-11-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261473",
+            "date": "2026-11-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30261473"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "VOJTĚCH ŠPENDLÍK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261473",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://ceskadata.cz/23342251",
+        "https://rejstrik-firem.kurzy.cz/07943849/bqi-czech-as/",
+        "https://www.rsgroup.cz/",
+        "https://www.skanska.com/cz/cs",
+        "https://vces.cz/",
+        "https://hbreavis.com/",
+        "https://www.linkedin.com/search/results/all/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30261503": {
+      "lead_id": "res-30261503",
+      "name": "Špendlík Solutions s.r.o.",
+      "checked_at": "2026-11-24",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Špendlík Solutions s.r.o.\" IČO 30261503 web",
+          "\"Špendlík Solutions s.r.o.\" Praha Construction & property kontakt",
+          "\"Špendlík Solutions s.r.o.\" \"Stárkova 1166\" web",
+          "\"Špendlík Solutions s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://ceskadata.cz/23342251",
+            "title": "Rentero Construction s.r.o., Praha – majitelé a vedení, IČO ...",
+            "snippet": "Rentero Construction s.r.o. (IČO 23342251): společnost s ručením omezeným v Praze, vznik 2025, 1 - 5 zaměstnanců. Výstavba bytových a nebytových budov. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/07943849/bqi-czech-as/",
+            "title": "BQI Czech, a.s. , Praha IČO 07943849 - Obchodní rejstřík firem",
+            "snippet": "BQI Czech, a.s., Záhřebská, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní společnosti ..."
+          },
+          {
+            "url": "https://www.rsgroup.cz/",
+            "title": "RS Group",
+            "snippet": "Kontakt Kanceláře společnosti: RS Group investments a.s. Košířská brána Plzeňská 1348/95, 150 00, Praha 5 – Smíchov Sídlo: Jeremiášova 2722/2a, 150 00, Praha 5 IČ: 09262253 (+420) 257 314 216 info@rsgroup.cz PRO MÉDIA Zajímá vás naše společnost, chtěli byste vědět něco víc o naší činnosti a našich projektech ..."
+          },
+          {
+            "url": "https://hbreavis.com/",
+            "title": "HB Reavis | International Workspace Provider",
+            "snippet": "Oct 20, 2026 · We are an international workspace provider with a mission to create remarkable experiences through real estate solutions."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.linkedin.com/search/results/all/",
+            "title": "LinkedIn",
+            "snippet": "We would like to show you a description here but the site won’t allow us."
+          },
+          {
+            "url": "https://www.ssi.cz/",
+            "title": "Simple solutions for integrated facility management - SSI ...",
+            "snippet": "May 11, 2026 · Kompletní služby pro váš objekt Simple solutions for integrated facility management Naše společnosti"
+          },
+          {
+            "url": "https://www.mspraha.cz/",
+            "title": "Hasicí zařízení, SHZ, Sprinklery - MS PRAHA spol. s r.o.",
+            "snippet": "MS PRAHA spol. s r.o. zajišťuje projektování SHZ, hasicí zařízení a sprinklery pro Vaši společnost. Navrhujeme ideální řešení hasicího zařízení a SHZ."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://eqsa.cz/",
+            "title": "Equity Solutions Appraisals s.r.o.",
+            "snippet": "Znalecký ústav - Preciznost, rychlost a diskrétnost ve všem, co děláme."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: oprava instalace stropního osvětlení, Praha 1 Řemeslné práce Elektrikáři Stavebnictví Elektroinstalační práce okres Praha 24. 11. 2026 (dnes)"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Poptávky ePoptávka.cz spojuje poptávající s dodavateli zboží a služeb ze stovek oborů. Poptávajícím přináší časovou i finanční úsporu. Dodavatelům nabízí přes 12 tisíc nových obchodních příležitostí měsíčně."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://ceskadata.cz/23342251",
+            "result": "unreachable",
+            "reason": "HTTP_503"
+          },
+          {
+            "url": "https://www.rsgroup.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://hbreavis.com/en/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.ssi.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.mspraha.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30261503",
+        "legal_name": "Špendlík Solutions s.r.o.",
+        "registered_at": "2026-11-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261503",
+        "decision_maker": {
+          "name": "VOJTĚCH ŠPENDLÍK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261503",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "VOJTĚCH ŠPENDLÍK",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261503",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261503",
+          "date": "2026-11-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Špendlík Solutions s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Stárkova 1166, Praha, 11000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30261503 dated 2026-11-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261503",
+            "date": "2026-11-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30261503"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "VOJTĚCH ŠPENDLÍK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261503",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://ceskadata.cz/23342251",
+        "https://rejstrik-firem.kurzy.cz/07943849/bqi-czech-as/",
+        "https://www.rsgroup.cz/",
+        "https://hbreavis.com/",
+        "https://www.skanska.com/cz/cs",
+        "https://vces.cz/",
+        "https://www.linkedin.com/search/results/all/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30261520": {
+      "lead_id": "res-30261520",
+      "name": "Špendlík Trading s.r.o.",
+      "checked_at": "2026-11-24",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Špendlík Trading s.r.o.\" IČO 30261520 web",
+          "\"Špendlík Trading s.r.o.\" Praha Construction & property kontakt",
+          "\"Špendlík Trading s.r.o.\" \"Stárkova 1166\" web",
+          "\"Špendlík Trading s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: oprava instalace stropního osvětlení, Praha 1 Řemeslné práce Elektrikáři Stavebnictví Elektroinstalační práce okres Praha 24. 11. 2026 (dnes)"
+          },
+          {
+            "url": "https://www.evropska-databanka.cz/",
+            "title": "Reklamní agentura, která je na trhu přes 30 let",
+            "snippet": "Každá firma má svůj příběh. Pomůžeme vám ho napsat. Nejsme už dávno pouze katalog firem, jsme úspěšná reklamní agentura, která nabízí komplexní řešení pro vaše online obchody. Jsme na trhu přes 30 let a dlouhodobě se staráme o naše klienty. Nezávazná poptávka Chcete se najít?"
+          },
+          {
+            "url": "https://www.ssi.cz/",
+            "title": "Simple solutions for integrated facility management - SSI ...",
+            "snippet": "May 11, 2026 · Kompletní služby pro váš objekt Simple solutions for integrated facility management Naše společnosti"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          },
+          {
+            "url": "https://www.tsr.cz/",
+            "title": "TSR | Největší zpracovatel kovového odpadu v ČR | Sběrné suroviny",
+            "snippet": "TSR je největší zpracovatel kovového odpadu v České republice. Specializuje se také na výkup papíru, plastu, barerií, kabelů a mnoho dalšího."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.evropska-databanka.cz/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.ssi.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.tsr.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30261520",
+        "legal_name": "Špendlík Trading s.r.o.",
+        "registered_at": "2026-11-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261520",
+        "decision_maker": {
+          "name": "VOJTĚCH ŠPENDLÍK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261520",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "VOJTĚCH ŠPENDLÍK",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261520",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261520",
+          "date": "2026-11-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Špendlík Trading s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Stárkova 1166, Praha, 11000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30261520 dated 2026-11-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261520",
+            "date": "2026-11-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30261520"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "VOJTĚCH ŠPENDLÍK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261520",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://zakazky.epoptavka.cz/",
+        "https://www.epoptavka.cz/",
+        "https://www.poptavky.cz/",
+        "https://www.evropska-databanka.cz/",
+        "https://www.ssi.cz/",
+        "https://poptavky.epoptavka.cz/",
+        "https://www.tsr.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30261589": {
+      "lead_id": "res-30261589",
+      "name": "Špendlík&Co Enterprise s.r.o.",
+      "checked_at": "2026-11-24",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Špendlík&Co Enterprise s.r.o.\" IČO 30261589 web",
+          "\"Špendlík&Co Enterprise s.r.o.\" Praha Construction & property kontakt",
+          "\"Špendlík&Co Enterprise s.r.o.\" \"Stárkova 1166\" web",
+          "\"Špendlík&Co Enterprise s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://ceskadata.cz/23342251",
+            "title": "Rentero Construction s.r.o., Praha – majitelé a vedení, IČO ...",
+            "snippet": "Rentero Construction s.r.o. (IČO 23342251): společnost s ručením omezeným v Praze, vznik 2025, 1 - 5 zaměstnanců. Výstavba bytových a nebytových budov. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/07943849/bqi-czech-as/",
+            "title": "BQI Czech, a.s. , Praha IČO 07943849 - Obchodní rejstřík firem",
+            "snippet": "BQI Czech, a.s., Záhřebská, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní společnosti ..."
+          },
+          {
+            "url": "https://www.rsgroup.cz/",
+            "title": "RS Group",
+            "snippet": "Kontakt Kanceláře společnosti: RS Group investments a.s. Košířská brána Plzeňská 1348/95, 150 00, Praha 5 – Smíchov Sídlo: Jeremiášova 2722/2a, 150 00, Praha 5 IČ: 09262253 (+420) 257 314 216 info@rsgroup.cz PRO MÉDIA Zajímá vás naše společnost, chtěli byste vědět něco víc o naší činnosti a našich projektech ..."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://hbreavis.com/",
+            "title": "HB Reavis | International Workspace Provider",
+            "snippet": "Oct 20, 2026 · We are an international workspace provider with a mission to create remarkable experiences through real estate solutions."
+          },
+          {
+            "url": "https://www.rpbw.com/",
+            "title": "RPBW - Renzo Piano Building Workshop",
+            "snippet": "RPBW - Piano Building Workshop is an international architectural practice with offices in Paris and Genoa."
+          },
+          {
+            "url": "https://www.mspraha.cz/",
+            "title": "Hasicí zařízení, SHZ, Sprinklery - MS PRAHA spol. s r.o.",
+            "snippet": "MS PRAHA spol. s r.o. zajišťuje projektování SHZ, hasicí zařízení a sprinklery pro Vaši společnost. Navrhujeme ideální řešení hasicího zařízení a SHZ."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.ssi.cz/",
+            "title": "Simple solutions for integrated facility management - SSI ...",
+            "snippet": "May 11, 2026 · Kompletní služby pro váš objekt Simple solutions for integrated facility management Naše společnosti"
+          },
+          {
+            "url": "https://akcnitisk.cz/",
+            "title": "Akční Tisk - Zaručeně Spolehlivá Tiskárna",
+            "snippet": "Váš partner pro ofsetový a digitální tisk - tiskárna, která zvládne vše od brožur po personalizované tisky. Vyzkoušejte naše komplexní tiskové služby a užijte si bezproblémový servis."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Poptávky ePoptávka.cz spojuje poptávající s dodavateli zboží a služeb ze stovek oborů. Poptávajícím přináší časovou i finanční úsporu. Dodavatelům nabízí přes 12 tisíc nových obchodních příležitostí měsíčně."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: oprava instalace stropního osvětlení, Praha 1 Řemeslné práce Elektrikáři Stavebnictví Elektroinstalační práce okres Praha 24. 11. 2026 (dnes)"
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://ceskadata.cz/23342251",
+            "result": "unreachable",
+            "reason": "HTTP_503"
+          },
+          {
+            "url": "https://www.rsgroup.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://hbreavis.com/en/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.rpbw.com/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.mspraha.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30261589",
+        "legal_name": "Špendlík&Co Enterprise s.r.o.",
+        "registered_at": "2026-11-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261589",
+        "decision_maker": {
+          "name": "VOJTĚCH ŠPENDLÍK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261589",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "VOJTĚCH ŠPENDLÍK",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261589",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261589",
+          "date": "2026-11-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Špendlík&Co Enterprise s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Stárkova 1166, Praha, 11000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30261589 dated 2026-11-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261589",
+            "date": "2026-11-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30261589"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "VOJTĚCH ŠPENDLÍK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261589",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://ceskadata.cz/23342251",
+        "https://rejstrik-firem.kurzy.cz/07943849/bqi-czech-as/",
+        "https://www.rsgroup.cz/",
+        "https://www.skanska.com/cz/cs",
+        "https://vces.cz/",
+        "https://hbreavis.com/",
+        "https://www.rpbw.com/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30261716": {
+      "lead_id": "res-30261716",
+      "name": "Borys Sidliarchuk",
+      "checked_at": "2026-11-24",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Borys Sidliarchuk\" IČO 30261716 web",
+          "\"Borys Sidliarchuk\" Praha Construction & property kontakt",
+          "\"Borys Sidliarchuk\" \"Petýrkova 1965\" web",
+          "\"Borys Sidliarchuk\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://www.mesec.cz/rejstrik-firem/firma-borys-sidliarchuk-30261716",
+            "title": "Borys Sidliarchuk, IČO: (30261716), výpis z rejstříků firem a ...",
+            "snippet": "Najdete zde informace o Borys Sidliarchuk. Výpis dat z živnostenského i obchodního rejstříku a ze statistického úřadu"
+          },
+          {
+            "url": "https://rejstrik.penize.cz/borys-silchuk",
+            "title": "Borys Silchuk - Obchodní rejstřík | Peníze.cz",
+            "snippet": "Borys Silchuk výpis firem z Obchodního rejstříku, IČO firmy, adresa sídla firmy, pozice ve firmě, související firmy, vztahy ve firmách."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/ico/databaze/",
+            "title": "Databáze IČO, rejstřík IČO, registr IČO - Kurzy.czVyhledání podnikatele - Vyhledání podle údajů subjektuObchodní rejstřík firem ČR — vyhledávání podle IČO | ARES.CZInstagramOlha Si",
+            "snippet": "Pro vyhledání právnické osoby nebo fyzické osoby - podnikatele podle IČO v jednotlivých registrech a databázích vedených státními orgány je dobré znát rozdíly mezi těmito databázemi. Informace poskytované v nich se podstatně liší a některé subjekty nebo některé údaje najdete jen v některých registrech nebo databázích. "
+          },
+          {
+            "url": "https://ares.cz/obchodni-rejstrik/",
+            "title": "Obchodní rejstřík firem ČR — vyhledávání podle IČO | ARES.CZ",
+            "snippet": "Nov 2, 2026 · Najděte firmu v obchodním rejstříku podle IČO, obchodního jména nebo sídla — zdarma, bez registrace. ARES.CZ agreguje data z oficiálního obchodního rejstříku Ministerstva spravedlnosti (z. č. 304/2013 Sb.) a z navazujících veřejných registrů: živnostenský rejstřík (RŽP), registr ekonomických subjektů ČSÚ "
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/olha-sidliarchuk-26050790/",
+            "title": "Olha Sidliarchuk - IČO 26050790 - Obchodní rejstřík na ...",
+            "snippet": "Podrobnosti o firmě Olha Sidliarchuk - IČO 26050790 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://www.instagram.com/p/DXEjifDDEmx/",
+            "title": "Instagram",
+            "snippet": "Never miss a post from boris_media_cv. Sign up for Instagram to stay in the loop. Log in. yulia_sidliarchuk. nastya_beyko. l.korona.l. romantik_media. grand.cv.ua. boris_media_cv. and2 others. kopichinskaolga. ??1w. Like. Reply. __anstsha.__ ??1w. Like. Reply. t_kopychynska. ??1w. Like. Reply. vechno_trezvui. ??1w. Lik"
+          },
+          {
+            "url": "https://rzp.gov.cz/verejne-udaje/cs/udaje",
+            "title": "Vyhledání podnikatele - Vyhledání podle údajů subjektu",
+            "snippet": "Není dostupný odpovídající obsah. Máte dotaz? Napište nám."
+          },
+          {
+            "url": "https://github.com/sidliarchukpetro/",
+            "title": "sidliarchukpetro · GitHub",
+            "snippet": "Mar 31, 2026 · sidliarchukpetro has one repository available. Follow their code on GitHub."
+          },
+          {
+            "url": "https://regiony.kurzy.cz/praha/petyrkova/1965-23/",
+            "title": "Petýrkova 1965/23, Chodov, 148 00 Praha 11, adresa - Města a ...",
+            "snippet": "Petýrkova 1965/23, Chodov, 148 00 Praha 11 - mapa, informace o poště a PSČ, údaje z katastru nemovitostí a katastrální mapa, statistické údaje o objektu, GPS pozice pro navigaci."
+          },
+          {
+            "url": "https://www.kvp.cz/",
+            "title": "Klub vozíčkářů Petýrkova",
+            "snippet": "Jsme obecně prospěšná společnost založená v roce 1992, která umožňuje dospělým lidem s tělesným postižením v bezbariérovém domě Petýrkova důstojný a samostatný život. V oblasti terénní sociální péče patříme mezi první organizace, které v ČR začaly podobné služby poskytovat."
+          },
+          {
+            "url": "https://www.finmag.cz/obchodni-rejstrik/72025433-spolecenstvi-vlastniku-petyrkova-1965-1966-1967",
+            "title": "Společenství vlastníků Petýrkova 1965, 1966, 1967, IČO ...",
+            "snippet": "Kde sídlí Společenství vlastníků Petýrkova 1965, 1966, 1967? Společenství vlastníků Petýrkova 1965, 1966, 1967 sídlí na adrese: Petýrkova 1967/27, 148 00 Praha - Chodov."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-spolecenstvi-vlastniku-petyrkova-1965-1966-1967-72025433",
+            "title": "Společenství vlastníků Petýrkova 1965, 1966, 1967 Praha IČO ...",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Společenství vlastníků Petýrkova 1965, 1966, 1967, která sídlí v obci Praha a bylo jí přiděleno IČO 72025433."
+          },
+          {
+            "url": "https://ua.linkedin.com/in/petrosidliarchuk-infraveritas/en",
+            "title": "Petro Sidliarchuk - Founder, InfraVeritas | Engineer · I find ...",
+            "snippet": "Twenty-five years of applied engineering. Industrial and structural work at the highest consequence class — and, since 2006, my own embedded hardware for real sites: GPS telemetry on earthmoving..."
+          },
+          {
+            "url": "https://borcivmonterkach.cz/reference/",
+            "title": "Reference – Borci v montérkách Praha",
+            "snippet": "Spolehliví řemeslníci Praha realizují bytová jádra, čištění odpadu, instalatérské práce, montáž kuchyní, malířské práce."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [
+            "info@iinfo.cz"
+          ],
+          "phones": [],
+          "source": "https://www.mesec.cz/rejstrik-firem/firma-borys-sidliarchuk-30261716",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.mesec.cz/rejstrik-firem/firma-borys-sidliarchuk-30261716",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.mesec.cz/rejstrik-firem/firma-borys-sidliarchuk-30261716",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30261716",
+        "legal_name": "Borys Sidliarchuk",
+        "registered_at": "2026-11-11",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261716",
+        "decision_maker": {
+          "name": "Borys Sidliarchuk",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261716",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-11-24",
+        "website": "https://www.mesec.cz/rejstrik-firem/firma-borys-sidliarchuk-30261716",
+        "devices": {
+          "desktop": {
+            "title": "Borys Sidliarchuk, IČO: (30261716), výpis z rejstříků firem a OSVČ - Firmy.euro.cz",
+            "description": "Najdete zde informace o Borys Sidliarchuk. Výpis dat z živnostenského i obchodního rejstříku a ze statistického úřadu",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 91,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 7,
+            "contact_action": true,
+            "form_count": 0,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Borys Sidliarchuk, IČO: (30261716), výpis z rejstříků firem a OSVČ - Firmy.euro.cz",
+            "description": "Najdete zde informace o Borys Sidliarchuk. Výpis dat z živnostenského i obchodního rejstříku a ze statistického úřadu",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 68,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 7,
+            "contact_action": true,
+            "form_count": 0,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.mesec.cz/rejstrik-firem/firma-borys-sidliarchuk-30261716"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261716",
+          "date": "2026-11-11",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Borys Sidliarchuk — research dossier",
+        "facts": [
+          "The business is listed at Petýrkova 1965, Praha, 14800.",
+          "An independently identity-matched business website was found: https://www.mesec.cz/rejstrik-firem/firma-borys-sidliarchuk-30261716.",
+          "ARES confirms registration for IČO 30261716 dated 2026-11-11."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261716",
+            "date": "2026-11-11",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30261716",
+          "https://www.mesec.cz/rejstrik-firem/firma-borys-sidliarchuk-30261716"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Borys Sidliarchuk",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261716",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.mesec.cz/rejstrik-firem/firma-borys-sidliarchuk-30261716",
+        "https://rejstrik.penize.cz/borys-silchuk",
+        "https://rejstrik-firem.kurzy.cz/ico/databaze/",
+        "https://ares.cz/obchodni-rejstrik/",
+        "https://www.podnikatel.cz/rejstrik/olha-sidliarchuk-26050790/",
+        "https://www.instagram.com/p/DXEjifDDEmx/",
+        "https://rzp.gov.cz/verejne-udaje/cs/udaje"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [
+          "info@iinfo.cz"
+        ],
+        "phones": [],
+        "source": "https://www.mesec.cz/rejstrik-firem/firma-borys-sidliarchuk-30261716",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30261724": {
+      "lead_id": "res-30261724",
+      "name": "Tomáš Prokop",
+      "checked_at": "2026-11-24",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Tomáš Prokop\" IČO 30261724 web",
+          "\"Tomáš Prokop\" Praha Construction & property kontakt",
+          "\"Tomáš Prokop\" \"Krosenská 533\" web",
+          "\"Tomáš Prokop\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://prodejaut.com/kontakt.html",
+            "title": "Kontakt - Prodej aut",
+            "snippet": "Kontakt Ing. Tomáš Prokop (English / Deutsch / Espaňol) tomas@dovoz.info +420 724 839 754"
+          },
+          {
+            "url": "https://tomasprokop.eu/overturism-in-prague",
+            "title": "tomáš prokop",
+            "snippet": "tomáš prokop overturism in prague 2022 2023 2024 2025 list of all project about me & contact 1 / 5 1 / 5"
+          },
+          {
+            "url": "https://cz.linkedin.com/in/tomáš-prokop-b444a5395",
+            "title": "Tomáš Prokop – Online Marketing Manager ve společnosti CTR ...",
+            "snippet": "Online Marketing Manager ve společnosti CTR Real Estate · Pracovní zkušenosti: CTR Real Estate · Lokalita: 150 00 · 5 spojení na LinkedIn. Podívejte se na profil uživatele Tomáš Prokop na..."
+          },
+          {
+            "url": "https://dovoz.info/kontakt.html",
+            "title": "Kontakt - Dovoz",
+            "snippet": "KONTAKT Ing. Tomáš Prokop +420 724 839 754 (WhatsApp) tomas@dovoz.info Dovoz.info Křížovnická 86/6 110 00 Praha 1 IČ: 73186651 DIČ: CZ7909145002 Plátce DPH Bankovní spojení Komerční banka (vratná záloha na volání do Německa 300 Kč) č.ú.: 86-5094800297 / 0100 mBank č.ú. 670100-2202662490/6210"
+          },
+          {
+            "url": "https://www.arkcr.cz/realitni-kancelar/303-tomas-prokop",
+            "title": "Tomáš Prokop – ARK ČR",
+            "snippet": "Kontaktní údaje Adresa Fügnerova 667/7 460 01 Liberec 1 Liberecký IČ 08838569 Tel +420 602 451 447 Email prokop@rehypex.cz WWW http://www.rehypex.cz/prokop.php"
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/tomas-prokop-30075114/",
+            "title": "Tomáš Prokop - IČO 30075114 - Obchodní rejstřík na Podnikatel.cz",
+            "snippet": "Podrobnosti o firmě Tomáš Prokop - IČO 30075114 z obchodního rejstříku, živnostenského rejstříku, registru ekonomických subjektů, insolvenčního…"
+          },
+          {
+            "url": "https://tomasprokop.eu/contact",
+            "title": "tomáš prokop",
+            "snippet": "experienced and passionate architect"
+          },
+          {
+            "url": "https://web.etf.cuni.cz/UK-4979-version1-VR100128.doc",
+            "title": "web.etf.cuni.cz",
+            "snippet": "Usnesení IV/2: 46 přítomných členů odevzdalo v tajném hlasování 44 kladných hlasů a 1 neplatný hlas. Jeden člen vědecké rady nehlasoval. Vědecká rada UK v Praze doporučuje, aby návrh děkana 2. lékařské fakulty UK v Praze na jmenování profesorem doc. MUDr. Tomáše Seemana, CSc., docenta Pediatrické kliniky FN Motol v Pra"
+          },
+          {
+            "url": "https://e-firmy.cz/firma/elektrorevize-tomas-prokop-76625567/",
+            "title": "Elektrorevize - Tomáš Prokop",
+            "snippet": "Revize elektrických zařízení v objektech typu A i B (v prostorách bez nebezpečí a i s nebezpečím výbuchu) do 1000 V včetně hromosvodů."
+          },
+          {
+            "url": "https://www.fotbalpraha.cz/profily?id_tab=2&id_season=2026&id_league=0&pageURL=7051-jiri-koblizka&letter=u",
+            "title": "Profily | Pražský fotbalový svaz",
+            "snippet": "Profily | Pražský fotbalový svaz ... Profily"
+          },
+          {
+            "url": "https://archiv.fos.cz/adresar/index.phtml?filtr=clenove_FOS",
+            "title": "Člen FOS - Folklorní sdružení ČR",
+            "snippet": "Člen FOS - Folklorní sdružení ČR Taťána Reiblová, Folklorní soubor Velen, kpt. Jaroše 15, 68001 Boskovice, Česko, tel: 516 45 35 44, e-mail: kultura ..."
+          },
+          {
+            "url": "https://www.academia.edu/181683991/Možnosti_súčasnej_terapie_hagioterapie_v_copingových_stratégiách_Rómskej_populácie_v_Toronte_vo_veku_respondentov_18_až_50_rokov",
+            "title": "Možnosti súčasnej terapie, hagioterapie v copingových ...",
+            "snippet": "Možnosti súčasnej terapie, hagioterapie v copingových stratégiách: Rómskej populácie v Toronte vo veku respondentov 18 až 50 rokov."
+          },
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10463815/",
+            "title": "Empowerment interventions designed for persons living with ...",
+            "snippet": "Empowerment approaches are essential for building the capacity of individuals with chronic disease to be in control of their health. Reviews of empowerment interventions have been focused on specific chronic diseases, thereby limiting the scope of ..."
+          },
+          {
+            "url": "https://speecher.org/sk/czech/reading",
+            "title": "Čeština – cvičenie na čítanie s porozumenie – stupňované ...",
+            "snippet": "Bezplatné Čeština cvičenie na čítanie: krátke stupňované texty od A1 po C1 s otázkami na porozumenie, okamžitými odpoveďami a prehľadom chýb. Bez registrácie."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://prodejaut.com/kontakt.html",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching distinctive business-name words on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://tomasprokop.eu/overturism-in-prague",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://dovoz.info/kontakt.html",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching distinctive business-name words on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.arkcr.cz/realitni-kancelar/303-tomas-prokop",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://web.etf.cuni.cz/UK-4979-version1-VR100128.doc",
+            "result": "unreachable",
+            "reason": "not_html"
+          },
+          {
+            "url": "https://e-firmy.cz/firma/elektrorevize-tomas-prokop-76625567/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching business name on website"
+            ]
+          },
+          {
+            "url": "https://www.fotbalpraha.cz/profily?id_tab=2&id_season=2026&id_league=0&pageURL=7051-jiri-koblizka&letter=u",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching distinctive business-name words on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://archiv.fos.cz/adresar/index.phtml?filtr=clenove_FOS",
+            "result": "unreachable",
+            "reason": "ConnectTimeout"
+          },
+          {
+            "url": "https://www.academia.edu/181683991/Možnosti_súčasnej_terapie_hagioterapie_v_copingových_stratégiách_Rómskej_populácie_v_Toronte_vo_veku_respondentov_18_až_50_rokov",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30261724",
+        "legal_name": "Tomáš Prokop",
+        "registered_at": "2026-11-10",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261724",
+        "decision_maker": {
+          "name": "Tomáš Prokop",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261724",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261724",
+          "date": "2026-11-10",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Tomáš Prokop — research dossier",
+        "facts": [
+          "The business is listed at Krosenská 533, Praha, 18100.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30261724 dated 2026-11-10."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261724",
+            "date": "2026-11-10",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30261724"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Tomáš Prokop",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261724",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://prodejaut.com/kontakt.html",
+        "https://tomasprokop.eu/overturism-in-prague",
+        "https://cz.linkedin.com/in/tomáš-prokop-b444a5395",
+        "https://dovoz.info/kontakt.html",
+        "https://www.arkcr.cz/realitni-kancelar/303-tomas-prokop",
+        "https://www.podnikatel.cz/rejstrik/tomas-prokop-30075114/",
+        "https://tomasprokop.eu/contact"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30261821": {
+      "lead_id": "res-30261821",
+      "name": "Oleksandr Matsola",
+      "checked_at": "2026-11-24",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "search_unavailable",
+        "queries": [
+          "\"Oleksandr Matsola\" IČO 30261821 web",
+          "\"Oleksandr Matsola\" Praha Construction & property kontakt",
+          "\"Oleksandr Matsola\" \"Nádražní 1301\" web",
+          "\"Oleksandr Matsola\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 0,
+        "candidates": [],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "SEARCH_UNAVAILABLE",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30261821",
+        "legal_name": "Oleksandr Matsola",
+        "registered_at": "2026-11-11",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261821",
+        "decision_maker": {
+          "name": "Oleksandr Matsola",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261821",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261821",
+          "date": "2026-11-11",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Oleksandr Matsola — research dossier",
+        "facts": [
+          "The business is listed at Nádražní 1301, Praha, 15000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30261821 dated 2026-11-11."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261821",
+            "date": "2026-11-11",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30261821"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "Oleksandr Matsola",
+          "role": "Registered sole trader",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30261821",
+          "verified_scope": "Registered operator; purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
