@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-25T18:27:08.574710+00:00",
+  "generated_at": "2026-11-26T18:08:47.432888+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -7939,7 +7939,7 @@
     "osm-node-11065024432": {
       "lead_id": "osm-node-11065024432",
       "name": "100 klíčů",
-      "checked_at": "2026-11-17",
+      "checked_at": "2026-11-26",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -8833,7 +8833,7 @@
     "osm-node-11782384941": {
       "lead_id": "osm-node-11782384941",
       "name": "WADE Atelier - design a realizace",
-      "checked_at": "2026-11-17",
+      "checked_at": "2026-11-26",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -9107,7 +9107,7 @@
     "osm-node-12278479101": {
       "lead_id": "osm-node-12278479101",
       "name": "Studio PHX s.r.o.",
-      "checked_at": "2026-11-17",
+      "checked_at": "2026-11-26",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -9416,7 +9416,7 @@
     "osm-node-13229923199": {
       "lead_id": "osm-node-13229923199",
       "name": "Depositum CZ s.r.o.",
-      "checked_at": "2026-11-17",
+      "checked_at": "2026-11-26",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -15630,7 +15630,7 @@
     "osm-node-5188088452": {
       "lead_id": "osm-node-5188088452",
       "name": "Li-Vi Praha s.r.o",
-      "checked_at": "2026-11-16",
+      "checked_at": "2026-11-26",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -16461,7 +16461,7 @@
     "osm-node-9991267555": {
       "lead_id": "osm-node-9991267555",
       "name": "RAMSS spol. s r.o.",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-26",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -16767,7 +16767,7 @@
     "osm-way-132113757": {
       "lead_id": "osm-way-132113757",
       "name": "ELSA Consulting s.r.o.",
-      "checked_at": "2026-11-16",
+      "checked_at": "2026-11-26",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -18144,7 +18144,7 @@
     "osm-node-449771792": {
       "lead_id": "osm-node-449771792",
       "name": "AURUS REALITY JUDr. ZÁHORSKÝ s.r.o.",
-      "checked_at": "2026-11-01",
+      "checked_at": "2026-11-26",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -74481,6 +74481,1645 @@
         "source": "https://www.mesec.cz/rejstrik-firem/firma-oleksandr-lutsiv-30263379",
         "evidence": "Explicit mailto/tel links on identity-matched business website"
       },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30263417": {
+      "lead_id": "res-30263417",
+      "name": "Penzion ML s.r.o.",
+      "checked_at": "2026-11-26",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Penzion ML s.r.o.\" IČO 30263417 web",
+          "\"Penzion ML s.r.o.\" Praha Construction & property kontakt",
+          "\"Penzion ML s.r.o.\" \"Vratislavova 129\" web",
+          "\"Penzion ML s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30263417/penzion-ml-sro/",
+            "title": "Penzion ML s.r.o. , IČO 30263417 - Obchodní rejstřík firem",
+            "snippet": "Tato stránka obsahuje aktuální výpis údajů firmy Penzion ML s.r.o. Údaje byly staženy 16. listopadu 2026 z datové služby justice.cz dle IČO 30263417 a údaje ve výpise nebyly dle systému ARES do dnešního dne změněny."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30263417/penzion-ml-sro/statisticky-urad/",
+            "title": "Penzion ML s.r.o. , IČO 30263417 - data ze statistického ...",
+            "snippet": "Penzion ML s.r.o., IČO 30263417 data ze statistického úřadu české republiky. Databáze IČO. Předměty činnosti ze statistického úřadu."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "THIRD_PARTY_PRESENCE_ONLY",
+        "website": "",
+        "examined": [],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30263417",
+        "legal_name": "Penzion ML s.r.o.",
+        "registered_at": "2026-11-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30263417",
+        "decision_maker": {
+          "name": "JAN MICHEK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30263417",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "JAN MICHEK",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30263417",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          },
+          {
+            "name": "KRISTÝNA MICHKOVÁ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30263417",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30263417",
+          "date": "2026-11-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Penzion ML s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Vratislavova 129, Praha, 12800.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30263417 dated 2026-11-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30263417",
+            "date": "2026-11-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30263417"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "JAN MICHEK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30263417",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30263417/penzion-ml-sro/",
+        "https://rejstrik-firem.kurzy.cz/30263417/penzion-ml-sro/statisticky-urad/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30263573": {
+      "lead_id": "res-30263573",
+      "name": "Bytové družstvo Nová Cihelní",
+      "checked_at": "2026-11-26",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Bytové družstvo Nová Cihelní\" IČO 30263573 web",
+          "\"Bytové družstvo Nová Cihelní\" Praha Construction & property kontakt",
+          "\"Bytové družstvo Nová Cihelní\" \"Střelničná 1861\" web",
+          "\"Bytové družstvo Nová Cihelní\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 4,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30263573/bytove-druzstvo-nova-cihelni/",
+            "title": "Bytové družstvo Nová Cihelní , Praha IČO 30263573 - Obchodní ...",
+            "snippet": "Nov 17, 2026 · Tato stránka obsahuje aktuální výpis údajů firmy Bytové družstvo Nová Cihelní. Údaje byly staženy 16. listopadu 2026 z datové služby justice.cz dle IČO 30263573 a údaje ve výpise nebyly dle systému ARES do dnešního dne změněny."
+          },
+          {
+            "url": "https://ceskadata.cz/30263573",
+            "title": "Bytové družstvo Nová Cihelní — IČO 30263573",
+            "snippet": "Bytové družstvo Nová Cihelní (IČO 30263573): družstvo v Praze, vznik 2026. Pronájem a správa vlastních nebo pronajatých nemovitostí. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30263573/bytove-druzstvo-nova-cihelni",
+            "title": "Bytové družstvo Nová Cihelní - obchodní rejstřík",
+            "snippet": "Bytové družstvo Nová Cihelní Sídlo Praha. IČO: 30263573. Rejstřík podnikatelů. Rok založení 2026. Rizikové signály družstva."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-bytove-druzstvo-nova-cihelni-30263573/kontakty",
+            "title": "Bytové družstvo Nová Cihelní Praha 8 IČO: 30263573",
+            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu Bytové družstvo Nová Cihelní, která sídlí v obci Praha 8 a bylo jí přiděleno IČO 30263573. Výpis obsahuje aktuální i historická data z obchodního rejstříku (Justice.cz) včetně sbírky listin a živnostenského rejstříku (RŽP)."
+          },
+          {
+            "url": "https://www.mesec.cz/rejstrik-firem/firma-bytove-druzstvo-nova-cihelni-30263573",
+            "title": "Bytové družstvo Nová Cihelní, IČO: (30263573), výpis z ...",
+            "snippet": "Najdete zde informace o Bytové družstvo Nová Cihelní. Výpis dat z živnostenského i obchodního rejstříku a ze statistického úřadu"
+          },
+          {
+            "url": "https://www.podnikani.cz/30263573/bytove-druzstvo-nova-cihelni/",
+            "title": "Bytové družstvo Nová Cihelní - obchodní rejstřík, vizualizace ...",
+            "snippet": "Vizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě Bytové družstvo Nová Cihelní z českého obchodního rejstříku a živnostenského rejstříku v přehledné grafické podobě."
+          },
+          {
+            "url": "https://ov.gov.cz/zapis/25494493",
+            "title": "Obchodní věstník - Portál veřejné správy",
+            "snippet": "Obchodní jméno: Bytové družstvo Nová Cihelní Sídlo: Střelničná 1861/8a, Kobylisy, 182 00 Praha 8 IČO: 30263573 Způsob řízení: velké družstvo Právní forma: Družstvo Předmět činnosti: Koupě bytových domů (rozumí se tím i koupě bytových a nebytových jednotek, nebytových prostor a pozemků, podílů na společných ..."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30263573/bytove-druzstvo-nova-cihelni/zivnosti/",
+            "title": "Bytové družstvo Nová Cihelní - Živnostenský rejstřík | Kurzy.cz",
+            "snippet": "Bytové družstvo Nová Cihelní, firma – kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
+          }
+        ],
+        "errors": [],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.chytryrejstrik.cz/ico-30263573/bytove-druzstvo-nova-cihelni",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.chytryrejstrik.cz/ico-30263573/bytove-druzstvo-nova-cihelni",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://ceskadata.cz/30263573",
+            "result": "unreachable",
+            "reason": "HTTP_503"
+          },
+          {
+            "url": "https://www.chytryrejstrik.cz/ico-30263573/bytove-druzstvo-nova-cihelni",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30263573",
+        "legal_name": "Bytové družstvo Nová Cihelní",
+        "registered_at": "2026-11-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30263573",
+        "decision_maker": null,
+        "contact_verified": false,
+        "statutory_members": []
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-11-26",
+        "website": "https://www.chytryrejstrik.cz/ico-30263573/bytove-druzstvo-nova-cihelni",
+        "devices": {
+          "desktop": {
+            "title": "Bytové družstvo Nová Cihelní - obchodní rejstřík",
+            "description": "Bytové družstvo Nová Cihelní Sídlo Praha. IČO: 30263573. Rejstřík podnikatelů. Rok založení 2026. Rizikové signály družstva. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 166,
+            "small_text_elements": 1,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 44,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Bytové družstvo Nová Cihelní - obchodní rejstřík",
+            "description": "Bytové družstvo Nová Cihelní Sídlo Praha. IČO: 30263573. Rejstřík podnikatelů. Rok založení 2026. Rizikové signály družstva. ",
+            "viewport_meta": true,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 129,
+            "small_text_elements": 7,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 44,
+            "contact_action": false,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.chytryrejstrik.cz/ico-30263573/bytove-druzstvo-nova-cihelni"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30263573",
+          "date": "2026-11-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Bytové družstvo Nová Cihelní — research dossier",
+        "facts": [
+          "The business is listed at Střelničná 1861, Praha, 18200.",
+          "An independently identity-matched business website was found: https://www.chytryrejstrik.cz/ico-30263573/bytove-druzstvo-nova-cihelni.",
+          "ARES confirms registration for IČO 30263573 dated 2026-11-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30263573",
+            "date": "2026-11-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30263573",
+          "https://www.chytryrejstrik.cz/ico-30263573/bytove-druzstvo-nova-cihelni"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30263573/bytove-druzstvo-nova-cihelni/",
+        "https://ceskadata.cz/30263573",
+        "https://www.chytryrejstrik.cz/ico-30263573/bytove-druzstvo-nova-cihelni",
+        "https://rejstriky.finance.cz/firma-bytove-druzstvo-nova-cihelni-30263573/kontakty",
+        "https://www.mesec.cz/rejstrik-firem/firma-bytove-druzstvo-nova-cihelni-30263573",
+        "https://www.podnikani.cz/30263573/bytove-druzstvo-nova-cihelni/",
+        "https://ov.gov.cz/zapis/25494493"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.chytryrejstrik.cz/ico-30263573/bytove-druzstvo-nova-cihelni",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30263913": {
+      "lead_id": "res-30263913",
+      "name": "Marat Mozerov",
+      "checked_at": "2026-11-26",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Marat Mozerov\" IČO 30263913 web",
+          "\"Marat Mozerov\" Praha Construction & property kontakt",
+          "\"Marat Mozerov\" \"Vysočanská 237\" web",
+          "\"Marat Mozerov\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://cz.linkedin.com/in/marat-mozerov",
+            "title": "Marat Mozerov – Bc. FSv ČVUT | Honors Akademia VŠE | LinkedIn",
+            "snippet": "Bc. FSv ČVUT | Honors Akademia VŠE · Pracovní zkušenosti: Metrostav CZ · Vzdělání: Fakulta stavební ČVUT v Praze · Lokalita: Praha - metropolitní oblast · 70 spojení na LinkedIn. Podívejte se..."
+          },
+          {
+            "url": "https://www.instagram.com/m.mozerov/",
+            "title": "Marat Mozerov | Марат Мозеров (@m.mozerov) • Instagram photos ...",
+            "snippet": "103 Followers, 100 Following, 5 Posts - Marat Mozerov | Марат Мозеров (@m.mozerov) on Instagram: \"PRAGUE\""
+          },
+          {
+            "url": "https://sis-construction.cz/kontakt/",
+            "title": "Kontakt - SIS Construction",
+            "snippet": "Martin Zavacký – Ředitel. Ing. Josef Šlehofer. Ing. Dita Burdová. Ing. Pavel Navrátilík. Bc. Jan Sobotka. Ing. Martin Holčák. zde. Zůstaňte s námi v kontaktu."
+          },
+          {
+            "url": "https://dspace.cvut.cz/entities/person/ddc82aaf-9e6b-43fc-b7f9-cd5e1daff09e/full",
+            "title": "Mozerov, Marat - dspace.cvut.cz",
+            "snippet": "Home Mozerov, Marat Mozerov, Marat"
+          },
+          {
+            "url": "https://myconstruction.cz/kontakt/",
+            "title": "Kontakt – MyConstruction",
+            "snippet": "Neváhejte nás kontaktovat. Těšíme se na spolupráci. Nejlepší je osobní kontakt a proto, když si s námi vyjednáte nezávaznou schůzku přímo u Vás doma, kde Vám rádi poradíme, jak nejlépe naložit s rekonstrukcí, tak rádi přijedeme a připravíme pro Vás cenovou kalkulaci do 7 dnů."
+          },
+          {
+            "url": "https://usermap.cvut.cz/profile/561259d5-138b-43b6-990f-5482225e94e6?lang=en",
+            "title": "Mozerov, Marat - usermap.cvut.cz",
+            "snippet": "UserMap - system for registering and managing users within the CTU IS"
+          },
+          {
+            "url": "https://dspace.cvut.cz/entities/person/ddc82aaf-9e6b-43fc-b7f9-cd5e1daff09e",
+            "title": "Mozerov, Marat - dspace.cvut.cz",
+            "snippet": "Name Full item page Publications as Author Publications as Supervisor Publications as Reviewer Publications as Editor Other Publications results Back to results ..."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://sis-construction.cz/kontakt/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://dspace.cvut.cz/entities/person/ddc82aaf-9e6b-43fc-b7f9-cd5e1daff09e/full",
+            "result": "unreachable",
+            "reason": "ReadTimeout"
+          },
+          {
+            "url": "https://myconstruction.cz/kontakt/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://usermap.cvut.cz/profile/561259d5-138b-43b6-990f-5482225e94e6?lang=en",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30263913",
+        "legal_name": "Marat Mozerov",
+        "registered_at": "2026-11-11",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30263913",
+        "decision_maker": null,
+        "contact_verified": false,
+        "statutory_members": [],
+        "director_lookup_status": "HTTPError"
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30263913",
+          "date": "2026-11-11",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Marat Mozerov — research dossier",
+        "facts": [
+          "The business is listed at Vysočanská 237, Praha, 19000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30263913 dated 2026-11-11."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30263913",
+            "date": "2026-11-11",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30263913"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": null,
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://cz.linkedin.com/in/marat-mozerov",
+        "https://www.instagram.com/m.mozerov/",
+        "https://sis-construction.cz/kontakt/",
+        "https://dspace.cvut.cz/entities/person/ddc82aaf-9e6b-43fc-b7f9-cd5e1daff09e/full",
+        "https://myconstruction.cz/kontakt/",
+        "https://usermap.cvut.cz/profile/561259d5-138b-43b6-990f-5482225e94e6?lang=en",
+        "https://dspace.cvut.cz/entities/person/ddc82aaf-9e6b-43fc-b7f9-cd5e1daff09e"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30264286": {
+      "lead_id": "res-30264286",
+      "name": "el insecto s.r.o.",
+      "checked_at": "2026-11-26",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"el insecto s.r.o.\" IČO 30264286 web",
+          "\"el insecto s.r.o.\" Praha Specialized B2B kontakt",
+          "\"el insecto s.r.o.\" \"Sokolská 1883\" web",
+          "\"el insecto s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30264286/el-insecto-sro/",
+            "title": "el insecto s.r.o. , IČO 30264286 - Obchodní rejstřík firem",
+            "snippet": "Společnost s ručením omezeným el insecto s.r.o., založena 12.11.2026, zapsána pod značkou C 459969/MSPH Městským soudem v Praze. Poslední změna dne 12.11.2026. Aktuální výpis z obchodního rejstříku. Společnost zastupuje jednatel samostatně."
+          },
+          {
+            "url": "https://www.podnikani.cz/30264286/el-insecto-sro/",
+            "title": "el insecto s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku el insecto s.r.o. Sokolská 1883/8, Nové Město (Praha 2), 120 00 Praha , IČO: 30264286, Zákl. kapitál: 10000 Kč"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30264286/el-insecto-sro/zivnosti/",
+            "title": "el insecto s.r.o. - Živnostenský rejstřík | Kurzy.cz",
+            "snippet": "el insecto s.r.o., firma – kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
+          },
+          {
+            "url": "https://www.europages.co.uk/companies/ncint-officiel-kontakt.html",
+            "title": "ncint-officiel-kontakt | B2B companies and suppliers | europages",
+            "snippet": "All Companies and suppliers for ncint-officiel-kontakt Find wholesalers and contact them directly Leading B2B martketplace Find companies now!"
+          },
+          {
+            "url": "https://kr.kompass.com/z/ww/a/abrasive-wheels-and-blocks-rubber-bonded/3199040/page-2/",
+            "title": "Suppliers in International | B2B Marketplace | Kompass.com",
+            "snippet": "Find B2B Abrasive wheels and blocks, rubber bonded Companies in International | Kompass.com"
+          },
+          {
+            "url": "https://cz.indeed.com/q-customer-care-l-hlavní-město-praha-nabídky-práce.html?vjk=00a8ad53a81bfd1d",
+            "title": "Nabídky práce customer care v lokalitě Hlavní město Praha",
+            "snippet": "111 nabídky práce Customer Care dostupných v lokalitě Hlavní město Praha. - Hledejte na Indeed.com, světově nejpoužívanějším vyhledávači práce."
+          },
+          {
+            "url": "https://www.progresscycle.cz/",
+            "title": "Hlavní stránka | Progress Cycle",
+            "snippet": "B2B Prodejci Kontakty Novinky Návody Progress Cycle Palouky 1371 (Logistický park Tulipán) 253 01 Hostivice Česká republika IČO: 25136755 DIČ: CZ25136755 Kontakt: Prodejna a E-SHOP Hostivice telefon: +420 235 311 888 prodejna: prodejna@progresscycle.cz CENTRÁLA telefon: +420 241 771 181 e-mail: info@progresscycle.cz ww"
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Co je ePoptávka.cz ePoptávka.cz je největší poptávkový systém v České republice, který využívá 289 663 dodavatelů ze všech oborů podnikání. Měsíčně zpracujeme přes 11 tis. poptávek ve finančním objemu více než 7 mld. Kč."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30264286/el-insecto-sro/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.europages.co.uk/companies/ncint-officiel-kontakt.html",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://kr.kompass.com/z/ww/a/abrasive-wheels-and-blocks-rubber-bonded/3199040/page-2/",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://cz.indeed.com/q-customer-care-l-hlavní-město-praha-nabídky-práce.html?vjk=00a8ad53a81bfd1d",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.progresscycle.cz/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30264286",
+        "legal_name": "el insecto s.r.o.",
+        "registered_at": "2026-11-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30264286",
+        "decision_maker": {
+          "name": "KAROLÍNA TUŠLOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30264286",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "KAROLÍNA TUŠLOVÁ",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30264286",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30264286",
+          "date": "2026-11-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "el insecto s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Sokolská 1883, Praha, 12000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30264286 dated 2026-11-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30264286",
+            "date": "2026-11-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30264286"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "KAROLÍNA TUŠLOVÁ",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30264286",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30264286/el-insecto-sro/",
+        "https://www.podnikani.cz/30264286/el-insecto-sro/",
+        "https://rejstrik-firem.kurzy.cz/30264286/el-insecto-sro/zivnosti/",
+        "https://www.europages.co.uk/companies/ncint-officiel-kontakt.html",
+        "https://kr.kompass.com/z/ww/a/abrasive-wheels-and-blocks-rubber-bonded/3199040/page-2/",
+        "https://cz.indeed.com/q-customer-care-l-hlavní-město-praha-nabídky-práce.html?vjk=00a8ad53a81bfd1d",
+        "https://www.progresscycle.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30265142": {
+      "lead_id": "res-30265142",
+      "name": "Shiny Touch s.r.o.",
+      "checked_at": "2026-11-26",
+      "engine_version": 8,
+      "state": "audited",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Shiny Touch s.r.o.\" IČO 30265142 web",
+          "\"Shiny Touch s.r.o.\" Praha Construction & property kontakt",
+          "\"Shiny Touch s.r.o.\" \"Na Folimance 2155\" web",
+          "\"Shiny Touch s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 3,
+        "candidates": [
+          {
+            "url": "https://www.detail.cz/firma/30265142-shiny-touch-sro-na-folimance-2155-15-praha/",
+            "title": "Společnost Shiny Touch s.r.o. | Detail.cz",
+            "snippet": "Společnost Shiny Touch s.r.o. (IČO: 30265142) byla založena dne 12. listopadu 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/adresa-praha-na-folimance-2155-15-21756929",
+            "title": "Na Folimance 2155/15 Praha 12000 (24.11.2026)Bright Light Solutions s.r.o.Kontakt: software a weby z Prahy | FXMKAllmarket s.r.o. v likvidaci - IČO 24223352 - Obchodní ...AICS365 (",
+            "snippet": "Mar 18, 2017 · Na Folimance 2155/15 Praha 12000 – seznam všech firem a osob, které se na této adrese nachází a mají záznam ve veřejných rejstřících, mapa, GPS… Základní údaje Název Bright Light Solutions s.r.o. IČO 09916598 Právní forma Společnost s ručením omezeným Sídlo Na Folimance 2155/15, 120 00 Praha Kraj Hlavní "
+          },
+          {
+            "url": "https://fxmk-academy.com/kontakt/",
+            "title": "Kontakt: software a weby z Prahy | FXMK",
+            "snippet": "Napište nám nebo zavolejte na +420 725 521 817. FXMK Academy s.r.o., Na Folimance 2155/15, 120 00 Praha 2, IČO 22102825."
+          },
+          {
+            "url": "http://e-firmy.cz/firma/bright-light-solutions-s-r-o-09916598/",
+            "title": "Bright Light Solutions s.r.o.",
+            "snippet": "Základní údaje Název Bright Light Solutions s.r.o. IČO 09916598 Právní forma Společnost s ručením omezeným Sídlo Na Folimance 2155/15, 120 00 Praha Kraj Hlavní město Praha Obor Auditorské služby Stav Aktivní 2"
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/allmarket-s-r-o-v-likvidaci-24223352/",
+            "title": "Allmarket s.r.o. v likvidaci - IČO 24223352 - Obchodní ...",
+            "snippet": "Na Folimance 2155/15, Praha 2 Vinohrady, 120 00 Likvidátor RASTORAX s.r.o. v likvidaci Jeremiášova 2722/2a, Praha 5 Stodůlky, 155 00 Likvidátor Motorsport Engineering Association v likvidaci Litvínovská 609/3, Praha 9 Prosek, 190 00 Likvidátor High Voltage Racing Team, o.s. v likvidaci Jana Masaryka 281/28, Praha 2 Vin"
+          },
+          {
+            "url": "https://en.firmy.cz/company/14105629-aics365-brezova-janci.html",
+            "title": "AICS365 (Březová, Jančí) • Firmy.cz",
+            "snippet": "AICS365 is a modern IT company specializing in artificial intelligence, web applications, cloud solutions, and IT infrastructure management. It helps companies with digitization, process automation, custom software development, network and server management, and professional technical support."
+          },
+          {
+            "url": "https://ares.cz/subjekt/28515170-eh-detailing-a-s/",
+            "title": "EH Detailing, a.s. — IČO 28515170 | ARES.CZ",
+            "snippet": "Dec 24, 2025 · QR kód a odznak pro faktury a web Zákazníci si naskenováním ověří vaše údaje ve veřejných registrech. Zdarma. Vytvořit QR kód Označení ve smlouvě: DodavatelOdběratelProdávajícíKupující EH Detailing, a.s. IČO: 28515170 se sídlem Na Folimance 2155/15, 120 00 Praha spisová značka B 14981 vedená u Městského "
+          },
+          {
+            "url": "https://www.mspraha.cz/",
+            "title": "Hasicí zařízení, SHZ, Sprinklery - MS PRAHA spol. s r.o.",
+            "snippet": "MS PRAHA spol. s r.o. zajišťuje projektování SHZ, hasicí zařízení a sprinklery pro Vaši společnost. Navrhujeme ideální řešení hasicího zařízení a SHZ."
+          },
+          {
+            "url": "https://kapitan.eu/",
+            "title": "Kapitán Praha s.r.o.",
+            "snippet": "O nás info@kapitan.eu 736 625 474 Home Služby Vzorníky Reference Inspirace Ceník Kontakt Poptávka služeb"
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "O projektu Projekt Poptávky.cz sdružuje 948 963 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found."
+        ],
+        "public_site_contacts": {
+          "emails": [],
+          "phones": [],
+          "source": "https://www.detail.cz/firma/30265142-shiny-touch-sro-na-folimance-2155-15-praha/",
+          "evidence": "Explicit mailto/tel links on identity-matched business website"
+        },
+        "contact_matches": [],
+        "website": "https://www.detail.cz/firma/30265142-shiny-touch-sro-na-folimance-2155-15-praha/",
+        "state": "VERIFIED_WEBSITE",
+        "identity": [
+          "Matching IČO on website",
+          "Matching business name on website",
+          "Matching Prague street address on website",
+          "Prague mentioned on website"
+        ],
+        "examined": [
+          {
+            "url": "https://www.detail.cz/firma/30265142-shiny-touch-sro-na-folimance-2155-15-praha/",
+            "result": "identity_match",
+            "evidence": [
+              "Matching IČO on website",
+              "Matching business name on website",
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30265142",
+        "legal_name": "Shiny Touch s.r.o.",
+        "registered_at": "2026-11-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265142",
+        "decision_maker": {
+          "name": "MICHAL JEŘÁBEK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265142",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "MICHAL JEŘÁBEK",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265142",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "observed",
+        "checked_at": "2026-11-26",
+        "website": "https://www.detail.cz/firma/30265142-shiny-touch-sro-na-folimance-2155-15-praha/",
+        "devices": {
+          "desktop": {
+            "title": "Společnost Shiny Touch s.r.o. | Detail.cz",
+            "description": "Společnost Shiny Touch s.r.o. (IČO: 30265142) byla založena dne 12. listopadu 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
+            "viewport_meta": true,
+            "h1_count": 16,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 58,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 14,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          },
+          "navigation_errors": [],
+          "mobile": {
+            "title": "Společnost Shiny Touch s.r.o. | Detail.cz",
+            "description": "Společnost Shiny Touch s.r.o. (IČO: 30265142) byla založena dne 12. listopadu 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
+            "viewport_meta": true,
+            "h1_count": 16,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 55,
+            "small_text_elements": 0,
+            "broken_images": 0,
+            "images_missing_alt": 0,
+            "images_count": 10,
+            "contact_action": true,
+            "form_count": 1,
+            "booking_links": 0,
+            "http_status": 200
+          }
+        },
+        "transport": {
+          "state": "https_available",
+          "http_url": null,
+          "observed_url": "https://www.detail.cz/firma/30265142-shiny-touch-sro-na-folimance-2155-15-praha/"
+        },
+        "objective_issues": [],
+        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
+        "visual_design_review": "human_review_required",
+        "website_score": null
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265142",
+          "date": "2026-11-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Shiny Touch s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Na Folimance 2155, Praha, 12000.",
+          "An independently identity-matched business website was found: https://www.detail.cz/firma/30265142-shiny-touch-sro-na-folimance-2155-15-praha/.",
+          "ARES confirms registration for IČO 30265142 dated 2026-11-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265142",
+            "date": "2026-11-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30265142",
+          "https://www.detail.cz/firma/30265142-shiny-touch-sro-na-folimance-2155-15-praha/"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "MICHAL JEŘÁBEK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265142",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.detail.cz/firma/30265142-shiny-touch-sro-na-folimance-2155-15-praha/",
+        "https://rejstriky.finance.cz/adresa-praha-na-folimance-2155-15-21756929",
+        "https://fxmk-academy.com/kontakt/",
+        "http://e-firmy.cz/firma/bright-light-solutions-s-r-o-09916598/",
+        "https://www.podnikatel.cz/rejstrik/allmarket-s-r-o-v-likvidaci-24223352/",
+        "https://en.firmy.cz/company/14105629-aics365-brezova-janci.html",
+        "https://ares.cz/subjekt/28515170-eh-detailing-a-s/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {
+        "emails": [],
+        "phones": [],
+        "source": "https://www.detail.cz/firma/30265142-shiny-touch-sro-na-folimance-2155-15-praha/",
+        "evidence": "Explicit mailto/tel links on identity-matched business website"
+      },
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30265151": {
+      "lead_id": "res-30265151",
+      "name": "Shiny Alfa s.r.o.",
+      "checked_at": "2026-11-26",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Shiny Alfa s.r.o.\" IČO 30265151 web",
+          "\"Shiny Alfa s.r.o.\" Praha Construction & property kontakt",
+          "\"Shiny Alfa s.r.o.\" \"Na Folimance 2155\" web",
+          "\"Shiny Alfa s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://www.podnikani.cz/30265151/shiny-alfa-sro/",
+            "title": "Shiny Alfa s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku Shiny Alfa s.r.o. Na Folimance 2155/15, Vinohrady (Praha 2), 120 00 Praha , IČO: 30265151, Zákl. kapitál: 2000 Kč"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30265151/shiny-alfa-sro/zivnosti/",
+            "title": "Shiny Alfa s.r.o. - Živnostenský rejstřík | Kurzy.cz",
+            "snippet": "Shiny Alfa s.r.o., firma – kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
+          },
+          {
+            "url": "https://ceskadata.cz/23342251",
+            "title": "Rentero Construction s.r.o., Praha – majitelé a vedení, IČO ...",
+            "snippet": "Rentero Construction s.r.o. (IČO 23342251): společnost s ručením omezeným v Praze, vznik 2025, 1 - 5 zaměstnanců. Výstavba bytových a nebytových budov. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/07943849/bqi-czech-as/",
+            "title": "BQI Czech, a.s. , Praha IČO 07943849 - Obchodní rejstřík firem",
+            "snippet": "BQI Czech, a.s., Záhřebská, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní společnosti ..."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.wood-re.com/",
+            "title": "WOOD Real Estate | Home",
+            "snippet": "We live for real estate. We are leaders on the Central European real estate market."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30265151/shiny-alfa-sro/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://ceskadata.cz/23342251",
+            "result": "unreachable",
+            "reason": "HTTP_503"
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.wood-re.com/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30265151",
+        "legal_name": "Shiny Alfa s.r.o.",
+        "registered_at": "2026-11-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265151",
+        "decision_maker": {
+          "name": "PETR DVOŘÁK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265151",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "PETR DVOŘÁK",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265151",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265151",
+          "date": "2026-11-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Shiny Alfa s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Na Folimance 2155, Praha, 12000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30265151 dated 2026-11-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265151",
+            "date": "2026-11-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30265151"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "PETR DVOŘÁK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265151",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.podnikani.cz/30265151/shiny-alfa-sro/",
+        "https://rejstrik-firem.kurzy.cz/30265151/shiny-alfa-sro/zivnosti/",
+        "https://ceskadata.cz/23342251",
+        "https://rejstrik-firem.kurzy.cz/07943849/bqi-czech-as/",
+        "https://www.skanska.com/cz/cs",
+        "https://vces.cz/",
+        "https://www.wood-re.com/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30265169": {
+      "lead_id": "res-30265169",
+      "name": "Shiny Beta s.r.o.",
+      "checked_at": "2026-11-26",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Shiny Beta s.r.o.\" IČO 30265169 web",
+          "\"Shiny Beta s.r.o.\" Praha Construction & property kontakt",
+          "\"Shiny Beta s.r.o.\" \"Na Folimance 2155\" web",
+          "\"Shiny Beta s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://www.podnikani.cz/30265169/shiny-beta-sro/",
+            "title": "Shiny Beta s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku Shiny Beta s.r.o. Na Folimance 2155/15, Vinohrady (Praha 2), 120 00 Praha , IČO: 30265169, Zákl. kapitál: 2000 Kč"
+          },
+          {
+            "url": "https://ceskadata.cz/23342251",
+            "title": "Rentero Construction s.r.o., Praha – majitelé a vedení, IČO ...",
+            "snippet": "Rentero Construction s.r.o. (IČO 23342251): společnost s ručením omezeným v Praze, vznik 2025, 1 - 5 zaměstnanců. Výstavba bytových a nebytových budov. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/07943849/bqi-czech-as/",
+            "title": "BQI Czech, a.s. , Praha IČO 07943849 - Obchodní rejstřík firem",
+            "snippet": "BQI Czech, a.s., Záhřebská, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní společnosti ..."
+          },
+          {
+            "url": "https://ctp.eu/",
+            "title": "Parkmakers - Commercial Real Estate Developer And Manager",
+            "snippet": "CTP is Europe’s largest listed owner, developer, and manager of logistics and industrial real estate by gross lettable area across 11 countries. Full-service developer and property manager."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.rpbw.com/",
+            "title": "RPBW - Renzo Piano Building Workshop",
+            "snippet": "RPBW - Piano Building Workshop is an international architectural practice with offices in Paris and Genoa."
+          },
+          {
+            "url": "https://www.mspraha.cz/",
+            "title": "Hasicí zařízení, SHZ, Sprinklery - MS PRAHA spol. s r.o.",
+            "snippet": "MS PRAHA spol. s r.o. zajišťuje projektování SHZ, hasicí zařízení a sprinklery pro Vaši společnost. Navrhujeme ideální řešení hasicího zařízení a SHZ."
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://www.evropska-databanka.cz/",
+            "title": "Reklamní agentura, která je na trhu přes 30 let",
+            "snippet": "Každá firma má svůj příběh. Pomůžeme vám ho napsat. Nejsme už dávno pouze katalog firem, jsme úspěšná reklamní agentura, která nabízí komplexní řešení pro vaše online obchody. Jsme na trhu přes 30 let a dlouhodobě se staráme o naše klienty. Nezávazná poptávka Chcete se najít?"
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Monitorujeme pro Vás a kategorizujeme poptávky a veřejné zakázky z nejvýznamnějších zdrojů."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Největší databáze obchodních příležitostí v ČR. Najděte poptávky, které pomohou v růstu Vašemu podnikání."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30265169/shiny-beta-sro/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://ceskadata.cz/23342251",
+            "result": "unreachable",
+            "reason": "HTTP_503"
+          },
+          {
+            "url": "https://ctp.eu/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.rpbw.com/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.mspraha.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://zakazky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30265169",
+        "legal_name": "Shiny Beta s.r.o.",
+        "registered_at": "2026-11-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265169",
+        "decision_maker": {
+          "name": "MICHAL JEŘÁBEK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265169",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "MICHAL JEŘÁBEK",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265169",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265169",
+          "date": "2026-11-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Shiny Beta s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Na Folimance 2155, Praha, 12000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30265169 dated 2026-11-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265169",
+            "date": "2026-11-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30265169"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "MICHAL JEŘÁBEK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265169",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.podnikani.cz/30265169/shiny-beta-sro/",
+        "https://ceskadata.cz/23342251",
+        "https://rejstrik-firem.kurzy.cz/07943849/bqi-czech-as/",
+        "https://ctp.eu/",
+        "https://www.skanska.com/cz/cs",
+        "https://vces.cz/",
+        "https://www.rpbw.com/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30265177": {
+      "lead_id": "res-30265177",
+      "name": "Shiny Gama s.r.o.",
+      "checked_at": "2026-11-26",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"Shiny Gama s.r.o.\" IČO 30265177 web",
+          "\"Shiny Gama s.r.o.\" Praha Construction & property kontakt",
+          "\"Shiny Gama s.r.o.\" \"Na Folimance 2155\" web",
+          "\"Shiny Gama s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://www.podnikani.cz/30265177/shiny-gama-sro/",
+            "title": "Shiny Gama s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
+            "snippet": "Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku Shiny Gama s.r.o. Na Folimance 2155/15, Vinohrady (Praha 2), 120 00 Praha , IČO: 30265177, Zákl. kapitál: 2000 Kč"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30265177/shiny-gama-sro/zivnosti/",
+            "title": "Shiny Gama s.r.o. - Živnostenský rejstřík | Kurzy.cz",
+            "snippet": "Shiny Gama s.r.o., firma – kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
+          },
+          {
+            "url": "https://ceskadata.cz/23342251",
+            "title": "Rentero Construction s.r.o., Praha – majitelé a vedení, IČO ...",
+            "snippet": "Rentero Construction s.r.o. (IČO 23342251): společnost s ručením omezeným v Praze, vznik 2025, 1 - 5 zaměstnanců. Výstavba bytových a nebytových budov. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/07943849/bqi-czech-as/",
+            "title": "BQI Czech, a.s. , Praha IČO 07943849 - Obchodní rejstřík firem",
+            "snippet": "BQI Czech, a.s., Záhřebská, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní společnosti ..."
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/akademie-zateplování",
+            "title": "Akademie zateplování - Bucharova 2641/14, 158 00 Praha 5… - Cybo",
+            "snippet": "Akademie zateplování Prague postal code 158 00. See Google profile, Phone, Website and more for this business. Review on Cybo."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/adresa-praha-na-folimance-2155-15-21756929",
+            "title": "Na Folimance 2155/15 Praha 12000 (24.11.2026)Bright Light Solutions s.r.o.Kontakt: software a weby z Prahy | FXMKAllmarket s.r.o. v likvidaci - IČO 24223352 - Obchodní ...Školní zá",
+            "snippet": "Mar 18, 2017 · Na Folimance 2155/15 Praha 12000 – seznam všech firem a osob, které se na této adrese nachází a mají záznam ve veřejných rejstřících, mapa, GPS… Základní údaje Název Bright Light Solutions s.r.o. IČO 09916598 Právní forma Společnost s ručením omezeným Sídlo Na Folimance 2155/15, 120 00 Praha Kraj Hlavní "
+          },
+          {
+            "url": "https://fxmk-academy.com/kontakt/",
+            "title": "Kontakt: software a weby z Prahy | FXMK",
+            "snippet": "Napište nám nebo zavolejte na +420 725 521 817. FXMK Academy s.r.o., Na Folimance 2155/15, 120 00 Praha 2, IČO 22102825."
+          },
+          {
+            "url": "http://e-firmy.cz/firma/bright-light-solutions-s-r-o-09916598/",
+            "title": "Bright Light Solutions s.r.o.",
+            "snippet": "Základní údaje Název Bright Light Solutions s.r.o. IČO 09916598 Právní forma Společnost s ručením omezeným Sídlo Na Folimance 2155/15, 120 00 Praha Kraj Hlavní město Praha Obor Auditorské služby Stav Aktivní 2"
+          },
+          {
+            "url": "https://www.podnikatel.cz/rejstrik/allmarket-s-r-o-v-likvidaci-24223352/",
+            "title": "Allmarket s.r.o. v likvidaci - IČO 24223352 - Obchodní ...",
+            "snippet": "Na Folimance 2155/15, Praha 2 Vinohrady, 120 00 Likvidátor RASTORAX s.r.o. v likvidaci Jeremiášova 2722/2a, Praha 5 Stodůlky, 155 00 Likvidátor Motorsport Engineering Association v likvidaci Litvínovská 609/3, Praha 9 Prosek, 190 00 Likvidátor High Voltage Racing Team, o.s. v likvidaci Jana Masaryka 281/28, Praha 2 Vin"
+          },
+          {
+            "url": "https://www.skolnicestovka.cz/",
+            "title": "Školní zájezdy bez starostí | autobusová doprava Acrislines",
+            "snippet": "ŠKOLNÍ ZÁJEZDY BEZ STAROSTÍ Kompletní organizace školních výletů a poznávacích zájezdů po celé Evropě s vlastní autobusovou dopravou."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30265177/shiny-gama-sro/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://ceskadata.cz/23342251",
+            "result": "unreachable",
+            "reason": "HTTP_503"
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/akademie-zateplování",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://fxmk-academy.com/kontakt/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "http://e-firmy.cz/firma/bright-light-solutions-s-r-o-09916598/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skolnicestovka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30265177",
+        "legal_name": "Shiny Gama s.r.o.",
+        "registered_at": "2026-11-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265177",
+        "decision_maker": {
+          "name": "MICHAL JEŘÁBEK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265177",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "MICHAL JEŘÁBEK",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265177",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265177",
+          "date": "2026-11-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Shiny Gama s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Na Folimance 2155, Praha, 12000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30265177 dated 2026-11-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265177",
+            "date": "2026-11-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30265177"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "MICHAL JEŘÁBEK",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265177",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://www.podnikani.cz/30265177/shiny-gama-sro/",
+        "https://rejstrik-firem.kurzy.cz/30265177/shiny-gama-sro/zivnosti/",
+        "https://ceskadata.cz/23342251",
+        "https://rejstrik-firem.kurzy.cz/07943849/bqi-czech-as/",
+        "https://www.cybo.com/CZ-biz/akademie-zateplování",
+        "https://www.skanska.com/cz/cs",
+        "https://vces.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
       "owner_verified": false,
       "buyer_interest_verified": false
     }
