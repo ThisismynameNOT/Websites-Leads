@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-26T18:08:47.432888+00:00",
+  "generated_at": "2026-11-27T17:52:20.304851+00:00",
   "mode": "evidence_based_no_ai",
   "status": "completed",
   "searched_today": 16,
@@ -9738,7 +9738,7 @@
     "osm-node-13432491655": {
       "lead_id": "osm-node-13432491655",
       "name": "AltruLinea",
-      "checked_at": "2026-11-17",
+      "checked_at": "2026-11-27",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -9998,7 +9998,7 @@
     "osm-node-13565444642": {
       "lead_id": "osm-node-13565444642",
       "name": "Realitní Kancelář RNDr. Eva Pavlíková",
-      "checked_at": "2026-11-17",
+      "checked_at": "2026-11-27",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -10588,7 +10588,7 @@
     "osm-node-14256023377": {
       "lead_id": "osm-node-14256023377",
       "name": "M&M Reality",
-      "checked_at": "2026-11-18",
+      "checked_at": "2026-11-27",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -10757,7 +10757,7 @@
     "osm-node-1555858848": {
       "lead_id": "osm-node-1555858848",
       "name": "Realitní společnost Praha",
-      "checked_at": "2026-11-17",
+      "checked_at": "2026-11-27",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -11056,7 +11056,7 @@
     "osm-node-2318297306": {
       "lead_id": "osm-node-2318297306",
       "name": "Qarta architektura",
-      "checked_at": "2026-11-17",
+      "checked_at": "2026-11-27",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -11383,7 +11383,7 @@
     "osm-node-2475847880": {
       "lead_id": "osm-node-2475847880",
       "name": "HVB Real Estate",
-      "checked_at": "2026-11-18",
+      "checked_at": "2026-11-27",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -11678,7 +11678,7 @@
     "osm-node-2896861601": {
       "lead_id": "osm-node-2896861601",
       "name": "Orbium Reality",
-      "checked_at": "2026-11-18",
+      "checked_at": "2026-11-27",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -11982,7 +11982,7 @@
     "osm-node-296640443": {
       "lead_id": "osm-node-296640443",
       "name": "APASON Reality s.r.o.",
-      "checked_at": "2026-11-18",
+      "checked_at": "2026-11-27",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -34803,70 +34803,67 @@
     "res-30130727": {
       "lead_id": "res-30130727",
       "name": "Společenství vlastníků Za papírnou 239, Praha 7",
-      "checked_at": "2026-10-18",
+      "checked_at": "2026-11-27",
       "engine_version": 8,
       "state": "audited",
       "discovery": {
-        "status": "partial_search",
+        "status": "searched",
         "queries": [
           "\"Společenství vlastníků Za papírnou 239, Praha 7\" IČO 30130727 web",
           "\"Společenství vlastníků Za papírnou 239, Praha 7\" Praha Construction & property kontakt",
           "\"Společenství vlastníků Za papírnou 239, Praha 7\" \"Za papírnou 239\" web",
           "\"Společenství vlastníků Za papírnou 239, Praha 7\" Praha služby reference poptávka"
         ],
-        "successful_queries": 1,
+        "successful_queries": 2,
         "candidates": [
           {
             "url": "https://rejstrik-firem.kurzy.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7/",
             "title": "Společenství vlastníků Za papírnou 239, Praha 7 , IČO ...",
-            "snippet": "Kde je sídlo firmy Společenství vlastníků Za papírnou 239, Praha 7? Sídlo firmy Společenství vlastníků Za papírnou 239, Praha 7 je Za papírnou 239/3, Holešovice, 17000 Praha 7. Další firmy na této adrese."
+            "snippet": "Oct 12, 2026 · Kde je sídlo firmy Společenství vlastníků Za papírnou 239, Praha 7? Sídlo firmy Společenství vlastníků Za papírnou 239, Praha 7 je Za papírnou 239/3, Holešovice, 17000 Praha 7. Další firmy na této adrese."
           },
           {
-            "url": "https://rejstriky.finance.cz/firma-spolecenstvi-vlastniku-za-papirnou-239-praha-7-30130727/kontakty",
+            "url": "https://www.podnikatel.cz/rejstrik/spolecenstvi-vlastniku-za-papirnou-239-praha-7-30130727/",
+            "title": "Společenství vlastníků Za papírnou 239, Praha 7 - IČO ...",
+            "snippet": "Firma Společenství vlastníků Za papírnou 239, Praha 7, společenství vlastníků jednotek. V obchodním rejstříku je zapsána pod spisovou značkou S 22940, Městský soud v Praze."
+          },
+          {
+            "url": "https://rejstriky.finance.cz/firma-spolecenstvi-vlastniku-za-papirnou-239-praha-7-30130727",
             "title": "Společenství vlastníků Za papírnou 239, Praha 7 IČO: 30130727",
-            "snippet": "Podrobnosti o firmě Společenství vlastníků Za papírnou 239, Praha 7 IČO 30130727 kontakty 18.10.2026 z obchodního rejstříku, živnostenského rejstříku,…"
+            "snippet": "Podrobnosti o firmě Společenství vlastníků Za papírnou 239, Praha 7 IČO 30130727 kontakty 20.10.2026 z obchodního rejstříku, živnostenského rejstříku,…"
           },
           {
-            "url": "https://www.podnikani.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7/",
-            "title": "Společenství vlastníků Za papírnou 239, Praha 7 - obchodní ...",
-            "snippet": "Vizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě Společenství vlastníků Za papírnou 239, Praha 7 z českého obchodního rejstříku a živnostenského rejstříku v přehledné grafické podobě."
+            "url": "https://rejstr.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7",
+            "title": "Společenství vlastníků Za papírnou 239, Praha 7",
+            "snippet": "Společenství vlastníků Za papírnou 239, Praha 7 (IČO 30130727) je aktivní společenství vlastníků jednotek se sídlem Praha. V rejstříku od 9. 10. 2026."
           },
           {
             "url": "https://www.chytryrejstrik.cz/ico-30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7",
             "title": "Společenství vlastníků Za papírnou 239, Praha 7 - registr SVJ",
-            "snippet": "Kde sídlí Společenství vlastníků Za papírnou 239, Praha 7 Sídlo SVJ je Za papírnou 239, 17000 Praha."
+            "snippet": "Společenství vlastníků Za papírnou 239, Praha 7 Sídlo Praha. IČO: 30130727. Rejstřík firem. Rok založení 2026. Rizikové signály SVJ."
           },
           {
-            "url": "https://vces.cz/",
-            "title": "Skupina VCES",
-            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+            "url": "https://bizly.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7",
+            "title": "Společenství vlastníků Za papírnou 239, Praha 7 | IČO ...",
+            "snippet": "Společenství vlastníků Za papírnou 239, Praha 7 je česká firma s IČO 30130727, založená v roce 2026. Působí v oboru, který spadá pod platnou klasifikaci NACE Českého statistického úřadu, a má sídlo v Česku."
           },
           {
-            "url": "https://www.skanska.com/cz/cs",
-            "title": "Skanska v České republice",
-            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
-          },
-          {
-            "url": "https://www.facebook.com/DaramisGroup/",
-            "title": "Daramis | Prague - Facebook",
-            "snippet": "3 days ago · Daramis, Prague. 5,985 followers · 23 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy."
+            "url": "https://www.zivefirmy.cz/ico-30130727",
+            "title": "Společenství vlastníků Za papírnou 239, Praha 7 - Živéfirmy.cz",
+            "snippet": "Firma: Společenství vlastníků Za papírnou 239, Praha 7 IČ: 30130727 Právní forma: Společenství vlastníků jednotek Adresa: Za papírnou 239/3, Holešovice (Praha 7), Praha, 17000"
           }
         ],
         "errors": [
           "DDGSException: No results found.",
-          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
         "public_site_contacts": {
-          "emails": [
-            "info@aliaweb.cz"
-          ],
+          "emails": [],
           "phones": [],
-          "source": "https://www.podnikani.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7/",
+          "source": "https://rejstr.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7",
           "evidence": "Explicit mailto/tel links on identity-matched business website"
         },
         "contact_matches": [],
-        "website": "https://www.podnikani.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7/",
+        "website": "https://rejstr.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7",
         "state": "VERIFIED_WEBSITE",
         "identity": [
           "Matching IČO on website",
@@ -34876,7 +34873,7 @@
         ],
         "examined": [
           {
-            "url": "https://www.podnikani.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7/",
+            "url": "https://rejstr.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7",
             "result": "identity_match",
             "evidence": [
               "Matching IČO on website",
@@ -34912,39 +34909,39 @@
       },
       "audit": {
         "state": "observed",
-        "checked_at": "2026-10-18",
-        "website": "https://www.podnikani.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7/",
+        "checked_at": "2026-11-27",
+        "website": "https://rejstr.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7",
         "devices": {
           "desktop": {
-            "title": "Společenství vlastníků Za papírnou 239, Praha 7 - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
-            "description": "Společenství vlastníků Za papírnou 239, Praha 7 - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě Společenství vlastníků Za pa",
+            "title": "Společenství vlastníků Za papírnou 239, Praha 7, IČO 30130727 | rejstr.cz",
+            "description": "Společenství vlastníků Za papírnou 239, Praha 7 (IČO 30130727) je aktivní společenství vlastníků jednotek se sídlem Praha. V rejstříku od 9. 10. 2026. Hlavní činnost podle NACE: Pronájem a správa vlastních nebo pronajatých nemovitostí (68200).",
             "viewport_meta": true,
-            "h1_count": 5,
+            "h1_count": 1,
             "horizontal_overflow_px": 0,
-            "visible_text_elements": 40,
-            "small_text_elements": 0,
+            "visible_text_elements": 103,
+            "small_text_elements": 2,
             "broken_images": 0,
-            "images_missing_alt": 3,
-            "images_count": 20,
-            "contact_action": true,
-            "form_count": 2,
+            "images_missing_alt": 0,
+            "images_count": 13,
+            "contact_action": false,
+            "form_count": 1,
             "booking_links": 0,
             "http_status": 200
           },
           "navigation_errors": [],
           "mobile": {
-            "title": "Společenství vlastníků Za papírnou 239, Praha 7 - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem.",
-            "description": "Společenství vlastníků Za papírnou 239, Praha 7 - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. \nVizuální obchodní rejstřík přináší zobrazení nejdůležitějších informací o firmě Společenství vlastníků Za pa",
+            "title": "Společenství vlastníků Za papírnou 239, Praha 7, IČO 30130727 | rejstr.cz",
+            "description": "Společenství vlastníků Za papírnou 239, Praha 7 (IČO 30130727) je aktivní společenství vlastníků jednotek se sídlem Praha. V rejstříku od 9. 10. 2026. Hlavní činnost podle NACE: Pronájem a správa vlastních nebo pronajatých nemovitostí (68200).",
             "viewport_meta": true,
-            "h1_count": 5,
-            "horizontal_overflow_px": 486,
-            "visible_text_elements": 40,
-            "small_text_elements": 0,
+            "h1_count": 1,
+            "horizontal_overflow_px": 0,
+            "visible_text_elements": 103,
+            "small_text_elements": 1,
             "broken_images": 0,
-            "images_missing_alt": 3,
-            "images_count": 20,
-            "contact_action": true,
-            "form_count": 2,
+            "images_missing_alt": 0,
+            "images_count": 13,
+            "contact_action": false,
+            "form_count": 1,
             "booking_links": 0,
             "http_status": 200
           }
@@ -34952,16 +34949,9 @@
         "transport": {
           "state": "https_available",
           "http_url": null,
-          "observed_url": "https://www.podnikani.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7/"
+          "observed_url": "https://rejstr.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7"
         },
-        "objective_issues": [
-          {
-            "issue": "Measured mobile horizontal overflow",
-            "detail": "486 CSS pixels",
-            "method": "Playwright viewport 390px",
-            "url": "https://www.podnikani.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7/"
-          }
-        ],
+        "objective_issues": [],
         "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
         "visual_design_review": "human_review_required",
         "website_score": null
@@ -34978,20 +34968,12 @@
         "title": "Společenství vlastníků Za papírnou 239, Praha 7 — research dossier",
         "facts": [
           "The business is listed at Za papírnou 239, Praha, 17000.",
-          "An independently identity-matched business website was found: https://www.podnikani.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7/.",
-          "ARES confirms registration for IČO 30130727 dated 2026-10-09.",
-          "Browser-observed issue: Measured mobile horizontal overflow."
+          "An independently identity-matched business website was found: https://rejstr.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7.",
+          "ARES confirms registration for IČO 30130727 dated 2026-10-09."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Show a measured measured mobile horizontal overflow fix in a private demo, and ask if improving enquiries is a priority.",
-        "observed_issues": [
-          {
-            "issue": "Measured mobile horizontal overflow",
-            "detail": "486 CSS pixels",
-            "method": "Playwright viewport 390px",
-            "url": "https://www.podnikani.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7/"
-          }
-        ],
+        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "observed_issues": [],
         "buying_signals": [
           {
             "claim": "Registered in the previous 24 months (ARES)",
@@ -35003,7 +34985,7 @@
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
           "https://ares.gov.cz/ekonomicke-subjekty?ico=30130727",
-          "https://www.podnikani.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7/"
+          "https://rejstr.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7"
         ],
         "estimated_deal_czk": [
           30000,
@@ -35025,22 +35007,20 @@
       },
       "candidate_search_sources": [
         "https://rejstrik-firem.kurzy.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7/",
-        "https://rejstriky.finance.cz/firma-spolecenstvi-vlastniku-za-papirnou-239-praha-7-30130727/kontakty",
-        "https://www.podnikani.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7/",
+        "https://www.podnikatel.cz/rejstrik/spolecenstvi-vlastniku-za-papirnou-239-praha-7-30130727/",
+        "https://rejstriky.finance.cz/firma-spolecenstvi-vlastniku-za-papirnou-239-praha-7-30130727",
+        "https://rejstr.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7",
         "https://www.chytryrejstrik.cz/ico-30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7",
-        "https://vces.cz/",
-        "https://www.skanska.com/cz/cs",
-        "https://www.facebook.com/DaramisGroup/"
+        "https://bizly.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7",
+        "https://www.zivefirmy.cz/ico-30130727"
       ],
-      "website_need_verified": true,
+      "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
       "verified_site_public_contacts": {
-        "emails": [
-          "info@aliaweb.cz"
-        ],
+        "emails": [],
         "phones": [],
-        "source": "https://www.podnikani.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7/",
+        "source": "https://rejstr.cz/30130727/spolecenstvi-vlastniku-za-papirnou-239-praha-7",
         "evidence": "Explicit mailto/tel links on identity-matched business website"
       },
       "owner_verified": false,
@@ -35049,28 +35029,63 @@
     "res-30130751": {
       "lead_id": "res-30130751",
       "name": "Alvanex s.r.o.",
-      "checked_at": "2026-10-18",
+      "checked_at": "2026-11-27",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
-        "status": "partial_search",
+        "status": "searched",
         "queries": [
           "\"Alvanex s.r.o.\" IČO 30130751 web",
           "\"Alvanex s.r.o.\" Praha Construction & property kontakt",
           "\"Alvanex s.r.o.\" \"Bělehradská 858\" web",
           "\"Alvanex s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 1,
+        "successful_queries": 2,
         "candidates": [
+          {
+            "url": "https://ceskadata.cz/23342251",
+            "title": "Rentero Construction s.r.o., Praha – majitelé a vedení, IČO ...",
+            "snippet": "Rentero Construction s.r.o. (IČO 23342251): společnost s ručením omezeným v Praze, vznik 2025, 1 - 5 zaměstnanců. Výstavba bytových a nebytových budov. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/domato-sro",
+            "title": "Domato sro - Pod Pekařkou 107/1, 140 00 Praha 4-Podolí ...",
+            "snippet": "Pod Pekařkou 107/1, 140 00 Praha 4-Podolí, Czechia Prague, Czech Republic Construction of buildings 0Like Add Photos Write Review Edit Phone 776 312 927 Website domato-constructions.cz/kontakt Address Pod Pekařkou 107/1, 140 00 Praha 4-Podolí, Czechia City: Prague Neighborhood: Dvorce State: Prague Postal Code: 140 00 "
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/07943849/bqi-czech-as/",
+            "title": "BQI Czech, a.s. , Praha IČO 07943849 - Obchodní rejstřík firem",
+            "snippet": "BQI Czech, a.s., Záhřebská, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní společnosti ..."
+          },
+          {
+            "url": "https://rentero.cz/",
+            "title": "Rentero, Vaše nemovitosti, naše starosti",
+            "snippet": "Vaše nemovitosti, naše starosti. Domovům vracíme smysl, majitelům čas a výnos. Komplexní péče o nemovitost od přípravy po každodenní provoz."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.hays.cz/",
+            "title": "Pracovní příležitosti v České republice | Personální agentura ...",
+            "snippet": "Jste připraveni získat novou, lepší práci? Nabízíme příležitosti na trvalý i dočasný pracovní poměr nebo na kontrakt po celé České republice. Využijte zkušeností a podpory našich odborných."
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "title": "Katalog dodavatelů | ePoptávka.cz",
+            "snippet": "Katalog dodavatelů ePoptávka.cz. Více než 265 000 dodavatelů. Firmy, živnostníci, řemeslnicí ze všech oblastí podnikání a koutů České republiky."
+          },
           {
             "url": "https://www.epoptavka.cz/",
             "title": "Poptávky a zakázky | ePoptávka.cz",
-            "snippet": "Poptávka: vestavěná skříň, jídelní lavice a atypická zárubeň, výroba a montáž polic, Praha před 1 dnem Praha Nábytek Pavla K. Praha zadáno 6 poptávek"
-          },
-          {
-            "url": "https://www.aaapoptavka.cz/zadat-poptavku/0",
-            "title": "Zadání poptávky | AAAPoptávka.cz",
-            "snippet": "Zadejte si poptávku ZDARMA. Vaše poptávka bude rozeslána ověřeným dodavatelům z celé ČR. První reakce na poptávky obdržíte již do několika hodin. Vyzkoušejte největší poptávkový systém."
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
           },
           {
             "url": "https://zakazky.epoptavka.cz/",
@@ -35078,34 +35093,76 @@
             "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
           },
           {
-            "url": "https://www.poptavka.net/",
-            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
-            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: pořízení fotografií a videozáběrů z dronu, Polička Služby Služby Film, video okres Svitavy 27. 11. 2026 (dnes)"
           },
           {
             "url": "https://poptavky.epoptavka.cz/",
             "title": "Databáze poptávek",
-            "snippet": "Poptávka: vestavěná skříň, jídelní lavice a atypická zárubeň, výroba a montáž polic, Praha před 1 dnem Praha Nábytek Pavla K. Praha zadáno 6 poptávek"
+            "snippet": "Poslední zadané poptávky Poptávám: topenářské služby na instalaci radiátoru před 5 minutami Karlovarský kraj Stavebnictví Firma Praha zadáno 16 poptávek"
           },
           {
-            "url": "https://profi-firmy.cz/",
-            "title": "Profi-firmy.cz – Databáze ověřených firem a řemeslníků po ...",
-            "snippet": "Poptávka zdarma Jedním formulářem oslovíte víc firem najednou. Bez registrace a poplatků."
+            "url": "https://www.evropska-databanka.cz/",
+            "title": "Reklamní agentura, která je na trhu přes 30 let",
+            "snippet": "Každá firma má svůj příběh. Pomůžeme vám ho napsat. Nejsme už dávno pouze katalog firem, jsme úspěšná reklamní agentura, která nabízí komplexní řešení pro vaše online obchody. Jsme na trhu přes 30 let a dlouhodobě se staráme o naše klienty. Nezávazná poptávka Chcete se najít?"
           },
           {
-            "url": "https://www.poptavky.cz/",
-            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
-            "snippet": "O projektu Projekt Poptávky.cz sdružuje 932 067 poptávek na jednom místě. Využívá spolupráce s nejvýznamnějšími zdroji obchodních příležitostí v ČR a zajišťuje tak podíl přesahující 70 % všech poptávek a veřejných zakázek dostupných na českém internetu. Tato služba představuje moderní způsob jak získávat nové zákazníky"
+            "url": "https://www.albixon.cz/",
+            "title": "Prvotřídní bazény a zastřešení na míru vašim snům | ALBIXON",
+            "snippet": "Hledáte bazén a zastřešení, které splní veškeré vaše nároky? Zvolte ALBIXON, ověřeného českého výrobce bazénů, zastřešení a příslušenství."
           }
         ],
         "errors": [
-          "DDGSException: No results found.",
           "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
         "state": "AMBIGUOUS",
         "website": "",
         "examined": [
+          {
+            "url": "https://ceskadata.cz/23342251",
+            "result": "unreachable",
+            "reason": "HTTP_503"
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/domato-sro",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://rentero.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.hays.cz/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://dodavatele.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
           {
             "url": "https://www.epoptavka.cz/",
             "result": "ambiguous",
@@ -35114,40 +35171,7 @@
             ]
           },
           {
-            "url": "https://www.aaapoptavka.cz/zadat-poptavku/0",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
             "url": "https://zakazky.epoptavka.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.poptavka.net/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://poptavky.epoptavka.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://profi-firmy.cz/",
-            "result": "unreachable",
-            "reason": "HTTP_500"
-          },
-          {
-            "url": "https://www.poptavky.cz/",
             "result": "ambiguous",
             "evidence": [
               "Prague mentioned on website"
@@ -35237,13 +35261,13 @@
         ]
       },
       "candidate_search_sources": [
-        "https://www.epoptavka.cz/",
-        "https://www.aaapoptavka.cz/zadat-poptavku/0",
-        "https://zakazky.epoptavka.cz/",
-        "https://www.poptavka.net/",
-        "https://poptavky.epoptavka.cz/",
-        "https://profi-firmy.cz/",
-        "https://www.poptavky.cz/"
+        "https://ceskadata.cz/23342251",
+        "https://www.cybo.com/CZ-biz/domato-sro",
+        "https://rejstrik-firem.kurzy.cz/07943849/bqi-czech-as/",
+        "https://rentero.cz/",
+        "https://www.skanska.com/cz/cs",
+        "https://vces.cz/",
+        "https://www.hays.cz/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
@@ -35255,7 +35279,7 @@
     "res-30130832": {
       "lead_id": "res-30130832",
       "name": "SPZSTAVBY s.r.o.",
-      "checked_at": "2026-10-18",
+      "checked_at": "2026-11-27",
       "engine_version": 8,
       "state": "researched",
       "discovery": {
@@ -35266,80 +35290,81 @@
           "\"SPZSTAVBY s.r.o.\" \"Rybná 716\" web",
           "\"SPZSTAVBY s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 3,
+        "successful_queries": 2,
         "candidates": [
-          {
-            "url": "https://rejstrik-firem.kurzy.cz/27168034/stavby-praha-sro/",
-            "title": "Stavby Praha s.r.o. , Praha IČO 27168034 - Obchodní rejstřík ...Stavby Praha s.r.o., Praha, Černý Most - Živéfirmy.czSpea Stavby S.R.O. Company Profile - Czech Republic ... - EMISP",
-            "snippet": "Aug 19, 2026 · Jaký je kontakt na firmu Stavby Praha s.r.o.? Tel. 724 354 241. Další kontakty na firmu Stavby Praha s.r.o. Oficiální údaje Stavby Praha s.r.o. IČ27168034DIČCZ27168034 Právní forma: Společnost s ručením omezenýmDatová schránka: ig24bd2 Zdroj: justice.cz Odeslat poptávku nebo dotaz firmě: Spea Stavby S.R."
-          },
-          {
-            "url": "https://www.zivefirmy.cz/stavby-praha_f1167424",
-            "title": "Stavby Praha s.r.o., Praha, Černý Most - Živéfirmy.czSpea Stavby S.R.O. Company Profile - Czech Republic ... - EMISPARSTAV PRAHA - příprava a realizace stavebSTAVBY PRAHA s.r.o. st",
-            "snippet": "Oficiální údaje Stavby Praha s.r.o. IČ27168034DIČCZ27168034 Právní forma: Společnost s ručením omezenýmDatová schránka: ig24bd2 Zdroj: justice.cz Odeslat poptávku nebo dotaz firmě: Spea Stavby S.R.O. is a company in Czech Republic, with a head office in Prague. The company operates in the Residential Building Construct"
-          },
           {
             "url": "https://www.parstav.cz/",
             "title": "PARSTAV PRAHA - příprava a realizace staveb",
             "snippet": "PARSTAV PRAHA s.r.o. PŘÍPRAVA A REALIZACE STAVEB Plánujete stavbu? Máte představu a hledáte spolehlivého partnera, který ji promění ve skutečnost? V PARSTAV PRAHA zajišťujeme celý proces stavby – od prvního nápadu do posledního detailu. Tak, abyste se Vy nebo Vaše firma mohli rovnou nastěhovat."
           },
           {
-            "url": "https://www.stavbypraha.cz/",
-            "title": "STAVBY PRAHA s.r.o. stavíme rodinné domy a rekonstruujeme",
-            "snippet": "Stavíme zděné pasivní a nízkoenergetické domy. Od studie po kolaudaci u osvědčené autorizované firmy s osobním přístupem. Využijte dotací Nová zelená úsporám zajistíme Vám projekt, dotaci a provedeme šetrnou rekonstrukci."
+            "url": "https://www.dnb.com/business-directory/company-profiles.stavby_praha_sro.70018d71a5189706e92fef92c3b8161f.html",
+            "title": "Stavby Praha s.r.o. Company Profile | Praha, Hlavní město ...",
+            "snippet": "Find company research, competitor information, contact details & financial data for Stavby Praha s.r.o. of Praha, Hlavní město Praha. Get the latest business insights from Dun & Bradstreet."
           },
           {
-            "url": "https://www.emis.com/php/company-profile/CZ/Spea_Stavby_SRO_en_9425328.html",
-            "title": "Spea Stavby S.R.O. Company Profile - Czech Republic ... - EMIS",
-            "snippet": "Spea Stavby S.R.O. is a company in Czech Republic, with a head office in Prague. The company operates in the Residential Building Construction industry. The company was established on February 14, 2014. Headquarters Pratelstvi 986/19 Prague; The City of Prague; Postal Code: 10400"
-          },
-          {
-            "url": "https://rejstrik-firem.kurzy.cz/26230470/sph-stavby-sro/statisticky-urad/",
-            "title": "SPH stavby s.r.o. , IČO 26230470 - data ze statistického ...",
-            "snippet": "A.stavby s.r.o. - Československé armády 4931/36A, Rýnovice, 466 05 Jablonec nad Nisou A+H STAVBY spol. s r.o. - Ukrajinská 728/2, Vršovice (Praha 10), 101 00 Praha A1 STAVBY s.r.o. - Rybná 716/24, Staré Město, 110 00 Praha A4L stavby s.r.o. - Lidická 1214, Litomyšl-Město, 570 01 Litomyšl"
+            "url": "https://www.sph-stavby.cz/kontakt/",
+            "title": "Kontakt – SPH Stavby s.r.o.",
+            "snippet": "SPH stavby s.r.o. Průmyslová 1414 593 01 Bystřice nad Pernštejnem Společnost zapsaná u Krajského soudu v Brně, oddíl C, vložka 38708 IČO: 262 30 470 DIČ: CZ26230470"
           },
           {
             "url": "https://www.emis.com/php/company-profile/CZ/Sph_Stavby_SRO_en_4899257.html",
             "title": "Sph Stavby S.R.O. Company Profile - Czech Republic ... - EMIS",
-            "snippet": "Jun 26, 2026 · Report with financial data, key executives contacts, ownership details & and more for Sph Stavby S.R.O. in Czech Republic. Report is available for immediate purchase & download from EMIS."
+            "snippet": "Oct 9, 2026 · Sph Stavby S.R.O. is an enterprise located in Czech Republic, with the main office in Bystrice nad Pernstejnem. The enterprise operates in the Residential Building Construction industry. The company was established on November 30, 2000. It currently has a total number of 50 - 99 (2023) employees."
           },
           {
-            "url": "https://rejstriky.finance.cz/adresa-praha-rybna-716-24-21723613",
-            "title": "Rybná 716/24 Praha 11000 (17.10.2026) - Rejstříky.finance.cz",
-            "snippet": "Feb 9, 2017 · Rybná 716/24 Praha 11000 – seznam všech firem a osob, které se na této adrese nachází a mají záznam ve veřejných rejstřících, mapa, GPS souřadnice"
+            "url": "https://sstavby.cz/",
+            "title": "S STAVBY",
+            "snippet": "S STAVBY — stavební firma zaměřená na výstavbu rodinných a bytových domů, komerční stavby, rekonstrukce, developerské projekty, pronájem a prodej nemovitostí. Středočeský kraj a Praha."
           },
           {
-            "url": "https://alogator.com/ochrana-sukromia?locale=en",
-            "title": "Privacy Policy - Alogator",
-            "snippet": "02 Controller Identification Alogator s.r.o. Rybná 716/24, Staré Město, 110 00 Prague 1 Company ID: 24026573 VAT ID: CZ24026573 E-mail: info@alogator.com Registered under file number C 437197 at the Municipal Court in Prague The Controller is responsible for the processing of personal data in accordance with applicable"
+            "url": "https://www.psg.cz/",
+            "title": "PSG - stavíme pro budoucnost",
+            "snippet": "Jsme stavební skupina s téměř 100letou tradicí. Patříme mezi největší dodavatele prefabrikovaných a monolitických konstrukcí v ČR"
           },
           {
-            "url": "https://katastrnemovitosti.cz/",
-            "title": "Katastr nemovitostí. Jednoduše. | KatastrNemovitosti.cz",
-            "snippet": "Bezplatná mapa katastru nemovitostí ČR: najděte parcelu podle čísla, adresy nebo GPS a zjistěte výměru, druh pozemku, BPEJ, budovy a vzdálenost k sítím."
+            "url": "https://www.sph-stavby.cz/",
+            "title": "SPH Stavby s.r.o. – Stavíme na pevných základech",
+            "snippet": "SPH stavby s.r.o. SPH působí na trhu již od roku 2000. Své činnosti zahájila provozem betonárny. V roce 2002 je rozšířila o stavební výrobu."
           },
           {
-            "url": "https://pzmk.cz/",
-            "title": "Katastrální mapa: prodeje, kolaudace, povodně | PZMK | PZMK",
-            "snippet": "Katastrální mapa a katastr nemovitostí na jednom místě: vyhledání podle adresy/parcely, prodeje za 10 let, kolaudace a povodňové mapy."
+            "url": "https://www.ceskestavby.cz/poptavka/",
+            "title": "Poptávka stavebních prací, služeb a řemeslníků - ČESKÉSTAVBY.cz",
+            "snippet": "Poptávka stavebních prací Hledáte stavební firmu, dodavatele materiálu nebo řemeslníka? Zadejte si poptávku a oslovte přímo relevantní firmy v daném oboru. Získáte ta nejenom čas: díky oslovení více firem můžete ušetřit i 30 % z požadované ceny."
           },
           {
-            "url": "https://www.zivefirmy.cz/bezpecnost_t912/privory_b136379",
-            "title": "Bezpečnost - Živéfirmy.cz",
-            "snippet": "Firma VENAMO s.r.o. se sídlem ve Veselí nad Moravou provozuje autoservis a pneuservis pro osobní a lehká užitková vozidla (opravy, diagnostika, geometrie, servis klimatizace, dekarbonizace motorů, Common Rail, příprava na STK, měření emisí). Dále prodává autodíly a příslušenství, půjčuje střešní nosiče, zajišťuje vnitr"
+            "url": "https://www.aaapoptavka.cz/poptavky/stavebnictvi",
+            "title": "Katalog poptávek | AAAPoptávka.cz",
+            "snippet": "Poptávka: dodávka a montáž zámečnických výrobků, Praha 12 – Modřany Anna C. před 5 hodinami Firemní Hodnotná Detailní Praha a okolí Stavebnictví"
           },
           {
-            "url": "https://www.kojsov.sk/files/2026-01-26-131517-faktury-1-122025-obec.pdf",
-            "title": "IFOsoft4 - kojsov.sk",
-            "snippet": "IFOsoft4 - kojsov.sk ... IFOsoft4"
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
           },
           {
-            "url": "https://www.leroyal.cz/",
-            "title": "Royal · Royal",
-            "snippet": "Royal není jen prostor – je to atmosféra. Interiér inspirovaný art deco a první republikou v sobě snoubí eleganci starých časů s veškerým komfortem 21. století. Divadelní sál, bar i foyer tvoří pod jednou střechou variabilní prostor, který se dokáže proměnit podle účelu jakéhokoliv eventu."
+            "url": "https://zakazky.epoptavka.cz/",
+            "title": "Poptávky od veřejných subjektů | ePoptávka.cz",
+            "snippet": "Poptávky od veřejných subjektů FAQ Poptávky od veřejných subjektů jsou podlimitní veřejné zakázky a veřejné zakázky malého rozsahu. Vypisují je veřejné subjekty a subjekty státní správy z ČR – krajské a obecní úřady, státní školská zařízení i další instituce."
+          },
+          {
+            "url": "https://www.poptavky.cz/",
+            "title": "Monitoring obchodních příležitostí v ČR • Poptavky.cz",
+            "snippet": "Poptávka: pořízení fotografií a videozáběrů z dronu, Polička Služby Služby Film, video okres Svitavy 27. 11. 2026 (dnes)"
+          },
+          {
+            "url": "https://nejstav.cz/katalog-verejnych-poptavek",
+            "title": "Katalog veřejných poptávek | NejStav.cz: Specialista na ...",
+            "snippet": "Podrobný popis: - předmětem veřejné zakázky je novostavba sportovní haly včetně zázemí - budova sportovní haly je tvořena ocelovou konstrukcí - sportovní hala je obložena panely - sportovní hala bude napojená na stávající areálové rozvody vody, splaškové a dešťové kanalizace, elektroinstalace a vytápění. Lokalita: - Ve"
+          },
+          {
+            "url": "https://www.s3-stavby.cz/",
+            "title": "S3 - Servis, Statika, Stavby s.r.o. | Statika a sanace budov ...",
+            "snippet": "My jsme S3 stavby. Problémy vyřešíme od projektu, vyřízení všech povolení až po realizaci. Servis, statika, sanace či rekonstrukce budov."
           }
         ],
         "errors": [
+          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
         "state": "AMBIGUOUS",
@@ -35353,53 +35378,46 @@
             ]
           },
           {
-            "url": "https://www.stavbypraha.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.emis.com/php/company-profile/CZ/Spea_Stavby_SRO_en_9425328.html",
-            "result": "ambiguous",
-            "evidence": [
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://alogator.com/ochrana-sukromia?locale=en",
-            "result": "ambiguous",
-            "evidence": [
-              "Matching Prague street address on website",
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://katastrnemovitosti.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Matching Prague street address on website",
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://pzmk.cz/",
-            "result": "ambiguous",
-            "evidence": [
-              "Matching Prague street address on website",
-              "Prague mentioned on website"
-            ]
-          },
-          {
-            "url": "https://www.kojsov.sk/files/2026-01-26-131517-faktury-1-122025-obec.pdf",
+            "url": "https://www.dnb.com/business-directory/company-profiles.stavby_praha_sro.70018d71a5189706e92fef92c3b8161f.html",
             "result": "unreachable",
-            "reason": "not_html"
+            "reason": "HTTP_403"
           },
           {
-            "url": "https://www.leroyal.cz/",
+            "url": "https://www.sph-stavby.cz/kontakt/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.emis.com/php/company-profile/CZ/Sph_Stavby_SRO_en_4899257.html",
+            "result": "unreachable",
+            "reason": "ReadTimeout"
+          },
+          {
+            "url": "https://sstavby.cz/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.psg.cz/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.ceskestavby.cz/.within.website/?redir=https://www.ceskestavby.cz/poptavka/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.aaapoptavka.cz/poptavky/stavebnictvi",
             "result": "ambiguous",
             "evidence": [
-              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
               "Prague mentioned on website"
             ]
           }
@@ -35481,13 +35499,13 @@
         ]
       },
       "candidate_search_sources": [
-        "https://rejstrik-firem.kurzy.cz/27168034/stavby-praha-sro/",
-        "https://www.zivefirmy.cz/stavby-praha_f1167424",
         "https://www.parstav.cz/",
-        "https://www.stavbypraha.cz/",
-        "https://www.emis.com/php/company-profile/CZ/Spea_Stavby_SRO_en_9425328.html",
-        "https://rejstrik-firem.kurzy.cz/26230470/sph-stavby-sro/statisticky-urad/",
-        "https://www.emis.com/php/company-profile/CZ/Sph_Stavby_SRO_en_4899257.html"
+        "https://www.dnb.com/business-directory/company-profiles.stavby_praha_sro.70018d71a5189706e92fef92c3b8161f.html",
+        "https://www.sph-stavby.cz/kontakt/",
+        "https://www.emis.com/php/company-profile/CZ/Sph_Stavby_SRO_en_4899257.html",
+        "https://sstavby.cz/",
+        "https://www.psg.cz/",
+        "https://www.sph-stavby.cz/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
@@ -35499,98 +35517,62 @@
     "res-30130948": {
       "lead_id": "res-30130948",
       "name": "Rehwaldt Landscape Architects s.r.o.",
-      "checked_at": "2026-10-19",
+      "checked_at": "2026-11-27",
       "engine_version": 8,
-      "state": "audited",
+      "state": "researched",
       "discovery": {
-        "status": "searched",
+        "status": "partial_search",
         "queries": [
           "\"Rehwaldt Landscape Architects s.r.o.\" IČO 30130948 web",
           "\"Rehwaldt Landscape Architects s.r.o.\" Praha Construction & property kontakt",
           "\"Rehwaldt Landscape Architects s.r.o.\" \"Janáčkovo nábřeží 1211\" web",
           "\"Rehwaldt Landscape Architects s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 3,
+        "successful_queries": 1,
         "candidates": [
           {
             "url": "https://rejstrik-firem.kurzy.cz/30130948/rehwaldt-landscape-architects-sro/",
-            "title": "Rehwaldt Landscape Architects s.r.o. , IČO 30130948 - Kurzy.cz",
-            "snippet": "Rehwaldt Landscape Architects s.r.o., , , výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní společnosti ..."
+            "title": "Rehwaldt Landscape Architects s.r.o. , Praha IČO 30130948 ...",
+            "snippet": "Nov 18, 2026 · Rehwaldt Landscape Architects s.r.o., Janáčkovo nábřeží, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a ..."
           },
           {
             "url": "https://www.podnikani.cz/30130948/rehwaldt-landscape-architects-sro/",
-            "title": "Rehwaldt Landscape Architects s.r.o. - obchodní rejstřík, vizualizace ...",
-            "snippet": "Rehwaldt Landscape Architects s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku Rehwaldt Landscape Architects s.r.o. Janáčkovo nábřeží 1211/11, Smíchov, 15000 Praha 5 , IČO: 30130948, Zákl. kapitál ..."
+            "title": "Rehwaldt Landscape Architects s.r.o. - obchodní rejstřík ...",
+            "snippet": "Hledej Rehwaldt Landscape Architects s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. * Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku Rehwaldt Landscape Architects s.r.o. Janáčkovo nábřeží 1211/11, Smíchov, 15000 Praha 5 , IČO: 30130948, Zákl. kapi"
           },
           {
-            "url": "https://www.chytryrejstrik.cz/ico-30130948/rehwaldt-landscape-architects-s-r-o",
-            "title": "Rehwaldt Landscape Architects s.r.o. - jednatel, obchodní rejstřík ...",
-            "snippet": "Rehwaldt Landscape Architects s.r.o. Sídlo Praha. IČO: 30130948. Majitelé a statutární orgány. Registr firem. Rok založení 2026. Kontrola rizik firmy."
+            "url": "https://rejstrik-firem.kurzy.cz/30130948/rehwaldt-landscape-architects-sro/statisticky-urad/",
+            "title": "Rehwaldt Landscape Architects s.r.o. , IČO 30130948 - data ze ...",
+            "snippet": "Oct 17, 2026 · Rehwaldt Landscape Architects s.r.o., IČO 30130948 data ze statistického úřadu české republiky. Databáze IČO. Předměty činnosti ze statistického úřadu."
           },
           {
-            "url": "https://rejstrik-firem.kurzy.cz/30130948/rehwaldt-landscape-architects-sro/zivnosti/",
-            "title": "Rehwaldt Landscape Architects s.r.o. - Živnostenský rejstřík",
-            "snippet": "Rehwaldt Landscape Architects s.r.o., firma - kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
+            "url": "https://www.realcity.cz/en/property/for-sale-holiday-property-praha-8-frydlantska-4432367",
+            "title": "For sale holiday property - Praha 8, Frýdlantská - REALCITY.cz",
+            "snippet": "1 day ago · For sale holiday property - Praha 8, Frýdlantská Price 1 289 000 CZK for property 3000 CZK roční náklady news 13 fotografíí"
           },
           {
-            "url": "https://www.sreality.cz/en/project-detail/villa-frame/39659",
-            "title": "VILLA FRAME • Sreality.cz",
-            "snippet": "1 property in the current offer of properties in the development project VILLA FRAME The largest offer of real estate in the Czech Republic (110,226 estates) with search on the map and filtering with dozens of parameters"
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
           },
           {
-            "url": "https://www.generalirealestate.com/",
-            "title": "Home - Generali Real Estate",
-            "snippet": "190 years of experience managing the real estate portfolio of the Generali Group"
+            "url": "https://www.wood-re.com/",
+            "title": "WOOD Real Estate | Home",
+            "snippet": "We live for real estate. We are leaders on the Central European real estate market."
           },
           {
-            "url": "https://www.generali.com/",
-            "title": "Generali Group",
-            "snippet": "3 days ago · Visit the corporate website of Assicurazioni Generali Group: you can find, in addition to the storytelling on topics of general interest, information about our activities, financial data, news, CSR, career opportunities, and history."
-          },
-          {
-            "url": "https://www.lasalle.com/",
-            "title": "Homepage - LaSalle Investment Management",
-            "snippet": "Discover premier real estate investment opportunities with LaSalle Investment Management. Explore our global portfolio and insights. Investing today. For tomorrow."
-          },
-          {
-            "url": "https://autoservistrnka.cz/sluzba/nase-sluzby/",
-            "title": "Naše služby – TrnCar",
-            "snippet": "Poptávkový formulář Navigace Autoservis Naše služby Reference Kontakty Poptávka Kontaktujte nás autoservis.trnka@email.cz +420 737 650 151 Pod Harfou 3/3, 190 00 Praha"
-          },
-          {
-            "url": "https://rytinafacility.cz/",
-            "title": "RYTINA – Malířské a úklidové služby Praha",
-            "snippet": "Malířské práce a úklidové služby pro domácnosti, firmy a SVJ v Praze a okolí. Malování bytů, kanceláří, společných prostor a profesionální úklid."
-          },
-          {
-            "url": "https://www.luxent.cz/",
-            "title": "Luxent – Realitní kancelář Praha",
-            "snippet": "Prodej a pronájem bytů, luxusních rodinných domů a moderních kanceláří v Praze a okolí od pražské realitní kanceláře Luxent – Exclusive Properties."
-          },
-          {
-            "url": "https://www.poptavka.net/",
-            "title": "Obchodní příležitosti, poptávky a veřejné zakázky - Evropská ...",
-            "snippet": "Vyhledávání firem Vložit firmu Vložit poptávku Kariéra Služby Reference Kontakt www.14000.cz Zahraniční prezentace firem Zahraniční obchodní příležitosti Aktuální microsite Aktuální články Aktuální poptávky"
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
           }
         ],
         "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
-        "public_site_contacts": {
-          "emails": [],
-          "phones": [],
-          "source": "https://www.chytryrejstrik.cz/ico-30130948/rehwaldt-landscape-architects-s-r-o",
-          "evidence": "Explicit mailto/tel links on identity-matched business website"
-        },
-        "contact_matches": [],
-        "website": "https://www.chytryrejstrik.cz/ico-30130948/rehwaldt-landscape-architects-s-r-o",
-        "state": "VERIFIED_WEBSITE",
-        "identity": [
-          "Matching IČO on website",
-          "Matching business name on website",
-          "Matching Prague street address on website",
-          "Prague mentioned on website"
-        ],
+        "state": "AMBIGUOUS",
+        "website": "",
         "examined": [
           {
             "url": "https://www.podnikani.cz/30130948/rehwaldt-landscape-architects-sro/",
@@ -35598,12 +35580,28 @@
             "evidence": []
           },
           {
-            "url": "https://www.chytryrejstrik.cz/ico-30130948/rehwaldt-landscape-architects-s-r-o",
-            "result": "identity_match",
+            "url": "https://www.realcity.cz/en/property/for-sale-holiday-property-praha-8-frydlantska-4432367",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
             "evidence": [
-              "Matching IČO on website",
-              "Matching business name on website",
-              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.wood-re.com/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
               "Prague mentioned on website"
             ]
           }
@@ -35633,53 +35631,8 @@
         ]
       },
       "audit": {
-        "state": "observed",
-        "checked_at": "2026-10-19",
-        "website": "https://www.chytryrejstrik.cz/ico-30130948/rehwaldt-landscape-architects-s-r-o",
-        "devices": {
-          "desktop": {
-            "title": "Rehwaldt Landscape Architects s.r.o. - jednatel, obchodní rejstřík, databáze firem",
-            "description": "Rehwaldt Landscape Architects s.r.o. Sídlo Praha. IČO: 30130948. Majitelé a statutární orgány. Registr firem. Rok založení 2026. Kontrola rizik firmy. ",
-            "viewport_meta": true,
-            "h1_count": 1,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 164,
-            "small_text_elements": 2,
-            "broken_images": 0,
-            "images_missing_alt": 0,
-            "images_count": 44,
-            "contact_action": false,
-            "form_count": 1,
-            "booking_links": 0,
-            "http_status": 200
-          },
-          "navigation_errors": [],
-          "mobile": {
-            "title": "Rehwaldt Landscape Architects s.r.o. - jednatel, obchodní rejstřík, databáze firem",
-            "description": "Rehwaldt Landscape Architects s.r.o. Sídlo Praha. IČO: 30130948. Majitelé a statutární orgány. Registr firem. Rok založení 2026. Kontrola rizik firmy. ",
-            "viewport_meta": true,
-            "h1_count": 1,
-            "horizontal_overflow_px": 0,
-            "visible_text_elements": 127,
-            "small_text_elements": 8,
-            "broken_images": 0,
-            "images_missing_alt": 0,
-            "images_count": 44,
-            "contact_action": false,
-            "form_count": 1,
-            "booking_links": 0,
-            "http_status": 200
-          }
-        },
-        "transport": {
-          "state": "https_available",
-          "http_url": null,
-          "observed_url": "https://www.chytryrejstrik.cz/ico-30130948/rehwaldt-landscape-architects-s-r-o"
-        },
-        "objective_issues": [],
-        "screenshots": "Attached as private GitHub Actions run artifact (browser screenshots).",
-        "visual_design_review": "human_review_required",
-        "website_score": null
+        "state": "not_run",
+        "reason": "No independently verified company website"
       },
       "buying_signals": [
         {
@@ -35693,11 +35646,11 @@
         "title": "Rehwaldt Landscape Architects s.r.o. — research dossier",
         "facts": [
           "The business is listed at Janáčkovo nábřeží 1211, Praha, 15000.",
-          "An independently identity-matched business website was found: https://www.chytryrejstrik.cz/ico-30130948/rehwaldt-landscape-architects-s-r-o.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
           "ARES confirms registration for IČO 30130948 dated 2026-10-08."
         ],
         "offer": "B2B website with project references and enquiry workflow",
-        "outreach_angle": "Review existing website with the owner and establish a real unmet conversion goal before proposing a redesign.",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
         "observed_issues": [],
         "buying_signals": [
           {
@@ -35709,8 +35662,7 @@
         ],
         "sources": [
           "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
-          "https://ares.gov.cz/ekonomicke-subjekty?ico=30130948",
-          "https://www.chytryrejstrik.cz/ico-30130948/rehwaldt-landscape-architects-s-r-o"
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30130948"
         ],
         "estimated_deal_czk": [
           30000,
@@ -35733,28 +35685,23 @@
       "candidate_search_sources": [
         "https://rejstrik-firem.kurzy.cz/30130948/rehwaldt-landscape-architects-sro/",
         "https://www.podnikani.cz/30130948/rehwaldt-landscape-architects-sro/",
-        "https://www.chytryrejstrik.cz/ico-30130948/rehwaldt-landscape-architects-s-r-o",
-        "https://rejstrik-firem.kurzy.cz/30130948/rehwaldt-landscape-architects-sro/zivnosti/",
-        "https://www.sreality.cz/en/project-detail/villa-frame/39659",
-        "https://www.generalirealestate.com/",
-        "https://www.generali.com/"
+        "https://rejstrik-firem.kurzy.cz/30130948/rehwaldt-landscape-architects-sro/statisticky-urad/",
+        "https://www.realcity.cz/en/property/for-sale-holiday-property-praha-8-frydlantska-4432367",
+        "https://www.skanska.com/cz/cs",
+        "https://www.wood-re.com/",
+        "https://vces.cz/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
       "contact_evidence": [],
-      "verified_site_public_contacts": {
-        "emails": [],
-        "phones": [],
-        "source": "https://www.chytryrejstrik.cz/ico-30130948/rehwaldt-landscape-architects-s-r-o",
-        "evidence": "Explicit mailto/tel links on identity-matched business website"
-      },
+      "verified_site_public_contacts": {},
       "owner_verified": false,
       "buyer_interest_verified": false
     },
     "res-30131219": {
       "lead_id": "res-30131219",
       "name": "ALWI Management s.r.o.",
-      "checked_at": "2026-10-19",
+      "checked_at": "2026-11-27",
       "engine_version": 8,
       "state": "audited",
       "discovery": {
@@ -35765,32 +35712,37 @@
           "\"ALWI Management s.r.o.\" \"Pod Drinopolem 1455\" web",
           "\"ALWI Management s.r.o.\" Praha služby reference poptávka"
         ],
-        "successful_queries": 3,
+        "successful_queries": 2,
         "candidates": [
           {
             "url": "https://www.detail.cz/firma/30131219-alwi-management-sro-pod-drinopolem-1455-6-praha/",
             "title": "Společnost ALWI Management s.r.o. | Detail.cz",
-            "snippet": "Společnost ALWI Management s.r.o. (IČO: 30131219) byla založena dne 8. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti."
+            "snippet": "Oct 8, 2026 · Společnost ALWI Management s.r.o. (IČO: 30131219) byla založena dne 8. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti."
           },
           {
-            "url": "https://www.digireality.cz/inzerat/6ad0a48d5a5c25d95dbe5ee4",
-            "title": "Four-bedroom House Praha",
-            "snippet": "4 days ago · Welcome to a newly built family home with a swimming pool in the sought-after location of Prague 6 - Nebušice. It is situated in a quiet street within walking distance to the International School of Prague in Nebušice (ISP). This property features a serviced 5+kk layout, 184 m² with a private maintained ga"
+            "url": "https://www.cybo.com/CZ-biz/domato-sro",
+            "title": "Domato sro - Pod Pekařkou 107/1, 140 00 Praha 4-Podolí ...",
+            "snippet": "Pod Pekařkou 107/1, 140 00 Praha 4-Podolí, Czechia Prague, Czech Republic Construction of buildings 0Like Add Photos Write Review Edit Phone 776 312 927 Website domato-constructions.cz/kontakt Address Pod Pekařkou 107/1, 140 00 Praha 4-Podolí, Czechia City: Prague Neighborhood: Dvorce State: Prague Postal Code: 140 00 "
           },
           {
-            "url": "https://www.facebook.com/DaramisGroup/",
-            "title": "Daramis | Prague - FacebookSkupina VCESVILLA FRAME • Sreality.czParkmakers - Commercial Real Estate Developer And ManagerGenerali Group",
-            "snippet": "4 days ago · Daramis, Prague. 5,985 followers · 23 talking about this · 10 were here. Daramis je developerská společnost se zaměřením na rezidenční a komerční prostory a budovy. Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republi"
+            "url": "https://ceskadata.cz/23342251",
+            "title": "Rentero Construction s.r.o., Praha – majitelé a vedení, IČO ...",
+            "snippet": "Rentero Construction s.r.o. (IČO 23342251): společnost s ručením omezeným v Praze, vznik 2025, 1 - 5 zaměstnanců. Výstavba bytových a nebytových budov. Vedení a vlastníci, postavení v oboru a konkurence."
           },
           {
-            "url": "https://www.sreality.cz/en/project-detail/villa-frame/39659",
-            "title": "VILLA FRAME • Sreality.cz",
-            "snippet": "1 property in the current offer of properties in the development project VILLA FRAME The largest offer of real estate in the Czech Republic (110,226 estates) with search on the map and filtering with dozens of parameters"
+            "url": "https://www.wood-re.com/",
+            "title": "WOOD Real Estate | Home",
+            "snippet": "We are overseeing real estate activities for the leading investment group WOOD & Company. Our main focus is on creating a quality real estate portfolio and active management of commercial properties, which currently includes 18 projects with over 492,500 square meters of leasable space. For each of these projects, we d"
           },
           {
-            "url": "https://ctp.eu/",
-            "title": "Parkmakers - Commercial Real Estate Developer And Manager",
-            "snippet": "From landbank to permitting and construction to property management, our full-service business model provides global best practices with local know-how. Manufacturing, logistics, high-tech, automotive, security—our experienced team will custom-design a facility to meet the most demanding requirements."
+            "url": "https://rentero.cz/",
+            "title": "Rentero, Vaše nemovitosti, naše starosti",
+            "snippet": "Vaše nemovitosti, naše starosti. Domovům vracíme smysl, majitelům čas a výnos. Komplexní péče o nemovitost od přípravy po každodenní provoz."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
           },
           {
             "url": "https://vces.cz/",
@@ -35798,42 +35750,38 @@
             "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
           },
           {
-            "url": "https://www.generali.com/",
-            "title": "Generali Group",
-            "snippet": "3 days ago · Visit the corporate website of Assicurazioni Generali Group: you can find, in addition to the storytelling on topics of general interest, information about our activities, financial data, news, CSR, career opportunities, and history."
+            "url": "https://www.finreg.sk/subjekt/18688476",
+            "title": "ALWI Management s.r.o., Pod Drinopolem 1455/6, Praha 6 ...",
+            "snippet": "Finančné informácie o ALWI Management s.r.o. - (zisk, tržby, dlhy, daňové priznania a DPH) | FinReg.sk - finančný register"
           },
           {
-            "url": "https://www.chytryrejstrik.cz/ico-30131227/alwi-prague-development-s-r-o",
-            "title": "ALWI Prague Development s.r.o. - majitel, obchodní rejstřík ...",
-            "snippet": "Kde sídlí ALWI Prague Development s.r.o. Sídlo firmy je Pod Drinopolem 1455, 16900 Praha."
+            "url": "https://www.chytryrejstrik.cz/ico-30131219/alwi-management-s-r-o",
+            "title": "ALWI Management s.r.o. - majitel, obchodní rejstřík, databáze ...",
+            "snippet": "Kde sídlí ALWI Management s.r.o. Sídlo firmy je Pod Drinopolem 1455, 16900 Praha."
           },
           {
-            "url": "https://rejstriky.finance.cz/firma-alwi-management-s-r-o-30131219",
-            "title": "ALWI Management s.r.o. IČO 30131219 kontakty 12.10.2026 ...",
-            "snippet": "Tato stránka obsahuje výpis dat z různých rejstříků pro firmu ALWI Management s.r.o., která sídlí v obci a bylo jí přiděleno IČO 30131219."
+            "url": "https://www.zivefirmy.cz/ico-30131219",
+            "title": "ALWI Management s.r.o. - Živéfirmy.cz",
+            "snippet": "Firma: ALWI Management s.r.o. IČ: 30131219 Právní forma: Společnost s ručením omezeným Adresa: Pod Drinopolem 1455/6, Břevnov (Praha 6), Praha, 16900"
           },
           {
-            "url": "https://novostavby.com/property/pod-drinopolem/",
-            "title": "Pod Drinopolem",
-            "snippet": "Developerský projekt Pod Drinopolem od developerské společnosti ️ v lokalitě Břevnov, Praha 6 ️ Nové byty v novostavbě Pod Drinopolem. Stav developerského projektu: V prodeji."
+            "url": "https://www.finreg.sk/subjekt/18688479",
+            "title": "ALWI Finance s.r.o., Pod Drinopolem 1455/6, Praha 6 - Břevnov ...",
+            "snippet": "Finančné informácie o ALWI Finance s.r.o. - (zisk, tržby, dlhy, daňové priznania a DPH) | FinReg.sk - finančný register"
           },
           {
-            "url": "https://regiony.kurzy.cz/praha/pod-drinopolem/1455-6/",
-            "title": "Pod Drinopolem 1455/6, Břevnov, 169 00 Praha 6, adresa ...",
-            "snippet": "Dec 16, 1990 · Pod Drinopolem 1455/6, Břevnov, 169 00 Praha 6 - informace o poště a PSČ, údaje z katastru nemovitostí a katastrální mapa, statistické údaje o objektu, GPS pozice pro navigaci, informace o firmách, osobách a živnostech z veřejného rejstříku."
+            "url": "https://www.jenfirmy.cz/firma/30131219-alwi-management-s-r-o",
+            "title": "ALWI Management s.r.o. ⭐ Profil firmy | ⭐ JenFirmy.cz",
+            "snippet": "Prohlédněte si profil ALWI Management s.r.o. a zjistěte vše, co potřebujete vědět. Místo, kontakty i prověřené recenze zaměstnanců."
           },
           {
-            "url": "https://www.podnikatel.cz/rejstrik/osoby/halim-al-azawi-3513178/",
-            "title": "Ing. Halim Al-Azawi, Pod Drinopolem 1455/6 v obchodním ...",
-            "snippet": "Ing. Halim Al-Azawi, Pod Drinopolem 1455/6, Praha, 169 00, Česká republika v obchodním rejstříku. Adresa sídla, pozice ve firmě, vztahy mezi…"
-          },
-          {
-            "url": "https://psn.cz/projekt/pod-drinopolem",
-            "title": "Pod Drinopolem - psn.cz",
-            "snippet": "Komorní projekt s wellness zázemím a citlivě obnovenou architekturou. Byty ve fit-out standardu, sklepní kóje, terasy i tiché společné prostory – to vše v oblíbené rezidenční čtvrti Břevnov."
+            "url": "https://mapy.com/en/?source=addr&id=8974408",
+            "title": "Pod Drinopolem 1455/6 (Address) • Mapy.com",
+            "snippet": "Pod Drinopolem 1455/6 (Address) Map – detailed map of the area (base, outdoor, aerial, panorama, etc.), route planning, GPS, and much more on Mapy.com."
           }
         ],
         "errors": [
+          "DDGSException: No results found.",
           "DDGSException: No results found."
         ],
         "public_site_contacts": {
@@ -35889,16 +35837,16 @@
       },
       "audit": {
         "state": "observed",
-        "checked_at": "2026-10-19",
+        "checked_at": "2026-11-27",
         "website": "https://www.detail.cz/firma/30131219-alwi-management-sro-pod-drinopolem-1455-6-praha/",
         "devices": {
           "desktop": {
             "title": "Společnost ALWI Management s.r.o. | Detail.cz",
             "description": "Společnost ALWI Management s.r.o. (IČO: 30131219) byla založena dne 8. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
             "viewport_meta": true,
-            "h1_count": 15,
+            "h1_count": 16,
             "horizontal_overflow_px": 0,
-            "visible_text_elements": 57,
+            "visible_text_elements": 58,
             "small_text_elements": 0,
             "broken_images": 0,
             "images_missing_alt": 0,
@@ -35913,9 +35861,9 @@
             "title": "Společnost ALWI Management s.r.o. | Detail.cz",
             "description": "Společnost ALWI Management s.r.o. (IČO: 30131219) byla založena dne 8. října 2026 v Praze. Aktuální informace o počtu zaměstnanců, obratu, sídle společnosti.",
             "viewport_meta": true,
-            "h1_count": 15,
+            "h1_count": 16,
             "horizontal_overflow_px": 0,
-            "visible_text_elements": 54,
+            "visible_text_elements": 55,
             "small_text_elements": 0,
             "broken_images": 0,
             "images_missing_alt": 0,
@@ -35987,12 +35935,12 @@
       },
       "candidate_search_sources": [
         "https://www.detail.cz/firma/30131219-alwi-management-sro-pod-drinopolem-1455-6-praha/",
-        "https://www.digireality.cz/inzerat/6ad0a48d5a5c25d95dbe5ee4",
-        "https://www.facebook.com/DaramisGroup/",
-        "https://www.sreality.cz/en/project-detail/villa-frame/39659",
-        "https://ctp.eu/",
-        "https://vces.cz/",
-        "https://www.generali.com/"
+        "https://www.cybo.com/CZ-biz/domato-sro",
+        "https://ceskadata.cz/23342251",
+        "https://www.wood-re.com/",
+        "https://rentero.cz/",
+        "https://www.skanska.com/cz/cs",
+        "https://vces.cz/"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
@@ -76115,6 +76063,599 @@
         "https://www.cybo.com/CZ-biz/akademie-zateplování",
         "https://www.skanska.com/cz/cs",
         "https://vces.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30265258": {
+      "lead_id": "res-30265258",
+      "name": "Rezidence 5. máje s.r.o.",
+      "checked_at": "2026-11-27",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "partial_search",
+        "queries": [
+          "\"Rezidence 5. máje s.r.o.\" IČO 30265258 web",
+          "\"Rezidence 5. máje s.r.o.\" Praha Construction & property kontakt",
+          "\"Rezidence 5. máje s.r.o.\" \"Příčná 1892\" web",
+          "\"Rezidence 5. máje s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 1,
+        "candidates": [
+          {
+            "url": "https://ceskadata.cz/23342251",
+            "title": "Rentero Construction s.r.o., Praha – majitelé a vedení, IČO ...",
+            "snippet": "Rentero Construction s.r.o. (IČO 23342251): společnost s ručením omezeným v Praze, vznik 2025, 1 - 5 zaměstnanců. Výstavba bytových a nebytových budov. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/domato-sro",
+            "title": "Domato sro - Pod Pekařkou 107/1, 140 00 Praha 4-Podolí ...",
+            "snippet": "Pod Pekařkou 107/1, 140 00 Praha 4-Podolí, Czechia Prague, Czech Republic Construction of buildings 0Like Add Photos Write Review Edit Phone 776 312 927 Website domato-constructions.cz/kontakt Address Pod Pekařkou 107/1, 140 00 Praha 4-Podolí, Czechia City: Prague Neighborhood: Dvorce State: Prague Postal Code: 140 00 "
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/07943849/bqi-czech-as/",
+            "title": "BQI Czech, a.s. , Praha IČO 07943849 - Obchodní rejstřík firem",
+            "snippet": "BQI Czech, a.s., Záhřebská, Praha, výpis z obchodního rejstříku - adresa sídla firmy, majitelé, vedení firmy, založení a vznik obchodní společnosti ..."
+          },
+          {
+            "url": "https://rejstrik.penize.cz/adresa-firmy/praha-5-smichov-nam-14-rijna-13072-psc-150-00",
+            "title": "Firma na adrese nám. 14. října 1307/2, 150 00 Praha 5 ...",
+            "snippet": "Firmy na adrese: nám. 14. října 1307/2, 150 00 Praha 5 - Smíchov Všechny společnosti, nadace, spolky, družstva či jiné ekonomické subjekty, které sídlí na adrese nám. 14. října 1307/2, 150 00 Praha 5 - Smíchov. Souhrnné informace, GPS souřadnice, přehledná mapa."
+          },
+          {
+            "url": "https://rentero.cz/",
+            "title": "Rentero, Vaše nemovitosti, naše starosti",
+            "snippet": "Vaše nemovitosti, naše starosti. Domovům vracíme smysl, majitelům čas a výnos. Komplexní péče o nemovitost od přípravy po každodenní provoz."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://ceskadata.cz/23342251",
+            "result": "unreachable",
+            "reason": "HTTP_503"
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/domato-sro",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://rentero.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30265258",
+        "legal_name": "Rezidence 5. máje s.r.o.",
+        "registered_at": "2026-11-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265258",
+        "decision_maker": {
+          "name": "JAN ŠMÍD",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265258",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "JAN ŠMÍD",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265258",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265258",
+          "date": "2026-11-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "Rezidence 5. máje s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Příčná 1892, Praha, 11000.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30265258 dated 2026-11-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265258",
+            "date": "2026-11-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30265258"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "JAN ŠMÍD",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265258",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://ceskadata.cz/23342251",
+        "https://www.cybo.com/CZ-biz/domato-sro",
+        "https://rejstrik-firem.kurzy.cz/07943849/bqi-czech-as/",
+        "https://rejstrik.penize.cz/adresa-firmy/praha-5-smichov-nam-14-rijna-13072-psc-150-00",
+        "https://rentero.cz/",
+        "https://vces.cz/",
+        "https://www.skanska.com/cz/cs"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30265398": {
+      "lead_id": "res-30265398",
+      "name": "GouryStav 34 s.r.o.",
+      "checked_at": "2026-11-27",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"GouryStav 34 s.r.o.\" IČO 30265398 web",
+          "\"GouryStav 34 s.r.o.\" Praha Construction & property kontakt",
+          "\"GouryStav 34 s.r.o.\" \"Korunní 2569\" web",
+          "\"GouryStav 34 s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30265398/gourystav-34-sro/",
+            "title": "GouryStav 34 s.r.o. , IČO 30265398 - Obchodní rejstřík firem",
+            "snippet": "GouryStav 34 s.r.o. – obchodní rejstřík, aktuální výpis Datum vzniku a zápisu 12. listopad 2026 Spisová značka C 459996/MSPH Městský soud v Praze Obchodní firma GouryStav 34 s.r.o. Sídlo Korunní 2569/108, Vinohrady, 101 00 Praha 10 Identifikační číslo 30265398 Právní forma Společnost s r.o. Předmět činnosti správa vlas"
+          },
+          {
+            "url": "https://www.podnikani.cz/30265398/gourystav-34-sro/",
+            "title": "GouryStav 34 s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
+            "snippet": "Obrázek základních vztahů GouryStav 34 s.r.o. * Upozornění : Zobrazení vztahů fyzických a právnických osob v obchodním či jiném rejstříku na stránkách Podnikani.cz je pouze informativní. Cílem naší aplikace je pomoci uživatelům najít rychle co možná nejvíce relevantních údajů, nemůžeme však zaručit, že budou vždy správ"
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/domato-sro",
+            "title": "Domato sro - Pod Pekařkou 107/1, 140 00 Praha 4-Podolí ...",
+            "snippet": "Pod Pekařkou 107/1, 140 00 Praha 4-Podolí, Czechia Prague, Czech Republic Construction of buildings 0Like Add Photos Write Review Edit Phone 776 312 927 Website domato-constructions.cz/kontakt Address Pod Pekařkou 107/1, 140 00 Praha 4-Podolí, Czechia City: Prague Neighborhood: Dvorce State: Prague Postal Code: 140 00 "
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/to-rent-apartment-1-1-praha-8-minicka-4432117",
+            "title": "To rent apartment 1+1 - Praha 8, Minická - REALCITY.cz",
+            "snippet": "17 hours ago · To rent apartment 1+1 - Praha 8, Minická Price 16 000 CZK per month + poplatky, kauce a provize RK 17 fotografíí"
+          },
+          {
+            "url": "https://ceskadata.cz/23342251",
+            "title": "Rentero Construction s.r.o., Praha – majitelé a vedení, IČO ...",
+            "snippet": "Rentero Construction s.r.o. (IČO 23342251): společnost s ručením omezeným v Praze, vznik 2025, 1 - 5 zaměstnanců. Výstavba bytových a nebytových budov. Vedení a vlastníci, postavení v oboru a konkurence."
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "title": "Skanska v České republice",
+            "snippet": "Skanska je jedna z největších stavebních a developerských společností na světě."
+          },
+          {
+            "url": "https://vces.cz/",
+            "title": "Skupina VCES",
+            "snippet": "Zaměřujeme se na generální dodávky staveb a komplexní development projektů. Patříme k předním stavebním společnostem působícím v České republice a na Slovensku."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30265398/gourystav-34-sro/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.cybo.com/CZ-biz/domato-sro",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.realcity.cz/en/property/to-rent-apartment-1-1-praha-8-minicka-4432117",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://ceskadata.cz/23342251",
+            "result": "unreachable",
+            "reason": "HTTP_503"
+          },
+          {
+            "url": "https://www.skanska.com/cz/cs",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://vces.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30265398",
+        "legal_name": "GouryStav 34 s.r.o.",
+        "registered_at": "2026-11-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265398",
+        "decision_maker": {
+          "name": "ATTILA DEMETER",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265398",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "ATTILA DEMETER",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265398",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265398",
+          "date": "2026-11-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "GouryStav 34 s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Korunní 2569, Praha, 10100.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30265398 dated 2026-11-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265398",
+            "date": "2026-11-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30265398"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "ATTILA DEMETER",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265398",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30265398/gourystav-34-sro/",
+        "https://www.podnikani.cz/30265398/gourystav-34-sro/",
+        "https://www.cybo.com/CZ-biz/domato-sro",
+        "https://www.realcity.cz/en/property/to-rent-apartment-1-1-praha-8-minicka-4432117",
+        "https://ceskadata.cz/23342251",
+        "https://www.skanska.com/cz/cs",
+        "https://vces.cz/"
+      ],
+      "website_need_verified": false,
+      "contact_method": "public_listing_not_owner_verified",
+      "contact_evidence": [],
+      "verified_site_public_contacts": {},
+      "owner_verified": false,
+      "buyer_interest_verified": false
+    },
+    "res-30265495": {
+      "lead_id": "res-30265495",
+      "name": "QUS&GROUP s.r.o.",
+      "checked_at": "2026-11-27",
+      "engine_version": 8,
+      "state": "researched",
+      "discovery": {
+        "status": "searched",
+        "queries": [
+          "\"QUS&GROUP s.r.o.\" IČO 30265495 web",
+          "\"QUS&GROUP s.r.o.\" Praha Construction & property kontakt",
+          "\"QUS&GROUP s.r.o.\" \"Korunní 2569\" web",
+          "\"QUS&GROUP s.r.o.\" Praha služby reference poptávka"
+        ],
+        "successful_queries": 2,
+        "candidates": [
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30265495/qus-group-sro/",
+            "title": "QUS&GROUP s.r.o. , IČO 30265495 - Obchodní rejstřík firem",
+            "snippet": "QUS&GROUP s.r.o. – obchodní rejstřík, aktuální výpis Datum vzniku a zápisu 12. listopad 2026 Spisová značka C 459999/MSPH Městský soud v Praze Obchodní firma QUS&GROUP s.r.o. Sídlo Korunní 2569/108, Vinohrady, 101 00 Praha 10 Identifikační číslo 30265495 Právní forma Společnost s r.o. Předmět činnosti správa vlastního "
+          },
+          {
+            "url": "https://www.podnikani.cz/30265495/qus-group-sro/",
+            "title": "QUS&GROUP s.r.o. - obchodní rejstřík, vizualizace vztahů ...",
+            "snippet": "Hledej QUS&GROUP s.r.o. - obchodní rejstřík, vizualizace vztahů firem - obchodní rejstřík, vizualizace vztahů firem. * Vizuální obchodní rejstřík, společnost zapsaná obchodním rejstříku QUS&GROUP s.r.o. Korunní 2569/108, Vinohrady (Praha 10), 101 00 Praha , IČO: 30265495, Zákl. kapitál: 1000 Kč"
+          },
+          {
+            "url": "https://rejstrik-firem.kurzy.cz/30265495/qus-group-sro/zivnosti/",
+            "title": "QUS&GROUP s.r.o. - Živnostenský rejstřík | Kurzy.cz",
+            "snippet": "QUS&GROUP s.r.o., firma – kontakty, adresa, aktuální a historický výpis z živnostenského rejstříku a statistického úřadu."
+          },
+          {
+            "url": "https://www.lawinsider.com/cs/contracts/l4Ib59AN46b",
+            "title": "IČ: 071 83 496 Se sídlem: Korunní 2569/108, Vinohrady, 101 00 ...",
+            "snippet": "IČ: 071 83 496 Se sídlem: Korunní 2569/108, Vinohrady, 101 00 Praha 10 Spisová značka: C 296136 vedená u Městského soudu v Praze filed on October 4th, 2024"
+          },
+          {
+            "url": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sudeste/hc-ufmg/ensino-e-pesquisa/novo-unidade-de-gestao-da-inovacao-tecnologica/nats-nucleo-de-avaliacao-de-tecnologia-de-saude/biblioteca-nats/notas-tecnicas-nats-2026-4/nt024_ugits_hcufmg_cft_rituximabe-em-llc_e_ahai_20260224.pdf/@@download/file",
+            "title": "www.gov.br",
+            "snippet": "Feb 24, 2026 · /Filter /FlateDecode /Length 155374 /Length1 358652 >> stream xœì\\ x”Uº>çÿ§ef’Ì„LÚ$™ “„À J $ ) B a ¡¦'`€Ð 4Š F°7Ö† ÜÅ2 P b],kÁÆªkÇu]]Å.« ä¾çÿærÕÝ½»{]ï /yç}ÏwÊ ê÷Ÿ$0Î ‹Ã‡ŽÕ W– .¿¥f ÓÏÈg,eoÉ¨â)Ÿ&ÔsÆ LaÌ ]2j\\Ñ»¥WÞËø¼ýŒ©í£‹KJ§ šçfÊÜ È· ž4±rYý[¥LY¸ž) FWúG ÿ|q ãKßcì«Ë'Væ ØôÈ¬{ ã à ..."
+          },
+          {
+            "url": "https://www.finreg.sk/subjekt/11267496",
+            "title": "Ihar Herasimchyk - finančný prehľad | FinReg.sk - finančný ...",
+            "snippet": "Nov 6, 2026 · Ihar Herasimchyk (DIČ 11267496). Zisk, tržby, dlhy a daňové údaje. | FinReg.sk - finančný register"
+          },
+          {
+            "url": "https://en.firmy.cz/company/14104132-ekodav-safety-praha-strasnice.html",
+            "title": "EKODAV SAFETY (Praha, Strašnice) • Firmy.cz",
+            "snippet": "Up-to-date verified information: address, phone and e-mail EKODAV SAFETY, Praha, Strašnice. Phone: 607 112 …"
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "title": "Poptávky a zakázky | ePoptávka.cz",
+            "snippet": "Hledáte toho nejvhodnějšího řemeslníka, dodavatele anebo firmu ve vaší lokalitě? Díky největšímu poptávkovému systému nebude mít nouzi o zakázky a to, ať jste zedník, stavař, podnikatel anebo státní firma."
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "title": "Databáze poptávek",
+            "snippet": "Poslední zadané poptávky Poptávám: topenářské služby na instalaci radiátoru před 5 minutami Karlovarský kraj Stavebnictví Firma Praha zadáno 16 poptávek"
+          },
+          {
+            "url": "https://apsystem.cz/",
+            "title": "APsystem - Home - Specialista nejen na bytové domy",
+            "snippet": "Zajišťujeme služby pro bytové domy. Řešíme kamerové systémy, zvonkové systémy, přístupové systémy, LED osvětlení, Kabelové trasy, úklidové práce, telekomunikace, elektronické zabezpečovací systémy a rekonstrukce elektroinstalací."
+          },
+          {
+            "url": "https://www.indus-czech.cz/",
+            "title": "Bezpečnostní agentura INDUS | Ostraha a ochrana od 1993",
+            "snippet": "Bezpečnostní agentura INDUS chrání objekty a osoby od roku 1993. Fyzická ostraha, recepce, pult centralizované ochrany, úklid a poradenství po celé ČR."
+          }
+        ],
+        "errors": [
+          "DDGSException: No results found.",
+          "DDGSException: No results found."
+        ],
+        "state": "AMBIGUOUS",
+        "website": "",
+        "examined": [
+          {
+            "url": "https://www.podnikani.cz/30265495/qus-group-sro/",
+            "result": "ambiguous",
+            "evidence": []
+          },
+          {
+            "url": "https://www.lawinsider.com/cs/contracts/l4Ib59AN46b",
+            "result": "ambiguous",
+            "evidence": [
+              "Matching Prague street address on website",
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sudeste/hc-ufmg/ensino-e-pesquisa/novo-unidade-de-gestao-da-inovacao-tecnologica/nats-nucleo-de-avaliacao-de-tecnologia-de-saude/biblioteca-nats/notas-tecnicas-nats-2026-4/nt024_ugits_hcufmg_cft_rituximabe-em-llc_e_ahai_20260224.pdf/@@download/file",
+            "result": "unreachable",
+            "reason": "ConnectionError"
+          },
+          {
+            "url": "https://www.finreg.sk/subjekt/11267496",
+            "result": "unreachable",
+            "reason": "HTTP_403"
+          },
+          {
+            "url": "https://www.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://poptavky.epoptavka.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://apsystem.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          },
+          {
+            "url": "https://www.indus-czech.cz/",
+            "result": "ambiguous",
+            "evidence": [
+              "Prague mentioned on website"
+            ]
+          }
+        ],
+        "no_website_proven": false
+      },
+      "registry": {
+        "state": "registry_found",
+        "ico": "30265495",
+        "legal_name": "QUS&GROUP s.r.o.",
+        "registered_at": "2026-11-12",
+        "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265495",
+        "decision_maker": {
+          "name": "ESZTER HORVÁTH",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265495",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "contact_verified": false,
+        "statutory_members": [
+          {
+            "name": "ESZTER HORVÁTH",
+            "role": "Jednatel",
+            "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265495",
+            "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+          }
+        ]
+      },
+      "audit": {
+        "state": "not_run",
+        "reason": "No independently verified company website"
+      },
+      "buying_signals": [
+        {
+          "claim": "Registered in the previous 24 months (ARES)",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265495",
+          "date": "2026-11-12",
+          "evidence_type": "verified_registry"
+        }
+      ],
+      "dossier": {
+        "title": "QUS&GROUP s.r.o. — research dossier",
+        "facts": [
+          "The business is listed at Korunní 2569, Praha, 10100.",
+          "Independent searches did not verify a standalone business website. This is NOT proof no website exists.",
+          "ARES confirms registration for IČO 30265495 dated 2026-11-12."
+        ],
+        "offer": "B2B website with project references and enquiry workflow",
+        "outreach_angle": "Confirm current official website and booking channel with the business before proposing a website.",
+        "observed_issues": [],
+        "buying_signals": [
+          {
+            "claim": "Registered in the previous 24 months (ARES)",
+            "url": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265495",
+            "date": "2026-11-12",
+            "evidence_type": "verified_registry"
+          }
+        ],
+        "sources": [
+          "https://csu.gov.cz/registr-ekonomickych-subjektu-otevrena-data-dokumentace",
+          "https://ares.gov.cz/ekonomicke-subjekty?ico=30265495"
+        ],
+        "estimated_deal_czk": [
+          30000,
+          100000
+        ],
+        "decision_maker": {
+          "name": "ESZTER HORVÁTH",
+          "role": "Jednatel",
+          "source": "https://ares.gov.cz/ekonomicke-subjekty?ico=30265495",
+          "verified_scope": "Public statutory member; marketing purchasing authority unverified"
+        },
+        "decision_maker_status": "Unverified — registry official-director identification not automated",
+        "confidence": "preliminary",
+        "limitations": [
+          "No search can conclusively prove a business has no website.",
+          "Buyer interest, project budget and decision-maker authority are not yet verified.",
+          "Screenshots and DOM observations are not a human/AI aesthetic design review."
+        ]
+      },
+      "candidate_search_sources": [
+        "https://rejstrik-firem.kurzy.cz/30265495/qus-group-sro/",
+        "https://www.podnikani.cz/30265495/qus-group-sro/",
+        "https://rejstrik-firem.kurzy.cz/30265495/qus-group-sro/zivnosti/",
+        "https://www.lawinsider.com/cs/contracts/l4Ib59AN46b",
+        "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sudeste/hc-ufmg/ensino-e-pesquisa/novo-unidade-de-gestao-da-inovacao-tecnologica/nats-nucleo-de-avaliacao-de-tecnologia-de-saude/biblioteca-nats/notas-tecnicas-nats-2026-4/nt024_ugits_hcufmg_cft_rituximabe-em-llc_e_ahai_20260224.pdf/@@download/file",
+        "https://www.finreg.sk/subjekt/11267496",
+        "https://en.firmy.cz/company/14104132-ekodav-safety-praha-strasnice.html"
       ],
       "website_need_verified": false,
       "contact_method": "public_listing_not_owner_verified",
